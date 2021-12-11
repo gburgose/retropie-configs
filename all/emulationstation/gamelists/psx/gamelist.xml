@@ -2,32 +2,524 @@
 <gameList>
 	<game>
 		<path>./Alundra [Psx][Ntsc][Español][Mega][Epsxe].cue</path>
-		<name>Alundra [Psx][Ntsc][Español][Mega][Epsxe]</name>
-		<playcount>1</playcount>
-		<lastplayed>20211211T133758</lastplayed>
+		<name>Alundra</name>
+		<desc>Between the worlds of light and dark lies the world of dram. A world where the rule of reason loosens its grip. A place where an insidious evil is stealing minds and blackening the hearts of those from the world of light. Grab a weapon and become the dreamwalker Alundra as he struggles to purge the evil Id of an ancient world before it falls to ash.
+
+Explore dungeons, find monster butt as you weave between tense reality and nightmarish dreams to save the hapless masses. With a wide cast of characters and scores of challenging puzzles created by the people responsible for Landstalker on the Genesis. Alundra will rob you of precious sleep until you finish.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Alundra [Psx][Ntsc][Español][Mega][Epsxe]-image.jpg</image>
+		<releasedate>19971231T000000</releasedate>
+		<developer>Matrix Software</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
 	</game>
 	<game>
 		<path>./Batman &amp; Robin [NTSC-U] [SLUS-00393].cue</path>
-		<name>Batman &amp; Robin [NTSC-U] [SLUS-00393]</name>
-		<playcount>1</playcount>
-		<lastplayed>20211211T133808</lastplayed>
+		<name>Batman &amp; Robin</name>
+		<desc>72 Hours until Mr. Freeze turns Gotham City into a giant popsicle. You are the only thing standing between millions of innocent people and their icy doom. Your detective skills are about to be pushed to the edge as you drive, sleuth and fight your way to their salvation. Step into the boots of Batman, Robin or Batgirl and prepare yourself for battle with Mr. Freeze, Poison Ivy and Bane in this non-linear third-person adventure of a lifetime!
+
+Features:
+
+- Over 20 hand-to-hand fighting moves unique to each player, such as Batman's 2-Hand Hammer Punch and Robin's Running Superkick
+- Over 20 all-new aggressive projectile gadgets, missiles and blades
+- True non-linear gameplay that results in a different game every time you play!
+- Race through the streets of Gotham City in 6 all-new vehicles including the Batmobile, Robin's Redbird, and the Bathammer.
+- Use the Batcave's state-of-the-art Batcomputer to decipher clues and cross-reference with Gotham City's Police Criminal Files</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Batman &amp; Robin [NTSC-U] [SLUS-00393]-image.png</image>
+		<releasedate>19980731T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Action, Adventure</genre>
 	</game>
 	<game>
 		<path>./Bishi Bashi Special (Europe).cue</path>
-		<name>Bishi Bashi Special (Europe)</name>
-		<playcount>1</playcount>
-		<lastplayed>20211211T133849</lastplayed>
+		<name>Bishi Bashi Special</name>
+		<desc>Nippon shenanigans to twist your melon!
+
+85 games jam-packed onto one bumper party disc...and every one of them as mad as a fish. The world of Bishi Bashi Special awaits. Are you up for the challenge?</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Bishi Bashi Special (Europe)-image.jpg</image>
+		<releasedate>20000707T000000</releasedate>
+		<developer>Konami Computer Entertainment Sapporo Co., Ltd</developer>
+		<publisher>Konami</publisher>
+		<genre>Puzzle, Party</genre>
+		<players>3</players>
 	</game>
 	<game>
 		<path>./Bomberman Party Edition [NTSC-U] [SLUS-01189].cue</path>
-		<name>Bomberman Party Edition [NTSC-U] [SLUS-01189]</name>
-		<playcount>1</playcount>
-		<lastplayed>20211211T124935</lastplayed>
+		<name>Bomberman Party Edition</name>
+		<desc>Bomberman returns to PlayStation for a bargain hurrah with Bomberman: Party Edition. This version of the seminal multiplayer game keeps it simple and classic. The game features 2D backdrops, bombs, players, and that's about it. Grab this game, a multi-tap, and some friends, and bomb away like the halcyon days of yore. You'll travel through the familiar grid-like levels, nabbing power-ups as you try and obliterate the competition.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Bomberman Party Edition [NTSC-U] [SLUS-01189]-image.jpg</image>
+		<releasedate>20000919T000000</releasedate>
+		<developer>Metro</developer>
+		<publisher>Vatical Entertainment LLC</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Captain Tsubasa [JP][NTSC].cue</path>
+		<name>Captain Tsubasa J: Get In The Tomorrow</name>
+		<desc>This game was released only in Japan.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Captain Tsubasa [JP][NTSC]-image.jpg</image>
+		<releasedate>19950503T000000</releasedate>
+		<developer>Bandai Co., Ltd.</developer>
+		<publisher>Bandai Co., Ltd.</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Castlevania Symphony of the Night.cue</path>
+		<name>Castlevania: Symphony of the Night</name>
+		<desc>Five years ago, Richter Belmont, the latest in the Belmont lineage and the one destined to be a Vampire Hunter, defeated Dracula in a brutal battle which nearly cost him the love of his life, Annette, and her sister, Maria. Now, Richter has suddenly vanished, CastleVania has mysteriously reappeared, and Maria, now a young woman, sets off to find Richter. Alucard, the son of Dracula, is awakened from his eternal slumber after this large shift in power, and enters into Castlevania to find some answers and perhaps destroy the castle once again.
+
+Symphony of the Night is a direct sequel to Dracula X: Rondo of Blood. The game is set in a castle which you can explore freely with many different paths, although often items in certain areas need to be found that will allow passage to others. The action-based gameplay incorporates now strong RPG elements. The hero receives experience points for defeating enemies, gains levels and becomes more powerful. There is also money to be found in the game, and various accessories to buy. In a separate screen, players need to equip attack weapons, shields and other items. Magic plays an important role, as well as secondary weapons and a large amount of "special moves" that are executed similar to advanced one-on-one fighting games.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Castlevania Symphony of the Night-image.jpg</image>
+		<releasedate>19971002T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Adventure</genre>
+	</game>
+	<game>
+		<path>./Contra - Legacy of War.cue</path>
+		<name>Contra: Legacy of War</name>
+		<desc>Aliens have infested the earth once more, and all is lost unless you step into the fray and take action against these otherworldly inhabitants. Contra: Legacy of War is a continuation of the long-running saga that started back on the Nintendo Entertainment System where a lone solider, with the choice of a partner (two-player mode) is faced with the pending threat of a total world domination by galactic creatures. You must battle your way level through hellish level in order to reach the final confrontation with the supreme entity. You wont be unprepared, however. There are numerous weapons and power-ups at your disposal, so, choose wisely soldier, the world is counting on you.
+
+Blast through six levels of running, jumping, and shooting action. Along the way, use classic CONTRA weapons like the spread gun, and few new ones, like the powerful flame-thrower and homing rounds.
+
+CONTRA gets a new look with 3D environments and character models. To make the action pop out of the screen, put on the special glasses included in the package and play in the 3D mode.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Contra - Legacy of War-image.jpg</image>
+		<releasedate>19961129T000000</releasedate>
+		<developer>Appaloosa Interactive</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Diablo [USA].cue</path>
+		<name>Diablo</name>
+		<desc>Set in the fictional Kingdom of Khanduras, located in the world of Sanctuary, Diablo has the player take control of a lone hero battling to rid the world of Diablo, the Lord of Terror. Beneath the town of Tristram, the player journeys through sixteen dungeon levels, ultimately entering Hell itself in order to face Diablo.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Diablo [USA]-image.jpg</image>
+		<releasedate>19980331T000000</releasedate>
+		<developer>Blizzard</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Doom [NTSC-U] [SLUS-00077].cue</path>
+		<name>Doom</name>
+		<desc>All Hell's Breaking Loose!
+This is it! The gaming addiction that's been played by an estimated 10 million fanatics on the PC. And now it's out in a sweat-soaked, pulse-pounding, adrenaline-wrenching version for the PlayStation game console.
+It's DOOM. The Custom PlayStation Edition. Enhanced to take full advantage of the PlayStation's cutting-edge technology. With over 50 levels of madness and mayhem from ULTIMATE DOOM and DOOM II. Plus unique, new levels of destruction that make all hell break loose on your screen!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Doom [NTSC-U] [SLUS-00077]-image.jpg</image>
+		<releasedate>19951116T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Williams Electronic Games, Inc.</publisher>
+		<genre>Action, Shooter, Horror</genre>
+	</game>
+	<game>
+		<path>./Einhander.cue</path>
+		<name>Einhander</name>
+		<desc>In 2192, a new city, Selene, is built on the moon. Over the years, Selene grows larger, more powerful, and more independent of the Earth - to the point that the moon and Earth battle in a war that winds down without a definite victory for either side. In 2242, war breaks out again - the Earth slowly begins to win... except for the efforts of an experimental Selene technology known as Einhänders: flying machines with a "hand" that allows them to change weaponry mid-battle.
+
+On December 12, 2245, Selene sends down 3 Einhänders in a last attempt to turn the tide of the war. You get to choose the craft to pilot, and it's up to you to battle your way through the Earth's monstrous defenses and win the battle.
+
+The game is a traditional side-scrolling shooter, with rendered 3D backgrounds and enemies. The atmosphere of the game is very "industrial", down to the German industrial music playing in the background (think Einsturzende Neubauten mixed with Lords of Acid). The weapon-switching and claiming is an integral part of the game, as weapons have limited shots. This forces a bit more strategy than the usual button-mashing shooters inspire.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Einhander-image.jpg</image>
+		<releasedate>19980505T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./FIFA - Road to World Cup 98 (USA).cue</path>
+		<name>FIFA - Road To World Cup 98 (Platinum)</name>
+		<image>~/.emulationstation/downloaded_images/psx/FIFA - Road to World Cup 98 (USA)-image.jpg</image>
+		<releasedate>19990101T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>EA Games</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./FIFA 2000 - Major League Soccer (USA).cue</path>
+		<name>FIFA 2000</name>
+		<desc>This version of the FIFA series contained over 40 "classic" teams, so that gamers could play as retired football legends.
+
+It marked the introduction of Major League Soccer, replacing the fictitious "American" league previously included, as well as national leagues from Denmark, Greece, Israel, Norway and Turkey (though Galatasaray S.K. is not present in the game).
+
+The game features over 40 national sides, fully integrated seasons, set piece selections, increased physical contact, new facial animations, shielding ability and tougher tackling.
+
+The game received mixed reviews due to its cartoonish graphic engine and shallow gameplay, a brand new engine was implemented in an attempt to give more "emotion" to the 3d player models. The game was generally considered to be much inferior than its rival.
+
+The opening video for FIFA 2000 features Sol Campbell performing motion capture duties for the game, then having his likeness computer-generated to play against a retro side from 1994 - the year of the inauguration of FIFA. The game also included Port Vale, the club supported by Williams, in the "Rest of the World" section (they were in Football League 1 at the time, and while the concept of post-season promotion and relegation was introduced in this edition, teams from lower league tiers were only selectable starting with FIFA 2004).</desc>
+		<image>~/.emulationstation/downloaded_images/psx/FIFA 2000 - Major League Soccer (USA)-image.jpg</image>
+		<releasedate>19991026T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./FIFA 2001 (USA).cue</path>
+		<name>FIFA 2001</name>
+		<desc>FIFA 2001 aims to immerse its fans with the most realistic football experience possible. Over 50 international teams, including England, France, Germany, Holland, Spain, and the United States have made the cut, while 17 of the planet's top leagues have been incorporated as well. New motion captured moves from Matthaus, Mendieta, Scholes, and other soccer legends support the game's realism, with animated linesman and authentic light sourcing add that much more to the presentation. Perhaps the most important features, though, are the advanced sets of artificial intelligence, in-game cinematic cutscenes, and a ton of game modes that have been specially built for tournaments from around the world.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/FIFA 2001 (USA)-image.jpg</image>
+		<releasedate>20001030T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./FIFA 99 (USA).cue</path>
+		<name>FIFA 99</name>
+		<desc>This was the third FIFA title in a little over a year. It incorporates 42 national sides, as well as 250 club teams from 12 different leagues, to play a complete true-to-life season, the preset Super League, or a league or cup of your own design. Formations and tactics can be set, and players can be moved between teams. 
+
+Gameplay can be viewed from multiple angles. Players have more animation than ever before, with new moves including sliding challenges and close-control trapping. Goalkeepers now have a level of human control.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/FIFA 99 (USA)-image.jpg</image>
+		<releasedate>19981201T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./FIFA Soccer 2003 (USA).cue</path>
+		<name>FIFA Soccer 2003</name>
+		<desc>FIFA 2003 continues the trend of improving each year's new release by keeping the formula that worked, while also adding new features to make the game more enjoyable.
+
+Some of these new features including a "Freestyle" control, which is activated by the right thumbstick, causing you to do special moves, such as a deke, or kick the ball a fair length forwards to gain some speed.
+
+New and improved "dead ball" control makes corner kicks, free kicks, etc. more controllable and gives you more options. The passing game has been improved as to allow better passing by kicking directly to a teammate, passing to nowhere in particular, or open passing to allow anybody to take it.
+
+FIFA 2003 includes all FIFA clubs, leagues, and players.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/FIFA Soccer 2003 (USA)-image.jpg</image>
+		<releasedate>20021114T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>8</players>
+	</game>
+	<game>
+		<path>./FIFA Soccer 2004 (USA) (En,Es).cue</path>
+		<name>FIFA Soccer 2004</name>
+		<desc>FIFA Soccer 2004 continues EA Sports' best-selling franchise with a new control scheme and an in-depth Career Mode. Once again, players are treated to a comprehensive lineup of teams and players, with over 500 official licenses that include Major League Soccer as well as the top teams from Europe and South America.
+
+The stars will compete within a number of authentic stadiums, with the atmosphere further heightened by a number of additional crowd chants over previous titles in the series. A feature referred to as "Off the Ball Control" lets players guide those apart from whoever is in possession of the ball, helping to create scoring opportunities by running to different parts of the field, calling in tackles, and more. Individual plays, strategies, and formations can also be adjusted on the fly.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/FIFA Soccer 2004 (USA) (En,Es)-image.jpg</image>
+		<releasedate>20031104T000000</releasedate>
+		<developer>EA Canada</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./FIFA Soccer 96 (USA).cue</path>
+		<name>FIFA Soccer 96</name>
+		<desc>Phenomenal Graphics. Breathtaking Gameplay.
+
+The Future of Sports Gaming is Here!
+
+FIFA Soccer takes you onto the field and into the action. Devastate your opponent with mind-boggling fakes, blistering breakaways, and precision passing. Perfect those heart-stopping one-timers and game-clenching penalty kicks. It doesn't get any better then this.
+
+# Thousand of SGI - rendered player animations
+# Unlimited camera angles
+# The voice of soccer, John Motson, calls the action
+# CD-quality sound effects encoded in Dolby Surround Sound
+# Full save capabilities</desc>
+		<image>~/.emulationstation/downloaded_images/psx/FIFA Soccer 96 (USA)-image.jpg</image>
+		<releasedate>19951101T000000</releasedate>
+		<developer>Extended Play Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./FIFA Soccer 97 (USA).cue</path>
+		<name>FIFA Soccer 97</name>
+		<desc>FIFA '97 creates the most realistic soccer experience possible. Over 4,200 players with current statistics from 12 international leagues are included. While you play, international soccer commentators John Motson, Des Lynam, and Andy Gray provide play-by-play and color commentary. All of the players on the field are realistic as well, thanks to new Motion Blending technology, a combination of motion capture technology and rendering tools that allows the players to look more natural and have fluid movements. Multi-colored goalie jerseys and numbers embossed on the back of the uniforms are only a couple of graphical touches that heighten the true to life nature of the game. All of the realism of FIFA '97 will have you reaching for your soccer cleats.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/FIFA Soccer 97 (USA)-image.jpg</image>
+		<releasedate>19961130T000000</releasedate>
+		<developer>EA Canada</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./FIFA World Cup 2002 [USA].cue</path>
+		<name>2002 FIFA World Cup</name>
+		<desc>World Cup 2002 is the official game of the 17th FIFA World Cup, held in Korea and Japan between May 31 and June 30. It is based on the engine of FIFA Soccer 2002, so experienced Fifa players can get used for it quite fast.
+
+It is based on the 2002 World Cup - Korea and Japan, and includes all of the countries who promoted to the World Cup, and a lot more. Small statistics are shown for every country - their last biggest win, appearances at the World Cup, etc.
+
+The stadium and all players are really detailed. The player's texture's resolution is so high, you can easily recognize most of them. The stadium is big and impressive, and full of colored crowd.
+
+As in FIFA Soccer 2002, animation were taken from real players, with motion sensors. Thus, some new animation were added - new sliding, falling, and more.
+
+And the newest feature of 2002 FIFA World Cup, is the air ball control model. You can take balls from the air, and have much more control with them - creating great goals from the air.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/FIFA World Cup 2002 [USA]-image.jpg</image>
+		<releasedate>20020430T000000</releasedate>
+		<developer>EA Canada</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VII [E].m3u</path>
+		<name>Final Fantasy VII</name>
+		<desc>Set in a dystopian world, Final Fantasy VII's story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game's main antagonist.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VII [E]-image.jpg</image>
+		<releasedate>19970907T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VIII [E].m3u</path>
+		<name>Final Fantasy VIII</name>
+		<desc>A member of an elite military team, Squall is forced into a conflict beyond imagination.  To survive, he must contend with a desperate rival, a powerful sorceress, and his own mysterious dreams.
+
+* Realistic, detailed characters and background graphics enhanced by a breathtaking musical score
+* An epic story based on the theme of love, set in a massive new world
+* New Junction System allows characters to be customized with powerful magic spells drawn from enemies
+* Nearly an hour of stunning motion-captured CG cinemas seamlessly integrated into gameplay</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VIII [E]-image.jpg</image>
+		<releasedate>19990211T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Herc's Adventures.cue</path>
+		<name>Herc's Adventures</name>
+		<desc>Ahhh...ancient Greece. A fertile land, full of wine, women, and some of the best gyros you'll ever taste. Thanks to Persephone, the Greek goddess of spring and fertility, Greece is a wonderful paradise. But now the lord of the Underworld, Hades, has gone and kidnapped Persephone, causing the land to slowly wither away! Zeus, the King of the Gods, needs help in saving her, so who do you call? None other than three of the greatest warriors in the land!
+
+You can choose from the big 'n' buff Herc, the super swift Atlanta, or the young and street-smart Jason, each of whom have their own weapons and strengths. The game's 40 levels include many further variations and pastiches of Greek mythology and legend.
+
+It's all up to you to rescue Persephone and give Hades a beatdown he'll never forget!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Herc's Adventures-image.jpg</image>
+		<releasedate>19970731T000000</releasedate>
+		<developer>Big Ape Productions, LucasArts Entertainment Company LLC</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Marvel Super Heroes Vs Street Fighter [SLUS-00793].cue</path>
+		<name>Marvel Super Heroes vs. Street Fighter</name>
+		<desc>Marvel Super Heroes Vs. Street Fighter is a 2D fighting game and the first to combine characters from Capcom's Street Fighter series with those of the Marvel comic universe. It is also the first in Capcom's games to introduce a tag team style of combat where the player can call for another character during a fight.
+
+Matches consists of two-on-two battles where the player can only control one character at a time. The other character can be called in regularly or while doing an attack. The off-screen one also regains some health while waiting. Both opposing characters need to be defeated to win the match, and when one dies the other is called in automatically. The tag team options introduces Variable Attack, Variable Counter and Variable Combination where the two characters team up to attack, counter of perform a special move.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Marvel Super Heroes Vs Street Fighter [SLUS-00793]-image.jpg</image>
+		<releasedate>19990223T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mega Man X5 (USA).cue</path>
+		<name>Mega Man X5</name>
+		<desc>The year is 21XX and the chaos of the Reploid Wars has passed. Lunar colonization is at its peak. The largest colony, Eurasia, is unexpectedly taken over by an unknown band of galactic terrorists. Its artificial gravity device has been hacked and Eurasia is now on a collision course with Earth. The only way to stop it is to deploy an ancient beam cannon, Codename: Enigma. Join Mega Man X and his pal, Zero as they race against time to collect the necessary parts to restart Enigma, prevent total annihilation and save life on Earth!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Mega Man X5 (USA)-image.jpg</image>
+		<releasedate>20010131T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Need for Speed Porsche Unleashed [E].cue</path>
+		<name>Need for Speed: Porsche Unleashed</name>
+		<desc>Need for Speed is back with more! Drive over 80 different Porsches, from the first 356 Ferdinand to the 2000 911 Turbo over multiple tracks. Some tracks have alternate paths. Others are rally tracks where you go from one end of the track to the other instead of doing circuit racing. 
+
+Two completely different single-player modes available. First, there's factory driver, which have you join Porsche as a test driver. As you complete different challenges, which can vary from doing specific manoeuvres in pre-alloted time to racing fellow drivers, you will make your way up to Ace Test Driver. Second, there's Evolution, which is the "career mode", you start with enough money to buy one 356, and start racing. As you win races, time will pass, new cars will become available, or you can peruse the used car market. Buy/repair/sell cars, win races, buy enhancement parts for your car, and make your way to the end of the modern era...
+
+You can also play online via EARacing.com, where you can pick customized cars in your Evolution stable or choose stock cars and race up to 7 other cars simultaneously. 
+
+The graphics have been enhanced and the physics model changed to reflect a true 4-point system, and you can feel the difference between the different vehicles.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Need for Speed Porsche Unleashed [E]-image.jpg</image>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Eden Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Oddworld Abe S Oddysee [NTSC-U] [SLUS-00190].cue</path>
+		<name>Oddworld: Abe's Exoddus</name>
+		<desc>Oddworld: Abe's Exoddus is a 2D platform game very similar to its predecessor both visually and gameplay-wise. Like in the previous game, Abe has to outsmart his foes and avoid obstacles rather than confront them directly. The game is larger than its predecessor and is more oriented towards puzzle-solving, featuring more complex interaction with the Mudokons, who can now be angry, wired, depressed, sick, or blind. The first three problematic conditions can be removed with the appropriate "Gamespeak" command; sick Mudokons must be cured with a special item, while blind ones will follow Abe's voice and may fall to their deaths if Abe doesn't stop them in time.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Oddworld Abe S Oddysee [NTSC-U] [SLUS-00190]-image.jpg</image>
+		<releasedate>19981031T000000</releasedate>
+		<developer>Oddworld Inhabitants</developer>
+		<publisher>GT Interactive Software Corp.</publisher>
+		<genre>Puzzle, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./R-type.cue</path>
+		<name>R-Type Delta</name>
+		<desc>R-Type Delta is a horizontally scrolling shooter video game. Released only on the PlayStation, this is the fourth game in the R-Type series (hence Delta, the fourth letter of the Greek alphabet), and also the first game offering different fighters, with different Force and Wave Cannon combinations for the player to choose from. Set in 2164, Delta is also the first game in the R-Type series rendered in full 3D graphics.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/R-type-image.jpg</image>
+		<releasedate>19990731T000000</releasedate>
+		<developer>Irem Corp.</developer>
+		<publisher>ASCII Entertainment Software, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Rayman 2 the Great Escape (U) [SLUS-01235].cue</path>
+		<name>Rayman 2: The Great Escape</name>
+		<desc>Rayman 2: The Great Escape is the sequel to Rayman, a 2D side-scrolling platform game. Unlike the previous game, Rayman 2 is entirely in free-roaming 3D environments, similar to Super Mario 64. Rayman has many unique abilities that can help him get around the world. In addition to being able to shoot his fists, he can use his hair to hover like a helicopter, and even glide on air currents in certain places. He can climb certain walls and ceilings and can even use his fists to swing from special purple Lums which are shaped like rings. Rayman also has many unique items at his disposal, such as powder kegs which can be carried or fly like jets, strange warheads with legs that he can ride and steer like bucking mules, and gigantic plums that can be thrown into the water to create new paths.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Rayman 2 the Great Escape (U) [SLUS-01235]-image.jpg</image>
+		<releasedate>20000915T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Resident Evil - Survivor (USA).cue</path>
+		<name>Resident Evil: Survivor</name>
+		<desc>First there was Raccoon City…but unknown to the rest of the world, another town is also mutating into a chaotic nightmare from the deadly T-Virus. Attempting to flee the carnage, a solitary helicopter loses control and crash lands in the heart of the chaos. As one lone survivor comes to, the sound of screaming and other monstrous sounds surround him. Dazed and unsure where he is or why he is there, he embarks on a nightmarish adventure where cunning and quick reflexes are the key to survival.
+
+Experience Resident Evil in first-person perspective
+The only game of its kind! Full, free movement – no predestined track
+Surprise elements and hidden secrets entwine with the Resident Evil storyline</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Resident Evil - Survivor (USA)-image.jpg</image>
+		<releasedate>20000830T000000</releasedate>
+		<developer>Tose</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+	</game>
+	<game>
+		<path>./Resident Evil 3 - Nemesis (USA).cue</path>
+		<name>Resident Evil 3: Nemesis</name>
+		<desc>Join Jill Valentine, the heroine and amazing survivor of the notorious disaster at the mansion, as her nightmare continues. After resigning from S.T.A.R.S. Jill now prepares to head out of Raccoon City...but it's not going to be easy. Caught in a town crawling with flesh eating zombies, more than ever she must rely on brute force and cunning to find a way to escape alive. This unique adventure intricately reveals more of Umbrella Corporation's nightmarish plot and picks up just hours before the events from Resident Evil 2.
+
+More zombies, more terror, and even more evil.
+More challenging enemies that come back to life at any time.
+Face off against the most terrifying mutations stalking the streets of Raccoon City.
+More detailed character actions: Try the dodge move to avoid an enemy's attack.
+Interact with the environment like never before: Use background objects defensively.
+A unique new drama which reveals more details of Umbrella Corporation's devious activities from the Resident Evil series.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Resident Evil 3 - Nemesis (USA)-image.jpg</image>
+		<releasedate>19991112T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter, Horror</genre>
+	</game>
+	<game>
+		<path>./Silent Hill (E) [SLES-01514].cue</path>
+		<name>Silent Hill</name>
+		<desc>Silent Hill is a 1999 survival horror video game for the PlayStation. The first in a series about a mysterious town of the same name, Silent Hill generated a direct sequel, three indirect sequels, a prequel and a film adaptation. The game was included in Sony's Greatest Hits and Platinum Range of budget titles as a result of strong sales. A reinterpretation of the game was developed for the Wii, PlayStation 2 and PlayStation Portable.
+The plot focuses on Harry Mason as he searches for his daughter, Cheryl, who has disappeared following a car accident which left Harry unconscious. He finds Silent Hill to be largely abandoned, shrouded in a thick fog, snowing out of season, filled with monsters and being over taken by a hellish otherworld. As Harry scours the town, he begins learning about the history of Silent Hill and stumbles upon a cult ritual undertaken to bring a god to Earth.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Silent Hill (E) [SLES-01514]-image.jpg</image>
+		<releasedate>19990131T000000</releasedate>
+		<developer>Konami Computer Entertainment Tokyo, Team Silent</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Horror</genre>
+	</game>
+	<game>
+		<path>./Star Wars - Dark Forces.cue</path>
+		<name>Star Wars: Dark Forces</name>
+		<desc>Experience first-person firepower in the Star Wars universe
+
+Behind a veil of secrecy the evil Empire is creating a doomsday army-one that, if finished, will become the final cog in the Empire's arsenal of terror and domination.
+
+Join the Revel Alliance's covert operations division, infiltrate the Empire, then battle every man and machine the Imperial forces can muster. Search a vast galaxy for clues, attack enemy bases - all in a desperate attempt to stop the activation of this fearsome new weapon.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Star Wars - Dark Forces-image.jpg</image>
+		<releasedate>19951130T000000</releasedate>
+		<developer>LucasArts Entertainment Company LLC</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Star Wars - Episode I - Jedi Power Battles.cue</path>
+		<name>Star Wars Episode I: Jedi Power Battles</name>
+		<desc>Take back the Theed palace in fast and furious lightsaber assaults. You will have the power of the Force and your trusty Jedi saber as you ward off legions of battle droids, destroyer droids, assassins and other creatures from the Star Wars: Episode I worlds. Battle side-by-side with a companion in two-player sessions. Fight as Obi-Wan Kenobi, Gui-Gon Jinn or Jedi Council members Mace Windu, Plo Koon or Adi Gallia. Gain power boosts, new moves and enhanced abilities as you progress through the levels. Threats escalate on each level of the game-specialized droids with new weapons, native beasts and more.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Star Wars - Episode I - Jedi Power Battles-image.jpg</image>
+		<releasedate>20000331T000000</releasedate>
+		<developer>LucasArts Entertainment Company LLC</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Star Wars - Episode I - The Phantom Menace.cue</path>
+		<name>Star Wars: Episode I The Phantom Menace</name>
+		<desc>The taxation of trade routes to outlying systems is in dispute. The greedy Trade Federation has stopped all shipping to the small planet of Naboo with a blockage of deadly battleships. Take part in the events from the Star Wars: Episode I story - and beyond - while taking on the roles of Obi-Wan Kenobi, Qui-Gon Jinn, Queen Amidala and Captain Panaka.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Star Wars - Episode I - The Phantom Menace-image.png</image>
+		<releasedate>19990831T000000</releasedate>
+		<developer>Big Ape Productions</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Street Fighter Collection [Disc1of2] [SLUS-00423] [bin].cue</path>
+		<name>Street Fighter Collection</name>
+		<desc>Street Fighter Collection is a 1997 fighting game compilation released for the PlayStation and Sega Saturn. It collects the original Super Street Fighter II and its follow-up Super Street Fighter II Turbo, along with an enhanced version of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this compilation.
+
+This compilation contains Super Street Fighter II and Super Street Fighter II Turbo (known in Japan as Super Street Fighter II X) in the first disc, with Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) in the second disc.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Street Fighter Collection [Disc1of2] [SLUS-00423] [bin]-image.jpg</image>
+		<releasedate>19971216T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Street Fighter EX2 Plus [SLUS-01105] [bin].cue</path>
+		<name>Street Fighter EX2 Plus</name>
+		<desc>Conquering the World of 3-D Fighters!
+
+Capcom’s all-time, leading fighting flagship series once again goes 3-D with Street Fighter EX 2 Plus, the sequel to the top-selling Street Fighter EX Plus for the PlayStation game console. Loaded with new enhancements, modes of play and an expanded cast of characters, Street Fighter EX 2 Plus delivers amazing 3-D graphics, lightning fast animation and Capcom’s signature gameplay. Play one-on-one with a buddy or create your own unique Street Fighter team using up to five fighters. Once you’ve perfected your moves, edit your replay data to create and star in your own movie.
+
+• The improved sequel to the best-selling, Street Fighter EX Plus
+• 3-D fighting action with amazing 3-D graphics, lightning fast animation and Capcom signature game mechanics
+• Loaded with new play features like the Excel Move, Meteor Combo Super Attack, Guard Break and the Super Cancel
+• 23 selectable characters from the Street Fighter universe
+• 7 Modes of gameplay – Arcade Mode, Versus Mode, Practice Mode, Training Mode, Trial Mode, Director Mode and Bonus Mode
+• Featured in the Capcom Edge frequent buyers program</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Street Fighter EX2 Plus [SLUS-01105] [bin]-image.jpg</image>
+		<releasedate>19991230T000000</releasedate>
+		<developer>Arika Co., Ltd.</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tenchu - Stealth Assassins (USA) (v1.1).cue</path>
+		<name>Tenchu: Stealth Assassins</name>
+		<desc>STEALTH ASSASSINS
+
+Prowl and strike with lethal precision as ninja assassins Rikimaru or Ayame in the shadowy world of feudal Japan. Armed with mystical weapons and sheer cunning, you must shed blood with discretion and move without detection. For only the unseen survive.
+
+Stealth Fighting Tactics
+Authentic Ninja Weapons
+Go-Anywhere 3-D Environment</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Tenchu - Stealth Assassins (USA) (v1.1)-image.jpg</image>
+		<releasedate>19980831T000000</releasedate>
+		<developer>ACQUIRE</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Adventure</genre>
+	</game>
+	<game>
+		<path>./Winning Eleven 2001 (Japan).cue</path>
+		<name>Goal Storm '97</name>
+		<desc>International Superstar Soccer Pro (also known as Winning Eleven '97 in Japan and Goal Storm '97 in USA) is a football simulation game released in June, 1997 by Konami Computer Entertainment Tokyo, Inc. It was the first from the ISS series to hit the Playstation platform. The game features a 32 international teams, 4 different stadiums, 13 team formations along with 8 unique strategies and a choice of Exhibition Mode, International League, International Cup and a Penalty Kick mode. It can be played as a one or two player game. It gained very high reviews which consider ISS Pro as the most playable soccer video game on Playstation of that time.
+
+The game was well-known for its comical commentary, voiced by Peter Brackley</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Winning Eleven 2001 (Japan)-image.jpg</image>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
 	</game>
 	<game>
 		<path>./X-Men Vs. Street Fighter [Psx][Ntsc][Ingles][Mega][Epsxe].cue</path>
-		<name>X-Men Vs. Street Fighter [Psx][Ntsc][Ingles][Mega][Epsxe]</name>
-		<playcount>1</playcount>
-		<lastplayed>20211211T134019</lastplayed>
+		<name>X-Men vs. Street Fighter</name>
+		<desc>X-Men vs. Street Fighter is a fighting game originally released as a coin-operated arcade game in 1996. It is Capcom's third fighting game to feature Marvel Comics characters and the first game to match them against their own, with characters from Marvel's X-Men franchise being matched against the cast from the Street Fighter series.
+
+It was the first game to blend a tag team style of combat with the Street Fighter gameplay, as well as incorporating elements from Capcom's previous Marvel-themed fighting games, X-Men: Children of the Atom and Marvel Super Heroes. It was ported to the Sega Saturn in 1997 and PlayStation in 1998. However, the tag team feature was omitted from the PlayStation version due to memory limitations.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/X-Men Vs. Street Fighter [Psx][Ntsc][Ingles][Mega][Epsxe]-image.jpg</image>
+		<releasedate>19980630T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
 	</game>
 </gameList>

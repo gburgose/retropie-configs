@@ -1,0 +1,19 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/gabriel/RetroPie/roms/saturn/Ultimate Mortal Kombat 3 (Saturn) (E) v2.000.CUE",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-yabause/yabause_libretro.so",
+      "core_name": "Yabause",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}
