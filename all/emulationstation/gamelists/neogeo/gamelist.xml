@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./K/kof2002.zip</path>
+		<name>The King of Fighters 2002 (NGM-2650)(NGH-2650)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T140830</lastplayed>
+	</game>
+	<game>
+		<path>./K/kof2003.zip</path>
+		<name>The King of Fighters 2003 (NGM-2710)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T140653</lastplayed>
+	</game>
+	<game>
+		<path>./L/lastblad.zip</path>
+		<name>The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T141030</lastplayed>
+	</game>
+	<game>
+		<path>./M/mslug.zip</path>
+		<name>Metal Slug - Super Vehicle-001</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T141404</lastplayed>
+	</game>
+	<game>
+		<path>./M/mslug3.zip</path>
+		<name>Metal Slug 3 (NGM-2560)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T141926</lastplayed>
+	</game>
+</gameList>

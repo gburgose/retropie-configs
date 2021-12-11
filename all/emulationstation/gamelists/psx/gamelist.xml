@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Alundra [Psx][Ntsc][Español][Mega][Epsxe].cue</path>
+		<name>Alundra [Psx][Ntsc][Español][Mega][Epsxe]</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T133758</lastplayed>
+	</game>
+	<game>
+		<path>./Batman &amp; Robin [NTSC-U] [SLUS-00393].cue</path>
+		<name>Batman &amp; Robin [NTSC-U] [SLUS-00393]</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T133808</lastplayed>
+	</game>
+	<game>
+		<path>./Bishi Bashi Special (Europe).cue</path>
+		<name>Bishi Bashi Special (Europe)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T133849</lastplayed>
+	</game>
+	<game>
+		<path>./Bomberman Party Edition [NTSC-U] [SLUS-01189].cue</path>
+		<name>Bomberman Party Edition [NTSC-U] [SLUS-01189]</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T124935</lastplayed>
+	</game>
+	<game>
+		<path>./X-Men Vs. Street Fighter [Psx][Ntsc][Ingles][Mega][Epsxe].cue</path>
+		<name>X-Men Vs. Street Fighter [Psx][Ntsc][Ingles][Mega][Epsxe]</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T134019</lastplayed>
+	</game>
+</gameList>

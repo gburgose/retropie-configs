@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./A/ABC Monday Night Football (U).smc</path>
+		<name>ABC Monday Night Football (U)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T111921</lastplayed>
+	</game>
+	<game>
+		<path>./A/ACME Animation Factory (U).smc</path>
+		<name>ACME Animation Factory (U)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T111928</lastplayed>
+	</game>
+	<game>
+		<path>./A/AD&amp;D - Eye of the Beholder (U) [!].smc</path>
+		<name>AD&amp;D - Eye of the Beholder (U) [!]</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T111933</lastplayed>
+	</game>
+	<game>
+		<path>./A/Adventures of Batman &amp; Robin, The (U).smc</path>
+		<name>Adventures of Batman &amp; Robin, The (U)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T112037</lastplayed>
+	</game>
+	<game>
+		<path>./A/Adventures of Dr. Franken, The (Europe) (En,Fr,De,Es,It,Nl,Sv).sfc</path>
+		<name>Adventures of Dr. Franken, The (Europe) (En,Fr,De,Es,It,Nl,Sv)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T112042</lastplayed>
+	</game>
+	<game>
+		<path>./A/A.S.P. Air Strike Patrol (U).smc</path>
+		<name>A.S.P. Air Strike Patrol (U)</name>
+		<playcount>2</playcount>
+		<lastplayed>20211211T121454</lastplayed>
+	</game>
+	<game>
+		<path>./T/Taz-Mania.sfc</path>
+		<name>Taz-Mania</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T131637</lastplayed>
+	</game>
+	<game>
+		<path>./T/ The Lion King/The Lion King.sfc</path>
+		<name>The Lion King</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T123002</lastplayed>
+	</game>
+	<game>
+		<path>./T/ The Lion King/Timon &amp; Pumbaa's Jungle Games.sfc</path>
+		<name>Timon &amp; Pumbaa's Jungle Games</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T123108</lastplayed>
+	</game>
+</gameList>

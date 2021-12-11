@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<buttonmap>
+    <device name="8Bitdo SN30 Pro" provider="linux" buttoncount="10" axiscount="8">
+        <configuration />
+        <controller id="game.controller.snes">
+            <feature name="a" button="1" />
+            <feature name="b" button="0" />
+            <feature name="down" axis="+7" />
+            <feature name="left" axis="-6" />
+            <feature name="leftbumper" button="8" />
+            <feature name="right" axis="+6" />
+            <feature name="rightbumper" button="9" />
+            <feature name="select" button="6" />
+            <feature name="start" button="7" />
+            <feature name="up" axis="-7" />
+            <feature name="x" button="3" />
+            <feature name="y" button="2" />
+        </controller>
+    </device>
+</buttonmap>

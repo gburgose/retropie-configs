@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./A/Ace Lightning.gba</path>
+		<name>Ace Lightning</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T112129</lastplayed>
+	</game>
+	<game>
+		<path>./A/Aladdin.gba</path>
+		<name>Aladdin</name>
+		<playcount>1</playcount>
+		<lastplayed>20211211T124855</lastplayed>
+	</game>
+</gameList>

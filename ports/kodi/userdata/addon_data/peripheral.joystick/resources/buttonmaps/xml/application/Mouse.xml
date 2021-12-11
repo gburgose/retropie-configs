@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<buttonmap>
+    <device name="Mouse" provider="application">
+        <controller id="game.controller.default">
+            <feature name="a" mouse="left" />
+        </controller>
+    </device>
+</buttonmap>

@@ -1,0 +1,426 @@
+﻿2021-12-11 14:24:26.501 T:131705    INFO <general>: -----------------------------------------------------------------------
+2021-12-11 14:24:26.501 T:131705    INFO <general>: Starting Kodi (19.3 (19.3.0) Git:20211024-49a04cd6a7). Platform: Linux x86 64-bit
+2021-12-11 14:24:26.501 T:131705    INFO <general>: Using Release Kodi x64
+2021-12-11 14:24:26.501 T:131705    INFO <general>: Kodi compiled 2021-10-24 by GCC 9.3.0 for Linux x86 64-bit version 5.4.143 (328847)
+2021-12-11 14:24:26.501 T:131705    INFO <general>: Running on Ubuntu 20.04.3 LTS, kernel: Linux x86 64-bit version 5.11.0-41-generic
+2021-12-11 14:24:26.502 T:131705    INFO <general>: FFmpeg version/source: 4.3.2-Kodi
+2021-12-11 14:24:26.502 T:131705    INFO <general>: Host CPU:        Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz, 4 cores available
+2021-12-11 14:24:26.502 T:131705    INFO <general>: special://xbmc/ is mapped to: /usr/share/kodi
+2021-12-11 14:24:26.502 T:131705    INFO <general>: special://xbmcbin/ is mapped to: /usr/lib/x86_64-linux-gnu/kodi
+2021-12-11 14:24:26.502 T:131705    INFO <general>: special://xbmcbinaddons/ is mapped to: /usr/lib/x86_64-linux-gnu/kodi/addons
+2021-12-11 14:24:26.502 T:131705    INFO <general>: special://masterprofile/ is mapped to: /home/gabriel/.kodi/userdata
+2021-12-11 14:24:26.502 T:131705    INFO <general>: special://envhome/ is mapped to: /home/gabriel
+2021-12-11 14:24:26.502 T:131705    INFO <general>: special://home/ is mapped to: /home/gabriel/.kodi
+2021-12-11 14:24:26.502 T:131705    INFO <general>: special://temp/ is mapped to: /home/gabriel/.kodi/temp
+2021-12-11 14:24:26.502 T:131705    INFO <general>: special://logpath/ is mapped to: /home/gabriel/.kodi/temp
+2021-12-11 14:24:26.502 T:131705    INFO <general>: The executable running is: /usr/lib/x86_64-linux-gnu/kodi/kodi.bin
+2021-12-11 14:24:26.502 T:131705    INFO <general>: Local hostname: gabriel-Macmini
+2021-12-11 14:24:26.502 T:131705    INFO <general>: Log File is located: /home/gabriel/.kodi/temp/kodi.log
+2021-12-11 14:24:26.502 T:131705    INFO <general>: -----------------------------------------------------------------------
+2021-12-11 14:24:26.502 T:131705    INFO <general>: loading settings
+2021-12-11 14:24:26.502 T:131705    INFO <general>: special://profile/ is mapped to: special://masterprofile/
+2021-12-11 14:24:26.502 T:131705   ERROR <general>: CSettings: unable to load settings from special://masterprofile/guisettings.xml, creating new default settings
+2021-12-11 14:24:26.528 T:131705    INFO <general>: No settings file to load (special://xbmc/system/advancedsettings.xml)
+2021-12-11 14:24:26.528 T:131705    INFO <general>: No settings file to load (special://masterprofile/advancedsettings.xml)
+2021-12-11 14:24:26.528 T:131705    INFO <general>: Default Video Player: VideoPlayer
+2021-12-11 14:24:26.528 T:131705    INFO <general>: Default Audio Player: paplayer
+2021-12-11 14:24:26.528 T:131705    INFO <general>: Disabled debug logging due to GUI setting. Level 0.
+2021-12-11 14:24:26.528 T:131705    INFO <general>: Log level changed to "INFO"
+2021-12-11 14:24:26.529 T:131705    INFO <general>: creating subdirectories
+2021-12-11 14:24:26.529 T:131705    INFO <general>: userdata folder: special://masterprofile/
+2021-12-11 14:24:26.529 T:131705    INFO <general>: recording folder: 
+2021-12-11 14:24:26.529 T:131705    INFO <general>: screenshots folder: 
+2021-12-11 14:24:26.694 T:131705    INFO <general>: creating version table
+2021-12-11 14:24:26.694 T:131705    INFO <general>: create addons table
+2021-12-11 14:24:26.695 T:131705    INFO <general>: create repo table
+2021-12-11 14:24:26.695 T:131705    INFO <general>: create addonlinkrepo table
+2021-12-11 14:24:26.695 T:131705    INFO <general>: create update_rules table
+2021-12-11 14:24:26.695 T:131705    INFO <general>: create package table
+2021-12-11 14:24:26.695 T:131705    INFO <general>: create installed table
+2021-12-11 14:24:26.696 T:131705    INFO <general>: CreateAnalytics creating indices
+2021-12-11 14:24:26.976 T:131705    INFO <general>: CAddonMgr::FindAddons: audioencoder.kodi.builtin.aac v1.0.2 installed
+2021-12-11 14:24:26.976 T:131705    INFO <general>: CAddonMgr::FindAddons: audioencoder.kodi.builtin.wma v1.0.2 installed
+2021-12-11 14:24:26.977 T:131705    INFO <general>: CAddonMgr::FindAddons: game.controller.default v1.0.15 installed
+2021-12-11 14:24:26.977 T:131705    INFO <general>: CAddonMgr::FindAddons: game.controller.snes v1.0.14 installed
+2021-12-11 14:24:26.977 T:131705    INFO <general>: CAddonMgr::FindAddons: inputstream.adaptive v19.0.1 installed
+2021-12-11 14:24:26.977 T:131705    INFO <general>: CAddonMgr::FindAddons: inputstream.rtmp v19.0.0 installed
+2021-12-11 14:24:26.977 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.global.audioengine v1.1.1 installed
+2021-12-11 14:24:26.977 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.global.filesystem v1.1.6 installed
+2021-12-11 14:24:26.977 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.global.general v1.0.5 installed
+2021-12-11 14:24:26.978 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.global.gui v5.15.0 installed
+2021-12-11 14:24:26.978 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.global.main v1.3.0 installed
+2021-12-11 14:24:26.978 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.global.network v1.0.4 installed
+2021-12-11 14:24:26.978 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.global.tools v1.0.4 installed
+2021-12-11 14:24:26.978 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.audiodecoder v3.0.0 installed
+2021-12-11 14:24:26.978 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.audioencoder v2.1.0 installed
+2021-12-11 14:24:26.978 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.game v2.1.0 installed
+2021-12-11 14:24:26.979 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.imagedecoder v2.1.1 installed
+2021-12-11 14:24:26.979 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.inputstream v3.0.1 installed
+2021-12-11 14:24:26.979 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.peripheral v2.0.0 installed
+2021-12-11 14:24:26.979 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.pvr v7.1.0 installed
+2021-12-11 14:24:26.979 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.screensaver v2.1.0 installed
+2021-12-11 14:24:26.979 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.vfs v3.0.0 installed
+2021-12-11 14:24:26.979 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.videocodec v2.0.2 installed
+2021-12-11 14:24:26.980 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.binary.instance.visualization v3.0.0 installed
+2021-12-11 14:24:26.980 T:131705    INFO <general>: CAddonMgr::FindAddons: kodi.resource v1.0.0 installed
+2021-12-11 14:24:26.980 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.album.universal v3.1.4 installed
+2021-12-11 14:24:26.980 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.artists.universal v4.3.3 installed
+2021-12-11 14:24:26.980 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.common.allmusic.com v3.2.2 installed
+2021-12-11 14:24:26.980 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.common.fanart.tv v3.6.3 installed
+2021-12-11 14:24:26.980 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.common.imdb.com v3.1.6 installed
+2021-12-11 14:24:26.980 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.common.musicbrainz.org v2.2.4 installed
+2021-12-11 14:24:26.981 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.common.theaudiodb.com v2.0.3 installed
+2021-12-11 14:24:26.981 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.common.themoviedb.org v3.2.13 installed
+2021-12-11 14:24:26.981 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.generic.albums v1.0.14 installed
+2021-12-11 14:24:26.981 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.generic.artists v1.0.14 installed
+2021-12-11 14:24:26.981 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.local v1.0.1 installed
+2021-12-11 14:24:26.981 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.themoviedb.org v5.2.6 installed
+2021-12-11 14:24:26.981 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.themoviedb.org.python v1.3.1+matrix.1 installed
+2021-12-11 14:24:26.981 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.tvshows.themoviedb.org v3.5.12 installed
+2021-12-11 14:24:26.982 T:131705    INFO <general>: CAddonMgr::FindAddons: metadata.tvshows.themoviedb.org.python v1.3.14 installed
+2021-12-11 14:24:26.982 T:131705    INFO <general>: CAddonMgr::FindAddons: peripheral.joystick v19.0.0 installed
+2021-12-11 14:24:26.982 T:131705    INFO <general>: CAddonMgr::FindAddons: repository.xbmc.org v3.2.5 installed
+2021-12-11 14:24:26.982 T:131705    INFO <general>: CAddonMgr::FindAddons: resource.images.weathericons.default v1.1.9 installed
+2021-12-11 14:24:26.982 T:131705    INFO <general>: CAddonMgr::FindAddons: resource.language.en_gb v2.0.2 installed
+2021-12-11 14:24:26.982 T:131705    INFO <general>: CAddonMgr::FindAddons: resource.uisounds.kodi v1.0.1 installed
+2021-12-11 14:24:26.982 T:131705    INFO <general>: CAddonMgr::FindAddons: screensaver.xbmc.builtin.black v1.0.34 installed
+2021-12-11 14:24:26.982 T:131705    INFO <general>: CAddonMgr::FindAddons: screensaver.xbmc.builtin.dim v1.0.64 installed
+2021-12-11 14:24:26.982 T:131705    INFO <general>: CAddonMgr::FindAddons: script.module.pil v5.1.0 installed
+2021-12-11 14:24:26.982 T:131705    INFO <general>: CAddonMgr::FindAddons: script.module.pycryptodome v3.4.3 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: service.xbmc.versioncheck v0.5.19+matrix.1 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: skin.estouchy v3.0.6 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: skin.estuary v3.0.5 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: vfs.libarchive v19.0.0 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: vfs.sftp v19.0.0 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: webinterface.default v19.x-2.4.8 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: xbmc.addon v19.1.0 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: xbmc.core v0.1.0 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: xbmc.gui v5.15.0 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: xbmc.json v12.4.0 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: xbmc.metadata v2.1.0 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: xbmc.python v3.0.0 installed
+2021-12-11 14:24:26.983 T:131705    INFO <general>: CAddonMgr::FindAddons: xbmc.webinterface v1.0.0 installed
+2021-12-11 14:24:26.986 T:131705    INFO <general>: Selected Logind/UPower as PowerSyscall
+2021-12-11 14:24:27.117 T:131705   ERROR <general>: DBus error: org.freedesktop.DBus.Error.InvalidArgs - No such property “OnLowBattery”
+2021-12-11 14:24:27.119 T:131705    INFO <general>: Selected UPower as PowerSyscall
+2021-12-11 14:24:27.121 T:131705   ERROR <general>: DBus error: org.freedesktop.DBus.Error.InvalidArgs - No such property “CanSuspend”
+2021-12-11 14:24:27.121 T:131705   ERROR <general>: DBus error: org.freedesktop.DBus.Error.InvalidArgs - No such property “CanHibernate”
+2021-12-11 14:24:27.150 T:131710 WARNING <general>: Pulseaudio module module-allow-passthrough not loaded - opening PT devices might fail
+2021-12-11 14:24:27.151 T:131710    INFO <general>: Found 1 Lists of Devices
+2021-12-11 14:24:27.151 T:131710    INFO <general>: Enumerated PULSE devices:
+2021-12-11 14:24:27.151 T:131710    INFO <general>:     Device 1
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_deviceName      : Default
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_displayName     : Default
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_displayNameExtra: Default Output Device (PULSEAUDIO)
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_channels        : FL, FR
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_streamTypes     : No passthrough capabilities
+2021-12-11 14:24:27.151 T:131710    INFO <general>:     Device 2
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_deviceName      : alsa_output.pci-0000_00_1b.0.hdmi-stereo-extra2
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_displayName     : Audio Interno Digital Stereo (HDMI 3)
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_displayNameExtra: HDMI / DisplayPort 3 (PULSEAUDIO)
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_channels        : FL, FR
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
+2021-12-11 14:24:27.151 T:131710    INFO <general>:         m_streamTypes     : No passthrough capabilities
+2021-12-11 14:24:27.151 T:131711    INFO <general>: CActiveAESink::OpenSink - initialize sink
+2021-12-11 14:24:27.155 T:131711    INFO <general>: PulseAudio: Opened device Default in pcm mode with Buffersize 150 ms Periodsize 50 ms
+2021-12-11 14:24:27.158 T:131705    INFO <general>: CKeyboardLayoutManager: loading keyboard layouts from special://xbmc/system/keyboardlayouts...
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Available videomodes (xrandr):
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Output 'HDMI-3' has 40 modes
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x4a Name:1920x1080 Refresh:60.000000 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x4b Name:1920x1080 Refresh:50.000000 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x4c Name:1920x1080 Refresh:59.940201 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x4f Name:1920x1080 Refresh:30.000000 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x50 Name:1920x1080 Refresh:25.000000 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x51 Name:1920x1080 Refresh:24.000000 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x53 Name:1920x1080 Refresh:29.970100 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x54 Name:1920x1080 Refresh:23.976080 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x4d Name:1920x1080i Refresh:30.000000 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x4e Name:1920x1080i Refresh:25.000000 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x52 Name:1920x1080i Refresh:29.970100 Width:1920 Height:1080
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x55 Name:1600x1200 Refresh:60.000000 Width:1600 Height:1200
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x56 Name:1680x1050 Refresh:59.883251 Width:1680 Height:1050
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.111111
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x57 Name:1280x1024 Refresh:75.024673 Width:1280 Height:1024
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.422222
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x58 Name:1280x1024 Refresh:60.019741 Width:1280 Height:1024
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.422222
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x59 Name:1440x900 Refresh:74.984428 Width:1440 Height:900
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.111111
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x5a Name:1440x900 Refresh:59.901459 Width:1440 Height:900
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.111111
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x5b Name:1280x960 Refresh:60.000000 Width:1280 Height:960
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x5c Name:1360x768 Refresh:60.015160 Width:1360 Height:768
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.003922
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x5d Name:1280x800 Refresh:59.909550 Width:1280 Height:800
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.111111
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x5e Name:1152x864 Refresh:75.000000 Width:1152 Height:864
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x5f Name:1280x720 Refresh:60.000000 Width:1280 Height:720
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x60 Name:1280x720 Refresh:50.000000 Width:1280 Height:720
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x61 Name:1280x720 Refresh:59.940201 Width:1280 Height:720
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.000000
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x62 Name:1024x768 Refresh:75.028580 Width:1024 Height:768
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x63 Name:1024x768 Refresh:70.069359 Width:1024 Height:768
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x64 Name:1024x768 Refresh:60.003841 Width:1024 Height:768
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x65 Name:832x624 Refresh:74.551270 Width:832 Height:624
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.490 T:131705    INFO <general>: ID:0x66 Name:800x600 Refresh:72.187569 Width:800 Height:600
+2021-12-11 14:24:27.490 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x67 Name:800x600 Refresh:75.000000 Width:800 Height:600
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x68 Name:800x600 Refresh:60.316540 Width:800 Height:600
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x69 Name:720x576 Refresh:50.000000 Width:720 Height:576
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 1.422222
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x6a Name:720x480 Refresh:60.000000 Width:720 Height:480
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 1.185185
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x6b Name:720x480 Refresh:59.940060 Width:720 Height:480
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 1.185185
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x6c Name:640x480 Refresh:75.000000 Width:640 Height:480
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x6d Name:640x480 Refresh:72.808800 Width:640 Height:480
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x6e Name:640x480 Refresh:66.666672 Width:640 Height:480
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x6f Name:640x480 Refresh:60.000000 Width:640 Height:480
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x70 Name:640x480 Refresh:59.940479 Width:640 Height:480
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 1.333333
+2021-12-11 14:24:27.491 T:131705    INFO <general>: ID:0x71 Name:720x400 Refresh:70.081657 Width:720 Height:400
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Pixel Ratio: 0.987654
+2021-12-11 14:24:27.491 T:131705    INFO <general>: CApplication::CreateGUI - using the x11 windowing system
+2021-12-11 14:24:27.491 T:131705    INFO <general>: Checking resolution 16
+2021-12-11 14:24:27.501 T:131709    INFO <general>: Loading special://xbmc/system/Lircmap.xml
+2021-12-11 14:24:27.502 T:131709    INFO <general>: * Adding remote mapping for device 'mceusb'
+2021-12-11 14:24:27.502 T:131709    INFO <general>: * Adding remote mapping for device 'XboxDVDDongle'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'Microsoft_Xbox'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'PinnacleSysPCTVRemote'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'anysee'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'iMON-PAD'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'Antec_Veris_RM200'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'MCE_via_iMON'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'TwinHanRemote'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'linux-input-layer'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Linking remote mapping for 'linux-input-layer' to 'cx23885_remote'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'mediacenter'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'devinput'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'devinput-32'
+2021-12-11 14:24:27.503 T:131709    INFO <general>: * Adding remote mapping for device 'devinput-64'
+2021-12-11 14:24:27.581 T:131705    INFO <general>: RetroPlayer[PROCESS]: Registering process control for X11
+2021-12-11 14:24:27.581 T:131705    INFO <general>: RetroPlayer[RENDER]: Registering renderer factory for OpenGL
+2021-12-11 14:24:27.614 T:131705    INFO <general>: Using visual 0x21
+2021-12-11 14:24:27.903 T:131705   ERROR <general>: libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+2021-12-11 14:24:27.904 T:131705    INFO <general>: VAAPI::Close - closing decoder context
+2021-12-11 14:24:27.904 T:131705    INFO <general>: CRenderSystemGL::InitRenderSystem - Version: 4.2 (Core Profile) Mesa 21.0.3, Major: 4, Minor: 2
+2021-12-11 14:24:27.904 T:131705    INFO <general>: GL_VENDOR = Intel Open Source Technology Center
+2021-12-11 14:24:27.904 T:131705    INFO <general>: GL_RENDERER = Mesa DRI Intel(R) HD Graphics 4000 (IVB GT2)
+2021-12-11 14:24:27.904 T:131705    INFO <general>: GL_VERSION = 4.2 (Core Profile) Mesa 21.0.3
+2021-12-11 14:24:27.904 T:131705    INFO <general>: GL_SHADING_LANGUAGE_VERSION = 4.20
+2021-12-11 14:24:27.904 T:131705    INFO <general>: GL_EXTENSIONS = GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_APPLE_object_purgeable GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_performance_query GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robustness GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc 
+2021-12-11 14:24:28.082 T:131705    INFO <general>: GL: Maximum texture width: 16384
+2021-12-11 14:24:28.190 T:131705    INFO <general>: GL: Enabling VSYNC
+2021-12-11 14:24:28.194 T:131705    INFO <general>: load keymapping
+2021-12-11 14:24:28.195 T:131705    INFO <general>: Loading special://xbmc/system/keymaps/appcommand.xml
+2021-12-11 14:24:28.195 T:131705    INFO <general>: Loading special://xbmc/system/keymaps/customcontroller.AppleRemote.xml
+2021-12-11 14:24:28.195 T:131705    INFO <general>: Loading special://xbmc/system/keymaps/customcontroller.Harmony.xml
+2021-12-11 14:24:28.196 T:131705    INFO <general>: Loading special://xbmc/system/keymaps/customcontroller.SiriRemote.xml
+2021-12-11 14:24:28.196 T:131705    INFO <general>: Loading special://xbmc/system/keymaps/gamepad.xml
+2021-12-11 14:24:28.197 T:131705    INFO <general>: Loading special://xbmc/system/keymaps/joystick.xml
+2021-12-11 14:24:28.197 T:131705    INFO <general>: Loading special://xbmc/system/keymaps/keyboard.xml
+2021-12-11 14:24:28.199 T:131705    INFO <general>: Loading special://xbmc/system/keymaps/mouse.xml
+2021-12-11 14:24:28.199 T:131705    INFO <general>: Loading special://xbmc/system/keymaps/remote.xml
+2021-12-11 14:24:28.200 T:131705    INFO <general>: Loading special://xbmc/system/keymaps/touchscreen.xml
+2021-12-11 14:24:28.201 T:131705    INFO <general>: GUI format 1920x1080, Display HDMI-3: 1920x1080 @ 60.00Hz
+2021-12-11 14:24:28.201 T:131705    INFO <general>: CLangInfo: loading resource.language.en_gb language information...
+2021-12-11 14:24:28.271 T:131705    INFO <general>: global locale set to en_US.UTF-8
+2021-12-11 14:24:28.271 T:131705    INFO <general>: CLangInfo: loading resource.language.en_gb language strings...
+2021-12-11 14:24:28.302 T:131720    INFO <general>: Running database version Addons33
+2021-12-11 14:24:28.577 T:131720    INFO <general>: creating version table
+2021-12-11 14:24:28.577 T:131720    INFO <general>: create view table
+2021-12-11 14:24:28.577 T:131720    INFO <general>: CreateAnalytics - creating indices
+2021-12-11 14:24:28.856 T:131720    INFO <general>: creating version table
+2021-12-11 14:24:28.856 T:131720    INFO <general>: create texture table
+2021-12-11 14:24:28.856 T:131720    INFO <general>: create sizes table, index,  and trigger
+2021-12-11 14:24:28.856 T:131720    INFO <general>: create path table
+2021-12-11 14:24:28.856 T:131720    INFO <general>: CreateAnalytics creating indices
+2021-12-11 14:24:28.857 T:131720    INFO <general>: CreateAnalytics creating triggers
+2021-12-11 14:24:29.156 T:131720    INFO <general>: creating version table
+2021-12-11 14:24:29.156 T:131720    INFO <general>: create artist table
+2021-12-11 14:24:29.156 T:131720    INFO <general>: create album table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create audiobook table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create album_artist table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create album_source table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create genre table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create path table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create source table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create source_path table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create song table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create song_artist table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create song_genre table
+2021-12-11 14:24:29.157 T:131720    INFO <general>: create role table
+2021-12-11 14:24:29.158 T:131720    INFO <general>: create infosetting table
+2021-12-11 14:24:29.158 T:131720    INFO <general>: create discography table
+2021-12-11 14:24:29.158 T:131720    INFO <general>: create art table
+2021-12-11 14:24:29.158 T:131720    INFO <general>: create versiontagscan table
+2021-12-11 14:24:29.158 T:131720    INFO <general>: create removed_link table
+2021-12-11 14:24:29.158 T:131720    INFO <general>: CreateAnalytics - creating indices
+2021-12-11 14:24:29.162 T:131720    INFO <general>: create triggers
+2021-12-11 14:24:29.164 T:131720    INFO <general>: create song view
+2021-12-11 14:24:29.164 T:131720    INFO <general>: create album view
+2021-12-11 14:24:29.164 T:131720    INFO <general>: create artist view
+2021-12-11 14:24:29.165 T:131720    INFO <general>: create albumartist view
+2021-12-11 14:24:29.165 T:131720    INFO <general>: create songartist view
+2021-12-11 14:24:29.468 T:131720    INFO <general>: creating version table
+2021-12-11 14:24:29.469 T:131720    INFO <general>: create bookmark table
+2021-12-11 14:24:29.469 T:131720    INFO <general>: create settings table
+2021-12-11 14:24:29.470 T:131720    INFO <general>: create stacktimes table
+2021-12-11 14:24:29.470 T:131720    INFO <general>: create genre table
+2021-12-11 14:24:29.471 T:131720    INFO <general>: create country table
+2021-12-11 14:24:29.471 T:131720    INFO <general>: create movie table
+2021-12-11 14:24:29.471 T:131720    INFO <general>: create actor table
+2021-12-11 14:24:29.472 T:131720    INFO <general>: create path table
+2021-12-11 14:24:29.472 T:131720    INFO <general>: create files table
+2021-12-11 14:24:29.472 T:131720    INFO <general>: create tvshow table
+2021-12-11 14:24:29.472 T:131720    INFO <general>: create episode table
+2021-12-11 14:24:29.472 T:131720    INFO <general>: create tvshowlinkpath table
+2021-12-11 14:24:29.472 T:131720    INFO <general>: create movielinktvshow table
+2021-12-11 14:24:29.473 T:131720    INFO <general>: create studio table
+2021-12-11 14:24:29.473 T:131720    INFO <general>: create musicvideo table
+2021-12-11 14:24:29.473 T:131720    INFO <general>: create streaminfo table
+2021-12-11 14:24:29.473 T:131720    INFO <general>: create sets table
+2021-12-11 14:24:29.473 T:131720    INFO <general>: create seasons table
+2021-12-11 14:24:29.473 T:131720    INFO <general>: create art table
+2021-12-11 14:24:29.474 T:131720    INFO <general>: create tag table
+2021-12-11 14:24:29.474 T:131720    INFO <general>: create rating table
+2021-12-11 14:24:29.474 T:131720    INFO <general>: create uniqueid table
+2021-12-11 14:24:29.474 T:131720    INFO <general>: CreateAnalytics - creating indices
+2021-12-11 14:24:29.481 T:131720    INFO <general>: CreateAnalytics - creating triggers
+2021-12-11 14:24:29.482 T:131720    INFO <general>: create episode_view
+2021-12-11 14:24:29.483 T:131720    INFO <general>: create tvshowcounts
+2021-12-11 14:24:29.483 T:131720    INFO <general>: create tvshowlinkpath_minview
+2021-12-11 14:24:29.483 T:131720    INFO <general>: create tvshow_view
+2021-12-11 14:24:29.483 T:131720    INFO <general>: create season_view
+2021-12-11 14:24:29.483 T:131720    INFO <general>: create musicvideo_view
+2021-12-11 14:24:29.483 T:131720    INFO <general>: create movie_view
+2021-12-11 14:24:29.713 T:131720    INFO <general>: creating version table
+2021-12-11 14:24:29.714 T:131720    INFO <general>: CreateTables: Creating PVR database tables
+2021-12-11 14:24:29.715 T:131720    INFO <general>: CreateAnalytics: Creating PVR database indices
+2021-12-11 14:24:29.927 T:131720    INFO <general>: creating version table
+2021-12-11 14:24:29.928 T:131720    INFO <general>: Creating EPG database tables
+2021-12-11 14:24:30.060 T:131705    INFO <general>: start dvd mediatype detection
+2021-12-11 14:24:30.075 T:131705    INFO <general>: Unloaded skin
+2021-12-11 14:24:30.075 T:131705    INFO <general>:   load skin from: /usr/share/kodi/addons/skin.estuary/ (version: 3.0.5)
+2021-12-11 14:24:30.075 T:131705    INFO <general>:   load fonts for skin...
+2021-12-11 14:24:30.075 T:131705    INFO <general>: Loading skin includes from /usr/share/kodi/addons/skin.estuary/xml/Includes.xml
+2021-12-11 14:24:30.091 T:131705    INFO <general>: Loading fonts from /usr/share/kodi/addons/skin.estuary/xml/Font.xml
+2021-12-11 14:24:30.097 T:131705    INFO <general>:   load new skin...
+2021-12-11 14:24:30.097 T:131705    INFO <general>: Loading custom window XMLs from skin path /usr/share/kodi/addons/skin.estuary/xml
+2021-12-11 14:24:30.100 T:131705    INFO <general>:   initialize new skin...
+2021-12-11 14:24:30.100 T:131705    INFO <general>: Loading skin file: Custom_1109_TopBarOverlay.xml, load type: LOAD_ON_GUI_INIT
+2021-12-11 14:24:30.105 T:131705    INFO <general>: Loading skin file: DialogVolumeBar.xml, load type: LOAD_ON_GUI_INIT
+2021-12-11 14:24:30.105 T:131705    INFO <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2021-12-11 14:24:30.106 T:131705    INFO <general>: Loading skin file: Pointer.xml, load type: LOAD_ON_GUI_INIT
+2021-12-11 14:24:30.106 T:131705    INFO <general>: Loading skin file: DialogExtendedProgressBar.xml, load type: LOAD_ON_GUI_INIT
+2021-12-11 14:24:30.107 T:131705    INFO <general>: Loading skin file: DialogSeekBar.xml, load type: LOAD_ON_GUI_INIT
+2021-12-11 14:24:30.115 T:131705    INFO <general>: Loading skin file: DialogNotification.xml, load type: LOAD_ON_GUI_INIT
+2021-12-11 14:24:30.116 T:131705    INFO <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2021-12-11 14:24:30.118 T:131705    INFO <general>: Loading resource://resource.uisounds.kodi/sounds.xml
+2021-12-11 14:24:30.128 T:131705    INFO <general>:   skin loaded...
+2021-12-11 14:24:30.128 T:131705    INFO <general>: Loading skin file: Startup.xml, load type: LOAD_EVERY_TIME
+2021-12-11 14:24:30.128 T:131705    INFO <general>: Loading skin file: Home.xml, load type: KEEP_IN_MEMORY
+2021-12-11 14:24:30.174 T:131705 WARNING <general>: JSONRPC: Could not parse type "Setting.Details.SettingList"
+2021-12-11 14:24:30.174 T:131705    INFO <general>: JSONRPC: Adding type "Setting.Details.SettingList" to list of incomplete definitions (waiting for "Setting.Details.Setting")
+2021-12-11 14:24:30.174 T:131705    INFO <general>: JSONRPC: Resolving incomplete types/methods referencing Setting.Details.Setting
+2021-12-11 14:24:30.187 T:131705    INFO <general>: JSONRPC v12.4.0: Successfully initialized
+2021-12-11 14:24:30.189 T:131705    INFO <general>: AddOnLog: peripheral.joystick: Enabling joystick interface "linux"
+2021-12-11 14:24:30.189 T:131705    INFO <general>: Register - new keyboard device registered on application->keyboard: Keyboard (0000:0000)
+2021-12-11 14:24:30.190 T:131705    INFO <general>: Register - new mouse device registered on application->mouse: Mouse (0000:0000)
+2021-12-11 14:24:30.190 T:131705    INFO <general>: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+2021-12-11 14:24:30.190 T:131705    INFO <general>: Loaded playercorefactory configuration
+2021-12-11 14:24:30.190 T:131705    INFO <general>: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+2021-12-11 14:24:30.190 T:131705    INFO <general>: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+2021-12-11 14:24:30.190 T:131705    INFO <general>: removing tempfiles
+2021-12-11 14:24:30.190 T:131751    INFO <general>: AddOnLog: peripheral.joystick: Initialized joystick 0: "8Bitdo SN30 Pro", axes: 8, hats: 0, buttons: 10
+2021-12-11 14:24:30.190 T:131751    INFO <general>: Loading controller layout: /usr/share/kodi/addons/game.controller.default/resources/layout.xml
+2021-12-11 14:24:30.260 T:131751   ERROR <general>: AddOnLog: peripheral.joystick: Device "Sony Interactive Entertainment Wireless Controller": can't find <controller> tag
+2021-12-11 14:24:30.271 T:131705    INFO <general>: initialize done
+2021-12-11 14:24:30.271 T:131705    INFO <general>: Running the application...
+2021-12-11 14:24:30.272 T:131705    INFO <general>: Loading skin file: DialogConfirm.xml, load type: KEEP_IN_MEMORY
+2021-12-11 14:24:30.272 T:131756    INFO <general>: initializing python engine.
+2021-12-11 14:24:30.278 T:131705    INFO <general>: starting zeroconf publishing
+2021-12-11 14:24:30.278 T:131705    INFO <general>: JSONRPC Server: Successfully initialized
+2021-12-11 14:24:30.278 T:131758    INFO <general>: ES: Starting UDP Event server on port 9777
+2021-12-11 14:24:30.278 T:131758    INFO <general>: UDP: Listening on port 9777 (ipv6 : false)
+2021-12-11 14:24:30.285 T:131751    INFO <general>: Register - new joystick device registered on addon->peripheral.joystick/0: 8Bitdo SN30 Pro
+2021-12-11 14:24:36.422 T:131756    INFO <general>: CPythonInvoker(0, /usr/share/kodi/addons/service.xbmc.versioncheck/resources/lib/runner.py): script successfully run
+2021-12-11 14:24:36.439 T:131756    INFO <general>: Python interpreter stopped
+2021-12-11 14:24:39.964 T:131720    INFO <general>: CAddonMgr::FindAddon: game.controller.default v1.0.16 installed
+2021-12-11 14:24:45.287 T:131720    INFO <general>: CAddonMgr::FindAddon: game.controller.snes v1.0.15 installed
+2021-12-11 14:25:16.104 T:131720   ERROR <general>: CCurlFile::Stat - Failed: Timeout was reached(28) for https://ftp.heanet.ie/mirrors/xbmc/addons/matrix/metadata.album.universal/metadata.album.universal-3.1.6.zip
+2021-12-11 14:25:24.115 T:131720    INFO <general>: CAddonMgr::FindAddon: metadata.album.universal v3.1.6 installed
+2021-12-11 14:25:27.787 T:131720    INFO <general>: CAddonMgr::FindAddon: metadata.artists.universal v4.3.5 installed
+2021-12-11 14:25:28.980 T:131720    INFO <general>: CAddonMgr::FindAddon: metadata.common.imdb.com v3.2.4 installed
+2021-12-11 14:25:31.306 T:131720    INFO <general>: CAddonMgr::FindAddon: metadata.common.themoviedb.org v3.2.17 installed
+2021-12-11 14:25:33.481 T:131720    INFO <general>: CAddonMgr::FindAddon: metadata.themoviedb.org.python v1.5.1+matrix.1 installed
+2021-12-11 14:25:35.911 T:131720    INFO <general>: CAddonMgr::FindAddon: metadata.tvshows.themoviedb.org v3.5.13 installed
+2021-12-11 14:25:37.962 T:131720    INFO <general>: CAddonMgr::FindAddon: metadata.tvshows.themoviedb.org.python v1.4.10 installed
+2021-12-11 14:25:39.155 T:131720    INFO <general>: CServiceAddonManager: failed to stop service.xbmc.versioncheck (may have ended)
+2021-12-11 14:25:39.334 T:131720    INFO <general>: CAddonMgr::FindAddon: service.xbmc.versioncheck v0.5.21+matrix.1 installed
+2021-12-11 14:25:39.335 T:131786    INFO <general>: initializing python engine.
+2021-12-11 14:25:44.743 T:131786    INFO <general>: CPythonInvoker(1, /home/gabriel/.kodi/addons/service.xbmc.versioncheck/resources/lib/runner.py): script successfully run
+2021-12-11 14:25:44.757 T:131786    INFO <general>: Python interpreter stopped
+2021-12-11 14:29:52.133 T:131705    INFO <general>: Loading skin file: DialogGameControllers.xml, load type: KEEP_IN_MEMORY
+2021-12-11 14:29:52.137 T:131705    INFO <general>: Loading controller layout: /home/gabriel/.kodi/addons/game.controller.snes/resources/layout.xml
+2021-12-11 14:30:11.849 T:131711    INFO <general>: CActiveAESink::OpenSink - initialize sink
+2021-12-11 14:30:11.871 T:131711    INFO <general>: PulseAudio: Opened device Default in pcm mode with Buffersize 150 ms Periodsize 50 ms
+2021-12-11 14:30:32.463 T:131705    INFO <general>: Loading skin file: DialogConfirm.xml, load type: KEEP_IN_MEMORY
+2021-12-11 14:31:14.434 T:131705    INFO <general>: Loading skin file: PlayerControls.xml, load type: KEEP_IN_MEMORY
+2021-12-11 14:31:15.563 T:131705    INFO <general>: Loading skin file: Settings.xml, load type: KEEP_IN_MEMORY
+2021-12-11 14:31:19.989 T:131705    INFO <general>: Loading skin file: DialogButtonMenu.xml, load type: KEEP_IN_MEMORY
+2021-12-11 14:31:22.896 T:131705    INFO <general>: Stopping player
+2021-12-11 14:31:22.896 T:131705    INFO <general>: Storing total System Uptime
+2021-12-11 14:31:22.897 T:131705    INFO <general>: Saving settings
+2021-12-11 14:31:22.902 T:131705    INFO <general>: Saving skin settings
+2021-12-11 14:31:22.903 T:131705    INFO <general>: Stopping all
+2021-12-11 14:31:22.903 T:131705    INFO <general>: ES: Stopping event server
+2021-12-11 14:31:22.903 T:131705    INFO <general>: stopping zeroconf publishing
+2021-12-11 14:31:23.694 T:131758    INFO <general>: ES: UDP Event server stopped
+2021-12-11 14:31:23.695 T:131705    INFO <general>: stop dvd detect media
+2021-12-11 14:31:23.695 T:131705    INFO <general>: Stopping zeroconf browser
+2021-12-11 14:31:23.695 T:131705    INFO <general>: CServiceAddonManager: failed to stop service.xbmc.versioncheck (may have ended)
+2021-12-11 14:31:23.697 T:131705    INFO <general>: Application stopped
+2021-12-11 14:31:23.897 T:131705    INFO <general>: XBApplicationEx: destroying...
+2021-12-11 14:31:24.354 T:131705    INFO <general>: AddOnLog: peripheral.joystick: Disabling joystick interface "linux"
+2021-12-11 14:31:24.355 T:131705    INFO <general>: ADDON: Dll Destroyed - Joystick Support
+2021-12-11 14:31:24.355 T:131705    INFO <general>: unload skin
+2021-12-11 14:31:24.364 T:131705 WARNING <general>: Cleanup: Having to cleanup texture lists/focus.png
+2021-12-11 14:31:24.364 T:131705 WARNING <general>: Cleanup: Having to cleanup texture dialogs/separator-grey.png
+2021-12-11 14:31:24.369 T:131705    INFO <general>: Unloaded skin
+2021-12-11 14:31:24.373 T:131705    INFO <general>: unload sections
+2021-12-11 14:31:24.380 T:131705    INFO <general>: ADDON: Dll Destroyed - Archive support
+2021-12-11 14:31:24.380 T:131705    INFO <general>: ADDON: Dll Destroyed - SFTP support
+2021-12-11 14:31:24.389 T:131705    INFO <general>: XRANDR: /usr/lib/x86_64-linux-gnu/kodi/kodi-xrandr --screen 0 --output HDMI-3 --mode 0x4a
+2021-12-11 14:31:24.626 T:131705    INFO <general>: XBApplicationEx: application stopped!
