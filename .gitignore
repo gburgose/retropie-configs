@@ -1,2 +1,5 @@
+# ignore all logs
+*.log
+
 all/emulationstation/es_settings.cfg
 all/emulationstation/es_log.txt
