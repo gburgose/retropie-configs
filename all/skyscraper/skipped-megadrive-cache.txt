@@ -1,0 +1,3413 @@
+--- The following is a list of skipped games ---
+'Yogi Bear's Cartoon Capers (E) [!]', No returned matches
+'Yogi Bear's Cartoon Capers (E) [b1]', No returned matches
+'Yang Warrior Family, The (Chinese)', No returned matches
+'Ya-Se Chuan Shuo (Chinese)', No returned matches
+'Yogi Bear's Cartoon Capers (E) [h1]', No returned matches
+'Young Indiana Jones - Instrument of Chaos (J) [!]', No returned matches
+'Young Indiana Jones - Instrument of Chaos (U) [!]', No returned matches
+'Young Indiana Jones - Instrument of Chaos (U) [h1]', No returned matches
+'Young Indiana Jones - Instrument of Chaos (U) [h2]', No returned matches
+'Young Indiana Jones - Instrument of Chaos (U) [h3]', No returned matches
+'Young Indiana Jones - Instrument of Chaos (beta) [o1]', No returned matches
+'Young Indiana Jones - Instrument of Chaos (beta)', No returned matches
+'Young Indiana Jones Chronicles (U) [x]', No returned matches
+'Ys 3 - Wanderer from Ys (J)', No returned matches
+'Ys 3 - Wanderer from Ys (U) [!]', No returned matches
+'Yu Yu Hakusho - Makyoutohissen (J) [b1]', No returned matches
+'Yu Yu Hakusho - Makyoutohissen (J) [h1]', No returned matches
+'Yu Yu Hakusho - Makyoutohissen (J) [h3]', No returned matches
+'Yu Yu Hakusho - Makyoutohissen (J)', No returned matches
+'Yu Yu Hakusho Gaiden - Makyo Issen (J) [b1]', No returned matches
+'Yu Yu Hakusho Gaiden - Makyo Issen (J)', No returned matches
+'Yu Yu Hakusho - Makyoutohissen (J) [h2]', No returned matches
+'Yu Yu Hakusho Gaiden - Makyoutohissen (J) [b1]', No returned matches
+'Quack Shot Starring Donald Duck (REV 00) (JUE) [p1][!]', No returned matches
+'Quack Shot Starring Donald Duck (REV 00) (JUE) [!]', No returned matches
+'Quack Shot Starring Donald Duck (REV 00) (JUE) [t1]', No returned matches
+'Quack Shot Starring Donald Duck (REV 01) (JUE) [!]', No returned matches
+'Quack Shot Starring Donald Duck (REV 01) (JUE) [b1]', No returned matches
+'Quack Shot Starring Donald Duck (REV 00) (JUE) [h1]', No returned matches
+'Quad Challenge (U) [c][!]', No returned matches
+'Quadrant V0.01 (PD) (JUE)', No returned matches
+'Quadrant V0.00 (PD)', No returned matches
+'Quadrant V0.02 (PD) (JUE)', No returned matches
+'Hard Drivin' (JU) [!]', No returned matches
+'Hard Drivin' (JU) [b1]', No returned matches
+'Hard Wired (PD) [o1]', No returned matches
+'Hard Wired (PD)', No returned matches
+'HardBall 3 (JUE) [f1]', No returned matches
+'HardBall (U) [!]', No returned matches
+'HardBall 3 (JUE) [h1]', No returned matches
+'HardBall 3 (JUE)', No returned matches
+'HardBall 94 (JUE) [h1]', No returned matches
+'HardBall 94 (JUE) [h2]', No returned matches
+'Quad Challenge (U) [h1]', No returned matches
+'HardBall 94 (JUE) [o1]', No returned matches
+'HardBall 94 (JUE) [!]', No returned matches
+'HardBall 94 (U) [h1]', No returned matches
+'HardBall 94 (JUE) [o1][h1]', No returned matches
+'HardBall 95 (F) [!]', No returned matches
+'HardBall 95 (JUE) [h1]', No returned matches
+'HardBall 95 (F) [o1]', No returned matches
+'HardBall 95 (JUE) [o1][h1]', No returned matches
+'Haunting, The (UEJ) [!]', No returned matches
+'Head-On Soccer (4) [!]', No returned matches
+'Head-On Soccer (C) [h1]', No returned matches
+'Head-On Soccer (C)', No returned matches
+'Heavy Nova (JU) [!]', No returned matches
+'Heavy Unit (J) [!]', No returned matches
+'Heavy Unit (J) [p1]', No returned matches
+'Heavy Unit (J) [p2]', No returned matches
+'Hellfire (J) [!]', No returned matches
+'Hellfire (E)', No returned matches
+'Hellfire (J) [h1]', No returned matches
+'HardBall 94 (JUE) [h3]', No returned matches
+'Hentai Collection 1 (PD)', No returned matches
+'Hellfire (U) [!]', No returned matches
+'Hercules (J) [p1][!]', No returned matches
+'Herzog Zwei (J) [h1]', No returned matches
+'Herzog Zwei (J)', No returned matches
+'Hellfire (J) [p1][!]', No returned matches
+'High School Soccer - Kunio Kun (J) [!]', No returned matches
+'High School Soccer - Kunio Kun (J) [h1]', No returned matches
+'High Seas Havoc (U) [b1][t1]', No returned matches
+'High Seas Havoc (U) [!]', No returned matches
+'High Seas Havoc (U) [h2]', No returned matches
+'High Seas Havoc (U) [h1]', No returned matches
+'High Seas Havoc (U) [h3]', No returned matches
+'High Seas Havoc (U) [h4]', No returned matches
+'Hit The Ice (U) [h1]', No returned matches
+'High Seas Havoc (U) [t1]', No returned matches
+'Hit The Ice (U) [h2]', No returned matches
+'Herzog Zwei (U) [!]', No returned matches
+'Hokuto no Ken 2 (J) [!]', No returned matches
+'Hokuto no Ken 2 (J) [p1]', No returned matches
+'Hokuto no Ken 2 (J) [b1]', No returned matches
+'Home Alone (U) [!]', No returned matches
+'Home Alone (U) [h1]', No returned matches
+'Home Alone (beta)', No returned matches
+'Home Alone 2 - Lost In New York (U) [h1]', No returned matches
+'Home Alone 2 - Lost In New York (U) [h2]', No returned matches
+'Home Alone 2 - Lost In New York (U) [!]', No returned matches
+'Home Alone 2 - Lost In New York (U) [h3]', No returned matches
+'Hook (U) [c][!]', No returned matches
+'Hook (U) [h1]', No returned matches
+'Hook (U) [h2]', No returned matches
+'Humans (Introducing The) (U) [!]', No returned matches
+'Humans (Introducing The) (U) [h2]', No returned matches
+'Hurricanes (JUE) [b1]', No returned matches
+'Hit The Ice (U) [c][!]', No returned matches
+'Hybrid Front, The (J) [!]', No returned matches
+'Humans (Introducing The) (U) [h1]', No returned matches
+'Hyokkori Hyoutanjima (The Great Voyage of) (J) [x]', No returned matches
+'Hyper Dunk - The Playoff Edition (U) [h1]', No returned matches
+'Hybrid Front, The (J) [a1]', No returned matches
+'Hyper Dunk - The Playoff Edition (U) [h2]', No returned matches
+'LHX Attack Helicopter (J) [b1]', No returned matches
+'Hyper Dunk - The Playoff Edition (U)', No returned matches
+'LHX Attack Helicopter (J)', No returned matches
+'LHX Attack Helicopter (U) [!].bin', No returned matches
+'LHX Attack Helicopter (U) [!].smd', No returned matches
+'LHX Attack Helicopter (U) [h1]', No returned matches
+'Lakers vs Celtics (U) [!]', No returned matches
+'Landstalker - The Treasures of King Nole (E) (English) [!]', No returned matches
+'Landstalker - The Treasures of King Nole (E) (French)', No returned matches
+'Landstalker - The Treasures of King Nole (E) (German) [!]', No returned matches
+'Hurricanes (JUE)', No returned matches
+'Landstalker - The Treasures of King Nole (J) [!]', No returned matches
+'Landstalker - The Treasures of King Nole (U) [!]', No returned matches
+'Landstalker - The Treasures of King Nole (beta) [a1]', No returned matches
+'Langrisser Hikari (J)', No returned matches
+'Landstalker - The Treasures of King Nole (beta)', No returned matches
+'Langrisser Hikari 2 (REV 00) (J) [T-Chinese]', No returned matches
+'Langrisser Hikari 2 (REV 00) (J) [T-Chinese][a1]', No returned matches
+'Landstalker - The Treasures of King Nole (U) [h1]', No returned matches
+'Langrisser Hikari 2 (REV 00) (J)', No returned matches
+'Langrisser Hikari 2 (REV 01) (J) [h1]', No returned matches
+'Langrisser Hikari 2 (REV 02) (J) [!]', No returned matches
+'Last Action Hero (UE) [!]', No returned matches
+'Last Action Hero (UE) [b1]', No returned matches
+'Last Action Hero, The (UE) [h1]', No returned matches
+'Last Battle (U) [!].smd', No returned matches
+'Last Battle (U) [!].bin', No returned matches
+'Last Battle (U) [h1]', No returned matches
+'Langrisser Hikari 2 (REV 01) (J)', No returned matches
+'Lawnmower Man, The (JUE) [!]', No returned matches
+'Lawnmower Man, The (JUE) [h1]', No returned matches
+'Legend of Galahad, The (U) [!]', No returned matches
+'Legend of Galahad, The (U) [t1]', No returned matches
+'Legend of Toki - Going Ape Spit, The (J) [T-Port_FjM]', No returned matches
+'Legend of Toki - Going Ape Spit, The (J) [h1]', No returned matches
+'Legend of Toki - Going Ape Spit, The (J)', No returned matches
+'Legend of Toki - Going Ape Spit, The (UE) [b1]', No returned matches
+'Lemmings (REV 00) (JU) [!]', No returned matches
+'Lemmings (E) [!]', No returned matches
+'Lemmings (REV 00) (JU) [h1]', No returned matches
+'Legend of Toki - Going Ape Spit, The (UE) [c][!]', No returned matches
+'Lemmings (REV 01) (JU) [!]', No returned matches
+'Lemmings 2 - The Tribes (E) [!]', No returned matches
+'Lemmings 2 - The Tribes (E) [b1]', No returned matches
+'Lemmings 2 - The Tribes (E) [h1]', No returned matches
+'Lemmings 2 - The Tribes (U) [!]', No returned matches
+'Lemmings 2 - The Tribes (E) [h2]', No returned matches
+'Lethal Enforcers (E) [!]', No returned matches
+'Lethal Enforcers (U) [!]', No returned matches
+'Lethal Enforcers (J)', No returned matches
+'Lethal Enforcers (U) [h1]', No returned matches
+'Lethal Enforcers (U) [h4]', No returned matches
+'Lethal Enforcers 2 - Gun Fighters (E)', No returned matches
+'Lethal Enforcers 2 - Gun Fighters (JU) [t1]', No returned matches
+'Lethal Enforcers 2 - Gun Fighters (UJ) [!]', No returned matches
+'Lethal Enforcers 2 - Gun Fighters (UJ) [t1]', No returned matches
+'Lethal Enforcers (U) [h3]', No returned matches
+'Lethal Enforcers 2 - Gun Fighters (UJ) [h1]', No returned matches
+'Liberty or Death (U) [!].smd', No returned matches
+'Lethal Enforcers (U) [h2]', No returned matches
+'Liberty or Death (U) [!].bin', No returned matches
+'Liberty or Death (U) [h1]', No returned matches
+'Liberty or Death (U) [h2]', No returned matches
+'Light Crusader (4) [!]', No returned matches
+'Light Crusader (A) [h1]', No returned matches
+'Light Crusader (A)', No returned matches
+'Light Crusader (B) [!]', No returned matches
+'Light Crusader (B) [h1]', No returned matches
+'Lightning Force (U) [c][!]', No returned matches
+'Link Dragon (Unl) [c]', No returned matches
+'Lion King, The (UEJ) [!]', No returned matches
+'Lion King, The (UEJ) [b1]', No returned matches
+'Lion King, The (UEJ) [h1]', No returned matches
+'Lord Monarch (J) [!]', No returned matches
+'Lord Monarch (J) [h1]', No returned matches
+'Lost Vikings, The (E) [h1]', No returned matches
+'Lost Vikings, The (E) [h2]', No returned matches
+'Lost Vikings, The (E) [h3]', No returned matches
+'Lost Vikings, The (U) [!]', No returned matches
+'Lost Vikings, The (U) [h1]', No returned matches
+'Lotus 2 RECS (EUJ) [!]', No returned matches
+'Lotus 2 RECS (beta) [h1]', No returned matches
+'Lotus Turbo Challenge (EU) [!]', No returned matches
+'BC Racers 32X (F) [c][!]', No returned matches
+'B.O.B (UEJ) [!]', No returned matches
+'Baby's Day Out (U) [b1]', No returned matches
+'Baby's Day Out (U)', No returned matches
+'Baby's Day Out (beta) [a1]', No returned matches
+'Baby's Day Out (beta)', No returned matches
+'Back to the Future 3 (JUE) [R-Eur][!]', No returned matches
+'Back to the Future 3 (JUE) [R-USA][!].smd', No returned matches
+'Back to the Future 3 (JUE) [R-USA][!].bin', No returned matches
+'Back to the Future 3 (JUE) [R-USA][b1]', No returned matches
+'Bad Omen (J) [p1]', No returned matches
+'Bad Omen (J) [p1][h1]', No returned matches
+'Bad Omen (J) [p2]', No returned matches
+'Bad Omen (J) [p3][h1]', No returned matches
+'Bad Omen (J) [x]', No returned matches
+'Bahamut Bahant Senki (J) [x]', No returned matches
+'Ball Jacks (JE) [c][!]', No returned matches
+'Ball Jacks (JE) [h1]', No returned matches
+'Ball Jacks (JE) [h2]', No returned matches
+'B.O.B (beta)', No returned matches
+'Ball Jacks (JE) [h3]', No returned matches
+'Ball Jacks (JE) [h4]', No returned matches
+'Ball Jacks (JE) [h5]', No returned matches
+'Ballz (JUE) [!]', No returned matches
+'Ballz (JUE) [b1]', No returned matches
+'Ballz (JUE) [h2]', No returned matches
+'Ballz (JUE) [h1]', No returned matches
+'Barbie Super Model (U) [!]', No returned matches
+'Barbie Vacation Adventure (U)', No returned matches
+'Bare Knuckle 2 (beta) [h3]', No returned matches
+'Bare Knuckle 2 (beta) [h1]', No returned matches
+'Bare Knuckle 2 (beta) [h2]', No returned matches
+'Bare Knuckle 2 (beta) [h5]', No returned matches
+'Bare Knuckle 2 (beta) [h4]', No returned matches
+'Bare Knuckle 3 (J) [!]', No returned matches
+'Bare Knuckle 3 (J) [a1][h1]', No returned matches
+'Bare Knuckle 3 (J) [b1]', No returned matches
+'Bare Knuckle 2 (beta)', No returned matches
+'Barkley Shut Up and Jam (JUE) [!]', No returned matches
+'Bare Knuckle 3 (J) [a1]', No returned matches
+'Bare Knuckle 3 (J) [a2][!]', No returned matches
+'Barkley Shut Up and Jam (JUE) [h2]', No returned matches
+'Barkley Shut Up and Jam (JUE) [h1]', No returned matches
+'Bare Knuckle 3 (J) [p1]', No returned matches
+'Barkley Shut Up and Jam 2 (JUE) [!]', No returned matches
+'Barkley Shut Up and Jam (JUE) [h3]', No returned matches
+'Barkley Shut Up and Jam 2 (JUE) [b2]', No returned matches
+'Barney's Hide and Seek (U) [!]', No returned matches
+'Barney's Hide and Seek (U) [h2]', No returned matches
+'Barkley Shut Up and Jam 2 (JUE) [b1]', No returned matches
+'Barney's Hide and Seek (U) [h3]', No returned matches
+'Barney's Hide and Seek (U) [h4]', No returned matches
+'Barney's Hide and Seek (U) [h5]', No returned matches
+'Barney's Hide and Seek (U) [h1]', No returned matches
+'Barney's Hide and Seek (U) [h6]', No returned matches
+'Bass Masters Classic Pro Edition (F) [!]', No returned matches
+'Bastard!! (PD)', No returned matches
+'Batman (J)', No returned matches
+'Batman (E)', No returned matches
+'Batman (J) [h1]', No returned matches
+'Batman (UE) [!]', No returned matches
+'Batman (beta)', No returned matches
+'Batman - Revenge of the Joker (U) [!]', No returned matches
+'Batman - Revenge of the Joker (U) [h1]', No returned matches
+'Batman - Revenge of the Joker (U) [h2]', No returned matches
+'Batman - Revenge of the Joker (U) [p1]', No returned matches
+'Batman - Revenge of the Joker (U) [p2]', No returned matches
+'Batman - Revenge of the Joker (U) [p3]', No returned matches
+'Batman - Revenge of the Joker (U) [p4]', No returned matches
+'Batman Forever (F) [!]', No returned matches
+'Bass Masters Classics (4) [!]', No returned matches
+'Batman and Robin, The Adventures of (E) [h1]', No returned matches
+'Batman Forever (F) [b1]', No returned matches
+'Batman and Robin, The Adventures of (E)', No returned matches
+'Batman and Robin, The Adventures of (JU) [!]', No returned matches
+'Batman and Robin, The Adventures of (JU) [h1]', No returned matches
+'Batman and Robin, The Adventures of (JU) [b1]', No returned matches
+'Batman and Robin, The Adventures of (JU) [h2]', No returned matches
+'Batman and Robin, The Adventures of (JU) [h3]', No returned matches
+'Batman and Robin, The Adventures of (JU) [h4]', No returned matches
+'Batman and Robin, The Adventures of (JU) [h5]', No returned matches
+'Batman Returns (U) [!]', No returned matches
+'Battle Mania (J)', No returned matches
+'Battle Mania (U) [h1]', No returned matches
+'Battle Mania 2 - TS Vintage (J) [c][!]', No returned matches
+'Battle Mania 2 - TS Vintage (JUE) [h2]', No returned matches
+'Battle Golfer Yui (J) [c][!]', No returned matches
+'Battle Mania 2 - TS Vintage (JUE) [h4]', No returned matches
+'Battle Mania 2 - TS Vintage (JUE) [h5]', No returned matches
+'Battle Mania 2 - TS Vintage (JUE) [h1]', No returned matches
+'Battle Mania 2 - TS Vintage (JUE) [h3]', No returned matches
+'Battle Squadron (U) [!]', No returned matches
+'Battle Squadron (U) [p1]', No returned matches
+'Battlemaster (JUE) [b1]', No returned matches
+'Battlemaster (JUE) [c][!]', No returned matches
+'Battletech (U) [b1]', No returned matches
+'Battle Squadron (U) [b1]', No returned matches
+'Battletech (U) [!]', No returned matches
+'Battlemaster (JUE) [h1]', No returned matches
+'Battletech (U) [h1]', No returned matches
+'Battletoads (JUE) [!]', No returned matches
+'Battletoads and Double Dragon (U) [h1]', No returned matches
+'Battletoads and Double Dragon (U) [h2]', No returned matches
+'Battletoads and Double Dragon (U) [h3]', No returned matches
+'Battletoads and Double Dragon (U) [h4]', No returned matches
+'Battletoads and Double Dragon (U) [h5]', No returned matches
+'Beast Warrior (J)', No returned matches
+'Beast Wrestler (U) [!]', No returned matches
+'Beast Wrestler (U) [h1]', No returned matches
+'Beauty and the Beast - Belle's Quest (JUE) [h1]', No returned matches
+'Beauty and the Beast - Belle's Quest (U) [b1]', No returned matches
+'Beauty and the Beast - Belle's Quest (U) [!]', No returned matches
+'Beauty and the Beast - Belle's Quest (U) [h1]', No returned matches
+'Beauty and the Beast - Roar of the Beast (U) [h1]', No returned matches
+'Battletoads and Double Dragon (U) [c][!]', No returned matches
+'Beauty and the Beast - Roar of the Beast (U) [!]', No returned matches
+'Beavis and Butthead (U) [b1]', No returned matches
+'Beavis and Butthead (U) [h1]', No returned matches
+'Beavis and Butthead (U) [t1]', No returned matches
+'Beavis and Butthead (beta)', No returned matches
+'Berenstain Bears', The Camping Adventure (JUE) [h1]', No returned matches
+'Berenstain Bears', The Camping Adventure (JUE) [h2]', No returned matches
+'Berenstain Bears', The Camping Adventure (JUE) [t1]', No returned matches
+'Berenstain Bears', The Camping Adventure (JUE) [h3]', No returned matches
+'Berenstain Bears', The Camping Adventure (U) [!]', No returned matches
+'Berenstain Bears', The Camping Adventure (UJE) [h1]', No returned matches
+'Berenstain Bears', The Camping Adventure (UJE) [h2]', No returned matches
+'Beavis and Butthead (U) [!]', No returned matches
+'Berzerk (PD)', No returned matches
+'Best of the Best - Championship Karate (E) [a1][o1]', No returned matches
+'Best of the Best - Championship Karate (E) [h1]', No returned matches
+'Best of the Best - Championship Karate (E) [o1]', No returned matches
+'Best of the Best - Championship Karate (E) [x]', No returned matches
+'Best of the Best - Championship Karate (U) [c][!]', No returned matches
+'Beyond Oasis (4) [!]', No returned matches
+'Beyond Oasis (4) [b1]', No returned matches
+'Beyond Oasis (4) [b2]', No returned matches
+'Beyond Oasis (4) [h1]', No returned matches
+'Beyond Oasis (4) [h4]', No returned matches
+'Beyond Oasis (4) [h5]', No returned matches
+'Bible Adventures (Unl) [c][!]', No returned matches
+'Bill Walsh College Football 95 (JUE) [h1]', No returned matches
+'Beyond Oasis (4) [h3]', No returned matches
+'Bill Walsh College Football (UEJ) [c][!]', No returned matches
+'Best of the Best (beta)', No returned matches
+'Bill Walsh College Football 95 (U) [!]', No returned matches
+'Bimini Run (JU) [b1]', No returned matches
+'Bimini Run (JU) [!]', No returned matches
+'Bio-Hazard Battle (Aug 1992) (U) [t1].smd', No returned matches
+'Bio-Hazard Battle (Aug 1992) (U) [t1].bin', No returned matches
+'Bio-Hazard Battle (Aug 1992) (U) [x]', No returned matches
+'Bio-Hazard Battle (Sept 1992) (UE) [!]', No returned matches
+'Bioship Paladin (JU) [c][!].smd', No returned matches
+'Bioship Paladin (JU) [c][!].bin', No returned matches
+'Bioship Paladin (JU) [h1]', No returned matches
+'Bioship Paladin (JU) [h3]', No returned matches
+'Bioship Paladin (JU) [h2]', No returned matches
+'Blades of Vengence (EJU) [!]', No returned matches
+'Blackthorne 32X (4) [!]', No returned matches
+'Bill Walsh College Football 95 (JUE) [h2]', No returned matches
+'Bioship Paladin (JU) [p1]', No returned matches
+'Blades of Vengence (EJU) [h2]', No returned matches
+'Blades of Vengence (EJU) [h1]', No returned matches
+'Blaster Master 2 (U) [c][!]', No returned matches
+'Blaster Master 2 (U) [a1][h1]', No returned matches
+'Blaster Master 2 (U) [h1]', No returned matches
+'Blaster Master 2 (U) [a1][x]', No returned matches
+'Blaster Master 2 (U) [p1]', No returned matches
+'Block Out (U) [o1]', No returned matches
+'Blockbuster Competition 2 (NBA Jam-Judge Dredd) (JUE) [h1]', No returned matches
+'Blockbuster Competition 2 (NBA Jam-Judge Dredd) (JUE) [h2]', No returned matches
+'Block Out (U) [!]', No returned matches
+'Blockbuster Competition 2 (NBA Jam-Judge Dredd) (JUE)', No returned matches
+'Blood Shot (UE) [b1]', No returned matches
+'Blood Shot (UE) [h2]', No returned matches
+'Blood Shot (UE) [!]', No returned matches
+'Blood Shot (UE) [h3]', No returned matches
+'Blood Shot (UE) [h1]', No returned matches
+'Blue Almanac (J) [h1]', No returned matches
+'Body Count (E) [b1]', No returned matches
+'Body Count (E) [!]', No returned matches
+'Body Count (E) [h1]', No returned matches
+'Body Count (E) [h3]', No returned matches
+'Blue Almanac (J)', No returned matches
+'Body Count (E) [h4]', No returned matches
+'Bonanza Brothers (G-4046) (REV 00) (JUE) [!]', No returned matches
+'Bonanza Brothers (G-4046) (REV 00) (U) [a1]', No returned matches
+'Body Count (E) [h2]', No returned matches
+'Bonanza Brothers (G-4046) (REV 00) (JUE) [b1]', No returned matches
+'Bonanza Brothers (MK-1124) (REV 00) (UE) [!]', No returned matches
+'Boogerman (U) [!]', No returned matches
+'Bonkers (JUE) [!]', No returned matches
+'Bonkers (JUE) [h1]', No returned matches
+'Bonanza Brothers (G-4046) (REV 01) (JUE)', No returned matches
+'Boogerman (U) [h1]', No returned matches
+'Bram Stoker's Dracula (JUE) [!]', No returned matches
+'Boogerman (U) [h2]', No returned matches
+'Boxing Legends of the Ring (U) [!]', No returned matches
+'Boogie Woogie Bowling (J)', No returned matches
+'Braver Battle Saga - The Space Fighter (Chinese)', No returned matches
+'Brett Hull Hockey 95 (JUE) [!]', No returned matches
+'Breath of Fire 3 (Chinese)', No returned matches
+'Brett Hull Hockey 95 (JUE) [b2]', No returned matches
+'Brian Lara Cricket (Mar 1995) (JE) [c]', No returned matches
+'Brian Lara Cricket (Mar 1995) (JE) [h1]', No returned matches
+'Brian Lara Cricket (June 1995) (E) [c][!]', No returned matches
+'Brett Hull Hockey 95 (JUE) [b1]', No returned matches
+'Brian Lara Cricket 96 (Apr 1996) (E) [h1]', No returned matches
+'Brian Lara Cricket 96 (Apr 1996) (UE) [h1]', No returned matches
+'Brian Lara Cricket 96 (March 1996) (E) [c][!]', No returned matches
+'Brutal - Paws of Fury (E) [b1]', No returned matches
+'Brutal - Paws of Fury (E)', No returned matches
+'Brutal - Paws of Fury (U) [!]', No returned matches
+'Brutal - Paws of Fury (U) [h2]', No returned matches
+'Brutal - Paws of Fury (U) [h1]', No returned matches
+'Brutal - Paws of Fury (U) [h3]', No returned matches
+'Brutal Unleashed 32X (4) [!]', No returned matches
+'Bubba N Stix (E) [c][!]', No returned matches
+'Bubba N Stix (E) [h1]', No returned matches
+'Bubba N Stix (EUJ) [t1]', No returned matches
+'Bubba N Stix (EUJ) [t2]', No returned matches
+'Brian Lara Cricket 96 (Apr 1996) (E) [c]', No returned matches
+'Bubba N Stix (JUE) [h1]', No returned matches
+'Bubble and Squeek (U) [!]', No returned matches
+'Bubba N Stix (U) [!]', No returned matches
+'Bubble and Squeek (U) [h2]', No returned matches
+'Bubble and Squeek (U) [h1]', No returned matches
+'Bubble and Squeek (U) [h3]', No returned matches
+'Bubsy (JUE) [!]', No returned matches
+'Bubsy (JUE) [h1]', No returned matches
+'Bubsy 2 (JUE) [!]', No returned matches
+'Buck Rodgers - Countdown to Doomsday (U) [!]', No returned matches
+'Buck Rodgers - Countdown to Doomsday (U) [o1].bin', No returned matches
+'Buck Rodgers - Countdown to Doomsday (U) [f1]', No returned matches
+'Bubba N Stix (EUJ) [t3]', No returned matches
+'Budokan - The Martial Spirit (Unl) [h1]', No returned matches
+'Budokan - The Martial Spirit (Unl) [c][!]', No returned matches
+'Bugs Bunny in Double Trouble (4) [!]', No returned matches
+'Bulls vs Blazers and the NBA Playoffs (J) [!]', No returned matches
+'Bulls vs Blazers and the NBA Playoffs (UEJ) [!]', No returned matches
+'Bulls vs Blazers and the NBA Playoffs (J) [h1]', No returned matches
+'Bulls vs Lakers (U) [h1]', No returned matches
+'Buck Rodgers - Countdown to Doomsday (U) [o1].smd', No returned matches
+'Burning Force (J)', No returned matches
+'Burning Force (U) [!]', No returned matches
+'Burning Force (U) [h1]', No returned matches
+'Bulls vs Lakers (NBA Pro Basketball) (J) [!]', No returned matches
+'Bulls vs Lakers (U) [!]', No returned matches
+'CDX Pro BIOS V1.8I (Unl)', No returned matches
+'Cadash (U) [c][!]', No returned matches
+'Caesars Palace (U) [!].bin', No returned matches
+'Caesars Palace (U) [!].smd', No returned matches
+'Cal Ripken Jr. Baseball (U) [h1]', No returned matches
+'Cal Ripken Jr. Baseball (U) [c][!]', No returned matches
+'CDX Pro BIOS V1.8I (Unl) [o1]', No returned matches
+'Cal Ripken Jr. Baseball (U) [h2]', No returned matches
+'Caliber Fifty (J) [b1]', No returned matches
+'California Games (U) [!]', No returned matches
+'California Games (U) [T-Port_FjM]', No returned matches
+'California Games (U) [h1].smd', No returned matches
+'California Games (U) [h1].bin', No returned matches
+'California Games (U) [p1]', No returned matches
+'California Games (U) [p2]', No returned matches
+'Cannon Fodder (E) [!]', No returned matches
+'Cannon Fodder (E) [b1]', No returned matches
+'Cannon Fodder (E) [o1]', No returned matches
+'Cannon Fodder (E) [o1][b1]', No returned matches
+'Cannon Fodder (E) [o1][h1]', No returned matches
+'Caliber Fifty (J) [!]', No returned matches
+'Captain America and the Avengers (E)', No returned matches
+'Captain America and the Avengers (J) [!]', No returned matches
+'Captain America and the Avengers (J) [a1]', No returned matches
+'Captain America and the Avengers (J) [a1][b1]', No returned matches
+'Captain America and the Avengers (J) [h1]', No returned matches
+'Captain Planet and the Planeteers (Dec 1992) (U) [h1]', No returned matches
+'Captain Planet and the Planeteers (Dec 1992) (U) [h2]', No returned matches
+'Captain Planet and the Planeteers (Dec 1992) (U)', No returned matches
+'Captain Planet and the Planeteers (Nov 1992) (U) [R-Eur][!]', No returned matches
+'Castlevania - Bloodlines (U) [!].bin', No returned matches
+'Castlevania - Bloodlines (U) [!].smd', No returned matches
+'Castlevania - Bloodlines (U) [h1]', No returned matches
+'Castlevania - The New Generation (E) [a1][h1]', No returned matches
+'Castlevania - Bloodlines (U) [h2]', No returned matches
+'Castlevania - The New Generation (E) [!]', No returned matches
+'Censor 3D Demo (PD)', No returned matches
+'Censor Intro (PD)', No returned matches
+'Censor Smiley Face Demo (PD)', No returned matches
+'Censor Movie Trailer Demo (PD)', No returned matches
+'Centurion - Defender of Rome (U) [c][!]', No returned matches
+'Centurion - Defender of Rome (U) [b1]', No returned matches
+'Centurion - Defender of Rome (U) [o1]', No returned matches
+'Chakan - The Forever Man (U) [!].bin', No returned matches
+'Capt'n Havoc (E) [!]', No returned matches
+'Chakan - The Forever Man (U) [!].smd', No returned matches
+'Champions World Class Soccer (JUE) [!]', No returned matches
+'Chakan - The Forever Man (U) [b1]', No returned matches
+'Champions World Class Soccer (JUE) [b1]', No returned matches
+'Champions World Class Soccer (JUE) [h1]', No returned matches
+'Champions World Class Soccer (JUE) [h2]', No returned matches
+'Championship Bowling (U) [!].bin', No returned matches
+'Championship Bowling (U) [!].smd', No returned matches
+'Championship Pool (U) [!].bin', No returned matches
+'Championship Pro Am (U) [b1]', No returned matches
+'Championship Pro Am (U) [c][!]', No returned matches
+'Championship Pool (U) [!].smd', No returned matches
+'Championship Pro Am (U) [h1]', No returned matches
+'Championship Pro Am (U) [h3]', No returned matches
+'Chaos Engine 2, The (E) [a1]', No returned matches
+'Chaos Engine 2, The (E) [h1]', No returned matches
+'Champions World Class Soccer (JUE) [o1]', No returned matches
+'Chaos Engine 2, The (E) [x]', No returned matches
+'Chaos Engine, The (E) [!]', No returned matches
+'Championship Pro Am (U) [h2]', No returned matches
+'Chaos Engine, The (E) [o1]', No returned matches
+'Chaos Engine, The (E) [o1][b1]', No returned matches
+'Chase HQ 2 (JUE) [!].bin', No returned matches
+'Chavez 2 (U)', No returned matches
+'Chase HQ 2 (JUE) [!].smd', No returned matches
+'Chelnov (J)', No returned matches
+'Chester Cheetah (U) [c][!]', No returned matches
+'Chester Cheetah 2 - Wild Wild Quest (U) [h1]', No returned matches
+'Chester Cheetah 2 - Wild Wild Quest (U) [!]', No returned matches
+'Chi Chi's Pro Challenge (U) [b1]', No returned matches
+'Chi Chi's Pro Challenge (U) [!]', No returned matches
+'Chi Chi's Pro Challenge (U) [h1]', No returned matches
+'Chibi Maruko Chan Wakuwaku Shopping (J) [b1]', No returned matches
+'Chavez 2 (U) [h1]', No returned matches
+'Chibi Maruko Chan Wakuwaku Shopping (J) [x]', No returned matches
+'Chi Chi's Pro Challenge (U) [b2]', No returned matches
+'Chiki Chiki Boys (J)', No returned matches
+'Chiki Chiki Boys (U) [!]', No returned matches
+'Chou Yakkyou Miracle Nine (1) [!]', No returned matches
+'Chuck Rock (U) [c][!]', No returned matches
+'Chuck Rock (U) [h1]', No returned matches
+'Chuck Rock (U) [t2]', No returned matches
+'Chuck Rock (U) [t1]', No returned matches
+'Chuck Rock 2 (E) [c][!]', No returned matches
+'Chuck Rock 2 (J)', No returned matches
+'Chuck Rock 2 (beta) [h1]', No returned matches
+'Chuck Rock 2 (beta) [h2].bin', No returned matches
+'Chuck Rock 2 (beta) [h2].smd', No returned matches
+'Chinese Chess (Chinese)', No returned matches
+'Chuck Rock 2 (U) [!]', No returned matches
+'Chuck Rock 2 (beta) [h3].bin', No returned matches
+'Chuck Rock 2 (beta) [h4]', No returned matches
+'Chuck Rock 2 (beta) [h3].smd', No returned matches
+'Chuck Rock 2 (beta)', No returned matches
+'Chuck's Excellent Art Tool Animator (JUE) [a1][c][!]', No returned matches
+'Chuck's Excellent Art Tool Animator (JUE) [c][!]', No returned matches
+'Clay Fighter (JUE) [h2]', No returned matches
+'Clay Fighter (U) [!].smd', No returned matches
+'Clay Fighter (U) [!].bin', No returned matches
+'Clay Fighter (U) [h1]', No returned matches
+'Cliffhanger (U) [c][!]', No returned matches
+'Cliffhanger (U) [h1]', No returned matches
+'Cliffhanger (U) [h2]', No returned matches
+'Clue (U) [!]', No returned matches
+'Clue (U) [h1]', No returned matches
+'Clue (U) [h2]', No returned matches
+'Clue (U) [h3].bin', No returned matches
+'Clue (U) [h3].smd', No returned matches
+'Coach K College Basketball (U) [!]', No returned matches
+'College Football USA 96 (4) [o1]', No returned matches
+'Chuck Rock 2 (beta) [h5]', No returned matches
+'College Football's National Championship (94) (U) [!]', No returned matches
+'College Football's National Championship (94) (U) [h1]', No returned matches
+'College Football's National Championship (94) (U) [o1]', No returned matches
+'College Football USA 97 (4) [!]', No returned matches
+'College Football's National Championship 2 (95) (F) [!]', No returned matches
+'College Football's National Championship 2 (95) (F) [b1]', No returned matches
+'College Slam (4) [!]', No returned matches
+'College Slam (4) [h2]', No returned matches
+'College Slam (4) [h1]', No returned matches
+'Columns (REV 00) (JU) [p1]', No returned matches
+'College Football USA 96 (4) [!]', No returned matches
+'Columns (REV 01) (JU) [!]', No returned matches
+'Columns 3 - Revenge of Columns (J)', No returned matches
+'Columns (REV 01) (JU) [o1]', No returned matches
+'Columns 3 - Revenge of Columns (U) [!]', No returned matches
+'Columns 3 - Revenge of Columns (U) [h1]', No returned matches
+'Columns 3 - Revenge of Columns (U) [h2]', No returned matches
+'Columns 3 - Revenge of Columns (U) [h3]', No returned matches
+'Columns 3 - Revenge of Columns (U) [h4]', No returned matches
+'Columns 3 - Revenge of Columns (U) [h5]', No returned matches
+'Combat Aces (beta) [h1]', No returned matches
+'Combat Aces (beta)', No returned matches
+'Combat Cars (JUE) [!]', No returned matches
+'Combat Cars (JUE) [h1]', No returned matches
+'Combat Cars (JUE) [o1]', No returned matches
+'Combat Cars (JUE) [o1][h1]', No returned matches
+'Comix Zone (1) [!]', No returned matches
+'Comix Zone (4) [!]', No returned matches
+'Comix Zone (4) [h1]', No returned matches
+'Columns (REV 00) (JU)', No returned matches
+'Comix Zone (beta) [b1]', No returned matches
+'Comix Zone (A)', No returned matches
+'Comix Zone (beta)', No returned matches
+'Comix Zone (beta) [b2]', No returned matches
+'Conquering the World 3 (Chinese)', No returned matches
+'Contra - Hard Corps (J) [!]', No returned matches
+'Contra - Hard Corps (J) [h3]', No returned matches
+'Contra - Hard Corps (J) [h1]', No returned matches
+'Contra - Hard Corps (J) [h2]', No returned matches
+'Contra - Hard Corps (J) [h4]', No returned matches
+'Contra - Hard Corps (J) [p1]', No returned matches
+'Contra - Hard Corps (J) [t2]', No returned matches
+'Contra - Hard Corps (J) [t1]', No returned matches
+'Contra - Hard Corps (U) [T-Port_BRGames]', No returned matches
+'Contra - Hard Corps (U) [!]', No returned matches
+'Contra - Hard Corps (U) [b1]', No returned matches
+'Contra - Hard Corps (U) [h1]', No returned matches
+'Cool Spot (2) - Spot Goes to Hollywood (E) [b1]', No returned matches
+'Cool Spot (2) - Spot Goes To Hollywood (4) (REV 01) [!]', No returned matches
+'Cool Spot (2) - Spot Goes To Hollywood (E) [h1]', No returned matches
+'Cool Spot (2) - Spot Goes to Hollywood (UE) [h1]', No returned matches
+'Cool Spot (JUE) [h1]', No returned matches
+'Cool Spot (2) - Spot Goes to Hollywood (UE)', No returned matches
+'Cool Spot (E)', No returned matches
+'Cool Spot (JUE) [h2]', No returned matches
+'Cool Spot (U) [!]', No returned matches
+'Cool Spot (beta) [h1]', No returned matches
+'Comix Zone (4) [h2]', No returned matches
+'Cool Spot (beta)', No returned matches
+'Corporation (E) [b1]', No returned matches
+'Cosmic Carnage 32X (5) [!]', No returned matches
+'Cosmic Spacehead (E) [c][!].bin', No returned matches
+'Cosmic Spacehead (E) [c][!].smd', No returned matches
+'Cosmic Carnage 32X (A) [!]', No returned matches
+'Cosmic Spacehead (E) [h1]', No returned matches
+'Crack Down (J) [!]', No returned matches
+'Corporation (E) [c][!]', No returned matches
+'Crack Down (J) [a1]', No returned matches
+'Crack Down (UE) [!]', No returned matches
+'Crayon Shin-chan (J)', No returned matches
+'CrossFire (J) [c][!]', No returned matches
+'CrossFire (J) [h1]', No returned matches
+'Crue Ball (U) [!].bin', No returned matches
+'Crack Down (J) [h1]', No returned matches
+'Crue Ball (U) [!].smd', No returned matches
+'Crusader of Centy (U) [!]', No returned matches
+'Crying (J) [h1]', No returned matches
+'Crying (J)', No returned matches
+'Crystal's Pony Tale (U) [!]', No returned matches
+'Crystal's Pony Tale (U) [h1]', No returned matches
+'Crude Busters (J)', No returned matches
+'Crystal's Pony Tale (U) [h2]', No returned matches
+'Crystal's Pony Tale (U) [h3]', No returned matches
+'Curse (J) [!]', No returned matches
+'Curse (J) [h1]', No returned matches
+'Cutthroat Island (F) [!]', No returned matches
+'Cyber-Cop (UJ) [c][!]', No returned matches
+'CyberBall (JU) [!]', No returned matches
+'Cyber-Cop (UJ) [h1]', No returned matches
+'Crystal's Pony Tale (U) [b1]', No returned matches
+'CyberBall (JU) [b2]', No returned matches
+'Cyborg Justice (U) [!]', No returned matches
+'CyberBall (JU) [b1]', No returned matches
+'Cyborg Justice (U) [h1].bin', No returned matches
+'Cyborg Justice (U) [h1].smd', No returned matches
+'Cyborg Justice (U) [h2]', No returned matches
+'D&D - Warriors of the Eternal Sun (U) [h1]', No returned matches
+'D&D - Warriors of the Eternal Sun (U) [!]', No returned matches
+'DJ Boy (Kaneko) (U) [!]', No returned matches
+'D&D - Warriors of the Eternal Sun (U) [a1]', No returned matches
+'DJ Boy (Sega) (J) [h1]', No returned matches
+'DJ Boy (Sega) (J)', No returned matches
+'Daffy Duck in Hollywood (beta)', No returned matches
+'DJ Boy (Sega) (J) [p1]', No returned matches
+'Daffy Duck in Hollywood (JUE) [!]', No returned matches
+'Dahna Megami Tanjyo (J) [b1]', No returned matches
+'Dahna Megami Tanjyo (J) [!]', No returned matches
+'Dai Konsen (General Chaos) (UJ) [R-Jap]', No returned matches
+'Dai Makaimura (REV 00) (J) [!]', No returned matches
+'Dai Makaimura (REV 01) (J)', No returned matches
+'Dai Makaimura (REV 00) (J) [o1]', No returned matches
+'Daikoukai Jidai (J) [x]', No returned matches
+'Daikoukai Jidai II (J) [T-Chinese]', No returned matches
+'Daikoukai Jidai II (J) [a1]', No returned matches
+'Daikoukai Jidai II (J)', No returned matches
+'Dangerous Seed (J) [!]', No returned matches
+'Dangerous Seed (J) [h2]', No returned matches
+'Dangerous Seed (J) [h1]', No returned matches
+'Darius 2 (J) [c][!]', No returned matches
+'Darius 2 (J) [h1]', No returned matches
+'Dark Castle (U) [!].bin', No returned matches
+'Dark Castle (U) [!].smd', No returned matches
+'Darwin 4081 (J) [!]', No returned matches
+'Darwin 4081 (J) [h1]', No returned matches
+'Darxide 32X (A) [!]', No returned matches
+'Dashin' Desperadoes (U) [!]', No returned matches
+'Dashin' Desperadoes (U) [h1]', No returned matches
+'Dashin' Desperadoes (U) [h3]', No returned matches
+'David Crane's Amazing Tennis (U) [!]', No returned matches
+'Dashin' Desperadoes (beta)', No returned matches
+'Dashin' Desperadoes (U) [h2]', No returned matches
+'David Crane's Amazing Tennis (U) [b1]', No returned matches
+'David Crane's Amazing Tennis (U) [b2]', No returned matches
+'David Robinson's Basketball (J) [!]', No returned matches
+'David Robinson's Supreme Court (U) [!]', No returned matches
+'Davis Cup World Tour Tennis (July 1993) (UJE) [!]', No returned matches
+'Davis Cup World Tour Tennis (June 1993) (UJE)', No returned matches
+'Davis Cup World Tour Tennis 2 (E) (beta 7-10-94)', No returned matches
+'Davis Cup World Tour Tennis 2 (U) (beta 7-28-94) [b1]', No returned matches
+'Davis Cup World Tour Tennis 2 (U) (beta 7-28-94) [h1]', No returned matches
+'Davis Cup World Tour Tennis 2 (U) (beta 7-28-94)', No returned matches
+'Daze Before Christmas, The (E) [!]', No returned matches
+'Daze Before Christmas, The (beta) [a1]', No returned matches
+'Darius 2 (J) [h2]', No returned matches
+'Daze Before Christmas, The (beta)', No returned matches
+'Deadly Moves (J) [!]', No returned matches
+'Deadly Moves (J) [h1]', No returned matches
+'Death Duel (EU) [!]', No returned matches
+'Death and Return of Superman, The (U) [!]', No returned matches
+'Death and Return of Superman, The (U) [h1]', No returned matches
+'Deadly Moves (U) [h1]', No returned matches
+'Decap Attack (UE) [!]', No returned matches
+'Decap Attack (UE) [p1][!]', No returned matches
+'Death and Return of Superman, The (U) [h2]', No returned matches
+'Demolition Man (F) [!]', No returned matches
+'Demolition Man (F) [b1]', No returned matches
+'Decap Attack (UJ)', No returned matches
+'Desert Demolition (UJE) [!]', No returned matches
+'Desert Demolition (UJE) [h1]', No returned matches
+'Demolition Man (beta)', No returned matches
+'Desert Strike - Return to the Gulf (U) [!].smd', No returned matches
+'Desert Strike - Return to the Gulf (U) [p1][!]', No returned matches
+'Desert Strike - Return to the Gulf (U) [!].bin', No returned matches
+'Devil Crash MD (J) [!]', No returned matches
+'Devil Crash MD (J) [p1][!]', No returned matches
+'Devil Hunter Yohko - The Seven Bells (J) [a1]', No returned matches
+'Devil Hunter Yohko - The Seven Bells (J) [t1]', No returned matches
+'Devil Hunter Yohko - The Seven Bells (J) [t3]', No returned matches
+'Devil Hunter Yohko - The Seven Bells (J)', No returned matches
+'Devil Hunter Yohko - The Seven Bells (J) [t2]', No returned matches
+'Devilish (U) [c][!]', No returned matches
+'Devilish (U) [h1]', No returned matches
+'Devil's Course 3-D Golf (J) [!]', No returned matches
+'Devilish Mahjong Tower (Unl) [h2]', No returned matches
+'Devilish Mahjong Tower (Unl) [h1]', No returned matches
+'Dick Tracy (JUE) [c][!]', No returned matches
+'Dick Vitale's Awesome Baby! College Hoops (UJE) [!]', No returned matches
+'Dino Dini's Soccer (E)', No returned matches
+'Dino Land (JU) [!]', No returned matches
+'Dino Land (JU) [a1]', No returned matches
+'Dinosaurs for Hire (U) [!]', No returned matches
+'Devilish Mahjong Tower (Unl) [c]', No returned matches
+'Dick Tracy (JUE) [h1]', No returned matches
+'Disney Collection - Castle of Illusion & Quackshot (F) [!]', No returned matches
+'Dinosaurs for Hire (U) [h1].smd', No returned matches
+'Divine Sealing (JU) [a1]', No returned matches
+'Dodge Ball - Kuy Kid (J) [h2]', No returned matches
+'Dinosaurs for Hire (U) [h1].bin', No returned matches
+'Dodge Ball - Kuy Kid (J)', No returned matches
+'Dominus (JUE) [o1]', No returned matches
+'Dominus (JUE) [o1][h1]', No returned matches
+'Dodge Ball - Kuy Kid (J) [h1]', No returned matches
+'Dominus (JUE) [x]', No returned matches
+'Divine Sealing (JU) [x]', No returned matches
+'Donald Duck in Maui Mallard (A) [!]', No returned matches
+'Donald Duck in Maui Mallard (A) [b1]', No returned matches
+'Doom 32X (E) [!]', No returned matches
+'Doom 32X (JU) [!]', No returned matches
+'Doom Troopers - The Mutant Chronicles (4) [b1]', No returned matches
+'Doom Troopers - The Mutant Chronicles (4) [c][!]', No returned matches
+'Dominus (JUE) [o2]', No returned matches
+'Doom Troopers - The Mutant Chronicles (4) [h1]', No returned matches
+'Doraemon Yume Dorobouto 7 Nin No Gozansu (J) [h1]', No returned matches
+'Doraemon Yume Dorobouto 7 Nin No Gozansu (J) [h3]', No returned matches
+'Doraemon Yume Dorobouto 7 Nin No Gozansu (J) [h4]', No returned matches
+'Doraemon Yume Dorobouto 7 Nin No Gozansu (J) [h2]', No returned matches
+'Doraemon Yume Dorobouto 7 Nin No Gozansu (J) [x]', No returned matches
+'Double Clutch (JUE) [c][!]', No returned matches
+'Double Dragon (U) [!].smd', No returned matches
+'Double Clutch (JUE) [h1]', No returned matches
+'Double Dragon (U) [b1]', No returned matches
+'Double Dragon (U) [h1]', No returned matches
+'Double Dragon 2 (J) [!]', No returned matches
+'Double Dragon 3 (U) [!]', No returned matches
+'Double Dragon (U) [!].bin', No returned matches
+'Double Dragon 3 (U) [h2]', No returned matches
+'Double Dragon 3 (U) [h3]', No returned matches
+'Double Dragon 3 (U) [t1]', No returned matches
+'Double Dragon 5 (JUE) [h1]', No returned matches
+'Double Dragon 5 (U) [!]', No returned matches
+'Double Dragon 5 (U) [b1]', No returned matches
+'Double Dribble - Playoff Edition (U) [!]', No returned matches
+'Double Dragon 5 (U) [h1]', No returned matches
+'Double Dribble - Playoff Edition (U) [h1]', No returned matches
+'Double Dragon 3 (U) [h1]', No returned matches
+'Dr. Robotnik's Mean Bean Machine (U) [!]', No returned matches
+'Dr. Robotnik's Mean Bean Machine (U) [h1]', No returned matches
+'Dr. Robotnik's Mean Bean Machine (beta) [h1]', No returned matches
+'Dragon - The Bruce Lee Story (E)', No returned matches
+'Dr. Robotnik's Mean Bean Machine (beta)', No returned matches
+'Dragon - The Bruce Lee Story (JUE) [h1]', No returned matches
+'Dragon - The Bruce Lee Story (U) [!]', No returned matches
+'Dragon - The Bruce Lee Story (U) [p1]', No returned matches
+'Dragon Ball Z (E) (French) [h1]', No returned matches
+'Dragon Ball Z (E) (French)', No returned matches
+'Dragon Ball Z - Bu Yu Retsuden (J) [!]', No returned matches
+'Dragon Ball Z - Bu Yu Retsuden (J) [b1]', No returned matches
+'Dragon Ball Z - Bu Yu Retsuden (J) [h2]', No returned matches
+'Dr. Robotnik's Mean Bean Machine (J) [x]', No returned matches
+'Dragon Ball Z - Bu Yu Retsuden (J) [h4]', No returned matches
+'Dragon Ball Z - Bu Yu Retsuden (J) [h1]', No returned matches
+'Dragon Slayer (J) [!]', No returned matches
+'Dragon Slayer 2 - Legend of Heroes (B) [!]', No returned matches
+'Dragon Slayer (J) [h1]', No returned matches
+'Dragon Slayer 2 - Legend of Heroes (B) [h1]', No returned matches
+'Dragon's Eye - Shanghai 3 (J) [b1]', No returned matches
+'Dragon's Eye - Shanghai 3 (J)', No returned matches
+'Dragon's Fury (UE) [!]', No returned matches
+'Dragon's Revenge (JUE) [!]', No returned matches
+'Duke Nukem 3D (F) [h1]', No returned matches
+'Draxos (J)', No returned matches
+'Duke Nukem 3D (F) [h2]', No returned matches
+'Dragon Ball Z - Bu Yu Retsuden (J) [h3]', No returned matches
+'Dune - Der Kampf um den Wuestenplaneten (E) (German) [h1]', No returned matches
+'Dune - Der Kampf um den Wuestenplaneten (E) (German)', No returned matches
+'Dune - The Battle for Arrakis (E) [b1]', No returned matches
+'Dune - The Battle for Arrakis (E) [h1]', No returned matches
+'Dune - The Battle for Arrakis (E) [h2]', No returned matches
+'Dune - The Battle for Arrakis (E) [h3]', No returned matches
+'Dune - The Battle for Arrakis (E)', No returned matches
+'Dune - The Building of a Dynasty (U) [!]', No returned matches
+'Dyna Brothers (J)', No returned matches
+'Duke Nukem 3D (F)', No returned matches
+'Dynamite Duke (JU) [a1][!].bin', No returned matches
+'Dynamite Duke (JU) [!]', No returned matches
+'Dynamite Duke (JU) [a1][!].smd', No returned matches
+'Dynamite Duke (JU) [h1]', No returned matches
+'Dynamite Duke (JU) [h2]', No returned matches
+'Dynamite Headdy (J) [h1]', No returned matches
+'Dynamite Headdy (J) [c][!]', No returned matches
+'Dynamite Headdy (J) [h2]', No returned matches
+'Dyna Brothers 2 (J) [!]', No returned matches
+'Dynamite Headdy (J) [h3]', No returned matches
+'Dynamite Headdy (J) [t1]', No returned matches
+'Dynamite Headdy (J) [t2]', No returned matches
+'Dynamite Headdy (UE) [c][!]', No returned matches
+'Dynamite Headdy (beta) [h1]', No returned matches
+'Dynamite Headdy (beta) [h2]', No returned matches
+'PGA European Tour (UEJ) [!]', No returned matches
+'PGA European Tour (UEJ) [h2]', No returned matches
+'PGA Tour 96 (F) [!]', No returned matches
+'PGA Tour Golf (REV 01) (U) [!]', No returned matches
+'PGA Tour Golf (REV 02) (U) [!]', No returned matches
+'PGA Tour Golf (REV 02) (U) [o1]', No returned matches
+'PGA Tour Golf 2 (J) [o1]', No returned matches
+'PGA Tour Golf 2 (J)', No returned matches
+'PGA European Tour (UEJ) [h1]', No returned matches
+'PGA Tour Golf 2 (REV 00) (UEJ) [c][!]', No returned matches
+'PGA Tour Golf 2 (REV 01) (UEJ) [!]', No returned matches
+'PGA Tour Golf 3 (UEJ) [!]', No returned matches
+'PGA Tour Golf 3 (UEJ) [h1]', No returned matches
+'Pac-Attack (U) [!].bin', No returned matches
+'Pac-Attack (U) [!].smd', No returned matches
+'Pac-Attack (U) [h1]', No returned matches
+'Pac-Mania (U) [!].bin', No returned matches
+'Pac-Mania (U) [!].smd', No returned matches
+'Pachinko Canyon (J)', No returned matches
+'Pac-Mania (U) [T-Port_=EEP=]', No returned matches
+'Pac-Man 2 - The New Adventures (U) [!].smd', No returned matches
+'Pac-Man 2 - The New Adventures (U) [!].bin', No returned matches
+'Pacific Theater of Operations (U) [!]', No returned matches
+'Pacific Theater of Operations (U) [b1]', No returned matches
+'Pagemaster, The (JUE) [a1][h1]', No returned matches
+'Pacific Theater of Operations (J) [c][!]', No returned matches
+'Pagemaster, The (JUE) [a1][x]', No returned matches
+'Pagemaster, The (E)', No returned matches
+'Pagemaster, The (U) [!]', No returned matches
+'Pagemaster, The (U) [h1]', No returned matches
+'Panorama Cotton (J) [h1]', No returned matches
+'Panzer Commander (J) [a1]', No returned matches
+'Panzer Commander (J) [b1]', No returned matches
+'Panzer Commander (J)', No returned matches
+'Paperboy 2 (JUE) [!]', No returned matches
+'Paperboy (JUE) [!]', No returned matches
+'Paperboy 2 (U) [h1]', No returned matches
+'Pat Riley Basketball (U) [!]', No returned matches
+'Pat Riley Basketball (U) [b1]', No returned matches
+'Patlabor (JU) [x]', No returned matches
+'Pebble Beach Golf Links (E) [h1]', No returned matches
+'Pebble Beach Golf Links (E) [h2]', No returned matches
+'Pebble Beach Golf Links (E)', No returned matches
+'Pebble Beach Golf Links (J)', No returned matches
+'Pebble Beach Golf Links (U) [!]', No returned matches
+'Pele! (JUE) [!]', No returned matches
+'Pele! (U) [h1]', No returned matches
+'Panorama Cotton (J) [x]', No returned matches
+'Pengo (F) [!]', No returned matches
+'Pete Sampras Tennis (E) (J-Cart) [c][!]', No returned matches
+'Pete Sampras Tennis 96 (E) [c][!]', No returned matches
+'Pele's World Tournament Soccer (JUE) [!]', No returned matches
+'Phantasy Star 2 (J) [o1]', No returned matches
+'Phantasy Star 2 (J) [p1]', No returned matches
+'Phantasy Star 2 (J) [o1][b1]', No returned matches
+'Phantasy Star 2 (J) [p1][o1]', No returned matches
+'Phantasy Star 2 (J) [x]', No returned matches
+'Phantasy Star 2 (REV 01) (UE) [T-Port]', No returned matches
+'Phantasy Star 2 (REV 01) (UE) [b1]', No returned matches
+'Phantasy Star 2 (REV 01) (UE) [a1]', No returned matches
+'Phantasy Star 2 (REV 01) (UE) [o1][T-Port]', No returned matches
+'Phantasy Star 2 (REV 01) (UE)', No returned matches
+'Phantasy Star 2 (REV 02) (UE) [!]', No returned matches
+'Phantasy Star 2 (REV 02) (UE) [o1]', No returned matches
+'Pete Sampras Tennis (JUE) [x]', No returned matches
+'Phantasy Star 3 - Generations of Doom (J) [o1]', No returned matches
+'Phantasy Star 3 - Generations of Doom (J)', No returned matches
+'Phantasy Star 3 - Generations of Doom (UE) [!]', No returned matches
+'Phantasy Star 3 - Generations of Doom (UE) [T-French2]', No returned matches
+'Phantasy Star 3 - Generations of Doom (UE) [b1]', No returned matches
+'Phantasy Star 3 - Generations of Doom (UE) [h1]', No returned matches
+'Phantasy Star 3 - Generations of Doom (UE) [o1]', No returned matches
+'Phantasy Star 3 - Generations of Doom (UE) [o1][T-French3]', No returned matches
+'Phantasy Star 3 - Generations of Doom (UE) [o2]', No returned matches
+'Phantasy Star 4 - The End of The Millenium (4) [!]', No returned matches
+'Phantasy Star 4 - The End of The Millenium (4) [b1]', No returned matches
+'Phantasy Star 3 - Generations of Doom (F) [T-Port]', No returned matches
+'Phantasy Star 4 - The End of The Millenium (4) [b3]', No returned matches
+'Phantasy Star 4 - The End of The Millenium (4) [b4]', No returned matches
+'Phantasy Star 3 - Generations of Doom (UE) [o1][T-French1]', No returned matches
+'Phantasy Star 4 - The End of The Millenium (4) [h1]', No returned matches
+'Phantasy Star 4 - The End of The Millenium (4) [h2]', No returned matches
+'Phantasy Star 4 - The End of The Millenium (4) [h3]', No returned matches
+'Phantasy Star 4 - The End of The Millenium (J) [h1]', No returned matches
+'Phantasy Star 4 - The End of The Millenium (J) [!]', No returned matches
+'Phantom 2040 (4) [!]', No returned matches
+'Phantom 2040 (8)', No returned matches
+'Phelios (J) [c][!]', No returned matches
+'Phelios (J) [h1]', No returned matches
+'Phantasy Star 4 - The End of The Millenium (4) [b2]', No returned matches
+'Phelios (U) [c][!].bin', No returned matches
+'Phelios (U) [c][!].smd', No returned matches
+'Phelios (U) [h1]', No returned matches
+'Phelios (U) [h2]', No returned matches
+'Pink Goes to Hollywood (U) [!]', No returned matches
+'Pink Goes to Hollywood (U) [a1][h1].bin', No returned matches
+'Pink Goes to Hollywood (U) [a1][h1].smd', No returned matches
+'Pink Goes to Hollywood (UE) [h1]', No returned matches
+'Pink Goes to Hollywood (U) [a1][h2]', No returned matches
+'Pinocchio (4) [!]', No returned matches
+'Pinocchio (8) [h1]', No returned matches
+'Pinocchio (8) [h2]', No returned matches
+'Pirates Gold (U) [!]', No returned matches
+'Pinocchio (8)', No returned matches
+'Pirates Gold (U) [f1]', No returned matches
+'Pirates Gold (U) [h1]', No returned matches
+'Pirates Gold (beta) [f1]', No returned matches
+'Pirates Gold (beta) [h1]', No returned matches
+'Pirates Gold (beta) [h2]', No returned matches
+'Pirates Gold (beta) [h3]', No returned matches
+'Pirates Gold (beta) [h4]', No returned matches
+'Phelios (J) [p1][!]', No returned matches
+'Pirates of Dark Water, The (Jan 1994) (U) [!]', No returned matches
+'Pirates of Dark Water, The (May 1994) (UEJ) [b1]', No returned matches
+'Pirates of Dark Water, The (May 1994) (UEJ) [h1]', No returned matches
+'Pirates of Dark Water, The (May 1994) (UEJ) [h2]', No returned matches
+'Pirates of Dark Water, The (May 1994) (UEJ) [h3]', No returned matches
+'Pirates of Dark Water, The (May 1994) (UEJ) [h4]', No returned matches
+'Pirates of Dark Water, The (May 1994) (UEJ) [h5]', No returned matches
+'Pirates of Dark Water, The (May 1994) (UEJ) [h6]', No returned matches
+'Pirates of Dark Water, The (May 1994) (UEJ) [t1]', No returned matches
+'Pirates of Dark Water, The (May 1994) (UEJ)', No returned matches
+'Pit Fighter (July 1991) (UJE) [T-Port_Felipe-17]', No returned matches
+'Pit Fighter (July 1991) (UJE)', No returned matches
+'Pit Fighter (Oct 1991) (UJE) [!]', No returned matches
+'Pirates Gold (beta)', No returned matches
+'Pitfall - The Mayan Adventure (U) [h2]', No returned matches
+'Pitfall - The Mayan Adventure (U) [h3]', No returned matches
+'Pitfall 32X (4) [!]', No returned matches
+'Pitfall - The Mayan Adventure (U) [h4]', No returned matches
+'Pocahontas (4) [!]', No returned matches
+'Pocahontas (4) [b1]', No returned matches
+'Pitfall - The Mayan Adventure (U) [h1]', No returned matches
+'Pocahontas (4) [b2]', No returned matches
+'Pocket Monsters (Unl) [c][!]', No returned matches
+'Pitfall - The Mayan Adventure (U) [!]', No returned matches
+'Pocket Monsters 2 (Unl) [c][!]', No returned matches
+'Pong Demo Code 1 by P Bosquet (PD)', No returned matches
+'Populous (U) [!]', No returned matches
+'Populous (U) [R-Eur][!]', No returned matches
+'Populous (U) [a1]', No returned matches
+'Populous 2 - Two Tribes (E) [!]', No returned matches
+'Populous 2 - Two Tribes (E) [h1]', No returned matches
+'Populous 2 - Two Tribes (E) [h2]', No returned matches
+'Populous 2 - Two Tribes (E) [h3]', No returned matches
+'Populous 2 - Two Tribes (E) [h4]', No returned matches
+'Populous 2 - Two Tribes (E) [h5]', No returned matches
+'Populous 2 - Wrath of the Gods (U) [h1]', No returned matches
+'Power Athlete (J)', No returned matches
+'Populous 2 - Wrath of the Gods (U)', No returned matches
+'Power Drive (EJU) [!]', No returned matches
+'Pong Demo 6 by Paul Lee (PD)', No returned matches
+'Power Drive (EJU) [b1]', No returned matches
+'Power Drive (EJU) [a1][x]', No returned matches
+'Power Instinct (J) [b1]', No returned matches
+'Power Monger (J) [o1]', No returned matches
+'Power Instinct (J) [h1]', No returned matches
+'Power Monger (J)', No returned matches
+'Powerball (U) [c][!]', No returned matches
+'Power Monger (UEJ) [R-USA][!]', No returned matches
+'Powerball (U) [h1]', No returned matches
+'Predator 2 (JUE) [!]', No returned matches
+'Predator 2 (JUE) [h1]', No returned matches
+'Power Instinct (J) [!]', No returned matches
+'Premier Manager 97 (8) [!]', No returned matches
+'Premier Manager 97 (UJE) [h1]', No returned matches
+'Pretty Girl Mahjongg (Chinese) [h1]', No returned matches
+'Pretty Girl Mahjongg (Chinese)', No returned matches
+'Primal Rage (F) [!]', No returned matches
+'Primal Rage (F) [o1]', No returned matches
+'Primal Rage 32X (F) [!]', No returned matches
+'Prince of Persia (E) (beta)', No returned matches
+'Prince of Persia (E) [h1]', No returned matches
+'Prince of Persia (E) [h2]', No returned matches
+'Prince of Persia (E) [h3]', No returned matches
+'Prince of Persia (E) [h4]', No returned matches
+'Prince of Persia (U) [!]', No returned matches
+'Prince of Persia (UE) (beta) [h1]', No returned matches
+'Premier Manager (E) [!]', No returned matches
+'Pro Quarterback (U) [h1]', No returned matches
+'Pro Action Replay (JUE) [c][!]', No returned matches
+'Probotector (E)', No returned matches
+'Psy-O-Blade Moving Adventure (J) [!]', No returned matches
+'Psy-O-Blade Moving Adventure (J) [o1]', No returned matches
+'Psycho Pinball (Oct 1994) (JUE) [c][!]', No returned matches
+'Psycho Pinball (Sep 1994) (JUE) [o1]', No returned matches
+'Psycho Pinball (Sep 1994) (JUE)', No returned matches
+'Pro Quarterback (U) [c][!]', No returned matches
+'Prince of Persia (UE) (beta)', No returned matches
+'Puggsy (JUE) (pre-release) [h2]', No returned matches
+'Puggsy (JUE) (pre-release)', No returned matches
+'Puggsy (JUE) [R-Eur]', No returned matches
+'Puggsy (JUE) [R-USA][!]', No returned matches
+'Pulseman (J) [c][!]', No returned matches
+'Pulseman (JUE) [h1]', No returned matches
+'Punisher, The (E)', No returned matches
+'Punisher, The (U) [!]', No returned matches
+'Punisher, The (U) [h1].bin', No returned matches
+'Punisher, The (U) [h1].smd', No returned matches
+'Punisher, The (U) [h3]', No returned matches
+'Punisher, The (U) [h2]', No returned matches
+'Puyo Puyo (J) [!]', No returned matches
+'Puyo Puyo 2 (REV 00) (J)', No returned matches
+'Puyo Puyo 2 (REV 01) (J) [!]', No returned matches
+'Puzzle and Action (Ichidant) (1) [!]', No returned matches
+'Puzzle and Action (Ichidant) (1) [h1]', No returned matches
+'Puzzle and Action (Ichidant) (1) [h2]', No returned matches
+'Puzzle and Action (Ichidant) (J) [h1]', No returned matches
+'Puggsy (JUE) (pre-release) [h1]', No returned matches
+'Puzzle and Action (Tanto) (J) [h1]', No returned matches
+'Puzzle and Action (Tanto) (J) [h2]', No returned matches
+'Zan Yasha Enbuden (J)', No returned matches
+'Zany Golf (U) [h1]', No returned matches
+'Zany Golf (U)', No returned matches
+'Zaxxon Motherbase 2000 32X (5) [!]', No returned matches
+'Zero Tolerance (JUE) [!]', No returned matches
+'Zero Tolerance (JUE) [b1]', No returned matches
+'Zero Tolerance (JUE) [h1]', No returned matches
+'Zero Tolerance (JUE) [t1].bin', No returned matches
+'Zero Tolerance (JUE) [t1].smd', No returned matches
+'Zero Tolerence - Beyond Zero Tolerance (beta) [a1].bin', No returned matches
+'Puzzle and Action (Tanto) (J) [!]', No returned matches
+'Zero Tolerence - Beyond Zero Tolerance (beta) [a1].smd', No returned matches
+'Zero Tolerence - Beyond Zero Tolerance (beta)', No returned matches
+'Zero Wing (E) [b1]', No returned matches
+'Zero Wing (J) [!]', No returned matches
+'Zero Wing (J) [b1]', No returned matches
+'Zero Wing (J) [o1]', No returned matches
+'Zero the Kamikaze Squirrel (E)', No returned matches
+'Zero the Kamikaze Squirrel (U) [!]', No returned matches
+'Zombies (E) [!]', No returned matches
+'Zero Wing (E) [!]', No returned matches
+'Zombies Ate My Neighbors (U) [b1]', No returned matches
+'Zombies Ate My Neighbors (U) [h1]', No returned matches
+'Zombies Ate My Neighbors (U) [h2]', No returned matches
+'Zombies Ate My Neighbors (U) [h3]', No returned matches
+'Zombies Ate My Neighbors (U) [h4]', No returned matches
+'Zombies Ate My Neighbors (U) [h5]', No returned matches
+'Zool (E) [h1]', No returned matches
+'Zero the Kamikaze Squirrel (U) [h1]', No returned matches
+'Zool (U) [!]', No returned matches
+'Zoop (4) [!]', No returned matches
+'Zoom (JU) [!]', No returned matches
+'Zoop (4) [b1].bin', No returned matches
+'Zoop (4) [b1].smd', No returned matches
+'Zoop (4) [h1]', No returned matches
+'SGCC Demo 1 (PD)', No returned matches
+'Zoop (8) [!]', No returned matches
+'SGCC Demo 2 (PD)', No returned matches
+'SGCC Demo 3 (PD)', No returned matches
+'SGCC Demo 4 (PD)', No returned matches
+'Zool (E)', No returned matches
+'SGCC Demo 6 (PD)', No returned matches
+'Zombies Ate My Neighbors (U) [c][!]', No returned matches
+'SS Lucifer - Man Overboard! (JUE) [h1]', No returned matches
+'SS Lucifer - Man Overboard! (JUE) [c][!]', No returned matches
+'Sagaia (Darius 2) (U) [c][!]', No returned matches
+'Sagaia (Darius 2) (U) [h1]', No returned matches
+'Sailor Moon (J) [h1]', No returned matches
+'Sailor Moon (J) [!]', No returned matches
+'Sailor Moon (J) [h2]', No returned matches
+'Sailor Moon (JUE) [h1]', No returned matches
+'Sailor Moon (JUE) [h2]', No returned matches
+'Saint Sword (J) [c][!]', No returned matches
+'Saint Sword (J) [h1]', No returned matches
+'Saint Sword (J) [p1][!]', No returned matches
+'Saint Sword (U) [c][!]', No returned matches
+'Sample Program - Indian Picture (PD) [o1]', No returned matches
+'Sample Program - Indian Picture (PD)', No returned matches
+'Samurai Shodown (E) [c][!]', No returned matches
+'Samurai Shodown (U) [!]', No returned matches
+'SGCC Demo 5 (PD)', No returned matches
+'Samurai Shodown (U) [b2]', No returned matches
+'Samurai Shodown (U) [b1]', No returned matches
+'Samurai Spirits (J) [!]', No returned matches
+'Samurai Spirits (J) [h1]', No returned matches
+'Sangokushi Retsuden (Chinese)', No returned matches
+'Sangokushi Retsuden (J) [!]', No returned matches
+'Saturday Night Slam Masters (E)', No returned matches
+'Saturday Night Slam Masters (JUE) [h1]', No returned matches
+'Saturday Night Slam Masters (U)', No returned matches
+'Scooby Doo Mystery (JUE)', No returned matches
+'Scrabble (E) [x]', No returned matches
+'SeaQuest DSV (F) [!]', No returned matches
+'Samurai Shodown (U) [h1]', No returned matches
+'SeaQuest DSV (F) [f1]', No returned matches
+'Second Samurai, The (E)', No returned matches
+'SeaQuest DSV (U) [h1]', No returned matches
+'SegGala V0.06 (padded) (PD)', No returned matches
+'Sega Arcade Classics (F) [!]', No returned matches
+'Sega CD BIOS V1.10 (U)', No returned matches
+'Sega CD Hoax BIOS (U) [h1]', No returned matches
+'Sega Channel (JUE)', No returned matches
+'Sega HMD And Tracker Demo (OA7-TST) (JUE) [c][!]', No returned matches
+'Sega Music Joystick Demo (U) [c][!]', No returned matches
+'Sega Sports 1 (Wimbledon, Ult. Soccer, Super Monaco) (E) [!]', No returned matches
+'SegGala V0.06 (PD)', No returned matches
+'Sensible Soccer (E) [!]', No returned matches
+'Sensible Soccer (E) [a1]', No returned matches
+'Sensible Soccer (E) [h2]', No returned matches
+'Sega Arcade Classics (F) [h1]', No returned matches
+'Sensible Soccer (E) [a1][h1]', No returned matches
+'Sensible Soccer - International Edition (E) [!]', No returned matches
+'Sesame Street Counting Cafe (UEJ) [!]', No returned matches
+'Shadow Blasters (U) [c][!]', No returned matches
+'Shadow Dancer (JUE) [T-Port]', No returned matches
+'Shadow Dancer (JUE) [c][!]', No returned matches
+'Shadow Dancer (JUE) [h1]', No returned matches
+'Shadow Dancer (JUE) [h2]', No returned matches
+'Shadow Dancer (JUE) [p1][!]', No returned matches
+'Shadow Run (J) [!]', No returned matches
+'Shadow Run (J) [b1]', No returned matches
+'Sensible Soccer (E) [h3]', No returned matches
+'Shadow Run (U) [!]', No returned matches
+'Shadow Run (U) [h2]', No returned matches
+'Shadow Run (U) [h1]', No returned matches
+'Shadow Run (U) [h3]', No returned matches
+'Shadow Run (U) [h4]', No returned matches
+'Shadow Run (U) [h5]', No returned matches
+'Shadow Squadron 32X (E) [!]', No returned matches
+'Shadow of the Beast (J) [h1]', No returned matches
+'Shadow Run (U) [b2]', No returned matches
+'Shadow of the Beast (J)', No returned matches
+'Shadow of the Beast (U) [!].bin', No returned matches
+'Shadow of the Beast (U) [!].smd', No returned matches
+'Shadow of the Beast (U) [h1]', No returned matches
+'Shadow of the Beast 2 (U) [!]', No returned matches
+'Shadow of the Beast 2 (U) [h1]', No returned matches
+'Shadow of the Beast 2 (U) [h2].bin', No returned matches
+'Shadow of the Beast 2 (U) [h2].smd', No returned matches
+'Shane Warne Cricket (E) [c][!]', No returned matches
+'Shanghai 2 - Dragon's Eye (JUE) [h1]', No returned matches
+'Shanghai 2 - Dragon's Eye (U) [!]', No returned matches
+'Shaq Fu (UEJ) [!]', No returned matches
+'Shi Kin Joh (J) [h1]', No returned matches
+'Shi Kin Joh (J)', No returned matches
+'Shining Force (J) [!]', No returned matches
+'Shining Force (U) [!]', No returned matches
+'Shining Force (U) [h1]', No returned matches
+'Shining Force (U) [o1]', No returned matches
+'Shining Force (U) [o2]', No returned matches
+'Shining Force (beta) (UE) [T-Chinese]', No returned matches
+'Shining Force (beta) (UE) [b1]', No returned matches
+'Shining Force (beta) (UE) [h1]', No returned matches
+'Shining Force (beta) (UE)', No returned matches
+'Shining Force 2 (E) [!]', No returned matches
+'Shining Force 2 (E) [h1]', No returned matches
+'Shining Force 2 (U) [!]', No returned matches
+'Shining Force 2 (U) [b1]', No returned matches
+'Shining Force 2 (U) [h2]', No returned matches
+'Shining Force 2 (U) [h1]', No returned matches
+'Shining Force 2 - Return of the King (J) [!]', No returned matches
+'Shining Force 2 - Return of the King (J) [b1]', No returned matches
+'Shining Force 2 - Return of the King (J) [h2]', No returned matches
+'Shining Force 2 (U) [o1]', No returned matches
+'Shining Force (J) [o1]', No returned matches
+'Shining and the Darkness (J) [h1]', No returned matches
+'Shining Force 2 - Return of the King (J) [h1]', No returned matches
+'Shining and the Darkness (J) [h2]', No returned matches
+'Shining in the Darkness (U) [!]', No returned matches
+'Shining in the Darkness (U) [b1]', No returned matches
+'Shining in the Darkness (U) [b2]', No returned matches
+'Shining and the Darkness (J)', No returned matches
+'Shinobi 3 - Return of the Ninja Master (E) [c][!]', No returned matches
+'Shinobi 3 - Return of the Ninja Master (U) [!]', No returned matches
+'Shinobi 3 - Return of the Ninja Master (U) [T-Port1.0v_Felipe-17]', No returned matches
+'Shinobi 3 - Return of the Ninja Master (U) [T-Port_Rigues]', No returned matches
+'Shiten Myooh (J) [c]', No returned matches
+'Shiten Myooh (J) [h1]', No returned matches
+'Shougino (J)', No returned matches
+'Shove It - The Warehouse Game (U) [h1]', No returned matches
+'Shove It - The Warehouse Game (U) [o1].bin', No returned matches
+'Shove It - The Warehouse Game (U) [!]', No returned matches
+'Shove It - The Warehouse Game (U) [o1].smd', No returned matches
+'Side Pocket (E)', No returned matches
+'Side Pocket (JU) [!]', No returned matches
+'Simpsons, The - Bart vs The Space Mutants (REV 00) (JUE) [T-Port_Venon_Total]', No returned matches
+'Simpsons, The - Bart vs The Space Mutants (REV 01) (JUE) [!]', No returned matches
+'Simpsons, The - Bart vs The Space Mutants (REV 00) (JUE) [h1]', No returned matches
+'Simpsons, The - Bart's Nightmare (JUE) [!]', No returned matches
+'Simpsons, The - Krusty's Super Funhouse (REV 00) (JU) [h1]', No returned matches
+'Simpsons, The - Krusty's Super Funhouse (REV 00) (JU) [!]', No returned matches
+'Simpsons, The - Bart vs The Space Mutants (REV 00) (JUE) [!]', No returned matches
+'Simpsons, The - Krusty's Super Funhouse (REV 01) (JUE) [R-Eur][!]', No returned matches
+'Simpsons, The - The Itchy and Scratchy Game (JEU)', No returned matches
+'Simpsons, The - The Itchy and Scratchy Game (JEU) [b1]', No returned matches
+'Simpsons, The - Virtual Bart (JUE) [!]', No returned matches
+'Simpsons, The - Virtual Bart (JUE) [b2]', No returned matches
+'Skeleton Krew (4) [!]', No returned matches
+'Skeleton Krew (8)', No returned matches
+'Skeleton Krew (JUE) [h1]', No returned matches
+'Skitchin (UEJ) [!]', No returned matches
+'Skitchin (UEJ) [h1]', No returned matches
+'Skitchin (UEJ) [h2]', No returned matches
+'Simpsons, The - Virtual Bart (JUE) [b1]', No returned matches
+'Slam Dunk - Shikyou Gekitotsu! (1) [h1]', No returned matches
+'Slam Dunk - Shikyou Gekitotsu! (1) [h2]', No returned matches
+'Slam Dunk - Shikyou Gekitotsu! (1) [h3]', No returned matches
+'Slam Dunk - Shikyou Gekitotsu! (1)', No returned matches
+'Slam Dunk - Shikyou Gekitotsu! (J) [h1]', No returned matches
+'Slap Fight (JUE) [h1]', No returned matches
+'Slap Fight (JUE) [h2]', No returned matches
+'Slap Fight (JUE) [h3]', No returned matches
+'Slap Fight (JUE) [h4].bin', No returned matches
+'Slap Fight (JUE) [h4].smd', No returned matches
+'Slap Fight (JUE) [h5]', No returned matches
+'Slap Fight (JUE) [x]', No returned matches
+'Slaughter Sport (UE) [c][!]', No returned matches
+'Slaughter Sport (UE) [h1]', No returned matches
+'Smart Mouse (Unl) [c]', No returned matches
+'Smash TV (JUE) [!]', No returned matches
+'Smurfs 2, The (E) [!]', No returned matches
+'Smurfs 2, The (E) [h1]', No returned matches
+'Smurfs, The (E) [!]', No returned matches
+'Smurfs, The (E) [h1]', No returned matches
+'Snake Rattle 'n' Roll (E) [c][!]', No returned matches
+'Snow Brothers (JUE) [c][!]', No returned matches
+'Socket (JUE) [!]', No returned matches
+'Sol-Deace (U) [!].bin', No returned matches
+'Sokoban (J)', No returned matches
+'Sol-Deace (U) [b1]', No returned matches
+'Sol-Deace (U) [h1]', No returned matches
+'Soldiers of Fortune (U) [b1]', No returned matches
+'Soldiers of Fortune (U) [c][!]', No returned matches
+'Soldiers of Fortune (U) [h1]', No returned matches
+'Sol-Deace (U) [!].smd', No returned matches
+'Soleil (E) (English) [h2]', No returned matches
+'Soleil (E) (English)', No returned matches
+'Soleil (E) (English) [h1]', No returned matches
+'Soleil (E) (French)', No returned matches
+'Soleil (E) (German) [!]', No returned matches
+'Soleil (E) (German) [b1]', No returned matches
+'Soleil (E) (Spanish)', No returned matches
+'Soleil (E) [T-Port]', No returned matches
+'Soleil (J) (beta) [h1]', No returned matches
+'Soleil (J) (beta)', No returned matches
+'Sonic 3D Blast (F) [!]', No returned matches
+'Sonic 3D Blast (F) [T-Port_Dark_Ryder]', No returned matches
+'Sonic 3D Blast (F) [b1]', No returned matches
+'Sonic 3D Blast (F) [b2]', No returned matches
+'Sonic 3D Blast (F) [h1]', No returned matches
+'Sonic Compilation (REV 00) (A) [!]', No returned matches
+'Sonic Compilation (REV 00) (A) [h1]', No returned matches
+'Sonic Compilation (REV 01) (F) [!]', No returned matches
+'Sonic Special Stages (U) [c]', No returned matches
+'Sonic Spinball (J) [!]', No returned matches
+'Sonic Spinball (E) [!]', No returned matches
+'Sonic Spinball (U) (alt music) [!].bin', No returned matches
+'Sonic Spinball (U) (alt music) [!].smd', No returned matches
+'Sonic Spinball (U) (alt music) [h1]', No returned matches
+'Soldiers of Fortune (U) [o1]', No returned matches
+'Sonic Spinball (U) [!]', No returned matches
+'Sonic Spinball (U) [p1]', No returned matches
+'Sonic Spinball (beta) [h1]', No returned matches
+'Sonic and Crackers (beta) [h1]', No returned matches
+'Sonic and Crackers (beta) [o1]', No returned matches
+'Sonic and Crackers (beta)', No returned matches
+'Sonic and Knuckles & Sonic 1 (JUE) [h1]', No returned matches
+'Sonic and Knuckles & Sonic 1 (JUE) [h2]', No returned matches
+'Sonic and Knuckles & Sonic 1 (JUE)', No returned matches
+'Sonic and Knuckles & Sonic 2 (JUE) (Enchina Hack) [h2]', No returned matches
+'Sonic and Knuckles & Sonic 2 (JUE) [f1]', No returned matches
+'Sonic and Knuckles & Sonic 2 (JUE) [f2]', No returned matches
+'Sonic and Knuckles & Sonic 2 (JUE) [h1]', No returned matches
+'Sonic and Knuckles & Sonic 2 (JUE) [h2]', No returned matches
+'Sonic and Knuckles & Sonic 2 (JUE)', No returned matches
+'Sonic and Knuckles & Sonic 3 (JUE) [b1]', No returned matches
+'Sonic and Knuckles & Sonic 3 (JUE) [b2]', No returned matches
+'Sonic and Knuckles & Sonic 3 (JUE) [f1]', No returned matches
+'Sonic and Knuckles & Sonic 3 (JUE) [h1]', No returned matches
+'Sonic and Knuckles & Sonic 3 (JUE) [h2]', No returned matches
+'Sonic and Knuckles & Sonic 3 (JUE) [h4]', No returned matches
+'Sonic and Knuckles & Sonic 3 (JUE) [h5]', No returned matches
+'Sonic and Knuckles & Sonic 3 (JUE)', No returned matches
+'Sonic and Knuckles (JUE) [b1]', No returned matches
+'Sonic and Knuckles (JUE) [b2]', No returned matches
+'Sonic and Knuckles (JUE) [h1]', No returned matches
+'Sonic the Hedgehog (J) (stage select) [h1]', No returned matches
+'Sonic the Hedgehog (J)', No returned matches
+'Sonic the Hedgehog (JUE) [!]', No returned matches
+'Sonic the Hedgehog (JUE) [R-Jap]', No returned matches
+'Sonic the Hedgehog (JUE) [R-Jap][h1]', No returned matches
+'Sonic the Hedgehog (JUE) [h2]', No returned matches
+'Sonic the Hedgehog (JUE) [h3]', No returned matches
+'Sonic the Hedgehog (JUE) [p1][!]', No returned matches
+'Sonic and Knuckles (JUE) [!]', No returned matches
+'Sonic the Hedgehog (JUE) [h1]', No returned matches
+'Sonic the Hedgehog (beta) [h1]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [!]', No returned matches
+'Sonic the Hedgehog (JUE) [p2][!]', No returned matches
+'Sonic the Hedgehog (beta)', No returned matches
+'Sonic the Hedgehog 2 (JUE) [b1]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [b2]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [b3]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [h0]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [h1]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [h2]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [h3]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [h5]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [h6]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [h7]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [h9]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [h8]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [t1]', No returned matches
+'Sonic the Hedgehog 2 (beta)', No returned matches
+'Sonic the Hedgehog 2 (beta) [a1]', No returned matches
+'Sonic the Hedgehog 2 (JUE) [ha]', No returned matches
+'Sonic the Hedgehog 3 (E)', No returned matches
+'Sonic the Hedgehog 3 (J) [!]', No returned matches
+'Sonic the Hedgehog 3 (JUE) [h1]', No returned matches
+'Sonic the Hedgehog 3 (JUE) [h3]', No returned matches
+'Sonic the Hedgehog 3 (U) [!].smd', No returned matches
+'Sonic the Hedgehog 3 (U) [b1]', No returned matches
+'Sonic the Hedgehog 3 (U) [b2]', No returned matches
+'Sonic the Hedgehog 3 (U) [!].bin', No returned matches
+'Sonic the Hedgehog 3 (U) [b3]', No returned matches
+'Sonic the Hedgehog 3 (U) [h1]', No returned matches
+'Sonic the Hedgehog 3 (U) [h3]', No returned matches
+'Sonic the Hedgehog 3 (U) [t1]', No returned matches
+'Sorcer Kingdom (J) [c][!]', No returned matches
+'Sorcerer's Kingdom (1992) (U)', No returned matches
+'Sorcerer's Kingdom (1993) (U) [!]', No returned matches
+'Sonic the Hedgehog 3 (U) [h2]', No returned matches
+'Sorcerian (J)', No returned matches
+'Space Harrier 2 (JU)', No returned matches
+'Space Harrier 2 (beta)', No returned matches
+'Space Harrier 32X (A) [!]', No returned matches
+'Sorcer Kingdom (J) [h1]', No returned matches
+'Space Harrier 32X (JU) [!]', No returned matches
+'Space Invaders 90 (J) [x]', No returned matches
+'Space Invaders 91 (U) [c][!]', No returned matches
+'Space Invaders 91 (U) [h1]', No returned matches
+'Spacewar V0.00 (PD)', No returned matches
+'Spacewar V0.01 (PD)', No returned matches
+'Sparkster (E) [!]', No returned matches
+'Sparkster (E) [h1]', No returned matches
+'Sparkster (E) [t1]', No returned matches
+'Sparkster (UJ) [!]', No returned matches
+'Speed Ball 2 - Brutal Deluxe (E) [!]', No returned matches
+'Speed Ball 2 - Brutal Deluxe (JU) [c][!]', No returned matches
+'Speedy Gonzales - Cheeze Cat-astrophe (A) [b1]', No returned matches
+'Speedy Gonzales - Cheeze Cat-astrophe (A) [h1]', No returned matches
+'Space Invaders 90 (J) [h1]', No returned matches
+'Spiderman - The Animated Series (JUE) [!]', No returned matches
+'Spiderman - The Animated Series (beta 1)', No returned matches
+'Spiderman - The Animated Series (beta 2) [h1]', No returned matches
+'Spiderman - The Animated Series (beta 2)', No returned matches
+'Spiderman - Web of Fire 32X (F) [!]', No returned matches
+'Spiderman and Venom - Maximum Carnage (JUE) [!]', No returned matches
+'Spiderman and Venom - Maximum Carnage (JUE) [b1]', No returned matches
+'Spiderman and Venom - Maximum Carnage (JUE) [h1]', No returned matches
+'Spiderman and Venom in Separation Anxiety (F) [!]', No returned matches
+'Spiderman and Venom in Separation Anxiety (F) [h1]', No returned matches
+'Spiderman and Venom - Maximum Carnage (JUE) [b2]', No returned matches
+'Spiderman and Venom in Separation Anxiety (F) [b1]', No returned matches
+'Spiderman and X-Men - Arcade's Revenge (U) [!]', No returned matches
+'Spiderman and X-Men - Arcade's Revenge (U) [t1]', No returned matches
+'Spiderman vs Kingpin (U) [!].bin', No returned matches
+'Spiderman vs Kingpin (U) [!].smd', No returned matches
+'Spiritual Warfare (Unl) [c][!]', No returned matches
+'Spiritual Warfare (Unl) [h1]', No returned matches
+'Spiritual Warfare (Unl) [h2]', No returned matches
+'Spirou (E) [!]', No returned matches
+'Speedy Gonzales - Cheeze Cat-astrophe (A)', No returned matches
+'Splatter House 2 (E) [x]', No returned matches
+'Splatter House 2 (U) [b1][t1]', No returned matches
+'Splatter House 2 (U) [c][!]', No returned matches
+'Splatter House 2 (U) [h1]', No returned matches
+'Splatter House 2 (U) [h2]', No returned matches
+'Splatter House 2 (U) [h3]', No returned matches
+'Spirou (E) [h1]', No returned matches
+'Splatter House 2 (U) [t1]', No returned matches
+'Splatter House 2 (U) [t2]', No returned matches
+'Splatter House 3 (J) [h1]', No returned matches
+'Splatter House 3 (J) [h2]', No returned matches
+'Splatter House 3 (U) [c][!]', No returned matches
+'Star Control (U) [a2][x]', No returned matches
+'Star Control (U) [x]', No returned matches
+'Splatter House 3 (J) [c][!]', No returned matches
+'Star Cruiser (J)', No returned matches
+'Star Trek - Deep Space 9 - Crossroads of Time (E)', No returned matches
+'Star Trek - Deep Space 9 - Crossroads of Time (U) [!]', No returned matches
+'Star Trek - Deep Space 9 - Crossroads of Time (U) [b1]', No returned matches
+'Star Trek - Starfleet Academy Bridge Simulator 32X (4) [!]', No returned matches
+'Star Control (U) [a1][x]', No returned matches
+'Star Trek - The Next Generation (REV 00) (U) [h1]', No returned matches
+'Star Trek - The Next Generation (REV 00) (U) [h2]', No returned matches
+'Star Trek - The Next Generation (REV 00) (U) [o1]', No returned matches
+'Star Trek - The Next Generation (REV 01) (U) [!]', No returned matches
+'Star Wars Arcade 32X (E) [!]', No returned matches
+'Star Wars Arcade 32X (J) [!]', No returned matches
+'Star Wars Arcade 32X (UJ) [!]', No returned matches
+'Star Wars Arcade 32X (UJ) [b1]', No returned matches
+'Starflight (REV 00) (U) [f1]', No returned matches
+'Starflight (REV 00) (U) [o1].bin', No returned matches
+'Starflight (REV 00) (U) [o1].smd', No returned matches
+'Starflight (REV 00) (U)', No returned matches
+'Starflight (REV 01) (U) [!]', No returned matches
+'Stargate (JUE) [!]', No returned matches
+'Star Trek - The Next Generation (REV 00) (U) [!]', No returned matches
+'Stargate (beta) [b2]', No returned matches
+'Stargate (beta) [b3]', No returned matches
+'Steel Empire, The (UE) [!]', No returned matches
+'Steel Empire, The (UE) [b1]', No returned matches
+'Steel Talons (Jul 1992) (UJE) [!]', No returned matches
+'Steel Talons (Jul 1992) (UJE) [a1][o1]', No returned matches
+'Steel Talons (Jun 1993) (JUE) [!]', No returned matches
+'Steel Talons (Nov 1992) (UJE) [h1]', No returned matches
+'Steel Talons (July 1992) (UJE) [a1]', No returned matches
+'Steel Talons (Nov 1992) (UJE) [h2]', No returned matches
+'Stormlord (J) [!]', No returned matches
+'Stormlord (J) [a1]', No returned matches
+'Stormlord (J) [a2]', No returned matches
+'Stargate (beta) [b1]', No returned matches
+'Story of Thor, The (8) (English)', No returned matches
+'Story of Thor, The (8) (French)', No returned matches
+'Story of Thor, The (8) (Spanish) [T-Port_Raptor_Z]', No returned matches
+'Story of Thor, The (8) (German)', No returned matches
+'Story of Thor, The (8) (German) [h1]', No returned matches
+'Story of Thor, The (J) [!]', No returned matches
+'Story of Thor, The (8) (Spanish)', No returned matches
+'Story of Thor, The (J) [a1]', No returned matches
+'Story of Thor, The (J) [h1]', No returned matches
+'Story of Thor, The (beta) [h1]', No returned matches
+'Story of Thor, The (beta) [h2].bin', No returned matches
+'Stormlord (J) [h1]', No returned matches
+'Story of Thor, The (beta) [h2].smd', No returned matches
+'Story of Thor, The (beta) [h3]', No returned matches
+'Story of Thor, The (beta) [h5]', No returned matches
+'Story of Thor, The (beta)', No returned matches
+'Street Fighter 2 Plus Champion Edition (J) [!]', No returned matches
+'Street Fighter 2 Plus Champion Edition (J) [a1][!]', No returned matches
+'Street Fighter 2 Plus Champion Edition (J) [h1]', No returned matches
+'Street Fighter 2 Plus Champion Edition (J) [h2]', No returned matches
+'Street Fighter 2 Plus Champion Edition (J) [h3]', No returned matches
+'Street Fighter 2 Special Champion Edition (E) [!]', No returned matches
+'Street Fighter 2 Special Champion Edition (U) [!]', No returned matches
+'Street Fighter 2 Special Champion Edition (U) [h1]', No returned matches
+'Street Fighter 2 Turbo (U) [h1]', No returned matches
+'Street Fucker (PD)', No returned matches
+'Story of Thor, The (beta) [h4]', No returned matches
+'Street Smart (JU) [!]', No returned matches
+'Streets of Rage (JUE) [!]', No returned matches
+'Streets of Rage (JUE) [T-French]', No returned matches
+'Streets of Rage (JUE) [h1]', No returned matches
+'Streets of Rage (JUE) [p1]', No returned matches
+'Streets of Rage (JUE) [p1][h1]', No returned matches
+'Streets of Rage (JUE) [p2][!]', No returned matches
+'Streets of Rage 2 (JE) [!]', No returned matches
+'Streets of Rage 2 (U) [!]', No returned matches
+'Streets of Rage 2 (U) [T-Port_XMib]', No returned matches
+'Streets of Rage 2 (U) [T-Russian]', No returned matches
+'Streets of Rage 2 (U) [h1]', No returned matches
+'Streets of Rage 2 (U) [h2]', No returned matches
+'Streets of Rage 2 (U) [h3]', No returned matches
+'Streets of Rage 2 (U) [h4]', No returned matches
+'Streets of Rage 2 (U) [h5]', No returned matches
+'Streets of Rage 3 (E)', No returned matches
+'Street Racer (F) [c][!]', No returned matches
+'Streets of Rage 3 (U) [T-Port_XMib]', No returned matches
+'Streets of Rage 3 (U) [b1]', No returned matches
+'Strider (J) [!]', No returned matches
+'Strider (J) [h1]', No returned matches
+'Strider (UE) [!]', No returned matches
+'Strider (UE) [h1]', No returned matches
+'Strider (UE) [h2]', No returned matches
+'Strider 2 (JUE) [R-Eur][h1]', No returned matches
+'Strider 2 (JUE) [R-Eur][h2]', No returned matches
+'Strider 2 (JUE) [R-Eur][t1]', No returned matches
+'Strider 2 (JUE) [R-Eur][x]', No returned matches
+'Strider Returns (JUE) [c][!]', No returned matches
+'Striker (8) [!]', No returned matches
+'Striker (8) [h1]', No returned matches
+'Striker (beta) [o1]', No returned matches
+'Striker (beta) [o2]', No returned matches
+'Striker (beta) [o3]', No returned matches
+'Striker (beta)', No returned matches
+'Sub-Terrania (E) [!]', No returned matches
+'Sub-Terrania (J) [!]', No returned matches
+'Sub-Terrania (U) [!].bin', No returned matches
+'Sub-Terrania (U) [!].smd', No returned matches
+'Sub-Terrania (another beta) [h1]', No returned matches
+'Streets of Rage 3 (U) [!]', No returned matches
+'Sub-Terrania (beta) [h2]', No returned matches
+'Sub-Terrania (beta) [h3]', No returned matches
+'Summer Challenge (JUE) [!]', No returned matches
+'Sub-Terrania (beta) [h1]', No returned matches
+'Sunset Riders (E) [!]', No returned matches
+'Sunset Riders (U) [!]', No returned matches
+'Sunset Riders (U) [h1].bin', No returned matches
+'Sunset Riders (U) [h2]', No returned matches
+'Sunset Riders (U) [h1].smd', No returned matches
+'Sub-Terrania (beta) [b1]', No returned matches
+'Sunset Riders (U) [h3]', No returned matches
+'Sunset Riders (U) [p1]', No returned matches
+'Super 1998 Sonic 6 (Unl) [c][!]', No returned matches
+'Super Airwolf (J) [p2][!]', No returned matches
+'Super Airwolf (J) [p1]', No returned matches
+'Super Airwolf (J)', No returned matches
+'Super Baseball 2020 (UEJ) [R-USA][!]', No returned matches
+'Super Baseball 2020 (UJ) [R-Jap]', No returned matches
+'Super Battleship (U) [!]', No returned matches
+'Super 15-in-1 (U) [p1]', No returned matches
+'Super Battleship (U) [h1]', No returned matches
+'Super Battle Tank - War in the Gulf (U) [!]', No returned matches
+'Super Battleship (U) [h2]', No returned matches
+'Super Daisenryaku (J) [p1]', No returned matches
+'Super Daisenryaku (J) [p1][h1]', No returned matches
+'Super Daisenryaku (J)', No returned matches
+'Super Fantasy Zone (E) [!]', No returned matches
+'Super Fantasy Zone (J) [!]', No returned matches
+'Super Fantasy Zone (J) [b1]', No returned matches
+'Super HQ (JUE) [h1]', No returned matches
+'Super HQ (JUE)', No returned matches
+'Super Hang-On (REV 00) (JUE) [R-Eur]', No returned matches
+'Super High Impact (EU) [!]', No returned matches
+'Super Bubble Bobble (Unl) [c][!]', No returned matches
+'Super Hydlide (E) [!]', No returned matches
+'Super Hang-On (REV 00) (JUE) [p1][!]', No returned matches
+'Super Hydlide (J) [h1]', No returned matches
+'Super Hydlide (J) [x]', No returned matches
+'Super Kick Off (JUE) [c][!]', No returned matches
+'Super Hydlide (U) [!]', No returned matches
+'Super King Kong 99 (Unl) [c][!]', No returned matches
+'Super League (Feb 1989) (J) [!]', No returned matches
+'Super League (Feb 1989) (J) [h1]', No returned matches
+'Super League (Feb 1989) (J) [p1]', No returned matches
+'Super League (May 1989) (JUE)', No returned matches
+'Super League 91 (J) [h1]', No returned matches
+'Super League 91 (J) [!]', No returned matches
+'Super Mario World (Unl) [c][!]', No returned matches
+'Super Mario World (Unl) [f1]', No returned matches
+'Super Masters Golf (J) [!]', No returned matches
+'Super Monaco Grand Prix (REV 01) (JUE) [!]', No returned matches
+'Super Monaco Grand Prix (REV 00) (JUE)', No returned matches
+'Super Monaco Grand Prix (REV 01) (JUE) [T-Port_Leo_Luz]', No returned matches
+'Super Hang-On (REV 01) (JUE) [!]', No returned matches
+'Super Monaco Grand Prix (REV 02) (JUE) [!]', No returned matches
+'Super Monaco Grand Prix (REV 02) (JUE) [T-Port_Leo_Luz]', No returned matches
+'Super Monaco Grand Prix (REV 02) (JUE) [h1]', No returned matches
+'Super Monaco Grand Prix (REV 03) (U) [!]', No returned matches
+'Super Monaco Grand Prix (REV 03) (U) [b1]', No returned matches
+'Super Offroad (U) [!]', No returned matches
+'Super Ping Pong (J) [h1]', No returned matches
+'Super Ping Pong (J) [o1]', No returned matches
+'Super Ping Pong (J)', No returned matches
+'Super Real Basketball (JU) [c][!]', No returned matches
+'Super Shinobi 2 (J) [h1]', No returned matches
+'Super Shinobi 2 (J)', No returned matches
+'Super Shinobi 2 (Jap beta) [h1].bin', No returned matches
+'Super Shinobi 2 (Jap beta) [h1].smd', No returned matches
+'Super Shinobi 2 (Jap beta)', No returned matches
+'Super Shinobi 2 (beta)', No returned matches
+'Super Skidmarks (E) [x]', No returned matches
+'Super Street Fighter 2 - The New Challengers (J) [b1]', No returned matches
+'Super Street Fighter 2 - The New Challengers (J) [c][!]', No returned matches
+'Super Street Fighter 2 - The New Challengers (U) [b1][h1]', No returned matches
+'Super Street Fighter 2 - The New Challengers (U) [b1][h2]', No returned matches
+'Super Thunder Blade (J) [!]', No returned matches
+'Super Street Fighter 2 - The New Challengers (U) [c][!]', No returned matches
+'Super Thunder Blade (U) [!]', No returned matches
+'Super Volleyball (J) [x]', No returned matches
+'Super Volleyball (U) (no copyright) [c][!]', No returned matches
+'Super Street Fighter 2 - The New Challengers (U) [b1]', No returned matches
+'Super Volleyball (U)', No returned matches
+'Superman (E)', No returned matches
+'Superman (U) [h1]', No returned matches
+'Superman (U) [!]', No returned matches
+'Superman (U) [h2]', No returned matches
+'Superman (U) [h3]', No returned matches
+'Superman (beta) [h2]', No returned matches
+'Superman (beta) [h1]', No returned matches
+'Superman (beta) [h3]', No returned matches
+'Superman (beta)', No returned matches
+'Surging Aura (J) [!]', No returned matches
+'Surging Aura (J) [h1]', No returned matches
+'Sword of Sodan (U) [!]', No returned matches
+'Sword of Sodan (U) [R-Jap]', No returned matches
+'Sword of Vermilion (J) [c][!]', No returned matches
+'Sword of Vermilion (J) [o1]', No returned matches
+'Sword of Vermilion (U) [!]', No returned matches
+'Sword of Vermilion (U) [h1]', No returned matches
+'Sylvester and Tweety in Cagey Capers (UEJ) [!]', No returned matches
+'Sylvester and Tweety in Cagey Capers (beta) [a1]', No returned matches
+'Sylvester and Tweety in Cagey Capers (beta) [h1]', No returned matches
+'Sylvester and Tweety in Cagey Capers (beta) [h3]', No returned matches
+'Sylvester and Tweety in Cagey Capers (beta) [h2]', No returned matches
+'Sylvester and Tweety in Cagey Capers (beta)', No returned matches
+'Surging Aura (J) [f1]', No returned matches
+'Syndicate (JUE) [!]', No returned matches
+'Syndicate (JUE) [h1]', No returned matches
+'Syura no Mon (J)', No returned matches
+'WWF RAW (JUE) [!]', No returned matches
+'WWF RAW 32X (F) [!]', No returned matches
+'WWF Royal Rumble (JUE) [!]', No returned matches
+'WWF Royal Rumble (JUE) [b2]', No returned matches
+'WWF Royal Rumble (JUE) [b3]', No returned matches
+'WWF Super Wrestlemania (JUE) [!]', No returned matches
+'WWF Wrestlemania Arcade (Sept 1995) (F) [a1]', No returned matches
+'WWF Wrestlemania Arcade (Sept 1995) (F) [h1]', No returned matches
+'WWF Wrestlemania Arcade (Aug 1995) (F) [!]', No returned matches
+'WWF Wrestlemania Arcade (Sept 1995) (F)', No returned matches
+'WWF Wrestlemania Arcade 32X (F) [!]', No returned matches
+'Wacky Races (beta)', No returned matches
+'Wacky Worlds (UEJ) [!]', No returned matches
+'Waialae Golf (J) [!]', No returned matches
+'Wacky Worlds (UEJ) [h1]', No returned matches
+'Wacky Worlds (UEJ) [h2]', No returned matches
+'Waialae Golf (J) [o1]', No returned matches
+'Wani Wani World (J) [c][!]', No returned matches
+'Wani Wani World (J) [h1]', No returned matches
+'Wani Wani World (J) [h2]', No returned matches
+'Wardner (U) [!].bin', No returned matches
+'Wardner (U) [!].smd', No returned matches
+'Wardner Special (J) [!]', No returned matches
+'Wardner Special (J) [h1]', No returned matches
+'WWF Royal Rumble (JUE) [b1]', No returned matches
+'Warlock (JUE) [!]', No returned matches
+'Wardner Special (J) [h2]', No returned matches
+'Warlock (beta) [h1]', No returned matches
+'Warlock (beta)', No returned matches
+'Warpspeed (JUE) [b1]', No returned matches
+'Warpspeed (JUE) [!]', No returned matches
+'Warrior of Rome (U) [!]', No returned matches
+'Warrior of Rome 2 (A) [b1]', No returned matches
+'Warrior of Rome 2 (A) [h1]', No returned matches
+'Warrior of Rome 2 (A) [c][!]', No returned matches
+'Warrior of Rome 2 (A) [h2]', No returned matches
+'Warsong (Langrisser Hikari) (U) [!].bin', No returned matches
+'Warsong (Langrisser Hikari) (U) [!].smd', No returned matches
+'Waterworld (E) [h1]', No returned matches
+'Waterworld (E)', No returned matches
+'Waterworld (U) [h1]', No returned matches
+'Wayne Gretzsky NHLPA All-Stars (C) [h1]', No returned matches
+'Wayne's World (U) [c][!]', No returned matches
+'Wayne Gretzsky NHLPA All-Stars (C) [!]', No returned matches
+'Wayne's World (U) [h2]', No returned matches
+'Wayne's World (U) [h3]', No returned matches
+'Wayne's World (U) [h4]', No returned matches
+'We're Back! - A Dinosaur's Tale (U) [!]', No returned matches
+'We're Back! - A Dinosaur's Tale (U) [a1]', No returned matches
+'We're Back! - A Dinosaur's Tale (U) [h2]', No returned matches
+'Weaponlord (4) [!]', No returned matches
+'Weaponlord (4) [o1]', No returned matches
+'Whac-A-Critter (Unl) [!]', No returned matches
+'Wheel of Fortune (U) [!]', No returned matches
+'Wheel of Fortune (U) [b1]', No returned matches
+'Where in Time is Carmen Sandiego (U) [!]', No returned matches
+'We're Back! - A Dinosaur's Tale (U) [h1]', No returned matches
+'Where in the World is Carmen Sandiego (U) [T-Port-Span]', No returned matches
+'Wayne's World (U) [h1]', No returned matches
+'Where in the World is Carmen Sandiego (U)', No returned matches
+'Whip Rush 2222 AD (J)', No returned matches
+'Wild Snake (U) (prototype) [!]', No returned matches
+'Whip Rush 2222 AD (U) [!]', No returned matches
+'Williams Arcade's Greatest Hits (4) [!]', No returned matches
+'Williams Arcade's Greatest Hits (F)', No returned matches
+'Wimbledon Championship Tennis (E) [!]', No returned matches
+'Wimbledon Championship Tennis (U) [!]', No returned matches
+'Wimbledon Championship Tennis (U) (prototype) [!]', No returned matches
+'Wimbledon Championship Tennis (U) [h1]', No returned matches
+'Wimbledon Championship Tennis (U) [h2]', No returned matches
+'Wimbledon Championship Tennis (U) [h3]', No returned matches
+'Wimbledon Championship Tennis (U) [h4]', No returned matches
+'Wings of Wor (U) [!]', No returned matches
+'Winter Challenge (U) [!]', No returned matches
+'Winter Challenge (U) [a1]', No returned matches
+'Wiz 'n' Liz (JUE) [!].smd', No returned matches
+'Wiz 'n' Liz (JUE) [h1]', No returned matches
+'Wiz 'n' Liz (JUE) [h2]', No returned matches
+'Wiz 'n' Liz (JUE) [!].bin', No returned matches
+'Wolf Child (U) [c][!]', No returned matches
+'Wolverine Adamantium Rage (JUE) [!]', No returned matches
+'Wonder Library (J) [!]', No returned matches
+'Wonderboy 3 - Monster Lair (JUE) [h1]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (J) [!]', No returned matches
+'Wonderboy 3 - Monster Lair (JUE) [c][!]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (J) [h1]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (J) [o1]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (J) [p1]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (J) [h2]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (UE) [!]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (UE) [h1]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (UE) [h2]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (UE) [o1]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (UE) [o1][h1]', No returned matches
+'Wonderboy 5 (MonsterWorld 3) (J) [h4]', No returned matches
+'Wonderboy 6 (MonsterWorld 4) (J) [!]', No returned matches
+'Wonderboy 6 (MonsterWorld 4) (J) [T-Eng_partial1]', No returned matches
+'Wonderboy 6 (MonsterWorld 4) (J) [T-Eng_partial2]', No returned matches
+'Wonderboy 6 (MonsterWorld 4) (J) [b1]', No returned matches
+'Wonderboy 6 (MonsterWorld 4) (J) [h1]', No returned matches
+'Wonderboy 6 (MonsterWorld 4) (J) [h2]', No returned matches
+'Wonderboy 6 (MonsterWorld 4) (J) [h3]', No returned matches
+'World Championship Soccer (REV 02) (JU) [h2]', No returned matches
+'World Championship Soccer (REV 02) (JU)', No returned matches
+'World Championship Soccer (REV 02) (JU) [p1]', No returned matches
+'World Championship Soccer (REV 03) (JU) [!]', No returned matches
+'World Championship Soccer (W.Cup 90) (REV 02) (JU) [p1]', No returned matches
+'World Championship Soccer 2 (U) [!]', No returned matches
+'World Championship Soccer (REV 02) (JU) [h1]', No returned matches
+'World Championship Soccer 2 (beta)', No returned matches
+'World Championship Soccer 2 (beta) [h1]', No returned matches
+'World Championship Soccer 2 (beta) [h2]', No returned matches
+'World Class Leaderboard Golf (JE) [x]', No returned matches
+'World Class Leaderboard Golf (U) [c][!]', No returned matches
+'World Cup Italia 90 (E) [!]', No returned matches
+'World Cup Soccer (JU) [!]', No returned matches
+'World Cup USA 94 (UE) [!]', No returned matches
+'World Heroes (J) [h1]', No returned matches
+'World Heroes (J) [!]', No returned matches
+'World Heroes (U) [h2]', No returned matches
+'World Pro Baseball 94 (Unl) [c]', No returned matches
+'World Series Baseball (U) [!]', No returned matches
+'World Series Baseball (U) [h1]', No returned matches
+'World Heroes (U) [h1]', No returned matches
+'World Series Baseball (U) [h2]', No returned matches
+'World Series Baseball (U) [o1]', No returned matches
+'World Series Baseball 95 (U) [b1]', No returned matches
+'World Series Baseball 95 32X (F) [!]', No returned matches
+'World Series Baseball 96 (F) [!]', No returned matches
+'World Series Baseball 98 (F) [!]', No returned matches
+'World Series Baseball 96 (U) [h1]', No returned matches
+'World Trophy Soccer (U) [!]', No returned matches
+'World Series Baseball 95 (U) [!]', No returned matches
+'World Trophy Soccer (U) [h1]', No returned matches
+'World Heroes (U) [!]', No returned matches
+'World War 2 (J) [p1][T-Chinese]', No returned matches
+'World War 2 (J)', No returned matches
+'Worms (8) [!].bin', No returned matches
+'Worms (8) [!].smd', No returned matches
+'Worms (UEJ) (prototype) [c][!]', No returned matches
+'Wrestle War (J) [c][!]', No returned matches
+'Wrestle War (J) [p1][!]', No returned matches
+'Wrestleball (J) [a1][x]', No returned matches
+'Wrestleball (J) [p1]', No returned matches
+'ATP Tour Championship Tennis (E) [h1]', No returned matches
+'ATP Tour Championship Tennis (E) [h2]', No returned matches
+'ATP Tour Championship Tennis (E)', No returned matches
+'ATP Tour Championship Tennis (U) [!]', No returned matches
+'ATP Tour Championship Tennis (E) [h3]', No returned matches
+'AWS Pro Moves Soccer (U) [!]', No returned matches
+'Aaahh!!! Real Monsters (4) [!]', No returned matches
+'Aaahh!!! Real Monsters (4) [h1]', No returned matches
+'Aaahh!!! Real Monsters (4) [h2]', No returned matches
+'Wrestleball (J) [x]', No returned matches
+'Aah! Harimanada (J) [b1]', No returned matches
+'Aah! Harimanada (J)', No returned matches
+'Action 52-in-1 (UJE) [b1]', No returned matches
+'Action 52-in-1 (UJE) [c][!]', No returned matches
+'Action 52-in-1 (UJE) [h1]', No returned matches
+'Action 52-in-1 (UJE) [h2]', No returned matches
+'Activator Command Demo 30 Hz (JUE) [c][!]', No returned matches
+'Activator Command Demo 60 Hz (JUE) [c][!]', No returned matches
+'Addams Family Values (8) [!]', No returned matches
+'Addams Family, The (UE) [!]', No returned matches
+'Addams Family, The (beta) [a1]', No returned matches
+'Addams Family, The (beta) [a2]', No returned matches
+'Addams Family, The (beta)', No returned matches
+'Advanced Daisenryaku (J) [h1]', No returned matches
+'Advanced Daisenryaku (J) [p1][T-Chinese]', No returned matches
+'Aero Blasters (JU) [h1]', No returned matches
+'Aero Blasters (JU)', No returned matches
+'Aero the Acro-Bat (U) [b1]', No returned matches
+'Aero the Acro-Bat (U) [c][!]', No returned matches
+'Aero the Acro-Bat (U) [h1]', No returned matches
+'Aero the Acro-Bat (U) [h2]', No returned matches
+'Aero the Acro-Bat 2 (E) [h1]', No returned matches
+'Advanced Daisenryaku (J)', No returned matches
+'Aero the Acro-Bat 2 (E)', No returned matches
+'Aero the Acro-Bat 2 (U) [!]', No returned matches
+'Aero the Acro-Bat 2 (E) [h2]', No returned matches
+'Aerobiz Supersonic (U) [!]', No returned matches
+'Aerobiz Supersonic (U) [b1]', No returned matches
+'Afterburner 32X (A) [!]', No returned matches
+'Afterburner 32X (5) [!]', No returned matches
+'Aerobiz (U) [!]', No returned matches
+'Afterburner II (J) [h1]', No returned matches
+'Afterburner II (J) [p1]', No returned matches
+'Afterburner II (J)', No returned matches
+'Afterburner II (U) [!]', No returned matches
+'Afterburner II (U) [b1]', No returned matches
+'Aerobiz Supersonic (U) [h1]', No returned matches
+'Afterburner II (U) [h2]', No returned matches
+'Afterburner II (U) [h3]', No returned matches
+'Air Busters (U) [c][!]', No returned matches
+'Air Busters (U) [h1]', No returned matches
+'Air Diver (J) [p1][h1]', No returned matches
+'Air Diver (J) [p1]', No returned matches
+'Air Diver (J) [p2]', No returned matches
+'Air Diver (U) [!]', No returned matches
+'Air Diver (J)', No returned matches
+'Afterburner II (U) [h1]', No returned matches
+'Air Manager 2 (J)', No returned matches
+'Akumajo Dracula - Vampire Killer (J) [h1]', No returned matches
+'Akumajo Dracula - Vampire Killer (J)', No returned matches
+'Aladdin (E) [!]', No returned matches
+'Afterburner II (U) [b2]', No returned matches
+'Air Manager (J) [x]', No returned matches
+'Aladdin (U) [!]', No returned matches
+'Aladdin (J) [!]', No returned matches
+'Aladdin (U) [T-German]', No returned matches
+'Aladdin (U) [b1]', No returned matches
+'Aladdin (beta)', No returned matches
+'Aleste - Full Metal Fighter Ellinor (J) [!]', No returned matches
+'Aleste - Full Metal Fighter Ellinor (J) [h1]', No returned matches
+'Aleste - Full Metal Fighter Ellinor (J) [p1][!]', No returned matches
+'Alex Kidd in the Enchanted Castle (E) [!]', No returned matches
+'Alex Kidd in the Enchanted Castle (E) [a1]', No returned matches
+'Alex Kidd in the Enchanted Castle (E) [h1]', No returned matches
+'Alex Kidd in the Enchanted Castle (J)', No returned matches
+'Alex Kidd in the Enchanted Castle (J) [h1]', No returned matches
+'Alex Kidd in the Enchanted Castle (U) [!]', No returned matches
+'Alien 3 (JUE) [!]', No returned matches
+'Alien 3 (JUE) [o1][h1]', No returned matches
+'Alien Soldier (A) [h1]', No returned matches
+'Alien Soldier (A) [h2]', No returned matches
+'Alien Soldier (B) [b1]', No returned matches
+'Alien Soldier (B) [h1]', No returned matches
+'Alien Soldier (B) [c]', No returned matches
+'Alien Soldier (B) [h2]', No returned matches
+'Alien Soldier (B) [h3]', No returned matches
+'Alien Storm (JUE) [!]', No returned matches
+'Alien Storm (JUE) [b1]', No returned matches
+'Alien Storm (JUE) [h1]', No returned matches
+'Alien Storm (JUE) [h2]', No returned matches
+'Alien Storm (JUE) [p1][!]', No returned matches
+'Alisia Dragoon (E) [!]', No returned matches
+'Alisia Dragoon (JU) [h1]', No returned matches
+'Alisia Dragoon (JU) [!]', No returned matches
+'Alisia Dragoon (beta)', No returned matches
+'Alien Soldier (A)', No returned matches
+'Altered Beast (REV 00) (JU) [x]', No returned matches
+'Altered Beast (REV 01) (JU) [!]', No returned matches
+'Altered Beast (REV 02) (JU) [!]', No returned matches
+'Altered Beast (REV 02) (JU) [T-Port_Son_Car]', No returned matches
+'Altered Beast (REV 02) (JU) [b1]', No returned matches
+'Altered Beast (REV 02) (JU) [h1]', No returned matches
+'Altered Beast (REV 02) (JU) [h2]', No returned matches
+'Ambition of Caesar (J) [T-Chinese]', No returned matches
+'Ambition of Caesar (J)', No returned matches
+'American Gladiators (U) [!]', No returned matches
+'American Gladiators (U) [b1]', No returned matches
+'Andre Agassi Tennis (REV 00) (JU) [!]', No returned matches
+'Andre Agassi Tennis (REV 00) (beta)', No returned matches
+'Andre Agassi Tennis (REV 01) (JE) [c][!]', No returned matches
+'Animaniacs (E) [h1]', No returned matches
+'Animaniacs (E) [h2]', No returned matches
+'Animaniacs (UJ) [!]', No returned matches
+'Animaniacs (UJ) [h1]', No returned matches
+'Ambition of Caesar 2 (A) [x]', No returned matches
+'Animaniacs (UJ) [h2]', No returned matches
+'Another World (E) [!]', No returned matches
+'Another World (beta) [h1]', No returned matches
+'Another World (E) [h1]', No returned matches
+'Aoki Gentyouhishi (J) [!]', No returned matches
+'Animaniacs (E)', No returned matches
+'Aoki Gentyouhishi (J) [b1]', No returned matches
+'Aq Renkan Awa (Unl) [c]', No returned matches
+'Aquatic Games, The (U) [!]', No returned matches
+'Aquatic Games, The (U) [h1]', No returned matches
+'Arch Rivals (UE) [!]', No returned matches
+'Arcus Odyssey (J)', No returned matches
+'Arch Rivals (UE) [p1]', No returned matches
+'Arcus Odyssey (U) [!]', No returned matches
+'Arcus Odyssey (U) [b1]', No returned matches
+'Ariel - Disney's The Little Mermaid (U) [!]', No returned matches
+'Ariel - Disney's The Little Mermaid (U) [h2]', No returned matches
+'Arnold Palmer Tournament Golf (U) [!].bin', No returned matches
+'Arnold Palmer Tournament Golf (U) [!].smd', No returned matches
+'Ariel - Disney's The Little Mermaid (U) [h1]', No returned matches
+'Arnold Palmer Tournament Golf (U) [h1]', No returned matches
+'Arnold Palmer Tournament Golf (U) [p1]', No returned matches
+'Arrow Flash (JUE) [!]', No returned matches
+'Arrow Flash (JUE) [p1][h1]', No returned matches
+'Arrow Flash (JUE) [p2]', No returned matches
+'Art Alive! (U) [!]', No returned matches
+'Arrow Flash (JUE) [p1]', No returned matches
+'Art Alive! (U) [o1]', No returned matches
+'Art Alive! (U) [p1]', No returned matches
+'Art of Fighting (E) [!]', No returned matches
+'Art of Fighting (J) [h1]', No returned matches
+'Art of Fighting (J) [h2]', No returned matches
+'Art of Fighting (J) [h3]', No returned matches
+'Art of Fighting (J)', No returned matches
+'Art of Fighting (U) [!]', No returned matches
+'Art of Fighting (U) [h1]', No returned matches
+'Assault Suits Leynoss (J) [h1]', No returned matches
+'Assault Suits Leynoss (J)', No returned matches
+'Asterix and the Great Rescue (E) [x]', No returned matches
+'Asterix and the Great Rescue (U) [!]', No returned matches
+'Asterix and the Great Rescue (U) [h1]', No returned matches
+'Asterix and the Power of The Gods (8) (Eng-Ger-Fr-Sp) [!]', No returned matches
+'Asterix and the Power of The Gods (8) (Eng-Ger-Fr-Sp) [f1]', No returned matches
+'Asterix and the Power of The Gods (8) (Eng-Ger-Fr-Sp) [h1]', No returned matches
+'Asterix and the Power of The Gods (E) (Eng-Ger-Fr-Sp-It) [x]', No returned matches
+'AstroDuel (PD)', No returned matches
+'Atomic Robo Kid (J) [h1]', No returned matches
+'Atomic Robo Kid (J) [p1]', No returned matches
+'Atomic Robo Kid (U) [c][!]', No returned matches
+'Atomic Robo Kid (U) [h1]', No returned matches
+'Atomic Runner (E) [!]', No returned matches
+'Atomic Runner (E) [h1]', No returned matches
+'Atomic Runner (E) [h2]', No returned matches
+'Atomic Runner (J) [R-USA][!]', No returned matches
+'Australian Rugby League (E) [!]', No returned matches
+'Awesome Possum (UJE) [!]', No returned matches
+'Awesome Possum (UJE) [h1]', No returned matches
+'Awesome Possum (UJE) [h2]', No returned matches
+'Awesome Possum (UJE) [h3]', No returned matches
+'Awesome Possum (UJE) [h4]', No returned matches
+'Atomic Robo Kid (J) [c]', No returned matches
+'Ayrton Senna's Super Monaco GP II (JE) [!]', No returned matches
+'Ayrton Senna's Super Monaco GP II (U) [!]', No returned matches
+'Ayrton Senna's Super Monaco GP II (U) [a1]', No returned matches
+'Ayrton Senna's Super Monaco GP II (U) [b1]', No returned matches
+'Ayrton Senna's Super Monaco GP II (U) [b2]', No returned matches
+'Ayrton Senna's Super Monaco GP II (U) [h1]', No returned matches
+'Ka-Ge-Ki - Fists of Steel (U) [R-Jap]', No returned matches
+'Ka-Ge-Ki - Fists of Steel (U) [R-Jap][b1]', No returned matches
+'Ka-Ge-Ki - Fists of Steel (U) [!]', No returned matches
+'Kawasaki Superbike Challenge (JUE) [!]', No returned matches
+'Kawasaki Superbike Challenge (beta)', No returned matches
+'Kick Off 3 - European Challenge (E) [!]', No returned matches
+'Kick Off 3 - European Challenge (JUE) [h1]', No returned matches
+'Awesome Possum (beta)', No returned matches
+'Kick Off 3 - European Challenge (U) [h1]', No returned matches
+'Kid Chameleon (JUE) [!]', No returned matches
+'Kid Chameleon (JUE) [h1]', No returned matches
+'Kid Chameleon (JUE) [t1]', No returned matches
+'Killing Game Show (U)', No returned matches
+'Killing Game Show - 1993 Remix (JUE)', No returned matches
+'King Colossus (J) [h1]', No returned matches
+'King Colossus (J)', No returned matches
+'King Salmon (J) [x]', No returned matches
+'King Salmon (U) [c][!]', No returned matches
+'King of Fighters '98, The (Unl) [!]', No returned matches
+'King of the Monsters (E) [!]', No returned matches
+'King of the Monsters (U) [!].bin', No returned matches
+'King of the Monsters (U) [!].smd', No returned matches
+'King of the Monsters (U) [b1]', No returned matches
+'Kick Off 3 - European Challenge (JUE) [h2]', No returned matches
+'King of the Monsters 2 (U) [!]', No returned matches
+'King of the Monsters 2 (U) [b1]', No returned matches
+'King's Bounty (U) [!].smd', No returned matches
+'Klax (Atari-Tengen) (U) [!].bin', No returned matches
+'Klax (Atari-Tengen) (U) [!].smd', No returned matches
+'Klax (Namcot) (J) [c][!]', No returned matches
+'Klax (Namcot) (J) [h1]', No returned matches
+'Knuckles Chaotix 32X (5) [!]', No returned matches
+'Knuckles Chaotix 32X (A) [!]', No returned matches
+'Kolibri 32X (F) [!]', No returned matches
+'Koutetsu Teikoku (J) [!]', No returned matches
+'Kujaku-Oh 2 - Peacock King (J) [o1]', No returned matches
+'Kujaku-Oh 2 - Peacock King (J) [p1]', No returned matches
+'Kujaku-Oh 2 - Peacock King (J) [t1]', No returned matches
+'Kujaku-Oh 2 - Peacock King (J)', No returned matches
+'Kyukai Dotyuuki Baseball (J) [b1]', No returned matches
+'Kyuukyou Tiger (J) [!]', No returned matches
+'Kyukai Dotyuuki Baseball (J) [c][!]', No returned matches
+'Kyuukyou Tiger (J) [h1]', No returned matches
+'Kyuukyou Tiger (J) [o1]', No returned matches
+'M.U.S.H.A (U) [!].bin', No returned matches
+'Kyuukyou Tiger (J) [o2]', No returned matches
+'M1 Abrams Battle Tank (REV 01) (JUE) [!]', No returned matches
+'M1 Abrams Battle Tank (REV 01) (JUE) [b1]', No returned matches
+'King's Bounty (U) [!].bin', No returned matches
+'MLBPA Baseball (UEJ) [!]', No returned matches
+'MLBPA Baseball (UEJ) [b1]', No returned matches
+'MLBPA Sports Talk Baseball (U) [!]', No returned matches
+'MLBPA Sports Talk Baseball (U) [h1]', No returned matches
+'MLBPA Sports Talk Baseball (U) [h2]', No returned matches
+'Madden NFL 95 (JUE) [!]', No returned matches
+'Madden NFL 95 (JUE) [o1]', No returned matches
+'Madden NFL 95 (Superbowl Hack) (JUE) [h1]', No returned matches
+'Madden NFL 95 (Superbowl Hack) (JUE) [h1][b1]', No returned matches
+'Madden NFL 96 (F) [!]', No returned matches
+'Madden NFL 95 (Superbowl Hack) (JUE) [h1][f1]', No returned matches
+'Madden NFL 97 (F) [!]', No returned matches
+'Madden NFL 98 (4) [b1]', No returned matches
+'Madden NFL 98 (4) [h1]', No returned matches
+'Madouh Monogatari (J) [!]', No returned matches
+'Madden NFL 98 (4) [c][!]', No returned matches
+'Madouh Monogatari (J) [b1]', No returned matches
+'Magic Girl (Unl) [t1]', No returned matches
+'Magic Girl (Unl) [c][!]', No returned matches
+'Magic School Bus, The (5) [!]', No returned matches
+'Magic School Bus, The (5) [h1]', No returned matches
+'Magical Christmas Greetings Demo (PD)', No returned matches
+'Magical Taluluto Adventure (J) [!]', No returned matches
+'Mahjong Club (J) [x]', No returned matches
+'Mahjong Cop Ryu (J)', No returned matches
+'Majikaru Hashito no Butsutobi Turbo! Daibouken (JU) [!]', No returned matches
+'Maou Renjishu (J) [p1][!]', No returned matches
+'Maou Renjitsu (J) [b1]', No returned matches
+'Maou Renjitsu (J) [c][!]', No returned matches
+'Maou Renjitsu (J) [h1]', No returned matches
+'Marble Madness (U) [!].smd', No returned matches
+'Marble Madness (U) [!].bin', No returned matches
+'Mario Andretti Racing (UEJ) [!]', No returned matches
+'Mario Andretti Racing (UEJ) [h1]', No returned matches
+'Mario Lemieux Hockey (U) [!]', No returned matches
+'Mario Lemieux Hockey (U) [p1]', No returned matches
+'Marko's Magic Football (U) [!]', No returned matches
+'Marko's Magic Football (UE)', No returned matches
+'Marko's Magic Football (UEJ) [h1]', No returned matches
+'Marko's Magic Football (UEJ) [t1][h1]', No returned matches
+'Marko's Magic Football (beta) [h1]', No returned matches
+'Marsupilami (4) [!]', No returned matches
+'Marsupilami (A)', No returned matches
+'Marsupilami (U) [b1]', No returned matches
+'M.U.S.H.A (U) [!].smd', No returned matches
+'Marsupilami (U)', No returned matches
+'Marsupilami (U) [h1]', No returned matches
+'Marvel Land (J) [!]', No returned matches
+'Marvel Land (U) [!].smd', No returned matches
+'Marvel Land (U) [b1]', No returned matches
+'Mary Shelley's Frankenstein (U) [!]', No returned matches
+'Mary Shelley's Frankenstein (U) [h1]', No returned matches
+'Master of Monsters (J)', No returned matches
+'Marvel Land (U) [!].bin', No returned matches
+'Master of Monsters (U) [!]', No returned matches
+'Master of Monsters (U) [h1].bin', No returned matches
+'Master of Monsters (U) [h1].smd', No returned matches
+'Master of Weapon (J) [h1]', No returned matches
+'Master of Weapon (U)', No returned matches
+'Maten Densetsu (J)', No returned matches
+'Math Blaster (U) [!]', No returned matches
+'Mazin Saga (J) [a1]', No returned matches
+'Mazin Saga (J) [h1]', No returned matches
+'Mazin Saga (J) [h2]', No returned matches
+'Mary Shelley's Frankenstein (U) [h2]', No returned matches
+'Mazin Saga (J)', No returned matches
+'Mazin Wars (E)', No returned matches
+'McDonald's Treasure Land Adventure (E) [a1]', No returned matches
+'McDonald's Treasure Land Adventure (E)', No returned matches
+'McDonald's Treasure Land Adventure (J) [R-Jap-Eur]', No returned matches
+'McDonald's Treasure Land Adventure (JUE) [R-Jap-USA][p1]', No returned matches
+'McDonald's Treasure Land Adventure (U) [!]', No returned matches
+'Mega Anser (J) [!]', No returned matches
+'Mega Bomberman (JUE) [!]', No returned matches
+'Mega Bomberman (JUE) [a1][!]', No returned matches
+'Mega Bomberman - 8 Player Demo (JUE) [a1]', No returned matches
+'Mega Bomberman - 8 Player Demo (JUE)', No returned matches
+'Mega CD BIOS V2.00 (E)', No returned matches
+'Mega Games 10 in 1 (F) [!]', No returned matches
+'Mega Lo Mania (E) [c][!]', No returned matches
+'Mega Lo Mania (J)', No returned matches
+'Mega Lo Mania (E) [h1]', No returned matches
+'Mega Q - The Party Quiz Game (J)', No returned matches
+'Mega SWIV (E) [b1]', No returned matches
+'Mega SWIV (E) [h1]', No returned matches
+'Mazin Saga (U) [!]', No returned matches
+'Mega SWIV (JUE) [h1]', No returned matches
+'Mega Turrican (E)', No returned matches
+'Mega Turrican (U) [!]', No returned matches
+'Mega Turrican (U) [h1]', No returned matches
+'Mega Turrican (U) [h2]', No returned matches
+'Mega Turrican (U) [h3].bin', No returned matches
+'Mega Turrican (U) [h3].smd', No returned matches
+'Mega-CD Boot ROM v1.0 (J)', No returned matches
+'MegaGames 3in1 Vol 1 (S-HangOn WC Italia 90 Columns) (E) [!]', No returned matches
+'MegaGames 3in1 Vol 1 (S-HangOn WC Italia 90 Columns) (E) [b1]', No returned matches
+'MegaGames 3in1 Vol 2 (G-Axe SofR Rev-Shinobi) (E)', No returned matches
+'MegaGames 4in1 (Classic Collection) (F) [!]', No returned matches
+'MegaGames 6in1 US (G-Axe S-HangOn) (4) [!]', No returned matches
+'MegaGames 6in1 Vol 1 (S-HangOn WC-Italia) (F) [!]', No returned matches
+'Mega SWIV (E)', No returned matches
+'MegaGames 6in1 Vol 3 (Soccer S-Monaco) (F)', No returned matches
+'MegaTraX (J) [c][!]', No returned matches
+'MegaTraX (J) [h1]', No returned matches
+'MegaTraX (U)', No returned matches
+'Megaman - The Wily Wars (E) [h1]', No returned matches
+'Megaman - The Wily Wars (E)', No returned matches
+'Megapanel (J) [c][!]', No returned matches
+'Mercs (JUE) [h1]', No returned matches
+'Menacer 6-in-1 Game Pack (UJE) [!]', No returned matches
+'Metal Fangs (J) [c][!]', No returned matches
+'Metal Fangs (J) [h1]', No returned matches
+'Metal Fangs (J) [p1][b1]', No returned matches
+'Mercs (JUE) [!]', No returned matches
+'Metal Head 32X (5) [!]', No returned matches
+'Metal Head 32X (A) [h1]', No returned matches
+'Michael Jackson's Moonwalker (REV 00) (JUE) [!]', No returned matches
+'Metal Head 32X (A) [!]', No returned matches
+'Michael Jackson's Moonwalker (REV 00) (JUE) [T-Port_Son_Car]', No returned matches
+'Michael Jackson's Moonwalker (REV 00) (JUE) [p1]', No returned matches
+'Michael Jackson's Moonwalker (REV 01) (JUE) [!]', No returned matches
+'Mick & Mack as the Global Gladiators (E) [!]', No returned matches
+'Mick & Mack as the Global Gladiators (U) [!].bin', No returned matches
+'Mick & Mack as the Global Gladiators (U) [!].smd', No returned matches
+'Mick & Mack as the Global Gladiators (beta) [a1]', No returned matches
+'Mick & Mack as the Global Gladiators (beta)', No returned matches
+'Metal Fangs (J) [h2]', No returned matches
+'Mickey Mania - Timeless Adventures of Mickey Mouse (E) [!]', No returned matches
+'Mickey Mania - Timeless Adventures of Mickey Mouse (U) [!]', No returned matches
+'Mickey Mania - Timeless Adventures of Mickey Mouse (U) [b2]', No returned matches
+'Mickey Mania - Timeless Adventures of Mickey Mouse (U) [t1]', No returned matches
+'Mickey Mania - Timeless Adventures of Mickey Mouse (U) [b1]', No returned matches
+'Mickey Mania - Timeless Adventures of Mickey Mouse (beta)', No returned matches
+'Mickey Mouse - Castle of Illusion (J) [h1]', No returned matches
+'Mickey Mouse - Castle of Illusion (U) [!]', No returned matches
+'Mickey Mouse - Fantasia (REV 00) (U) [!]', No returned matches
+'Mickey Mouse - Fantasia (REV 00) (U) [h1]', No returned matches
+'Mickey Mouse - Castle of Illusion (J)', No returned matches
+'Mickey Mouse - Castle of Illusion (J) [p1]', No returned matches
+'Mickey Mouse - Fantasia (REV 00) (U) [h2].bin', No returned matches
+'Mickey Mouse - Fantasia (REV 00) (U) [h2].smd', No returned matches
+'Mickey Mouse - Great Circus Mystery (U) [!]', No returned matches
+'Mickey Mouse - Great Circus Mystery (U) [h1]', No returned matches
+'Mickey Mouse - Fantasia (REV 00) (U) [p1][!]', No returned matches
+'Mickey Mouse - Fantasia (REV 01) (U) [!]', No returned matches
+'Mickey Mouse - Great Circus Mystery (U) [h2]', No returned matches
+'Mickey Mouse - Great Circus Mystery (U) [h3]', No returned matches
+'Mickey Mouse - World of Illusion (E) [!]', No returned matches
+'Mickey Mouse - World of Illusion (J)', No returned matches
+'Mickey Mouse - Great Circus Mystery (U) [p1]', No returned matches
+'Mickey Mouse - World of Illusion (U) [!].bin', No returned matches
+'Mickey Mouse - Minnie's Magical Adventure 2 (J)', No returned matches
+'Mickey Mouse - World of Illusion (U) [!].smd', No returned matches
+'Mickey Mouse - World of Illusion (U) [h1]', No returned matches
+'Mickey Mouse - World of Illusion (beta)', No returned matches
+'Mickey's Ultimate Challenge (U) [!].bin', No returned matches
+'Mickey's Ultimate Challenge (U) [!].smd', No returned matches
+'Mickey Mouse - World of Illusion (U) [b1]', No returned matches
+'Mickey Mouse - World of Illusion (beta) [h1]', No returned matches
+'Mickey's Ultimate Challenge (U) [h1]', No returned matches
+'Micro Machines (E) [a1][c][!]', No returned matches
+'Micro Machines (E) [c][!]', No returned matches
+'Micro Machines 2 - Turbo Tournament (JUE) (J-Cart) [c][!]', No returned matches
+'Micro Machines (E) [a1][h1]', No returned matches
+'Micro Machines (E) [a2][x]', No returned matches
+'Micro Machines 2 - Turbo Tournament (JUE) [c][!]', No returned matches
+'Micro Machines 96 (V1.1) (E) (J-Cart) [c][!]', No returned matches
+'Micro Machines Military - It's a Blast! (E) (J-Cart) [c][!]', No returned matches
+'Micro Machines 96 (V1.1) (E) [c]', No returned matches
+'Micro Machines Military - It's a Blast! (E) [c]', No returned matches
+'Micro Machines 96 (V1.1) (E) [a1]', No returned matches
+'Midnight Resistance (U) [!].bin', No returned matches
+'Midnight Resistance (J)', No returned matches
+'Micro Machines 96 (V1.1) (E) [h1]', No returned matches
+'Mig-29 Fulcrum (EUJ) [R-Eur]', No returned matches
+'Midnight Resistance (U) [!].smd', No returned matches
+'Might and Magic 2 - Gates to Another World (REV 01) (U) [c][!]', No returned matches
+'Mig-29 Fulcrum (UEJ) [!]', No returned matches
+'Might and Magic 2 - Gates to Another World (REV 01) (U) [h1]', No returned matches
+'Might and Magic 2 - Gates to Another World (REV 01) (U) [h2]', No returned matches
+'Might and Magic 2 - Gates to Another World (REV 01) (U) [o1]', No returned matches
+'Might and Magic 2 - Gates to Another World (REV 01) (U) [o2]', No returned matches
+'Might and Magic 3 - Isles of Terror (U) [f1]', No returned matches
+'Might and Magic 3 - Isles of Terror (U) [f2]', No returned matches
+'Mig-29 Fulcrum (EUJ) [R-Eur][h1]', No returned matches
+'Might and Magic 3 - Isles of Terror (U) [h1]', No returned matches
+'Might and Magic 3 - Isles of Terror (U) [x]', No returned matches
+'Mighty Max (E) [h2]', No returned matches
+'Mighty Max (E) [h3]', No returned matches
+'Mighty Max (E) [h4]', No returned matches
+'Mighty Max (E) [h1]', No returned matches
+'Mighty Max (E)', No returned matches
+'Mighty Max (U) [!]', No returned matches
+'Mighty Morphin Power Rangers (E)', No returned matches
+'Mighty Morphin Power Rangers (JUE) [h1]', No returned matches
+'Mighty Morphin Power Rangers (U) [!].smd', No returned matches
+'Mighty Morphin Power Rangers (U) [h1]', No returned matches
+'Mighty Morphin Power Rangers - The Movie (4) [!]', No returned matches
+'Mighty Morphin Power Rangers - The Movie (4) [h1]', No returned matches
+'Mighty Morphin Power Rangers - The Movie (4) [b1]', No returned matches
+'Mike Ditka Power Football (U) [!]', No returned matches
+'Mike Ditka Power Football (U) [a1][!]', No returned matches
+'Minato no Toreijia (J) [b1]', No returned matches
+'Minato no Toreijia (J)', No returned matches
+'Mine Demo V0.01 (PD)', No returned matches
+'Mine Demo V0.03 (PD)', No returned matches
+'Mine Demo V0.02 (PD)', No returned matches
+'Minnesota Fats Pool Legend (4) [!]', No returned matches
+'Minnesota Fats Pool Legend (JUE) [h1]', No returned matches
+'Misadventures of Flink, The (E) [!]', No returned matches
+'Mighty Morphin Power Rangers (U) [!].bin', No returned matches
+'Misadventures of Flink, The (E) [h1]', No returned matches
+'Monopoly (U) [h1].bin', No returned matches
+'Miracle Piano Teaching System (U) [!]', No returned matches
+'Monopoly (U) [h1].smd', No returned matches
+'Monopoly (beta)', No returned matches
+'Moonbase V0.04 (PD)', No returned matches
+'Moonbase V0.05 (PD)', No returned matches
+'Monopoly (U) [c][!]', No returned matches
+'Moonbase V0.06 (PD)', No returned matches
+'Mortal Kombat (REV 00) (JUE) [!]', No returned matches
+'Mortal Kombat (REV 00) (JUE) [h1].bin', No returned matches
+'Mortal Kombat (REV 00) (JUE) [h1].smd', No returned matches
+'Mortal Kombat (REV 00) (JUE) [h2]', No returned matches
+'Mortal Kombat (REV 01) (JUE) (prototype) [c][!]', No returned matches
+'Mortal Kombat 2 (JUE) [!]', No returned matches
+'Mortal Kombat 2 (JUE) [b1]', No returned matches
+'Mortal Kombat 2 (JUE) [t1]', No returned matches
+'Mortal Kombat 2 32X (Dec 1994) (JUE) [!]', No returned matches
+'Mortal Kombat 2 (JUE) [b3]', No returned matches
+'Mortal Kombat 2 32X (Jan 1995) (JUE) [!]', No returned matches
+'Mortal Kombat 3 (4) [!]', No returned matches
+'Mortal Kombat 3 (4) [h1]', No returned matches
+'Mortal Kombat 3 (4) [h2]', No returned matches
+'Mortal Kombat 3 (8)', No returned matches
+'Mortal Kombat 3 (JUE) [h1]', No returned matches
+'Mortal Kombat 3 (UE) [h1]', No returned matches
+'Motocross Championship 32X (E) [!]', No returned matches
+'Mortal Kombat 2 (JUE) [b2]', No returned matches
+'Mr. Nutz (E) [h1]', No returned matches
+'Motocross Championship 32X (JU) [!]', No returned matches
+'Mr. Nutz (E) [!]', No returned matches
+'Mr. Nutz (E) [h2]', No returned matches
+'Ms. Pacman (U) [!]', No returned matches
+'Ms. Pacman (U) [h1]', No returned matches
+'Ms. Pacman (U) [o1].bin', No returned matches
+'Ms. Pacman (U) [o1].smd', No returned matches
+'Muhammed Ali Heavyweight Boxing (U) [a1]', No returned matches
+'Muhammed Ali Heavyweight Boxing (U) [c][!]', No returned matches
+'Muhammed Ali Heavyweight Boxing (beta)', No returned matches
+'Mulan (Unl) [c][!]', No returned matches
+'Mulan (Unl) [f1]', No returned matches
+'Multitap - IO Sample Program (Nov 28 1992) (JUE) [c][!]', No returned matches
+'Mulan (Unl) [f2]', No returned matches
+'Mutant League Football (JU) [R-Jap][!]', No returned matches
+'Mutant League Hockey (UEJ) [!]', No returned matches
+'Mutant League Hockey (UEJ) [b1]', No returned matches
+'Mr. Nutz (E) [h3]', No returned matches
+'Mutant League Hockey (UEJ) [h2]', No returned matches
+'Mutant League Hockey (UEJ) [h1]', No returned matches
+'Mystic Defender (REV 00) (JUE) [h1]', No returned matches
+'Mystic Defender (REV 00) (JUE)', No returned matches
+'Mystical Fighter (U) [c][!]', No returned matches
+'Mystic Defender (REV 01) (JUE)', No returned matches
+'Mystical Fighter (U) [h1].bin', No returned matches
+'Mystical Fighter (U) [h1].smd', No returned matches
+'V Five (JUE) [!]', No returned matches
+'Mutant League Football (UEJ) [!]', No returned matches
+'V.R Fighter vs Taken2 (Unl)', No returned matches
+'V.R Fighter vs Taken2 (Unl) [b1]', No returned matches
+'VR Troopers (C) [!]', No returned matches
+'Valis - The Fantasm Soldier (U) [!]', No returned matches
+'Valis - The Fantasm Soldier (U) [T-Port]', No returned matches
+'Valis 3 (J)', No returned matches
+'Valis 3 (U) [!]', No returned matches
+'Valis 3 (U) [h1]', No returned matches
+'Valis SD (J) [!]', No returned matches
+'Valis - The Fantasm Soldier (J)', No returned matches
+'Valis 3 (U) [T-Port_Desconhecido]', No returned matches
+'Valis Syd (U) [!]', No returned matches
+'Valis SD (J) [h1]', No returned matches
+'Vapor Trail (J) [h1].smd', No returned matches
+'Vapor Trail (J)', No returned matches
+'Vapor Trail (J) [b1]', No returned matches
+'Vapor Trail (J) [h1].bin', No returned matches
+'Vapor Trail (U) [!]', No returned matches
+'Vectorman (F) [b1]', No returned matches
+'Vectorman (F) [b2]', No returned matches
+'Vectorman (F) (pre-release)', No returned matches
+'Vectorman (F) (prototype) [!]', No returned matches
+'Vectorman (F) [h1]', No returned matches
+'Vectorman (F) [!]', No returned matches
+'Vectorman 2 (F) (prototype) [!]', No returned matches
+'Vectorman 2 (F) [!]', No returned matches
+'Verytex (J) [h1]', No returned matches
+'Vectorman 2 (F) [a1][!]', No returned matches
+'Verytex (J) [c][!]', No returned matches
+'Verytex (J) [p1]', No returned matches
+'Viewpoint (U) [!]', No returned matches
+'Viewpoint (U) [b1]', No returned matches
+'Viewpoint (beta)', No returned matches
+'Viewpoint (beta) [a1]', No returned matches
+'Viewpoint (U) [b2]', No returned matches
+'Virtua Fighter 2 (F) [!]', No returned matches
+'Virtua Fighter 2 (F) [b1]', No returned matches
+'Virtua Fighter 32X (A) [b1]', No returned matches
+'Virtua Racing (U) [h1]', No returned matches
+'Virtua Fighter 32X (5) [!]', No returned matches
+'Virtua Fighter 32X (A) [!]', No returned matches
+'Virtua Racing (U)', No returned matches
+'Virtua Racing Deluxe 32X (A) [!]', No returned matches
+'Virtua Racing Deluxe 32X (U)', No returned matches
+'Virtual Pinball (UEJ) [!]', No returned matches
+'Virtua Racing Deluxe 32X (U) [h1]', No returned matches
+'Virtua Racing Deluxe 32X (A) [b1]', No returned matches
+'Virtual Pinball (UEJ) [o1].bin', No returned matches
+'Virtual Pinball (UEJ) [o1].smd', No returned matches
+'Vixen 357 (J)', No returned matches
+'Volfide (JUE)', No returned matches
+'Visual Scene SEGA-CD Image (J) [b1]', No returned matches
+'Vixen 357 (J) [b1]', No returned matches
+'Olympic Gold - Barcelona 92 (E) [c][!]', No returned matches
+'Olympic Gold - Barcelona 92 (J) [c][!]', No returned matches
+'Olympic Gold - Barcelona 92 (U) [h1]', No returned matches
+'Olympic Gold - Barcelona 92 (U) [c][!]', No returned matches
+'Olympic Gold - Barcelona 92 (U) [a1][c][!]', No returned matches
+'Olympic Summer Games Atlanta 96 (F) [!]', No returned matches
+'Olympic Summer Games Atlanta 96 (F) [b1]', No returned matches
+'Olympic Winter Games - Lillehammer 94 (J) [c][!]', No returned matches
+'Olympic Winter Games - Lillehammer 94 (JE) [c][!]', No returned matches
+'Olympic Summer Games Atlanta 96 (F) [b2]', No returned matches
+'Olympic Summer Games Atlanta 96 (F) [b3]', No returned matches
+'Olympic Winter Games - Lillehammer 94 (U) [c]', No returned matches
+'Omega Race (J) [h1]', No returned matches
+'Onslaught (Unl) [h2]', No returned matches
+'Omega Race (J) [x]', No returned matches
+'Onslaught (Unl) [c][!]', No returned matches
+'Onslaught (Unl) [h3]', No returned matches
+'Onslaught (Unl) [h1]', No returned matches
+'Operation Europe - Path to Victory 1939-1945 (U) [!]', No returned matches
+'Ooze, The (5)', No returned matches
+'Operation Europe - Path to Victory 1939-1945 (U) [h1]', No returned matches
+'Otsomatsu Kun Hachamecha Gekiio - Mr. Chunga (J) [b1]', No returned matches
+'Otsomatsu Kun Hachamecha Gekiio - Mr. Chunga (J) [h1]', No returned matches
+'Otsomatsu Kun Hachamecha Gekiio - Mr. Chunga (J) [x]', No returned matches
+'Otsomatsu Kun Hachamecha Gekiio - Mr. Chunga (J) [o2]', No returned matches
+'Ooze, The (A)', No returned matches
+'Otsomatsu Kun Hachamecha Gekiio - Mr. Chunga (J) [o1]', No returned matches
+'Ottifants, The (German) (beta)', No returned matches
+'Ottifants, The (E) [h1]', No returned matches
+'Out of this World (JUE) [h1]', No returned matches
+'OutRun (JU) (KPH-MPH toggles) [!]', No returned matches
+'Out of this World (U) [!]', No returned matches
+'OutRun (JU) [a1][!]', No returned matches
+'OutRun (JU) [h1]', No returned matches
+'Ottifants, The (E) [!]', No returned matches
+'OutRun 2019 (Feb 1993) (U) [!]', No returned matches
+'OutRun 2019 (E) [!]', No returned matches
+'OutRun 2019 (J)', No returned matches
+'OutRun 2019 (Nov 1992) (U).bin', No returned matches
+'OutRunners (J) [h1]', No returned matches
+'OutRun 2019 (Nov 1992) (U).smd', No returned matches
+'OutRun (JU) [b1]', No returned matches
+'OutRunners (J)', No returned matches
+'OutRunners (JUE) [h1]', No returned matches
+'OutRunners (JUE) [h2]', No returned matches
+'OutRunners (U) [!]', No returned matches
+'OutRunners (U) [h3]', No returned matches
+'Outlander (U) [R-Eur][!]', No returned matches
+'Outlander (U) [h1].bin', No returned matches
+'Outlander (U) [h2]', No returned matches
+'Outlander (U) [p1]', No returned matches
+'Outlander (U)', No returned matches
+'IMG International Tour Tennis (UEJ) [!]', No returned matches
+'IMG International Tour Tennis (UEJ) [h1]', No returned matches
+'Outlander (U) [h1].smd', No returned matches
+'IMG International Tour Tennis (UEJ) [o1]', No returned matches
+'Immortal, The (J)', No returned matches
+'Immortal, The (U) [!]', No returned matches
+'Incredible Crash Dummies, The (JUE) [c][!]', No returned matches
+'Incredible Crash Dummies, The (beta) [h1]', No returned matches
+'Incredible Crash Dummies, The (beta)', No returned matches
+'Incredible Hulk, The (JUE) [!]', No returned matches
+'Indiana Jones and the Last Crusade (JE) [b1]', No returned matches
+'Indiana Jones and the Last Crusade (JE) [c][!]', No returned matches
+'Indiana Jones and the Last Crusade (U) [c][!]', No returned matches
+'Insector X (July 1990) (U) [!]', No returned matches
+'Insector X (June 1990) (JU) [!]', No returned matches
+'Insector X (June 1990) (JU) [p1]', No returned matches
+'International Rugby (JUE) [c][!]', No returned matches
+'International Rugby (U) [h1]', No returned matches
+'International Superstar Soccer Deluxe (U)', No returned matches
+'Ishido - The Way of the Stones (J) [h1]', No returned matches
+'Ishido - The Way of the Stones (U) [c][!]', No returned matches
+'Ishido - The Way of the Stones (U) [o1]', No returned matches
+'Ishido - The Way of the Stones (U) [o2]', No returned matches
+'Ishido - The Way of the Stones (U) [p1]', No returned matches
+'It Came From The Desert (U) [x]', No returned matches
+'J. League Champion Soccer (J) [h1]', No returned matches
+'Izzy's Quest for the Olympic Rings (F) [!]', No returned matches
+'J. League Champion Soccer (J)', No returned matches
+'J. League Pro Striker (REV 00) (J) [c][!]', No returned matches
+'J. League Pro Striker (REV 03) (JE) [c][!]', No returned matches
+'J. League Pro Striker (REV 00) (J) [h1]', No returned matches
+'J. League Pro Striker - Perfect Edition (J) [x]', No returned matches
+'International Superstar Soccer Deluxe (C) [!]', No returned matches
+'J. League Pro Striker 2 (J) [!]', No returned matches
+'J. League Pro Striker 2 (J) [h1]', No returned matches
+'J. League Pro Striker Final Stage (95) (1) [c][!]', No returned matches
+'Jack Nicklaus' Power Challenge Golf (JUE) [!]', No returned matches
+'James Bond - The Duel (J) (Tengen)', No returned matches
+'James Bond - The Duel (UE) (Electronic Arts)', No returned matches
+'James Bond - The Duel (UEJ) (Tengen)', No returned matches
+'J. League Pro Striker 2 (J) [b1]', No returned matches
+'James Buster Douglas Knock Out Boxing (U) [c][!]', No returned matches
+'James Pond (U) [!].bin', No returned matches
+'James Pond (U) [!].smd', No returned matches
+'James Pond 2 - Codename RoboCod (U) [!].bin', No returned matches
+'James Buster Douglas Knock Out Boxing (U) [b1]', No returned matches
+'James Pond 3 - Operation Starfish (UEJ) [!]', No returned matches
+'Jammit (U) [!]', No returned matches
+'James Pond 2 - Codename RoboCod (U) [!].smd', No returned matches
+'Jammit (U) [h1]', No returned matches
+'Jammit (U) [h2]', No returned matches
+'Janou Touryumon (J) [a1]', No returned matches
+'Janou Touryumon (J)', No returned matches
+'Janou Touryumon (JUE) [h1]', No returned matches
+'Jantei Monogatari (Clock Tower) (J) [a1]', No returned matches
+'Jantei Monogatari (Clock Tower) (J) [b1]', No returned matches
+'Jelly Boy (JUE) [b1]', No returned matches
+'Jantei Monogatari (Clock Tower) (J)', No returned matches
+'Jelly Boy (JUE) [h1]', No returned matches
+'Jelly Boy (JUE) [x]', No returned matches
+'Jennifer Capriati Tennis (U) [!]', No returned matches
+'Jeopardy (92) (U) [c][!]', No returned matches
+'Jeopardy (92) (U) [h1]', No returned matches
+'Jeopardy Deluxe (93) (JUE) [c][!]', No returned matches
+'Jeopordy Sports Edition (U) [!]', No returned matches
+'Jerry Glanville's PigSkin Footbrawl (U) [h1]', No returned matches
+'Jerry Glanville's PigSkin Footbrawl (U) [!]', No returned matches
+'Jewel Master (JUE) [R-Jap][c][!]', No returned matches
+'Jewel Master (JUE) [R-Jap][h1]', No returned matches
+'Jerry Glanville's PigSkin Footbrawl (U) [h2]', No returned matches
+'Jiang Qi Zhi Xing (J) [x]', No returned matches
+'Jewel Master (JUE) [R-USA][!]', No returned matches
+'Jim Power (JU)', No returned matches
+'Jimmy White's Whirlwind Snooker (E) [c][!]', No returned matches
+'Jimmy White's Whirlwind Snooker (E) [h1]', No returned matches
+'Jimmy White's Whirlwind Snooker (E) [h2]', No returned matches
+'Jizz Wars (PD)', No returned matches
+'Jimmy White's Whirlwind Snooker (E) [h3]', No returned matches
+'Joe Montana NFL 94 (J) [!]', No returned matches
+'Joe Montana NFL 94 (U) [!]', No returned matches
+'Joe Montana Football (90) (U) [!]', No returned matches
+'Joe Montana NFL 94 (U) [b1]', No returned matches
+'Joe Montana NFL 94 (U) [h1]', No returned matches
+'Joe Montana NFL 95 (UJE) [!]', No returned matches
+'Jelly Boy (JUE) [o1]', No returned matches
+'Joe Montana NFL 95 (UJE) [o1]', No returned matches
+'Joe Montana Sports Talk Football (93) (U) [!]', No returned matches
+'Joe Montana Sports Talk Football 2 (U) [!].bin', No returned matches
+'Joe Montana Sports Talk Football 2 (U) [!].smd', No returned matches
+'Joe and Mac Caveman Ninja (U) [!]', No returned matches
+'Joe and Mac Caveman Ninja (U) [h1]', No returned matches
+'Joe and Mac Caveman Ninja (U) [h2]', No returned matches
+'Joe and Mac Caveman Ninja (U) [h3]', No returned matches
+'Joe and Mac Caveman Ninja (U) [h4]', No returned matches
+'John Madden Football 91 (U) [!]', No returned matches
+'John Madden Football 91 (U) [h1]', No returned matches
+'John Madden Football 92 (U) [!]', No returned matches
+'John Madden Football 93 (U) [c][!]', No returned matches
+'John Madden Football 93 - Championship Edition (U) [!]', No returned matches
+'John Madden Football 93 - Championship Edition (U) [h1]', No returned matches
+'John Madden NFL 94 (UEJ) [o1]', No returned matches
+'Jordan vs Bird - Super One-on-One (REV 00) (JU) [R-Jap][!]', No returned matches
+'Jordan vs Bird - Super One-on-One (REV 00) (U) [h1]', No returned matches
+'Jordan vs Bird - Super One-on-One (REV 01) (U) [!]', No returned matches
+'Joshua (Unl) [c][!]', No returned matches
+'Judge Dredd - The Movie (F) [!]', No returned matches
+'Jordan vs Bird - Super One-on-One (REV 00) (U) [!]', No returned matches
+'Joystick Test Program (PD)', No returned matches
+'John Madden NFL 94 (UEJ) [c][!]', No returned matches
+'Judge Dredd - The Movie (F) [h2]', No returned matches
+'Judge Dredd - The Movie (beta) [b1]', No returned matches
+'Judge Dredd - The Movie (F) [h1]', No returned matches
+'Judge Dredd - The Movie (different beta)', No returned matches
+'Judge Dredd - The Movie (different beta) [b1]', No returned matches
+'Judge Dredd - The Movie (beta)', No returned matches
+'Jump 'n' Run Demo (128K) (PD)', No returned matches
+'Jump 'n' Run Demo (64K) (PD)', No returned matches
+'Junction (JU) [!]', No returned matches
+'Jungle Book, The (E) [!]', No returned matches
+'Jungle Book, The (E) [b1]', No returned matches
+'Jungle Book, The (U) [!]', No returned matches
+'Jungle Book, The (J) [h1]', No returned matches
+'Jungle Book, The (U) [b1]', No returned matches
+'Jungle Book, The (U) [p1][!]', No returned matches
+'Jungle Demo by Charles Coty (PD)', No returned matches
+'Jungle Strike (JU) [b1]', No returned matches
+'Jungle Strike (JU)', No returned matches
+'Jungle Strike (UEJ) [!]', No returned matches
+'Jungle Strike (UEJ) [p1][!]', No returned matches
+'Jungle Strike (beta) [a1]', No returned matches
+'Jungle Strike (beta)', No returned matches
+'Junkers High (J) [h1]', No returned matches
+'Junkers High (J) [h2]', No returned matches
+'Jurassic Park (E) [!]', No returned matches
+'Jurassic Park (J)', No returned matches
+'Jurassic Park (JUE) [h1]', No returned matches
+'Jurassic Park (U) [!]', No returned matches
+'Jurassic Park (U) [h1]', No returned matches
+'Jurassic Park (U) [h2]', No returned matches
+'Jurassic Park (beta) [h1]', No returned matches
+'Jurassic Park (beta)', No returned matches
+'Jurassic Park - Rampage Edition (UJE) [!]', No returned matches
+'Jurassic Park 2 - The Lost World (F) [!]', No returned matches
+'Justice League Task Force (F) [h1]', No returned matches
+'Justice League Task Force (F) [!]', No returned matches
+'X Dazedly Ray (J) [!]', No returned matches
+'X Dazedly Ray (J) [b1]', No returned matches
+'X-Band Modem (Game Toshokan) BIOS (J) [!]', No returned matches
+'X-Band Modem (Game Toshokan) BIOS (J) [o1]', No returned matches
+'X-Men (E).bin', No returned matches
+'X-Men (U) [!]', No returned matches
+'X-Men (E).smd', No returned matches
+'X-Men (U) [h1]', No returned matches
+'X-Men 2 - Clone Wars (JEU) [!].bin', No returned matches
+'X-Men 2 - Clone Wars (JEU) [!].smd', No returned matches
+'X-perts (C) [!]', No returned matches
+'XZR (Exile) (J)', No returned matches
+'Xenon 2 Megablast (E) [c][!]', No returned matches
+'Xenon 2 Megablast (E) [h1]', No returned matches
+'Xenon 2 Megablast (E) [h2]', No returned matches
+'Xenon 2 Megablast (E) [h3]', No returned matches
+'Xenon 2 Megablast (E) [h4]', No returned matches
+'T-MEK 32X (F) [!]', No returned matches
+'TAZ Mania (U) [T-Port]', No returned matches
+'TAZ Mania (U) [!].smd', No returned matches
+'TAZ Mania (U) [T-Port_Kobe]', No returned matches
+'TNN Bass Tournament of Champions (U) [!]', No returned matches
+'TAZ Mania (U) [!].bin', No returned matches
+'Jurassic Park - Rampage Edition (UJE) [h1]', No returned matches
+'TNN Outdoors Bass Tournament 96 (4) [!]', No returned matches
+'TNN Outdoors Bass Tournament 96 (4) [b2]', No returned matches
+'Taiga Drama Taiheiki (J)', No returned matches
+'Taiko Rissi Den (J) [o1]', No returned matches
+'TNN Outdoors Bass Tournament 96 (4) [b1]', No returned matches
+'Taiko Rissi Den (J)', No returned matches
+'Taiwan Tycoon (J) [x]', No returned matches
+'Take the 'A' Train (J)', No returned matches
+'Tale Spin (U) [h1]', No returned matches
+'Tale Spin (U) [!]', No returned matches
+'Take the 'A' Train (J) [h1]', No returned matches
+'Talmit's Adventure (E) [h1]', No returned matches
+'Target Earth (U) [!].smd', No returned matches
+'Talmit's Adventure (E)', No returned matches
+'Target Earth (U) [h1]', No returned matches
+'Task Force Harrier EX (J)', No returned matches
+'Task Force Harrier EX (U) [!].bin', No returned matches
+'Task Force Harrier EX (U) [!].smd', No returned matches
+'Team USA Basketball (U) [R-Jap][!]', No returned matches
+'Team USA Basketball (U) [b1]', No returned matches
+'Team USA Basketball (U) [c][!]', No returned matches
+'Team USA Basketball (U) [h1]', No returned matches
+'Techno Clash (UEJ) [!].bin', No returned matches
+'Techno Clash (UEJ) [!].smd', No returned matches
+'Technocop (U) [!]', No returned matches
+'Technocop (U) [p1]', No returned matches
+'Tecmo Cup Football (J) [h1]', No returned matches
+'Target Earth (U) [!].bin', No returned matches
+'Tecmo Cup Football (J) [p1][!]', No returned matches
+'Tecmo Cup Football (J) [x]', No returned matches
+'Tecmo Super Baseball (94) (U) [h1]', No returned matches
+'Tecmo Super Baseball (94) (U) [!]', No returned matches
+'Tecmo Super Bowl (Oct 1993) (U) [!]', No returned matches
+'Tecmo Super Bowl (Oct 1993) (U) [h1]', No returned matches
+'Tecmo Super Bowl (J)', No returned matches
+'Tecmo Super Bowl (Oct 1993) (U) [b1]', No returned matches
+'Tecmo Super Bowl (Sep 1993) (U) [!]', No returned matches
+'Tecmo Super Bowl 2 (F) [!]', No returned matches
+'Tecmo Super Bowl 2 (U) [h1]', No returned matches
+'Tecmo Super Bowl 2 SE (F) [R-Jap][!]', No returned matches
+'Tecmo Super Bowl 3 Final Edition (U) [a1][x]', No returned matches
+'Tecmo Super Bowl 3 Final Edition (F) [!]', No returned matches
+'Tecmo Super Hockey (U) [!]', No returned matches
+'Tecmo Super Hockey (U) [h1]', No returned matches
+'Tecmo Super NBA Basketball (J) [!]', No returned matches
+'Tecmo Super NBA Basketball (U) [!]', No returned matches
+'Tecmo World Cup (93) (JU) [!]', No returned matches
+'Tecmo World Cup 92 (JU) [!]', No returned matches
+'Tecmo World Cup 92 (JU) [h1]', No returned matches
+'Tecmo World Cup 92 (JU) [h2]', No returned matches
+'Teenage Mutant Hero Turtles - The Hyperstone Heist (E)', No returned matches
+'Teenage Mutant Hero Turtles - Tournament Fighters (E) [b1]', No returned matches
+'Teenage Mutant Hero Turtles - Tournament Fighters (E) [h1]', No returned matches
+'Teenage Mutant Hero Turtles - Tournament Fighters (E) [h2]', No returned matches
+'Teenage Mutant Hero Turtles - Tournament Fighters (E) [h3]', No returned matches
+'Teenage Mutant Hero Turtles - Tournament Fighters (E)', No returned matches
+'Teenage Mutant Ninja Turtles - Return of the Shredder (J) [h', No returned matches
+'Teenage Mutant Ninja Turtles - Return of the Shredder (J)', No returned matches
+'Teenage Mutant Ninja Turtles - The Hyperstone Heist (U) [!]', No returned matches
+'Teenage Mutant Ninja Turtles - The Hyperstone Heist (U) [h1]', No returned matches
+'Teenage Mutant Ninja Turtles - Tournament Fighters (J)', No returned matches
+'Teitoku no Ketsudan (J) [x]', No returned matches
+'Tel Tel Mahjong (J) [x]', No returned matches
+'Tel Tel Stadium (J) [!]', No returned matches
+'Teenage Mutant Ninja Turtles - Tournament Fighters (U) [c][!', No returned matches
+'Tempo 32X (5) [!]', No returned matches
+'Terminator 2 - Judgement Day (JUE) [!]', No returned matches
+'Terminator 2 - Judgement Day (JUE) [h1]', No returned matches
+'Tel Tel Stadium (JU) [h1]', No returned matches
+'Tel Tel Mahjong (J) [h1]', No returned matches
+'Terminator 2 - The Arcade Game (JUE) [!]', No returned matches
+'Terminator 2 - The Arcade Game (beta)', No returned matches
+'Terminator, The (E) [x]', No returned matches
+'Terminator, The (U)', No returned matches
+'Terminator, The (U) [b1]', No returned matches
+'Tetris (JU) [b1]', No returned matches
+'Tetris (JU) [o1]', No returned matches
+'Tetris (JU) [o2]', No returned matches
+'Tetris (JU) [p1]', No returned matches
+'Tetris (JU)', No returned matches
+'Theme Park (F) [h1]', No returned matches
+'Theme Park (F) [!]', No returned matches
+'Thomas the Tank Engine and Friends (U) [c][!]', No returned matches
+'Thunder Force 2 (E)', No returned matches
+'Test Drive 2 - The Duel (U) [!]', No returned matches
+'Thunder Force 2 (U) [!]', No returned matches
+'Thunder Force 2 (U) [h1]', No returned matches
+'Thunder Force 2 (U) [h2]', No returned matches
+'Thunder Force 2 MD (J) [!]', No returned matches
+'Thunder Force 2 MD (J) [h1]', No returned matches
+'Thunder Force 3 (JU) [!]', No returned matches
+'Thomas the Tank Engine and Friends (U) [h1]', No returned matches
+'Thunder Force 3 (JU) [p1]', No returned matches
+'Thunder Force 3 (JU) [p1][h1]', No returned matches
+'Thunder Force 3 (JU) [t1]', No returned matches
+'Thunder Force 4 (E) [c][!]', No returned matches
+'Thunder Force 4 (J) [h2]', No returned matches
+'Thunder Force 4 (J) [h1]', No returned matches
+'Thunder Force 4 (J) [p1][!]', No returned matches
+'Thunder Force 4 (J) [t1]', No returned matches
+'Thunder Force 4 (J) [t2]', No returned matches
+'Thunder Force 4 (J) [t3]', No returned matches
+'Thunder Force 4 (U) [p2]', No returned matches
+'Thunder Fox (U) [c][!]', No returned matches
+'Thunder Fox (U) [h1]', No returned matches
+'Thunder Fox (U) [h2]', No returned matches
+'Thunder Force 3 (JU) [p1][h2]', No returned matches
+'Thunder Fox (J) [x]', No returned matches
+'Time Dominator 1st (JUE)', No returned matches
+'Tiger Hunter Hero Novel (Chinese)', No returned matches
+'Time Killers (E) [!]', No returned matches
+'Time Killers (U) [!]', No returned matches
+'Time Killers (U) [f1]', No returned matches
+'TinHead (U) [h1]', No returned matches
+'Tinhead (U) [!]', No returned matches
+'TinHead (U) [h2]', No returned matches
+'Tinhead (U) [h3]', No returned matches
+'Tinhead (U) [o1]', No returned matches
+'Tintin Au Tibet (E) [!]', No returned matches
+'Tiny Toon Adventures - Acme All Stars (E)', No returned matches
+'Tiny Toon Adventures - Acme All Stars (UJ) [h1]', No returned matches
+'Tiny Toon Adventures - Acme All Stars (UJ) [!]', No returned matches
+'Tiny Toon Adventures - Acme All Stars (UJ) [h2]', No returned matches
+'Tiny Toon Adventures - Acme All Stars (UJ) [h3]', No returned matches
+'Tiny Toons - Buster's Hidden Treasure (E) [!]', No returned matches
+'Tiny Toons - Buster's Hidden Treasure (E) [h1]', No returned matches
+'Tiny Toons - Buster's Hidden Treasure (U) [!]', No returned matches
+'Tiny Toons - Buster's Hidden Treasure (U) [h1]', No returned matches
+'Todd's Adventures in Slime World (J)', No returned matches
+'Todd's Adventures in Slime World (J) [h1]', No returned matches
+'Todd's Adventures in Slime World (U)', No returned matches
+'Toejam & Earl (REV 00) (U) [!]', No returned matches
+'Toejam & Earl (REV 00) (U) [h1]', No returned matches
+'Toejam & Earl (REV 00) (U) [h1][T-Port_FjM]', No returned matches
+'Toejam & Earl (REV 00) (U) [h2]', No returned matches
+'Toejam & Earl (REV 00) (U) [h2][T-Port_FjM]', No returned matches
+'Tick, The (U) [!]', No returned matches
+'Toejam & Earl (REV 02) (U)', No returned matches
+'Toejam & Earl in Panic on Funcotron (E) [!]', No returned matches
+'Toejam & Earl in Panic on Funkotron (E) [h1]', No returned matches
+'Toejam & Earl in Panic on Funkotron (E) (German) [!]', No returned matches
+'Toejam & Earl in Panic on Funkotron (J) [!]', No returned matches
+'Toejam & Earl in Panic on Funkotron (U) [h1]', No returned matches
+'Tom and Jerry - Frantic Antics (1993) (U) [!]', No returned matches
+'Toejam & Earl in Panic on Funkotron (U) [!]', No returned matches
+'Tom and Jerry - Frantic Antics (1993) (U) [h2]', No returned matches
+'Tom and Jerry - Frantic Antics (1994) (U) [!].bin', No returned matches
+'Tom and Jerry - Frantic Antics (1994) (U) [!].smd', No returned matches
+'Tom and Jerry - Frantic Antics (1993) (U) [h1]', No returned matches
+'Tony La Russa 95 (UEJ) [!]', No returned matches
+'Tommy Lasorda Baseball (JU) [!]', No returned matches
+'Tony La Russa Baseball (U) [!]', No returned matches
+'Tony La Russa Baseball (U) [o2]', No returned matches
+'Tony La Russa Baseball (U) [o1]', No returned matches
+'Top Gear 2 (U) [h1]', No returned matches
+'Top Gear 2 (U) [!]', No returned matches
+'Top Gear 2 (U) [h4]', No returned matches
+'Top Gear 2 (U) [h6]', No returned matches
+'Top Gear 2 (U) [h3]', No returned matches
+'Top Gear 2 (U) [h7]', No returned matches
+'Top Gear 2 (U) [h2]', No returned matches
+'Top Gear 2 (U) [h5]', No returned matches
+'Top Pro Golf (J) [a1]', No returned matches
+'Top Pro Golf (J) [h1]', No returned matches
+'Top Pro Golf (J)', No returned matches
+'Top Pro Golf 2 (J)', No returned matches
+'Total Football (8) [!]', No returned matches
+'Top Gear 2 (U) [h8]', No returned matches
+'Toxic Crusaders (U) [!]', No returned matches
+'Toxic Crusaders (U) [h1]', No returned matches
+'Toughman Contest 32X (F) [!]', No returned matches
+'Toy Story (4) [!]', No returned matches
+'Toy Story (8) [!]', No returned matches
+'Toughman Contest (UEJ) [!]', No returned matches
+'Toys (U)', No returned matches
+'Trampoline Terror! (U) [!]', No returned matches
+'Trampoline Terror! (U) [p1]', No returned matches
+'Traysia (U) [!].bin', No returned matches
+'Traysia (U) [!].smd', No returned matches
+'Triple Play 96 (F) [b1]', No returned matches
+'Triple Play 96 (F) [b2]', No returned matches
+'Triple Play 96 (F) [c][!]', No returned matches
+'Triple Play Gold (4) [a1]', No returned matches
+'Trampoline Terror! (U) [p2]', No returned matches
+'Triple Play Gold (4) [a1][b1]', No returned matches
+'Triple Play Gold (4) [a1][h1]', No returned matches
+'Triple Play Gold (4) [c][!]', No returned matches
+'Triple Play Gold (4) [h1]', No returned matches
+'Trouble Shooter (U) [h1]', No returned matches
+'Trouble Shooter (U)', No returned matches
+'Troy Aikman NFL Football (U) [!]', No returned matches
+'Truxton (JU) [!]', No returned matches
+'True Lies (F) [!]', No returned matches
+'Troy Aikman NFL Football (U) [h1]', No returned matches
+'Turbo Outrun (JUE) [c][!].smd', No returned matches
+'Turbo Outrun (JUE) [c][!].bin', No returned matches
+'Turbo Outrun (JUE) [h1]', No returned matches
+'Turrican (U) [a1][x]', No returned matches
+'Turrican (U) [c][!]', No returned matches
+'Turrican (U) [a2][x]', No returned matches
+'Turrican (U) [h1]', No returned matches
+'Turma da Monica na Terra Dos Monstros (UE)', No returned matches
+'Twin Cobra (U) [!]', No returned matches
+'Twin Hawk (J) [!].bin', No returned matches
+'Twinkle Tale (J) [h1]', No returned matches
+'Twin Cobra (U) [o1]', No returned matches
+'Twinkle Tale (J).bin', No returned matches
+'Twin Hawk (J) [!].smd', No returned matches
+'Twinkle Tale (J).smd', No returned matches
+'Twisted Flipper (beta) [h2]', No returned matches
+'Twisted Flipper (beta) [h3]', No returned matches
+'Twisted Flipper (beta) [h1]', No returned matches
+'Two Crude Dudes (MK-1141) (J) [x]', No returned matches
+'Two Crude Dudes (T-13026) (J) [R-USA][!]', No returned matches
+'Twisted Flipper (beta)', No returned matches
+'Tyrants - Fight Through Time (U) [!]', No returned matches
+'Tyrants - Fight Through Time (U) [f1]', No returned matches
+'Two Crude Dudes (T-13026) (J) [a1]', No returned matches
+'Tyrants - Fight Through Time (U) [h1].bin', No returned matches
+'Two Crude Dudes (MK-1141) (J)', No returned matches
+'Tyrants - Fight Through Time (U) [h1].smd', No returned matches
+'Tyrants - Fight Through Time (U) [h3]', No returned matches
+'Tyrants - Fight Through Time (U) [h2]', No returned matches
+'Tyrants - Fight Through Time (U) [h5]', No returned matches
+'RBI Baseball 3 (UJE) [c][!]', No returned matches
+'Tyrants - Fight Through Time (U) [h4]', No returned matches
+'RBI Baseball 4 (Aug 1991) (UJE) [h1]', No returned matches
+'RBI Baseball 4 (Aug 1991) (UJE) [x]', No returned matches
+'RBI Baseball 4 (June 1992) (UE) [!]', No returned matches
+'RBI Baseball 93 (UEJ) [!]', No returned matches
+'RBI Baseball 94 (UEJ) [!]', No returned matches
+'RBI Baseball 93 (UEJ) [b1]', No returned matches
+'RBI Baseball 95 32X (4) [!]', No returned matches
+'RBI Baseball 4 (Aug 1991) (UJE) [a1][x]', No returned matches
+'Racing Demo (PD)', No returned matches
+'Radical Rex (U) [!]', No returned matches
+'Radical Rex (E)', No returned matches
+'Radical Rex (U) [h1]', No returned matches
+'Radical Rex (U) [h2].bin', No returned matches
+'Radical Rex (U) [h2].smd', No returned matches
+'Race Drivin' (UJE) [!]', No returned matches
+'Radical Rex (U) [h3]', No returned matches
+'Radical Rex (U) [h5]', No returned matches
+'Ragnacenty (JE) [h2]', No returned matches
+'Radical Rex (U) [h4]', No returned matches
+'Ragnacenty (JUE) [h1]', No returned matches
+'Ragnacenty (J) [!]', No returned matches
+'Raiden Trad (JU) [!]', No returned matches
+'Rainbow Islands - The Story of Bubble Bobble 2 (JU) [h1]', No returned matches
+'Rainbow Islands - The Story of Bubble Bobble 2 (JU) [p1]', No returned matches
+'Rainbow Islands - The Story of Bubble Bobble 2 (JU) [p2]', No returned matches
+'Rainbow Islands - The Story of Bubble Bobble 2 (JU) [p3]', No returned matches
+'Rambo III (REV 00) (JUE) [h1]', No returned matches
+'Rambo III (REV 00) (JUE) [o1]', No returned matches
+'Rambo III (REV 00) (JUE) [p1]', No returned matches
+'Rambo III (REV 00) (JUE)', No returned matches
+'Rampart (UE) [!]', No returned matches
+'Rambo III (REV 01) (JUE) [!]', No returned matches
+'Rampart (UE) [h1]', No returned matches
+'Ranger-X (E) [!]', No returned matches
+'Rampart (UE) [h3]', No returned matches
+'Ranger-X (U) [!]', No returned matches
+'Ranger-X (U) [h1]', No returned matches
+'Ransei no Hasha (J)', No returned matches
+'Rainbow Islands - The Story of Bubble Bobble 2 (JU) [c][!]', No returned matches
+'Rastan Saga 2 (J) [!]', No returned matches
+'Rampart (UE) [h2]', No returned matches
+'Red Zone (JUE) [!]', No returned matches
+'Ren and Stimpy's Invention (E)', No returned matches
+'Rastan Saga 2 (U) [!]', No returned matches
+'Ren and Stimpy's Invention (U) [!].bin', No returned matches
+'Ren and Stimpy's Invention (U) [!].smd', No returned matches
+'Ren and Stimpy's Invention (U) [h1]', No returned matches
+'Ren and Stimpy's Invention (U) [p1]', No returned matches
+'Ren and Stimpy's Invention (beta) [b1]', No returned matches
+'Ren and Stimpy's Invention (beta) [h1]', No returned matches
+'Ren and Stimpy's Invention (U) [t1]', No returned matches
+'Ren and Stimpy's Invention (beta)', No returned matches
+'Rent a Hero (J) [T-Eng]', No returned matches
+'Rent a Hero (J)', No returned matches
+'Rent a Hero (J) [h1]', No returned matches
+'Resq (JUE) [b1]', No returned matches
+'Resq (JUE) [x]', No returned matches
+'Revenge of Fu Manchu, The (unreleased beta)', No returned matches
+'Revenge of Shinobi, The (REV 00) (JUE) [R-USA][p1][b1]', No returned matches
+'Revenge of Shinobi, The (REV 00) (JUE) [R-USA-Jap][!]', No returned matches
+'Revenge of Shinobi, The (REV 01) (JUE) [R-USA][!]', No returned matches
+'Revenge of Shinobi, The (REV 02) (JUE) [R-Eur][!]', No returned matches
+'Revenge of Shinobi, The (REV 03) (JUE) [p1]', No returned matches
+'Revolution X (F) [!]', No returned matches
+'Rastan Saga 2 (J) [h1]', No returned matches
+'Revenge of Shinobi, The (REV 03) (JUE)', No returned matches
+'Richard Scarry's Busytown (UEJ) [h1]', No returned matches
+'Richard Scarry's Busytown (UJ) [!]', No returned matches
+'Ringside Angel, (Cutey Suzuki's) (JU) [h1]', No returned matches
+'Ringside Angel, (Cutey Suzuki's) (JU) [!]', No returned matches
+'Rings of Power (U) [!]', No returned matches
+'Risk (U) [!].bin', No returned matches
+'Rise of the Robots (JUE) [!]', No returned matches
+'Risky Woods (UE) [h1]', No returned matches
+'Ristar (UE) [!]', No returned matches
+'Risky Woods (UE) [!]', No returned matches
+'Risk (U) [!].smd', No returned matches
+'Ristar - The Shooting Star (J) [!]', No returned matches
+'Road Blasters (July 1991) (UJE) [!]', No returned matches
+'Road Rash (U) [c][!]', No returned matches
+'Road Blasters (Oct 1991) (UJE)', No returned matches
+'Road Rash (U) [b1]', No returned matches
+'Road Rash (U) [h1]', No returned matches
+'Road Rash (U) [o1]', No returned matches
+'Road Rash (U) [o3]', No returned matches
+'Road Rash 2 (JUE) [h1]', No returned matches
+'Road Rash (U) [o2].bin', No returned matches
+'Road Rash 3 (UEJ) [!]', No returned matches
+'Road Wars 2000 (PD)', No returned matches
+'Road Rash (U) [o2].smd', No returned matches
+'Robocop 3 (UE) [!]', No returned matches
+'Robocop vs The Terminator (REV 069) (U) (beta)', No returned matches
+'Road Rash 2 (UEJ) [!]', No returned matches
+'Robocop vs The Terminator (REV 069) (U) (beta) [h1]', No returned matches
+'Robocop vs The Terminator (REV 122) (E) (beta)', No returned matches
+'Robocop vs The Terminator (REV 122) (U) (beta) [h1]', No returned matches
+'Robocop vs The Terminator (REV 670) (E)', No returned matches
+'Robocop vs The Terminator (REV 069) (U) (beta) [a1]', No returned matches
+'Robocop vs The Terminator (REV 670) (U) [!]', No returned matches
+'Robocop vs The Terminator (REV 122) (U) (beta) [h2]', No returned matches
+'Robocop vs The Terminator (REV 670) (U) [t1]', No returned matches
+'Rock n' Roll Racing (E) [!]', No returned matches
+'Robot Wreckage (beta) [h1]', No returned matches
+'Robot Wreckage (beta) [h2]', No returned matches
+'Robot Wreckage (beta)', No returned matches
+'Rock n' Roll Racing (JUE) [h1]', No returned matches
+'Rock n' Roll Racing (U) [b1]', No returned matches
+'Rock n' Roll Racing (UJE) [h1]', No returned matches
+'Rock n' Roll Racing (U) [!]', No returned matches
+'Rocket Knight Adventures (J) [b1]', No returned matches
+'Rock n' Roll Racing (U) [h1]', No returned matches
+'Rocket Knight Adventures (E)', No returned matches
+'Rocket Knight Adventures (J) [h1]', No returned matches
+'Rocket Knight Adventures (J) [h3]', No returned matches
+'Rocket Knight Adventures (J) [b2]', No returned matches
+'Rocket Knight Adventures (J)', No returned matches
+'Rocket Knight Adventures (U) [!]', No returned matches
+'Rocket Knight Adventures (J) [h2]', No returned matches
+'Rocket Knight Adventures (U) [h1]', No returned matches
+'Rockman Megaworld (J) [!]', No returned matches
+'Rocket Knight Adventures (U) [b1]', No returned matches
+'Rockman Megaworld (J) [h1]', No returned matches
+'Rockman Megaworld (J) [a1][!]', No returned matches
+'Rockman X3 (Unl) [c][!]', No returned matches
+'Rockman X3 (Unl) [f1][h1]', No returned matches
+'Rockman X3 (Unl) [f1]', No returned matches
+'Roger Clements MVP Baseball (U) [!]', No returned matches
+'Rocky and Bullwinkle, The Adventures of (U) [!]', No returned matches
+'Rockman X3 (Unl) [f1][h2]', No returned matches
+'Roger Clements MVP Baseball (U) [h2]', No returned matches
+'Rolling Thunder 2 (E) [c][!]', No returned matches
+'Rolling Thunder 2 (J) [p1][h1]', No returned matches
+'Roger Clements MVP Baseball (U) [h1]', No returned matches
+'Rolling Thunder 2 (J) [p1]', No returned matches
+'Rolling Thunder 2 (J) [p2][h1]', No returned matches
+'Rolling Thunder 2 (J) [x]', No returned matches
+'Rolling Thunder 3 (U) [b2]', No returned matches
+'Rolling Thunder 3 (U) [b3]', No returned matches
+'Rolling Thunder 2 (U) [c][!]', No returned matches
+'Rolling Thunder 3 (U) [b1]', No returned matches
+'Rolling Thunder 3 (U) [h1]', No returned matches
+'Rolo to the Rescue (UEJ) [R-USA][!]', No returned matches
+'Romance of the Three Kingdoms II (J) [T-Chinese]', No returned matches
+'Rolo to the Rescue (J) [R-Jap]', No returned matches
+'Romance of the Three Kingdoms II (U) [!]', No returned matches
+'Rolling Thunder 3 (U) [c][!]', No returned matches
+'Romance of the Three Kingdoms III (J) [T-Chinese]', No returned matches
+'Romance of the Three Kingdoms III (J) [b2]', No returned matches
+'Romance of the Three Kingdoms III (J) [b1]', No returned matches
+'Romance of the Three Kingdoms III (J) [!]', No returned matches
+'Romance of the Three Kingdoms III (J) [b3]', No returned matches
+'Romance of the Three Kingdoms II (J)', No returned matches
+'Romance of the Three Kingdoms III (U) [!]', No returned matches
+'Romance of the Three Kingdoms III (U) [o1]', No returned matches
+'Romance of the Three Kingdoms IV 32X (1) [!]', No returned matches
+'Ronaldinho 98 (C) [c][!]', No returned matches
+'Romance of the Three Kingdoms III (U) [h1]', No returned matches
+'Romance of the Three Kingdoms Part 5 (Chinese)', No returned matches
+'Royal Blood (AKA Gemfire) (J)', No returned matches
+'Runark (JUE) [p1][!]', No returned matches
+'Rugby World Cup 95 (UJE) [!]', No returned matches
+'Runark (JUE)', No returned matches
+'Royal Blood (AKA Gemfire) (J) [b1]', No returned matches
+'EA Sports 2-in-1 Pack (E) [!]', No returned matches
+'ECCO (J)', No returned matches
+'ECCO (U) [T-Port100%_FServ]', No returned matches
+'EA Sports 2-in-1 Pack (U)', No returned matches
+'ECCO - The Tides of Time (E)', No returned matches
+'ECCO (U) [!]', No returned matches
+'ECCO - The Tides of Time (J) [h1]', No returned matches
+'ECCO - The Tides of Time (JUE) (playable preview) [h1]', No returned matches
+'ECCO - The Tides of Time (U) (playable preview) [h2]', No returned matches
+'ECCO - The Tides of Time (J) [h2]', No returned matches
+'ECCO - The Tides of Time (U) (playable preview) [h1]', No returned matches
+'ECCO - The Tides of Time (U) (playable preview)', No returned matches
+'ECCO - The Tides of Time (U) [!]', No returned matches
+'ECCO Jr. (Mar 1995) (UJE) [!]', No returned matches
+'ESPN Baseball Tonight (U) [!]', No returned matches
+'ECCO Jr. (Feb 1995) (UJE) [!]', No returned matches
+'ECCO - The Tides of Time (beta)', No returned matches
+'ESPN National League Hockey Night (U) [c][!]', No returned matches
+'ESPN National League Hockey Night (U) [h1]', No returned matches
+'ESPN National League Hockey Night (beta) [h1]', No returned matches
+'ESPN SpeedWorld (U) [c][!]', No returned matches
+'ESPN SpeedWorld (U) [o1]', No returned matches
+'ESPN SpeedWorld (UEJ) [h1]', No returned matches
+'ESPN Speedworld (U) [h1]', No returned matches
+'ESPN Speedworld (JUE) [h1]', No returned matches
+'ESPN Speedworld (U) [h2]', No returned matches
+'ESPN Sunday Night Football (U) [!]', No returned matches
+'ESPN Sunday Night Football (U) [o1]', No returned matches
+'ESPN Sunday Night Football (U) [h1]', No returned matches
+'ESWAT Cyber Police - City Under Siege (J) [a1]', No returned matches
+'ESWAT Cyber Police - City Under Siege (J) [p1]', No returned matches
+'ESWAT Cyber Police - City Under Siege (JUE) [R-USA][!]', No returned matches
+'Earnest Evans (U) [!]', No returned matches
+'ESPN National League Hockey Night (beta)', No returned matches
+'Earnest Evans (U) [b1]', No returned matches
+'Earnest Evans (U) [h1]', No returned matches
+'Earthworm Jim (E) [!]', No returned matches
+'ESWAT Cyber Police - City Under Siege (J)', No returned matches
+'Earthworm Jim (E) [t1]', No returned matches
+'Earthworm Jim (U) [!].smd', No returned matches
+'Earthworm Jim (U) [h1]', No returned matches
+'Earthworm Jim 2 (4) [!]', No returned matches
+'Earthworm Jim (U) [t1]', No returned matches
+'Earthworm Jim (U) [!].bin', No returned matches
+'Earthworm Jim 2 (E) [a1][x]', No returned matches
+'Earthworm Jim 2 (E) [a2][x]', No returned matches
+'Earthworm Jim 2 (E) [b1]', No returned matches
+'Earthworm Jim 2 (E) [h1]', No returned matches
+'Earthworm Jim 2 (E) [x]', No returned matches
+'Eidolon's Inn Commercial #1 (PD)', No returned matches
+'El Viento (JU) [R-Jap]', No returned matches
+'El Viento (JU) [R-Jap][h1]', No returned matches
+'El Viento (JU) [R-USA][h2]', No returned matches
+'Elemental Master (JU) [R-Jap][!]', No returned matches
+'El Viento (JU) [R-USA][!]', No returned matches
+'Elemental Master (JU) [R-Jap][h1]', No returned matches
+'Elemental Master (JU) [R-Jap][p1][!]', No returned matches
+'Elemental Master (U) [!]', No returned matches
+'Eliminate Down (J) [b1]', No returned matches
+'Eliminate Down (J)', No returned matches
+'Elite Demo (Game) (PD)', No returned matches
+'Elite Demo (Soaker) (PD)', No returned matches
+'Elite Demo (Viewer) (PD)', No returned matches
+'Empire of Steel (UE)', No returned matches
+'Escape From Mars Starring Taz (JUE) [h1]', No returned matches
+'Escape From Mars Starring Taz (U) [!]', No returned matches
+'Escape From Mars Starring Taz (U) [h1]', No returned matches
+'Escape From Mars Starring Taz (U) [h2]', No returned matches
+'Escape From Mars Starring Taz (U) [t1]', No returned matches
+'Eternal Champions (E) [!]', No returned matches
+'Eternal Champions (E) [a1]', No returned matches
+'Egypt 32X Demo (PD)', No returned matches
+'Eternal Champions (E) [h1]', No returned matches
+'Eternal Champions (E) [h2]', No returned matches
+'Eternal Champions (J) [c][!]', No returned matches
+'Eternal Champions (U) [!]', No returned matches
+'Eternal Champions (U) [h1]', No returned matches
+'Eternal Champions (U) [h2]', No returned matches
+'European Club Soccer (E) [!]', No returned matches
+'Evander Holyfield's Real Deal Boxing (U) [!]', No returned matches
+'Evander Holyfield's Real Deal Boxing (U) [h1].bin', No returned matches
+'Evander Holyfield's Real Deal Boxing (U) [h1].smd', No returned matches
+'Ex-Mutants (U) [!]', No returned matches
+'Ex-Ranza (J)', No returned matches
+'Ex-Ranza (beta) [h1]', No returned matches
+'Ex-Ranza (beta) [h2]', No returned matches
+'Ex-Ranza (beta)', No returned matches
+'Ex-Ranza (beta) [h3]', No returned matches
+'Exile (U) [!].bin', No returned matches
+'Exile (U) [!].smd', No returned matches
+'Exo-Squad (T-132026) (4) [!]', No returned matches
+'Exile (U) [b1]', No returned matches
+'Exo-Squad (T-132026) (4) [o1]', No returned matches
+'Exo-Squad (T-132086) (4) [h1]', No returned matches
+'Exo-Squad (T-132086) (4) [o1]', No returned matches
+'Exo-Squad (T-132086) (4)', No returned matches
+'Exodus (Unl) [c][!]', No returned matches
+'F-117 Stealth Operation Night Storm (UEJ)', No returned matches
+'F-117 Night Storm (UEJ) [b1]', No returned matches
+'F-117 Night Storm (UEJ) [!]', No returned matches
+'F-15 Strike Eagle II (U) [!]', No returned matches
+'F-15 Strike Eagle II (U) [h1]', No returned matches
+'F-15 Strike Eagle II (U) [h2]', No returned matches
+'F-22 Interceptor (U) (June 1992) [b1]', No returned matches
+'F-22 Interceptor (U) (Sept 1991) [a1][c][!]', No returned matches
+'F-22 Interceptor (U) (June 1992) [c][!]', No returned matches
+'F-15 Strike Eagle II (MPS) (JU) [x]', No returned matches
+'F-22 Interceptor (U) (Sept 1991) [b1]', No returned matches
+'F-22 Interceptor (U) (Sept 1991) [c][!]', No returned matches
+'F-22 Interceptor (beta 1) [b1]', No returned matches
+'F-22 Interceptor (beta 1) [c][!]', No returned matches
+'F-22 Interceptor (U) (Sept 1991) [h1]', No returned matches
+'F1 Circus MD (J) [!]', No returned matches
+'F1 Circus MD (J) [b1]', No returned matches
+'F1 Grand Prix (Nakajima Satoru) (J) [h1]', No returned matches
+'F1 Grand Prix (Nakajima Satoru) (J)', No returned matches
+'F1 Super License (Nakajima Satoru) (J)', No returned matches
+'F1 Hero MD (J) [c][!]', No returned matches
+'F1 World Championship (E) [!]', No returned matches
+'F1 World Championship (JUE) [!]', No returned matches
+'F1 World Championship Edition (94) (U) [h1]', No returned matches
+'F1 World Championship Edition (94) (U) [h2]', No returned matches
+'F1 World Championship Edition (94) (U) [x]', No returned matches
+'F1 World Championship Edition (95) (E) [!]', No returned matches
+'F-22 Interceptor (U) (Sept 1991) [o1]', No returned matches
+'F1 World Championship Edition (95) (E) [h1]', No returned matches
+'F1 World Championship Edition (95) (beta)', No returned matches
+'FIFA International Soccer (94) (EUJ) [!]', No returned matches
+'FIFA International Soccer (94) (EUJ) [b1]', No returned matches
+'FIFA International Soccer (94) (EUJ) [h1]', No returned matches
+'FIFA International Soccer (94) (EUJ) [h2]', No returned matches
+'FIFA International Soccer (94) (EUJ) [h3]', No returned matches
+'FIFA Soccer 95 (EUJ) [!]', No returned matches
+'FIFA International Soccer 96 32X (JUE) [c][!]', No returned matches
+'FIFA Soccer 95 (EUJ) [o1]', No returned matches
+'FIFA Soccer 96 (F) [!]', No returned matches
+'FIFA Soccer 96 (F) [o1]', No returned matches
+'FIFA Soccer 97 Gold Edition (C) [!]', No returned matches
+'FIFA Soccer 98 - Road to the World Cup (8) [!]', No returned matches
+'F1 World Championship Edition (95) (E) [b1]', No returned matches
+'Faery Tale Adventure, The (U) [!]', No returned matches
+'Family Feud (U) [!].bin', No returned matches
+'Fantastic Dizzy (E) [a1]', No returned matches
+'Fantastic Dizzy (JUE) [h1]', No returned matches
+'Fantastic Dizzy (E) [c][!]', No returned matches
+'Fastest 1 (J) [!]', No returned matches
+'Fastest 1 (JUE) [h1]', No returned matches
+'Fastest 1 (JUE) [h2]', No returned matches
+'Fatal Fury (E) [o1]', No returned matches
+'Fatal Fury (E)', No returned matches
+'Fatal Fury (U) [!].bin', No returned matches
+'Fatal Fury (U) [!].smd', No returned matches
+'Fatal Fury (U) [b1]', No returned matches
+'Fatal Fury (U) [h2]', No returned matches
+'Fatal Fury 2 (UE) [b1]', No returned matches
+'Fatal Fury 2 (UE) [b2]', No returned matches
+'Fatal Fury 2 (UE) [b3]', No returned matches
+'Fatal Fury 2 (UE) [c][!]', No returned matches
+'Fatal Fury (U) [h1]', No returned matches
+'Family Feud (U) [!].smd', No returned matches
+'Fatal Labyrinth (JU) [o1]', No returned matches
+'Fatal Rewind (U) [!]', No returned matches
+'Fatal Labyrinth (JU) [!]', No returned matches
+'Fatman (J) [c][!]', No returned matches
+'Fatman (J) [h1]', No returned matches
+'Fatman (J) [h2]', No returned matches
+'Fatman (J) [h3]', No returned matches
+'Fatman (J) [o1]', No returned matches
+'Fengshen Yingjiechuan (Heroic Legend of Sealing Gods) (Unl)', No returned matches
+'Ferias Frustradas do Pica-Pau (Unl)', No returned matches
+'Ferias Frustradas do Pica-Pau (Unl) [h1]', No returned matches
+'Ferrari Grand Prix Challenge (U) [!]', No returned matches
+'Fido Dido (U) [h1]', No returned matches
+'Fido Dido (U)', No returned matches
+'Fighting Masters (Jap 91 Treco) (JU)', No returned matches
+'Fighting Masters (USA 92 Treco-Sega) (U) [!]', No returned matches
+'Final Blow (J) [b1]', No returned matches
+'Final Blow (J) [c][!]', No returned matches
+'Final Blow (U) [h1]', No returned matches
+'Final Zone (JU) [!]', No returned matches
+'Fire Mustang (J) [h1]', No returned matches
+'Fire Mustang (J) [x]', No returned matches
+'Fire Pro Wrestling Gaiden (J) [c][!]', No returned matches
+'Fire Shark (J) [h1]', No returned matches
+'Fire Pro Wrestling Gaiden (J) [a1]', No returned matches
+'Fire Shark (J) [h2]', No returned matches
+'Fire Shark (J)', No returned matches
+'Fire Shark (U) [c][!]', No returned matches
+'Fire Shark (U) [h1]', No returned matches
+'Flashback - The Quest for Identity (JUE) [R-Jap]', No returned matches
+'Flashback - The Quest for Identity (JUE) [R-Eur][!]', No returned matches
+'Flashback - The Quest for Identity (U) [!]', No returned matches
+'Flashback - The Quest for Identity (U) [a1]', No returned matches
+'Flashback - The Quest for Identity (U) [T-Port]', No returned matches
+'Flashback - The Quest for Identity (U) [a1][b1]', No returned matches
+'Flashback - The Quest for Identity (U) [a1][p1][!].bin', No returned matches
+'Flashback - The Quest for Identity (U) [b1]', No returned matches
+'Flashback - The Quest for Identity (U) [a1][p1][!].smd', No returned matches
+'Flashback - The Quest for Identity (U) [o1]', No returned matches
+'Flavio's Color Bar Screen (PD)', No returned matches
+'Flavio's DMA Test (PD)', No returned matches
+'Flavio's GYM Player V1.0 (PD)', No returned matches
+'Flavio's Raster Effects Test (PD)', No returned matches
+'Flicky (JUE) [!]', No returned matches
+'Flicky (JUE) [h1]', No returned matches
+'Flicky (JUE) [o1]', No returned matches
+'Flicky (JUE) [p1]', No returned matches
+'Flintstones, The (J) [x]', No returned matches
+'Flintstones, The (U) [T-Port]', No returned matches
+'Flintstones, The (U) [h1]', No returned matches
+'Flintstones, The (U) [c][!]', No returned matches
+'Flintstones, The (U) [h2]', No returned matches
+'Flashback - The Quest for Identity (U) [a1][h1]', No returned matches
+'Flux Mega CD (E) [!]', No returned matches
+'Foreman For Real (F) [!]', No returned matches
+'Foreman For Real (F) [b1]', No returned matches
+'Foreman For Real (F) [b2]', No returned matches
+'Forgotten Worlds (REV 00) (JUE) [!]', No returned matches
+'Forgotten Worlds (REV 01) (JUE) [!]', No returned matches
+'Frank Thomas Big Hurt Baseball (F) [!]', No returned matches
+'Frank Thomas Big Hurt Baseball (F) [b1]', No returned matches
+'Frank Thomas Big Hurt Baseball (F) [h1]', No returned matches
+'Frogger (UJ) [!]', No returned matches
+'Frogger (UJ) [a1][!]', No returned matches
+'Fun Car Rally (JUE)', No returned matches
+'Fun-N-Games (U) [b1]', No returned matches
+'Fun-N-Games (U) [c][!]', No returned matches
+'Fun-N-Games (U) [h1]', No returned matches
+'Frank Thomas Big Hurt Baseball (U) [h1]', No returned matches
+'Fun-N-Games (U) [h4]', No returned matches
+'Funnyworld-Balloon Boy (Unl) [c]', No returned matches
+'Fun-N-Games (U) [h2]', No returned matches
+'Fushigi no Umi no Nadia (Secret of Blue Water) (J) [h1]', No returned matches
+'16 Tiles Mahjong (Unl) [c]', No returned matches
+'Fushigi no Umi no Nadia (Secret of Blue Water) (J) [x]', No returned matches
+'16 Tiles Mahjong (Unl) [h1]', No returned matches
+'3 Ninjas Kick Back (U) [!]', No returned matches
+'3 Ninjas Kick Back (U) (pre-release)', No returned matches
+'36 Great Holes Starring Fred Couples 32X (E) [!]', No returned matches
+'36 Great Holes Starring Fred Couples 32X (E) [b1]', No returned matches
+'36 Great Holes Starring Fred Couples 32X (JU) [!]', No returned matches
+'688 Attack Sub (U) [!]', No returned matches
+'Fun-N-Games (U) [h3]', No returned matches
+'688 Attack Sub (U) [h2]', No returned matches
+'688 Attack Sub (U) [h1]', No returned matches
+'777 Casino (Unl) [c]', No returned matches
+'Ultimate Mortal Combat 3 (4) [b1]', No returned matches
+'Ultimate Mortal Combat 3 (4) [h1]', No returned matches
+'Ultimate Mortal Kombat 3 (4) [!]', No returned matches
+'Ultimate Qix (JUE) [!].bin', No returned matches
+'Ultimate Mortal Combat 3 (4) [h2]', No returned matches
+'Ultimate Qix (JUE) [!].smd', No returned matches
+'Ultimate Soccer (E) [!]', No returned matches
+'Ultimate Soccer (E) [h1]', No returned matches
+'Ultraman (J).bin', No returned matches
+'Ultraman (J).smd', No returned matches
+'Uncharted Waters (U) [!]', No returned matches
+'Uncharted Waters (U) [b1]', No returned matches
+'Uncharted Waters (U) [b2]', No returned matches
+'Uncharted Waters (U) [h1]', No returned matches
+'Uncharted Waters (U) [h2]', No returned matches
+'Uncharted Waters 2 - New Horizons (U) [h1]', No returned matches
+'Undead Line (J) [!]', No returned matches
+'Universal Driver Demo V4.0 (JUE) [c][!]', No returned matches
+'Universal Solder (U) [!]', No returned matches
+'Unnecessary Roughness 95 (JUE) [!]', No returned matches
+'Unnecessary Roughness 95 (JUE) [b1]', No returned matches
+'Unnecessary Roughness 95 (JUE) [b2]', No returned matches
+'Urban Strike (UEJ) [!]', No returned matches
+'Urban Strike (UEJ) [h1]', No returned matches
+'Urban Strike (UEJ) [p1]', No returned matches
+'Urban Strike (UEJ) [t1]', No returned matches
+'Urban Strike (UEJ) [t2]', No returned matches
+'G-Loc Air Battle (JUE) [c][!].bin', No returned matches
+'G-Loc Air Battle (JUE) [c][!].smd', No returned matches
+'G-Loc Air Battle (JUE) [h1]', No returned matches
+'G-Loc Air Battle (pre-release) [h1]', No returned matches
+'G-Loc Air Battle (pre-release) [h2]', No returned matches
+'G-Loc Air Battle (pre-release) [h3]', No returned matches
+'GRIND Stormer (JUE) [!]', No returned matches
+'G-Loc Air Battle (pre-release)', No returned matches
+'Gadget Twins (U) [!]', No returned matches
+'Uncharted Waters 2 - New Horizons (U) [!]', No returned matches
+'Gadget Twins (U) [b1]', No returned matches
+'Gadget Twins (U) [t1]', No returned matches
+'Gaiares (JU) [p1]', No returned matches
+'Gain Ground (JU) [a1]', No returned matches
+'Gaiares (JU) [p1][t1][!]', No returned matches
+'Gain Ground (JU) [c][!]', No returned matches
+'Galaxy Force II (REV 01) (JU) [!].bin', No returned matches
+'Galaxy Force II (REV 00) (J)', No returned matches
+'Galaxy Force II (REV 01) (JU) [!].smd', No returned matches
+'Gambler Jiko Chushinha (J)', No returned matches
+'Gaiares (JU) [!]', No returned matches
+'Gamtec Magicard (Unl) [c][!]', No returned matches
+'Garfield - Caught in the Act (C) [!]', No returned matches
+'Garfield - Caught in the Act (C) [h1]', No returned matches
+'Game Genie (JUE) [c][!]', No returned matches
+'Gargoyles (4) [b1]', No returned matches
+'Gargoyles (4) [b2]', No returned matches
+'Gargoyles (B) [h1]', No returned matches
+'Garou Densetsu (J) [o1].bin', No returned matches
+'Garou Densetsu (J)', No returned matches
+'Garou Densetsu (J) [o1].smd', No returned matches
+'Gauntlet 4 (Aug 1993) (UE) [!]', No returned matches
+'Garou Densetsu 2 (J) [x]', No returned matches
+'Gauntlet 4 (Sept 1993) (UE)', No returned matches
+'Gauntlet Arcade Version (JUE) [R-Jap]', No returned matches
+'GemFire (U) [!].bin', No returned matches
+'GemFire (U) [!].smd', No returned matches
+'GemFire (U) [h1]', No returned matches
+'GemFire (U) [h2]', No returned matches
+'Gemu no Kanzume O Tokuyou (J) [!]', No returned matches
+'Gargoyles (4) [!]', No returned matches
+'General Chaos (UEJ) [!]', No returned matches
+'Generations Lost (JUE) [o1]', No returned matches
+'Generations Lost (JUE) [f1]', No returned matches
+'Generations Lost (JUE) [!]', No returned matches
+'Genesis O.S. ROM (U)', No returned matches
+'George Foreman's Knock-out Boxing (E) [!]', No returned matches
+'George Foreman's Knock-out Boxing (U) [!]', No returned matches
+'Ghost Hunter (Unl) [c]', No returned matches
+'Ghostbusters (REV 00) (JUE) [p1][!]', No returned matches
+'Ghostbusters (REV 00) (JUE)', No returned matches
+'Ghostbusters (REV 01) (JUE) [!]', No returned matches
+'Ghouls 'N Ghosts (REV 01) (JUE) [!]', No returned matches
+'Ghouls 'N Ghosts (REV 01) (JUE) [b1]', No returned matches
+'Ghouls 'N Ghosts (REV 01) (JUE) [o1]', No returned matches
+'Ghouls 'N Ghosts (REV 02) (JUE) [!]', No returned matches
+'Ghouls 'N Ghosts (REV 02) (JUE) [b1]', No returned matches
+'Ghouls 'N Ghosts (REV 02) (JUE) [h1]', No returned matches
+'Ghouls 'N Ghosts (REV 02) (JUE) [h2]', No returned matches
+'Ghouls 'N Ghosts (REV 02) (JUE) [o1]', No returned matches
+'Gley Lancer (J)', No returned matches
+'Genghis Khan 2 (U) [!]', No returned matches
+'Gods (J)', No returned matches
+'Gods (JUE) [R-Eur] [!]', No returned matches
+'Gods (U) [!]', No returned matches
+'Gods (U) [h1].bin', No returned matches
+'Gods (U) [h1].smd', No returned matches
+'Golden Axe (REV 00) (JU) [p1]', No returned matches
+'Golden Axe (REV 00) (JU) [T-Port_Son_Car]', No returned matches
+'Golden Axe (REV 01) (JU) [!]', No returned matches
+'Golden Axe (REV 00) (JU) [!]', No returned matches
+'Golden Axe (REV 01) (JU) [h1]', No returned matches
+'Golden Axe 2 (JUE) [!]', No returned matches
+'Golden Axe 3 (J) [h1]', No returned matches
+'Golden Axe 2 (beta) [h1]', No returned matches
+'Golden Axe 3 (J) [p2][!]', No returned matches
+'Golden Axe 3 (J) [p1][!]', No returned matches
+'Golden Axe 3 (J)', No returned matches
+'Goofy's Hysterical History Tour (U) [h1]', No returned matches
+'Goofy's Hysterical History Tour (U).smd', No returned matches
+'Goofy's Hysterical History Tour (U).bin', No returned matches
+'Granada (REV 00) (JU)', No returned matches
+'Granada (REV 01) (JU) [!]', No returned matches
+'Granada (REV 01) (JU) [b1]', No returned matches
+'Grand Slam Tennis (J)', No returned matches
+'Grand Slam Tennis (E) [!]', No returned matches
+'Great Waldo Search, The (U) [!].bin', No returned matches
+'Great Waldo Search, The (U) [!].smd', No returned matches
+'Great Waldo Search, The (U) [h1]', No returned matches
+'Golden Axe 2 (beta)', No returned matches
+'Greatest Heavyweights of the Ring (E) [h1]', No returned matches
+'Greatest Heavyweights of the Ring (E) [h2]', No returned matches
+'Greatest Heavyweights of the Ring (J) [c][!]', No returned matches
+'Goofy's Hysterical History Tour (U) [h2]', No returned matches
+'Greatest Heavyweights of the Ring (J) [h1]', No returned matches
+'Greatest Heavyweights of the Ring (U) [!]', No returned matches
+'Greatest Heavyweights of the Ring (U) [h1]', No returned matches
+'Greatest Heavyweights of the Ring (U) [h2]', No returned matches
+'Greatest Heavyweights of the Ring (U) [h3]', No returned matches
+'Greatest Heavyweights of the Ring (U) [h4]', No returned matches
+'Greendog - The Beached Surfer Dude (U) [!].bin', No returned matches
+'Greendog - The Beached Surfer Dude (U) [!].smd', No returned matches
+'Greendog - The Beached Surfer Dude (U) [T-Port_Lithium]', No returned matches
+'Gunship (JUE) [R-Eur][c][!]', No returned matches
+'Gunstar Heroes (E) [!]', No returned matches
+'Growl (JUE) [!]', No returned matches
+'Gunstar Heroes (J)', No returned matches
+'Gunship (JUE) [h1]', No returned matches
+'Gunstar Heroes (U) [!].bin', No returned matches
+'Gunstar Heroes (U) [h1]', No returned matches
+'Gunstar Heroes (U) [!].smd', No returned matches
+'Gynoug (E) [!]', No returned matches
+'Gynoug (J) [!]', No returned matches
+'Gynoug (J) [b1]', No returned matches
+'NBA Action (94) (U) [h1]', No returned matches
+'NBA Action (94) (U) [!]', No returned matches
+'NBA Action (94) (U) [o1]', No returned matches
+'NBA Action 95 (UEJ) [!]', No returned matches
+'NBA Action 95 (UEJ) [o1]', No returned matches
+'NBA Action 95 (UEJ) [o2]', No returned matches
+'NBA Action 95 (UEJ) [o3]', No returned matches
+'NBA AllStar Challenge (U) [!]', No returned matches
+'NBA AllStar Challenge (U) [h1]', No returned matches
+'NBA AllStar Challenge (U) [h2]', No returned matches
+'NBA Hang Time (4) [!]', No returned matches
+'NBA Hang Time (8) [h1]', No returned matches
+'NBA Hang Time (8) [!]', No returned matches
+'Gunstar Heroes Sample (JUE) [!]', No returned matches
+'NBA Jam (EU) [!]', No returned matches
+'NBA Jam Tournament Edition (JUE) [!]', No returned matches
+'NBA Jam Tournament Edition (JUE) [f1]', No returned matches
+'NBA Jam Tournament Edition 32X (F) [!]', No returned matches
+'NBA Live 95 (UEJ) [!]', No returned matches
+'NBA Live 95 (UEJ) [b1]', No returned matches
+'NBA Live 95 (UEJ) [h1]', No returned matches
+'NBA Live 95 (UEJ) [o1]', No returned matches
+'NBA Live 97 (F) [!]', No returned matches
+'NBA Live 98 (F) [!]', No returned matches
+'NBA Live 98 (F) [f1]', No returned matches
+'NBA Live 98 (F) [h1]', No returned matches
+'NBA Live 98 (F) [h2]', No returned matches
+'NBA Live 96 (F) [!]', No returned matches
+'NBA Showdown 94 (UE) [!]', No returned matches
+'NBA Showdown 94 (UE) [h1]', No returned matches
+'NBA Showdown 94 (UE) [h2]', No returned matches
+'NBA Showdown 94 (UE) [o1]', No returned matches
+'NBA Pro Basketball '94 (EUJ) [R-Jap]', No returned matches
+'NCAA College Football (U) [!]', No returned matches
+'NCAA College Football (U) [h1]', No returned matches
+'NCAA Final Four College Basketball (U) [!]', No returned matches
+'NBA Showdown 94 (beta)', No returned matches
+'NCAA Final Four College Basketball (U) [h1]', No returned matches
+'NCAA Final Four College Basketball (U) [o1]', No returned matches
+'NFL (Prime Time) 98 (F) [!]', No returned matches
+'NFL Prime Time (97) (F) [!]', No returned matches
+'NFL Prime Time (97) (F) [b1]', No returned matches
+'NFL Prime Time (97) (F) [o1]', No returned matches
+'NFL Quarterback Club (JUE) [!]', No returned matches
+'NFL Quarterback Club (JUE) [h1]', No returned matches
+'NFL Quarterback Club 32X (F) [!]', No returned matches
+'NFL Quarterback Club 96 (F) [!]', No returned matches
+'NFL Quarterback Club 96 (F) [h1]', No returned matches
+'NHL 93 (NHLPA) (U) [!]', No returned matches
+'NHL 95 (EUJ) [!]', No returned matches
+'NHL 95 (EUJ) [o1]', No returned matches
+'NHL 95 Elitserien (E) [o1]', No returned matches
+'NHL 95 Elitserien (E) [c][!]', No returned matches
+'NHL 96 (F) [!]', No returned matches
+'NHL 96 (F) [f1]', No returned matches
+'NHL 96 (F) [o1]', No returned matches
+'NHL 96 (JUE) [h1]', No returned matches
+'NHL 96 Elitserien (8)', No returned matches
+'NFL Quarterback Club 96 (F) [b1]', No returned matches
+'NHL 96 Elitserien (UEJ) [b1]', No returned matches
+'NHL 96 Elitserien (JUE) [h2]', No returned matches
+'NHL 96 Elitserien (UEJ) [h1]', No returned matches
+'NHL 97 (F) [!]', No returned matches
+'NHL 98 (4) [c][!]', No returned matches
+'NHL 98 (4) [h1]', No returned matches
+'NHL 98 (4) [h2]', No returned matches
+'NHL 98 (U) [h3]', No returned matches
+'NHL All-Star Hockey 95 (U) [!]', No returned matches
+'NHL All-Star Hockey 95 (U) [h1]', No returned matches
+'NHL Hockey (91) (U)', No returned matches
+'NHL Hockey (92) (U) [!]', No returned matches
+'NHL Hockey 94 (UE) [!]', No returned matches
+'Neozeed Color Demo (PD)', No returned matches
+'New Zealand Story, The (J)', No returned matches
+'Newman-Haas Indy Car Racing (JUE) [!]', No returned matches
+'Nigel Mansell's World Championship (Gametek) (U) [!]', No returned matches
+'Nigel Mansell's World Championship (Gametek) (U) [h1]', No returned matches
+'Nigel Mansell's World Championship (Gametek) (U) [h2]', No returned matches
+'Nigel Mansell's World Championship (Gametek) (U) [h3]', No returned matches
+'Nigel Mansell's World Championship (Gametek) (U) [h4]', No returned matches
+'Nigel Mansell's World Championship (Konami) (E)', No returned matches
+'Nightmare Circus (F) [x]', No returned matches
+'Ninja Burai Densetsu (J) [!]', No returned matches
+'Ninja Burai Densetsu (J) [h1]', No returned matches
+'Ninja Burai Densetsu (J) [h2]', No returned matches
+'Ninja Gaiden (JUE) [b1]', No returned matches
+'No Escape (U) [!]', No returned matches
+'Ninja Gaiden (JUE) [x]', No returned matches
+'Nobunaga no Yabou Haouden - Lord of Darkness (J) [!]', No returned matches
+'Nobunaga no Yabou Haouden - Lord of Darkness (J) [T-Chinese]', No returned matches
+'Nobunaga's Ambition (U) [!]', No returned matches
+'Nobunaga's no Yabou (J) [!]', No returned matches
+'Nobunaga no Yabou Zenkokuban (J)', No returned matches
+'Normy's Beach Babe-O-Rama (UEJ) [!]', No returned matches
+'Normy's Beach Babe-O-Rama (UEJ) [h1]', No returned matches
+'Nikkan Sports Pro-Yakyuu Van (J) [!]', No returned matches
+'Normy's Beach Babe-O-Rama (UEJ) [h2]', No returned matches

@@ -1,0 +1,120 @@
+--- The following is a list of skipped games ---
+'Qix (1991) (Telegames) [o1]', No returned matches
+'Hard Drivin' (1993) [o1]', No returned matches
+'Hard Drivin' (1993)', No returned matches
+'Hockey (1992)', No returned matches
+'Hydra (1992)', No returned matches
+'Lemmings (1993)', No returned matches
+'Lexis (1999) (Songbird)', No returned matches
+'Lode Runner (1996) (Kurt Olsen)', No returned matches
+'Loopz (Prototype) (1992) (Handmade Software)', No returned matches
+'Lynx Diagnostic Cart V0.02 (1989)', No returned matches
+'Qix (1991) (Telegames)', No returned matches
+'Jimmy Conners Tennis (1991)', No returned matches
+'Joust (1993) (Williams) [o1]', No returned matches
+'Joust (1993) (Williams)', No returned matches
+'Baseball Heroes (1991)', No returned matches
+'Basketbrawl (1992)', No returned matches
+'Basketbrawl (1992) [a1]', No returned matches
+'Batman Returns (1992)', No returned matches
+'Lynx Casino (1992)', No returned matches
+'Battle Wheels (1993) (Beyond Games) [o1]', No returned matches
+'Battlezone 2000 (1996)', No returned matches
+'Block Out (1990) [o1]', No returned matches
+'Battle Wheels (1993)', No returned matches
+'Block Out (1990)', No returned matches
+'Blue Lightning Demo (1989) [o1]', No returned matches
+'Blue Lightning (1989) [a1]', No returned matches
+'Bill & Ted's Excellent Adventure (1991)', No returned matches
+'Blue Lightning Demo (1989)', No returned matches
+'Bubble Trouble (1997) (Telegames)', No returned matches
+'Blue Lightning (1989)', No returned matches
+'Pac-Land (1991)', No returned matches
+'Paperboy (1990) [o1]', No returned matches
+'Pac-Land (1991) [o1]', No returned matches
+'Pinball Jam (1992)', No returned matches
+'Pit Fighter - The Ultimate Competition (1992)', No returned matches
+'Paperboy (1990)', No returned matches
+'Desert Strike - Return to the Gulf (1993) (Telegames)', No returned matches
+'Dinolympics (1992)', No returned matches
+'Power Factor (1992)', No returned matches
+'Double Dragon (1993) (Telegames)', No returned matches
+'Dracula - The Undead (1991)', No returned matches
+'Dirty Larry - Renegade Cop (1992)', No returned matches
+'Zarlor Mercenary (1990) [o1]', No returned matches
+'Zarlor Mercenary (1990)', No returned matches
+'Scrapyard Dog (1991)', No returned matches
+'Shadow of the Beast (1992)', No returned matches
+'Dragnet (1995)', No returned matches
+'S.T.U.N. Runner (1991)', No returned matches
+'Shanghai (1990) [o1]', No returned matches
+'Shanghai (1990)', No returned matches
+'Super Asteroids & Missile Command (1995)', No returned matches
+'Super Off-Road (1996) (Telegames)', No returned matches
+'Steel Talons (1991)', No returned matches
+'Super Skweek (1991)', No returned matches
+'Super Asteroids & Missile Command (1995) [o1]', No returned matches
+'Switchblade II (1992)', No returned matches
+'Warbirds (1990) [o1]', No returned matches
+'Alien Vs Predator (Prototype) (1993) [!]', No returned matches
+'APB - All Points Bulletin (1990)', No returned matches
+'Awesome Golf (1991)', No returned matches
+'Warbirds (1990)', No returned matches
+'World Class Soccer (1992)', No returned matches
+'Klax (1990)', No returned matches
+'Malibu Bikini Volleyball (1993)', No returned matches
+'Ms. Pac-Man (1990) [a1]', No returned matches
+'Kung Food (1992)', No returned matches
+'Krazy Ace Minature Golf (1997) (Telegames)', No returned matches
+'Ms. Pac-Man (1990)', No returned matches
+'California Games (1991)', No returned matches
+'California Games (1991) [o1]', No returned matches
+'Centipede (Prototype) (1987) (Shadowsoft)', No returned matches
+'Checkered Flag (1991)', No returned matches
+'Chip's Challenge (1989) [o1]', No returned matches
+'Chip's Challenge (1989)', No returned matches
+'Conquest of Zow (1996)', No returned matches
+'Crystal Mines II (1990) [o1]', No returned matches
+'Viking Child (1991)', No returned matches
+'Crystal Mines II (1990)', No returned matches
+'Marlboro Go! (Prototype) (1993) (Digital Image)', No returned matches
+'Ishido - The Way of the Stones (1991) [o1]', No returned matches
+'Ishido - The Way of the Stones (1991)', No returned matches
+'Xenophobe (1990) [a3]', No returned matches
+'Xybots (1991)', No returned matches
+'Xenophobe (1990)', No returned matches
+'Xenophobe (1990) [a2]', No returned matches
+'Xenophobe (1990) [a1]', No returned matches
+'T-Tris (1996) by Bastian Schick [a1]', No returned matches
+'Fidelity Ultimate Chess Challenge (1991) (Telegames) [o1]', No returned matches
+'Fidelity Ultimate Chess Challenge (1991) (Telegames)', No returned matches
+'T-Tris (1996) by Bastian Schick', No returned matches
+'Todd's Adventure in Slime World (1990) [o1]', No returned matches
+'Todd's Adventure in Slime World (1990)', No returned matches
+'Toki (1990)', No returned matches
+'Turbo Sub (1991) [a1]', No returned matches
+'Turbo Sub (1991)', No returned matches
+'Raiden (1997) (Telegames)', No returned matches
+'Fat Bobby (1997) (Telegames)', No returned matches
+'Road Riot 4WD (Beta) (1994)', No returned matches
+'Rampart (1991)', No returned matches
+'RoadBlasters (1990)', No returned matches
+'Robo-Squash (1990)', No returned matches
+'Robotron 2084 (1991) (Williams)', No returned matches
+'Robo-Squash (1990) [o1]', No returned matches
+'Rygar - Legendary Warrior (1990)', No returned matches
+'Electrocop (1989)', No returned matches
+'Electrocop (1989) [o1]', No returned matches
+'European Soccer Challenge (1993) (Telegames) [o1]', No returned matches
+'European Soccer Challenge (1993) (Telegames)', No returned matches
+'Rampage (1991)', No returned matches
+'Eye of the Beholder (Prototype) (1990) (NuFX)', No returned matches
+'Gates of Zendocon, The (1989) [o1]', No returned matches
+'Gauntlet - The Third Encounter (1990)', No returned matches
+'Gates of Zendocon, The (1989)', No returned matches
+'NFL Football (1990)', No returned matches
+'Tournament Cyberball 2072 (1991)', No returned matches
+'Gordo 106 - The Mutated Lab Monkey (1993)', No returned matches
+'Ninja Gaiden (1990)', No returned matches
+'Gauntlet - The Third Encounter (1990) [o1]', No returned matches
+'Ninja Gaiden III - The Ancient Ship of Doom (1993)', No returned matches

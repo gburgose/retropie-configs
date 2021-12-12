@@ -8,6 +8,70 @@
   "sort_mode": 2,
   "items": [
     {
+      "path": "/home/gabriel/RetroPie/roms/psx/Mega Man X5 (USA).cue",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-duckstation/duckstation_libretro.so",
+      "core_name": "DuckStation",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/psx/FIFA Soccer 2004 (USA) (En,Es).cue",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-duckstation/duckstation_libretro.so",
+      "core_name": "DuckStation",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/psx/Star Wars - Episode I - The Phantom Menace.cue",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-duckstation/duckstation_libretro.so",
+      "core_name": "DuckStation",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/psx/Broken Sword La leyenda de los Templarios [PAL-E] [SCES-00414].cue",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-duckstation/duckstation_libretro.so",
+      "core_name": "DuckStation",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/psx/Castlevania Symphony of the Night.cue",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-duckstation/duckstation_libretro.so",
+      "core_name": "DuckStation",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/psx/Capcom vs. SNK - Millennium Fight 2000 Pro [NTSC-U] [SLUS-01476].cue",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-duckstation/duckstation_libretro.so",
+      "core_name": "DuckStation",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/psx/Captain Tsubasa [JP][NTSC].cue",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-duckstation/duckstation_libretro.so",
+      "core_name": "DuckStation",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/psx/Capcom vs. SNK - Millennium Fight 2000 Pro [NTSC-U] [SLUS-01476].cue",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-pcsx-rearmed/pcsx_rearmed_libretro.so",
+      "core_name": "PCSX-ReARMed",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
       "path": "/home/gabriel/RetroPie/roms/psx/X-Men Vs. Street Fighter [Psx][Ntsc][Ingles][Mega][Epsxe].cue",
       "label": "",
       "core_path": "/opt/retropie/libretrocores/lr-pcsx-rearmed/pcsx_rearmed_libretro.so",

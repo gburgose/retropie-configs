@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/nds/Legend of Zelda - Spirit Tracks, The (EU)(M5)(EXiMiUS).nds</path>
+    <name>The Legend of Zelda - Spirit Tracks</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/nds/Mario Kart DS (E)(Spliff).nds</path>
+    <name>Mario Kart DS</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/nds/New Super Mario Bros. (U)(Psyfer).nds</path>
+    <name>New Super Mario Bros.</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/nds/Super Mario 64 DS (E)(Wet &apos;N&apos; Wild).nds</path>
+    <name>Super Mario 64 DS</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+</gameList>

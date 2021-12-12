@@ -1,9 +1,20 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./Kodi.sh</path>
-		<name>Kodi</name>
-		<playcount>1</playcount>
-		<lastplayed>20211211T143125</lastplayed>
-	</game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/ports/Kodi.sh</path>
+    <name>Kodi</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+    <lastplayed>20211211T143125</lastplayed>
+    <playcount>1</playcount>
+  </game>
 </gameList>

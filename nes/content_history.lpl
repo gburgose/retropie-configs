@@ -1,0 +1,19 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/gabriel/RetroPie/roms/nes/S/ Super Mario Bros/ Super Mario Bros 3/Super Mario Bros. 3.nes",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

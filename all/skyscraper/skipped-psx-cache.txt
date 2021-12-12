@@ -1,0 +1,45 @@
+--- The following is a list of skipped games ---
+'Batman & Robin [NTSC-U] [SLUS-00393]', No returned matches
+'Bomberman Party Edition [NTSC-U] [SLUS-01189]', No returned matches
+'Alundra [Psx][Ntsc][Español][Mega][Epsxe]', No returned matches
+'Bishi Bashi Special (Europe)', No returned matches
+'Captain Tsubasa [JP][NTSC]', No returned matches
+'Capcom vs. SNK - Millennium Fight 2000 Pro [NTSC-U] [SLUS-01476]', No returned matches
+'Broken Sword La leyenda de los Templarios [PAL-E] [SCES-00414]', No returned matches
+'Castlevania Symphony of the Night', No returned matches
+'Contra - Legacy of War', No returned matches
+'Diablo [USA]', No returned matches
+'Doom [NTSC-U] [SLUS-00077]', No returned matches
+'Dragon Ball - Final Bout [E]', No returned matches
+'Einhander', No returned matches
+'FIFA - Road to World Cup 98 (USA)', No returned matches
+'FIFA 2000 - Major League Soccer (USA)', No returned matches
+'FIFA 2001 (USA)', No returned matches
+'FIFA 99 (USA)', No returned matches
+'FIFA Soccer 2003 (USA)', No returned matches
+'FIFA Soccer 2004 (USA) (En,Es)', No returned matches
+'FIFA Soccer 96 (USA)', No returned matches
+'FIFA Soccer 97 (USA)', No returned matches
+'FIFA World Cup 2002 [USA]', No returned matches
+'Herc's Adventures', No returned matches
+'Marvel Super Heroes Vs Street Fighter [SLUS-00793]', No returned matches
+'Mega Man X5 (USA)', No returned matches
+'Oddworld Abe S Oddysee [NTSC-U] [SLUS-00190]', No returned matches
+'R-type', No returned matches
+'Need for Speed Porsche Unleashed [E]', No returned matches
+'Rayman 2 the Great Escape (U) [SLUS-01235]', No returned matches
+'Resident Evil - Survivor (USA)', No returned matches
+'Resident Evil 3 - Nemesis (USA)', No returned matches
+'Silent Hill (E) [SLES-01514]', No returned matches
+'Star Wars - Episode I - Jedi Power Battles', No returned matches
+'Star Wars - Dark Forces', No returned matches
+'Star Wars - Episode I - The Phantom Menace', No returned matches
+'Street Fighter Collection [Disc1of2] [SLUS-00423] [bin]', No returned matches
+'Street Fighter EX2 Plus [SLUS-01105] [bin]', No returned matches
+'Tenchu - Stealth Assassins (USA) (v1.1)', No returned matches
+'Tombi 2 - Contra los cerdiablos [E]', No returned matches
+'Final Fantasy VII [E]', No returned matches
+'Winning Eleven 2001 (Japan)', No returned matches
+'X-Men Vs. Street Fighter [Psx][Ntsc][Ingles][Mega][Epsxe]', No returned matches
+'Star Wars Rebel Assault II', No returned matches
+'Final Fantasy VIII [E]', No returned matches

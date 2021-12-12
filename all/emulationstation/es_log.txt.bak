@@ -1,142 +1,198 @@
-Dec 11 16:19:50 lvl2: 	EmulationStation - v2.10.0rp, built Dec 11 2021 - 11:43:58
-Dec 11 16:19:50 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamenames.xml"...
-Dec 11 16:19:50 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamebioses.xml"...
-Dec 11 16:19:50 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamedevices.xml"...
-Dec 11 16:19:50 lvl2: 	Creating window...
-Dec 11 16:19:51 lvl2: 	Created window successfully.
-Dec 11 16:19:51 lvl2: 	GL vendor:   Intel Open Source Technology Center
-Dec 11 16:19:51 lvl2: 	GL renderer: Mesa DRI Intel(R) HD Graphics 4000 (IVB GT2)
-Dec 11 16:19:51 lvl2: 	GL version:  3.0 Mesa 21.0.3
-Dec 11 16:19:51 lvl2: 	Checking available OpenGL extensions...
-Dec 11 16:19:51 lvl2: 	 ARB_texture_non_power_of_two: ok
-Dec 11 16:19:51 lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/amstradcpc.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/amstradcpc.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/amstradcpc.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/amstradcpc.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/amstradcpc.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/amstradcpc.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/amstradcpc.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/amstradcpc.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/icons/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/icons/amstradcpc.png") 
-Dec 11 16:19:51 lvl1: 	System "amstradcpc" has no games! Ignoring it.
-Dec 11 16:19:51 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/atari2600/gamelist.xml"...
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/atari800.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/atari800.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/atari800.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/atari800.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/atari800.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/atari800.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/atari800.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/atari800.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/icons/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/icons/atari800.png") 
-Dec 11 16:19:51 lvl1: 	System "atari800" has no games! Ignoring it.
-Dec 11 16:19:51 lvl1: 	Error - folder with path "/home/gabriel/RetroPie/roms/channelf" is not a directory!
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/channelf.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/channelf.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/channelf.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/background/neon_blue_spectrum.xml")
-    could not find file "./bg_tron${region}/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/background/bg_tron/channelf.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/channelf.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/channelf.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/channelf.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/logos/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/logos/channelf.png") 
-Dec 11 16:19:51 lvl1: 	  Warning from theme "/etc/emulationstation/themes/snes-mini/theme.xml"
-  (from included file "/etc/emulationstation/themes/snes-mini/config.xml")
-  (from included file "/etc/emulationstation/themes/snes-mini/style/snes_europe.xml")
-    could not find file "./../art/icons/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/snes-mini/style/../art/icons/channelf.png") 
-Dec 11 16:19:51 lvl1: 	System "channelf" has no games! Ignoring it.
-Dec 11 16:19:51 lvl1: 	Error - folder with path "/home/gabriel/RetroPie/roms/coleco" is not a directory!
-Dec 11 16:19:51 lvl1: 	System "coleco" has no games! Ignoring it.
-Dec 11 16:19:51 lvl1: 	System "gamegear" has no games! Ignoring it.
-Dec 11 16:19:51 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/gba/gamelist.xml"...
-Dec 11 16:19:51 lvl1: 	System "mame-libretro" has no games! Ignoring it.
-Dec 11 16:19:51 lvl1: 	Error - folder with path "/home/gabriel/RetroPie/roms/msx" is not a directory!
-Dec 11 16:19:51 lvl1: 	System "msx" has no games! Ignoring it.
-Dec 11 16:19:52 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/neogeo/gamelist.xml"...
-Dec 11 16:19:52 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/ports/gamelist.xml"...
-Dec 11 16:19:52 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/psp/gamelist.xml"...
-Dec 11 16:19:52 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/psx/gamelist.xml"...
-Dec 11 16:19:52 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/retropie/gamelist.xml"...
-Dec 11 16:19:52 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/saturn/gamelist.xml"...
-Dec 11 16:19:52 lvl1: 	System "zxspectrum" has no games! Ignoring it.
-Dec 11 16:19:52 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/snes/gamelist.xml"...
-Dec 11 16:20:16 lvl2: 	Restarting EmulationStation
-Dec 11 16:20:16 lvl2: 	EmulationStation cleanly shutting down.
+Dec 12 00:51:13 lvl2: 	EmulationStation - v2.10.0rp, built Dec 11 2021 - 11:43:58
+Dec 12 00:51:14 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamenames.xml"...
+Dec 12 00:51:14 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamebioses.xml"...
+Dec 12 00:51:14 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamedevices.xml"...
+Dec 12 00:51:14 lvl2: 	Creating window...
+Dec 12 00:51:15 lvl2: 	Created window successfully.
+Dec 12 00:51:15 lvl2: 	GL vendor:   Intel Open Source Technology Center
+Dec 12 00:51:15 lvl2: 	GL renderer: Mesa DRI Intel(R) HD Graphics 4000 (IVB GT2)
+Dec 12 00:51:15 lvl2: 	GL version:  3.0 Mesa 21.0.3
+Dec 12 00:51:15 lvl2: 	Checking available OpenGL extensions...
+Dec 12 00:51:15 lvl2: 	 ARB_texture_non_power_of_two: ok
+Dec 12 00:51:16 lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
+Dec 12 00:51:16 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/3do/gamelist.xml"...
+Dec 12 00:51:17 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/auto-allgames/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/auto-allgames/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/auto-allgames/../_art/indicators/auto-allgames.png") 
+Dec 12 00:51:17 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/3do/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/3do/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/3do/../_art/indicators/3do.png") 
+Dec 12 00:51:17 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/auto-lastplayed/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/auto-lastplayed/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/auto-lastplayed/../_art/indicators/auto-lastplayed.png") 
+Dec 12 00:51:17 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/custom-collections/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/custom-collections/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/custom-collections/../_art/indicators/custom-collections.png") 
+Dec 12 00:51:17 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/amstradcpc/gamelist.xml"...
+Dec 12 00:51:17 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/amstradcpc/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/amstradcpc/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/amstradcpc/../_art/indicators/amstradcpc.png") 
+Dec 12 00:51:17 lvl1: 	System "amstradcpc" has no games! Ignoring it.
+Dec 12 00:51:18 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/atari5200/gamelist.xml"...
+Dec 12 00:51:18 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/arcade/gamelist.xml"...
+Dec 12 00:51:18 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/atari5200/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/atari5200/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/atari5200/../_art/indicators/atari5200.png") 
+Dec 12 00:51:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/arcade/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/arcade/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/arcade/../_art/indicators/arcade.png") 
+Dec 12 00:51:19 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/atari7800/gamelist.xml"...
+Dec 12 00:51:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/atari800/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/atari800/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/atari800/../_art/indicators/atari800.png") 
+Dec 12 00:51:19 lvl1: 	System "atari800" has no games! Ignoring it.
+Dec 12 00:51:19 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/atarijaguar/gamelist.xml"...
+Dec 12 00:51:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/atari7800/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/atari7800/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/atari7800/../_art/indicators/atari7800.png") 
+Dec 12 00:51:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/atarijaguar/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/atarijaguar/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/atarijaguar/../_art/indicators/atarijaguar.png") 
+Dec 12 00:51:19 lvl1: 	Error - folder with path "/home/gabriel/RetroPie/roms/channelf" is not a directory!
+Dec 12 00:51:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/theme.xml"
+    could not find file "./_art/posters/${system.theme}.jpg" (which resolved to "/etc/emulationstation/themes/epicnoir/_art/posters/channelf.jpg") 
+Dec 12 00:51:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/theme.xml"
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/_art/indicators/channelf.png") 
+Dec 12 00:51:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/theme.xml"
+    could not find file "./_art/controllers/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/_art/controllers/channelf.png") 
+Dec 12 00:51:19 lvl1: 	System "channelf" has no games! Ignoring it.
+Dec 12 00:51:19 lvl1: 	Error - folder with path "/home/gabriel/RetroPie/roms/coleco" is not a directory!
+Dec 12 00:51:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/colecovision/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/colecovision/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/colecovision/../_art/indicators/colecovision.png") 
+Dec 12 00:51:19 lvl1: 	System "coleco" has no games! Ignoring it.
+Dec 12 00:51:19 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/atari2600/gamelist.xml"...
+Dec 12 00:51:19 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/dreamcast/gamelist.xml"...
+Dec 12 00:51:20 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/atari2600/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/atari2600/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/atari2600/../_art/indicators/atari2600.png") 
+Dec 12 00:51:20 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/dreamcast/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/dreamcast/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/dreamcast/../_art/indicators/dreamcast.png") 
+Dec 12 00:51:20 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/atarilynx/gamelist.xml"...
+Dec 12 00:51:20 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/fba/gamelist.xml"...
+Dec 12 00:51:20 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/atarilynx/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/atarilynx/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/atarilynx/../_art/indicators/atarilynx.png") 
+Dec 12 00:51:20 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/gamegear/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/gamegear/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/gamegear/../_art/indicators/gamegear.png") 
+Dec 12 00:51:20 lvl1: 	System "gamegear" has no games! Ignoring it.
+Dec 12 00:51:20 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/fba/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/fba/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/fba/../_art/indicators/fba.png") 
+Dec 12 00:51:20 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/fds/gamelist.xml"...
+Dec 12 00:51:21 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/fds/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/fds/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/fds/../_art/indicators/fds.png") 
+Dec 12 00:51:21 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/gbc/gamelist.xml"...
+Dec 12 00:51:21 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/gb/gamelist.xml"...
+Dec 12 00:51:21 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/gbc/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/gbc/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/gbc/../_art/indicators/gbc.png") 
+Dec 12 00:51:22 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/mastersystem/gamelist.xml"...
+Dec 12 00:51:23 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/mastersystem/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/mastersystem/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/mastersystem/../_art/indicators/mastersystem.png") 
+Dec 12 00:51:23 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/mame-libretro/gamelist.xml"...
+Dec 12 00:51:23 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/gba/gamelist.xml"...
+Dec 12 00:51:23 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/mame/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/mame/../_art/indicators/mame.png") 
+Dec 12 00:51:23 lvl1: 	Error - folder with path "/home/gabriel/RetroPie/roms/msx" is not a directory!
+Dec 12 00:51:23 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/gba/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/gba/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/gba/../_art/indicators/gba.png") 
+Dec 12 00:51:23 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/msx/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/msx/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/msx/../_art/indicators/msx.png") 
+Dec 12 00:51:23 lvl1: 	System "msx" has no games! Ignoring it.
+Dec 12 00:51:23 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/nds/gamelist.xml"...
+Dec 12 00:51:24 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/nds/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/nds/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/nds/../_art/indicators/nds.png") 
+Dec 12 00:51:25 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/n64/gamelist.xml"...
+Dec 12 00:51:26 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/n64/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/n64/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/n64/../_art/indicators/n64.png") 
+Dec 12 00:51:26 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/neogeo/gamelist.xml"...
+Dec 12 00:51:26 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/neogeo/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/neogeo/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/neogeo/../_art/indicators/neogeo.png") 
+Dec 12 00:51:26 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/ngp/gamelist.xml"...
+Dec 12 00:51:26 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/megadrive/gamelist.xml"...
+Dec 12 00:51:26 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/ngp/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/ngp/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/ngp/../_art/indicators/ngp.png") 
+Dec 12 00:51:26 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/megadrive/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/megadrive/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/megadrive/../_art/indicators/megadrive.png") 
+Dec 12 00:51:26 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/ngpc/gamelist.xml"...
+Dec 12 00:51:26 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/ngpc/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/ngpc/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/ngpc/../_art/indicators/ngpc.png") 
+Dec 12 00:51:27 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/pcengine/gamelist.xml"...
+Dec 12 00:51:27 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/pcengine/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/pcengine/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/pcengine/../_art/indicators/pcengine.png") 
+Dec 12 00:51:27 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/pc/gamelist.xml"...
+Dec 12 00:51:27 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/pokemini/gamelist.xml"...
+Dec 12 00:51:27 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/pc/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/pc/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/pc/../_art/indicators/pc.png") 
+Dec 12 00:51:27 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/theme.xml"
+    could not find file "./_art/posters/${system.theme}.jpg" (which resolved to "/etc/emulationstation/themes/epicnoir/_art/posters/pokemini.jpg") 
+Dec 12 00:51:27 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/theme.xml"
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/_art/indicators/pokemini.png") 
+Dec 12 00:51:27 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/theme.xml"
+    could not find file "./_art/controllers/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/_art/controllers/pokemini.png") 
+Dec 12 00:51:27 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/ports/gamelist.xml"...
+Dec 12 00:51:27 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/ports/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/ports/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/ports/../_art/indicators/ports.png") 
+Dec 12 00:51:27 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/psp/gamelist.xml"...
+Dec 12 00:51:27 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/psp/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/psp/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/psp/../_art/indicators/psp.png") 
+Dec 12 00:51:27 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/psx/gamelist.xml"...
+Dec 12 00:51:27 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/retropie/gamelist.xml"...
+Dec 12 00:51:27 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/psx/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/psx/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/psx/../_art/indicators/psx.png") 
+Dec 12 00:51:28 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/saturn/gamelist.xml"...
+Dec 12 00:51:28 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/saturn/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/saturn/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/saturn/../_art/indicators/saturn.png") 
+Dec 12 00:51:28 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/segacd/gamelist.xml"...
+Dec 12 00:51:28 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/segacd/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/segacd/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/segacd/../_art/indicators/segacd.png") 
+Dec 12 00:51:28 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/sega32x/gamelist.xml"...
+Dec 12 00:51:28 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/sega32x/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/sega32x/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/sega32x/../_art/indicators/sega32x.png") 
+Dec 12 00:51:28 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/sg-1000/gamelist.xml"...
+Dec 12 00:51:28 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/nes/gamelist.xml"...
+Dec 12 00:51:28 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/sg-1000/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/sg-1000/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/sg-1000/../_art/indicators/sg-1000.png") 
+Dec 12 00:51:28 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/vectrex/gamelist.xml"...
+Dec 12 00:51:28 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/nes/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/nes/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/nes/../_art/indicators/nes.png") 
+Dec 12 00:51:28 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/virtualboy/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/virtualboy/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/virtualboy/../_art/indicators/virtualboy.png") 
+Dec 12 00:51:28 lvl1: 	System "virtualboy" has no games! Ignoring it.
+Dec 12 00:51:28 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/vectrex/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/vectrex/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/vectrex/../_art/indicators/vectrex.png") 
+Dec 12 00:51:28 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/zxspectrum/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/zxspectrum/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/zxspectrum/../_art/indicators/zxspectrum.png") 
+Dec 12 00:51:28 lvl1: 	System "zxspectrum" has no games! Ignoring it.
+Dec 12 00:51:29 lvl2: 	Parsing XML file "/home/gabriel/.emulationstation/gamelists/snes/gamelist.xml"...
+Dec 12 00:51:29 lvl1: 	  Warning from theme "/etc/emulationstation/themes/epicnoir/snes/theme.xml"
+  (from included file "/etc/emulationstation/themes/epicnoir/snes/../theme.xml")
+    could not find file "./_art/indicators/${system.theme}.png" (which resolved to "/etc/emulationstation/themes/epicnoir/snes/../_art/indicators/snes.png") 
+Dec 12 00:52:50 lvl2: 	EmulationStation cleanly shutting down.

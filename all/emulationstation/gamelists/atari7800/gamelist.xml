@@ -1,0 +1,2201 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/3D Asteroids (1987) (Atari) (Prototype) [a1].a78</path>
+    <name>3D Asteroids</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+    <lastplayed>20211211T220059</lastplayed>
+    <playcount>1</playcount>
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/3D Asteroids (1987) (Atari) (Prototype).a78</path>
+    <name>3D Asteroids</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/7800Kern Demo (2004) (Christopher Tumber).a78</path>
+    <name>7800Kern Demo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Ace of Aces (1988) (Atari).a78</path>
+    <name>Ace of Aces</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Ace of Aces (1988) (Atari) (PAL).a78</path>
+    <name>Ace of Aces</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Alien Brigade (1990) (Atari) (PAL) (CC2 Hack).a78</path>
+    <name>Alien Brigade</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Alien Brigade (1990) (Atari) (CC2 Hack).a78</path>
+    <name>Alien Brigade</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Alien Brigade (1990) (Atari) [!].a78</path>
+    <name>Alien Brigade</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Alien Brigade (1990) (Atari) (PAL).a78</path>
+    <name>Alien Brigade</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Asteroids (1987) (Atari).a78</path>
+    <name>Asteroids</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Ballblazer (1987) (Atari-Lucasfilm) (PAL).a78</path>
+    <name>Ballblazer</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Ballblazer (1987) (Atari-Lucasfilm).a78</path>
+    <name>Ballblazer</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Barnyard Blaster (1988) (Atari) (PAL) [!].a78</path>
+    <name>Barnyard Blaster</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Barnyard Blaster (1988) (Atari) [!].a78</path>
+    <name>Barnyard Blaster</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Basketbrawl (1990) (Atari).a78</path>
+    <name>Basketbrawl</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Basketbrawl (1990) (Atari) (PAL).a78</path>
+    <name>Basketbrawl</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Beef Drop 7800 (Oct 30-Rev 08) (2004) (CC2 Hack).a78</path>
+    <name>Beef Drop 7800</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Centipede (1987) (Atari).a78</path>
+    <name>Centipede</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Centipede (1987) (Atari) (PAL).a78</path>
+    <name>Centipede</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Choplifter (1987) (Atari).a78</path>
+    <name>Choplifter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Choplifter (1987) (Atari) (PAL).a78</path>
+    <name>Choplifter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Commando (1989) (Atari) (PAL).a78</path>
+    <name>Commando</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Commando (1989) (Atari).a78</path>
+    <name>Commando</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Crack&apos;ed (1988) (Atari) (PAL).a78</path>
+    <name>Crack&apos;ed</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Crack&apos;ed (1988) (Atari).a78</path>
+    <name>Crack&apos;ed</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Crossbow (1988) (Atari) (CC2 Hack).a78</path>
+    <name>Crossbow</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Crossbow (1988) (Atari).a78</path>
+    <name>Crossbow</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Crossbow (1988) (Atari) (PAL) (CC2 Hack).a78</path>
+    <name>Crossbow</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Crossbow (1988) (Atari) (PAL).a78</path>
+    <name>Crossbow</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Dark Chambers (1988) (Atari).a78</path>
+    <name>Dark Chambers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Dark Chambers (1988) (Atari) (PAL).a78</path>
+    <name>Dark Chambers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Desert Falcon (2004) (Atari) (HSC Hack).a78</path>
+    <name>Desert Falcon</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Desert Falcon (2004) (Atari) (HSC Hack) [a1].a78</path>
+    <name>Desert Falcon</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Desert Falcon (1987) (Atari).a78</path>
+    <name>Desert Falcon</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Desert Falcon (1987) (Atari) (PAL).a78</path>
+    <name>Desert Falcon</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Diagnostic Test Cartridge (19xx) (Atari) [!].a78</path>
+    <name>Diagnostic Test Cartridge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Dig Dug (1987) (Atari) (PAL).a78</path>
+    <name>Dig Dug</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Dig Dug (1987) (Atari).a78</path>
+    <name>Dig Dug</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Donkey Kong (1988) (Atari).a78</path>
+    <name>Donkey Kong</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Donkey Kong (1988) (Atari) (PAL).a78</path>
+    <name>Donkey Kong</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Donkey Kong Jr (1988) (Atari) (PAL).a78</path>
+    <name>Donkey Kong Jr</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Donkey Kong Jr (1988) (Atari).a78</path>
+    <name>Donkey Kong Jr</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Double Dragon (1989) (Activision) (PAL).a78</path>
+    <name>Double Dragon</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Double Dragon (1989) (Activision) [!].a78</path>
+    <name>Double Dragon</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/F-18 Hornet (1988) (Absolute) (PAL).a78</path>
+    <name>F-18 Hornet</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/F-18 Hornet (1988) (Absolute) [!].a78</path>
+    <name>F-18 Hornet</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Fatal Run (1990) (Atari).a78</path>
+    <name>Fatal Run</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Fatal Run (1990) (Atari) (PAL).a78</path>
+    <name>Fatal Run</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Fight Night (1988) (Atari) (PAL).a78</path>
+    <name>Fight Night</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Fight Night (1988) (Atari).a78</path>
+    <name>Fight Night</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Food Fight (1987) (Atari) (PAL).a78</path>
+    <name>Food Fight</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Food Fight (1987) (Atari).a78</path>
+    <name>Food Fight</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Galaga (1987) (Atari).a78</path>
+    <name>Galaga</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Galaga (1987) (Atari) (PAL).a78</path>
+    <name>Galaga</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Gato (198x) (Atari) (Prototype) [a2].a78</path>
+    <name>Gato</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Gato (198x) (Atari) (Prototype) [a1].a78</path>
+    <name>Gato</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Gato (198x) (Atari) (Prototype).a78</path>
+    <name>Gato</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Hat Trick (1987) (Atari) (PAL).a78</path>
+    <name>Hat Trick</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Hat Trick (1987) (Atari).a78</path>
+    <name>Hat Trick</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Ikari Warriors (1989) (Atari) (PAL).a78</path>
+    <name>Ikari Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Ikari Warriors (1989) (Atari).a78</path>
+    <name>Ikari Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Impossible Mission (1987) (Atari) [f1].a78</path>
+    <name>Impossible Mission</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Impossible Mission (1987) (Atari) [a1].a78</path>
+    <name>Impossible Mission</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Impossible Mission (1987) (Atari) [!].a78</path>
+    <name>Impossible Mission</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Impossible Mission (1987) (Atari) (PAL).a78</path>
+    <name>Impossible Mission</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Jinks (1989) (Atari) (PAL).a78</path>
+    <name>Jinks</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Jinks (1989) (Atari).a78</path>
+    <name>Jinks</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Joust (1987) (Atari) (PAL).a78</path>
+    <name>Joust</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Joust (1987) (Atari).a78</path>
+    <name>Joust</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Karateka (1987) (Atari).a78</path>
+    <name>Karateka</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Karateka (1987) (Atari) (PAL).a78</path>
+    <name>Karateka</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Klax (2004) (Impossible Level 2 Hack).a78</path>
+    <name>Klax</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Klax (1992) (Atari) (Prototype).a78</path>
+    <name>Klax</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Klax (2004) (Impossible Level 3 Hack).a78</path>
+    <name>Klax</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+    <lastplayed>20211211T202321</lastplayed>
+    <playcount>1</playcount>
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Klax (1992) (Atari) (Prototype) [a1].a78</path>
+    <name>Klax</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Klax (1992) (Atari) (Prototype) [f1].a78</path>
+    <name>Klax</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Klax (2004) (Impossible Level 1 Hack).a78</path>
+    <name>Klax</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Kung Fu Master (1989) (Absolute) [!].a78</path>
+    <name>Kung Fu Master</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Kung Fu Master (1989) (Absolute) (PAL).a78</path>
+    <name>Kung Fu Master</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Mario Brothers (1988) (Atari).a78</path>
+    <name>Mario Brothers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+    <lastplayed>20211211T202420</lastplayed>
+    <playcount>1</playcount>
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Mario Brothers (1988) (Atari) (PAL).a78</path>
+    <name>Mario Brothers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Mat Mania Challenge (1989) (Atari).a78</path>
+    <name>Mat Mania Challenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Mat Mania Challenge (1989) (Atari) (PAL).a78</path>
+    <name>Mat Mania Challenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Mean 18 Golf (1988) (Atari) (PAL).a78</path>
+    <name>Mean 18 Golf</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Mean 18 Golf (1988) (Atari) [!].a78</path>
+    <name>Mean 18 Golf</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Meltdown (1990) (Atari).a78</path>
+    <name>Meltdown</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Meltdown (1990) (Atari) (PAL).a78</path>
+    <name>Meltdown</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Midnight Mutants (1990) (Atari) (PAL).a78</path>
+    <name>Midnight Mutants</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Midnight Mutants (1990) (Atari).a78</path>
+    <name>Midnight Mutants</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Motor Psycho (1990) (Atari) (PAL).a78</path>
+    <name>Motor Psycho</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Motor Psycho (1990) (Atari).a78</path>
+    <name>Motor Psycho</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Ms. Pac-Man (1987) (Atari) (PAL).a78</path>
+    <name>Ms. Pac-Man</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Ms. Pac-Man (1987) (Atari).a78</path>
+    <name>Ms. Pac-Man</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+    <lastplayed>20211211T202603</lastplayed>
+    <playcount>1</playcount>
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Ninja Golf (1990) (Atari).a78</path>
+    <name>Ninja Golf</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Ninja Golf (1990) (Atari) (PAL).a78</path>
+    <name>Ninja Golf</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/One-on-One Basketball (1987) (Atari) (PAL).a78</path>
+    <name>One-on-One Basketball</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/One-on-One Basketball (1987) (Atari).a78</path>
+    <name>One-on-One Basketball</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Pete Rose Baseball (1989) (Absolute) (PAL).a78</path>
+    <name>Pete Rose Baseball</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Pete Rose Baseball (1989) (Absolute) [!].a78</path>
+    <name>Pete Rose Baseball</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/Overdumps/Pete Rose Baseball (1989) (Absolute) [o1].a78</path>
+    <name>Pete Rose Baseball</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Pit Fighter (1992) (Atari) (Prototype) [a1].a78</path>
+    <name>Pit Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Pit Fighter (1992) (Atari) (Prototype).a78</path>
+    <name>Pit Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Pit Fighter (1992) (Atari) (Prototype) [a2].a78</path>
+    <name>Pit Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Planet Smashers (1990) (Atari) (PAL).a78</path>
+    <name>Planet Smashers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Planet Smashers (1990) (Atari).a78</path>
+    <name>Planet Smashers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Pole Position II (1987) (Atari).a78</path>
+    <name>Pole Position II</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Pole Position II (1987) (Atari) (PAL).a78</path>
+    <name>Pole Position II</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Rampage (1989) (Activision) [!].a78</path>
+    <name>Rampage</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/RealSports Baseball (1988) (Atari).a78</path>
+    <name>RealSports Baseball</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/Overdumps/RealSports Baseball (1988) (Atari) [o1].a78</path>
+    <name>RealSports Baseball</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Rescue on Fractalus (1984) (Atari) (Prototype).a78</path>
+    <name>Rescue on Fractalus</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Rescue on Fractalus (1984) (Atari) (Prototype) (CC2 Hack).a78</path>
+    <name>Rescue on Fractalus</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Robotron 2084 (1987) (Atari).a78</path>
+    <name>Robotron 2084</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Scrapyard Dog (1990) (Atari) (PAL).a78</path>
+    <name>Scrapyard Dog</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Scrapyard Dog (1990) (Atari).a78</path>
+    <name>Scrapyard Dog</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Sentinel (1988) (Atari) [!].a78</path>
+    <name>Sentinel</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Sentinel (1991) (Atari) (PAL) [!].a78</path>
+    <name>Sentinel</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Summer Games (1987) (Atari) [!].a78</path>
+    <name>Summer Games</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Super Huey UH-IX (1989) (Atari) (PAL).a78</path>
+    <name>Super Huey UH-IX</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Super Huey UH-IX (1989) (Atari).a78</path>
+    <name>Super Huey UH-IX</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Super Skateboardin&apos; (1989) (Absolute) (PAL).a78</path>
+    <name>Super Skateboardin&apos;</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Super Skateboardin&apos; (1989) (Absolute) [!].a78</path>
+    <name>Super Skateboardin&apos;</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/Overdumps/Super Skateboardin&apos; (1989) (Absolute) [o1].a78</path>
+    <name>Super Skateboardin&apos;</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Symbolic Debugger &amp; Downloader (1988) (Atari) (Crypt Hack).a78</path>
+    <name>Symbolic Debugger &amp; Downloader</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Symbolic Debugger &amp; Downloader (1988) (Atari).a78</path>
+    <name>Symbolic Debugger &amp; Downloader</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Tank Command (1988) (Froggo) [!].a78</path>
+    <name>Tank Command</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/Overdumps/Tank Command (1988) (Froggo) [o1].a78</path>
+    <name>Tank Command</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Title Match Pro Wrestling (1989) (Absolute) [!].a78</path>
+    <name>Title Match Pro Wrestling</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Title Match Pro Wrestling (1989) (Absolute) (PAL).a78</path>
+    <name>Title Match Pro Wrestling</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/Overdumps/Title Match Pro Wrestling (1989) (Absolute) [o1].a78</path>
+    <name>Title Match Pro Wrestling</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Tomcat - The F-14 (1989) (Absolute) (PAL).a78</path>
+    <name>Tomcat - The F-14</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Tomcat - The F-14 (1989) (Absolute) [!].a78</path>
+    <name>Tomcat - The F-14</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Touchdown Football (1988) (Atari).a78</path>
+    <name>Touchdown Football</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/Overdumps/Tower Toppler (1988) (Atari) [o1].a78</path>
+    <name>Tower Toppler</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Tower Toppler (1988) (Atari) [!].a78</path>
+    <name>Tower Toppler</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Tower Toppler (1988) (Atari) (PAL).a78</path>
+    <name>Tower Toppler</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Tubes (Nov 3) (2004) (Bruce Tomlin).a78</path>
+    <name>Tubes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Tubes (Nov 3-Signed) (2004) (Bruce Tomlin).a78</path>
+    <name>Tubes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Tubes (2004) (Bruce Tomlin).a78</path>
+    <name>Tubes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/Overdumps/Water Ski (1988) (Froggo) [o1].a78</path>
+    <name>Water Ski</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Water Ski (1988) (Froggo).a78</path>
+    <name>Water Ski</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Winter Games (1987) (Atari) [!].a78</path>
+    <name>Winter Games</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Xenophobe (1989) (Atari) (PAL).a78</path>
+    <name>Xenophobe</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Xenophobe (1989) (Atari) [!].a78</path>
+    <name>Xenophobe</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/PALVideo/Xevious (1987) (Atari) (PAL).a78</path>
+    <name>Xevious</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari7800/NTSCVideo/Xevious (1987) (Atari).a78</path>
+    <name>Xevious</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+</gameList>

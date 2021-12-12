@@ -1,0 +1,1993 @@
+--- The following is a list of skipped games ---
+'Year 1999, The (AKA Condor Attack) (1983) (Rainbow Vision - Suntek) (SS-008) (PAL)', No returned matches
+'Q-bert (1983) (Parker Brothers - Western Technologies, Dave Hampton, Tom Sloper) (931517) (PAL)', No returned matches
+'Q-bert (1983) (Parker Brothers - Western Technologies, Dave Hampton, Tom Sloper) (PB5360) ~', No returned matches
+'Q-bert (1987) (Atari) (CX26150)', No returned matches
+'Q-bert (1987) (Atari) (CX26150P) (PAL)', No returned matches
+'Q-bert (208 in 1) (Unknown) (PAL)', No returned matches
+'Q-bert's Qubes (1984) (Parker Brothers - JWDA, Todd Marshall) (PB5550) (Prototype) (4K)', No returned matches
+'Q-bert's Qubes (1984) (Parker Brothers - JWDA, Todd Marshall) (PB5550) ~', No returned matches
+'Q. Bert (1983) (CCE) (C-822)', No returned matches
+'Quadrun (12-06-1982) (Atari, Frank Hausman, Mimi Nyden, Steve Woita) (CX2686) (Prototype) (4K)', No returned matches
+'Quadrun (18-03-1982) (Atari, Frank Hausman, Mimi Nyden, Steve Woita) (CX2686) (Prototype)', No returned matches
+'Quadrun (1983) (Atari, Frank Hausman, Mimi Nyden, Steve Woita) (CX2686) (Prototype)', No returned matches
+'Quadrun (1983) (Atari, Frank Hausman, Mimi Nyden, Steve Woita) (CX2686) ~', No returned matches
+'Quest for Quintana Roo (1984) (Sunrise Software - VSS) (1603) ~', No returned matches
+'Quest for Quintana Roo (1988) (Telegames - VSS) (6057 A227) (PAL)', No returned matches
+'Quest for Quintana Roo (1988) (Telegames - VSS) (6057 A227)', No returned matches
+'Quick Step! (Hop To It, Kwibble) (1983) (Imagic, Dave Johnson) (720119-1A, 03211) ~', No returned matches
+'Quick Step! (Hop To It, Kwibble) (1983) (Imagic, Dave Johnson) (720119-2A, 13211, EIX-004-04I) (PAL)', No returned matches
+'H.E.R.O. (1984) (Activision, John Van Ryzin) (AZ-036-04) ~', No returned matches
+'H.E.R.O. (1984) (Activision, John Van Ryzin) (EAZ-036-04) (SECAM)', No returned matches
+'H.E.R.O. (CCE)', No returned matches
+'H.E.R.O. (Tron)', No returned matches
+'H.E.R.O. - Helicopter-Held (1984) (Activision, John Van Ryzin - Ariola) (EAZ-036-04, EAZ-036-04B, EAZ-036-04I - 711 036-720) (PAL)', No returned matches
+'Halloween (1983) (Wizard Video Games - MicroGraphic Image, Robert Barber, Tim Martin) (007) (Prototype) [a]', No returned matches
+'Halloween (1983) (Wizard Video Games - MicroGraphic Image, Robert Barber, Tim Martin) (007) (Prototype)', No returned matches
+'Halloween (1983) (Wizard Video Games - MicroGraphic Image, Robert Barber, Tim Martin) (007) ~', No returned matches
+'Hangman (1978) (Atari, Alan Miller) (CX2662P) (PAL)', No returned matches
+'Hangman - Spelling (1978) (Atari, Alan Miller - Sears) (CX2662 - 6-99811) ~', No returned matches
+'Hard-Head (1983) (Activision) (Prototype) ~', No returned matches
+'Harbor Escape (AKA River Raid) (1983) (Panda) (110)', No returned matches
+'Harem (1982) (Multivision, Michael Case) ~', No returned matches
+'Haunted House (Mystery Mansion, Graves' Manor, Nightmare Manor) (08-12-81) (Atari, James Andreasen - Sears) (CX2654 - 49-75141) (Prototype)', No returned matches
+'Haunted House (Mystery Mansion, Graves' Manor, Nightmare Manor) (09-28-81) (Atari, James Andreasen - Sears) (CX2654 - 49-75141) (Prototype)', No returned matches
+'Haunted House (Mystery Mansion, Graves' Manor, Nightmare Manor) (1982) (Atari, James Andreasen - Sears) (CX2654 - 49-75141) ~', No returned matches
+'Heart Like a Wheel (1983) (20th Century Fox Video Games - Micro Computer Technologies, Jim Collas) (Prototype) ~', No returned matches
+'Haunted House (Mystery Mansion, Graves' Manor, Nightmare Manor) (1982) (Atari, James Andreasen) (CX2654) (PAL)', No returned matches
+'Hell Driver (AKA Racing Car) (1983) (ITT Family Games) (554-37 729) (PAL)', No returned matches
+'Hey! Stop! (AKA Keystone Kapers) (1983) (Rainbow Vision - Suntek) (SS-012) (PAL)', No returned matches
+'Hey! Stop! (AKA Keystone Kapers) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Hili Ball (AKA Racquetball) (1983) (Quelle) (689.302 8) (PAL)', No returned matches
+'Hole Hunter (AKA Topy) (Video Game Cartridge - Ariola) (TP-606)', No returned matches
+'Holey Moley (Kid's Controller) (02-29-1984) (Atari, Robert C. Polaro) (CX26130) (Prototype) ~', No returned matches
+'Home Run (Unknown) (PAL)', No returned matches
+'Home Run - Baseball (1978) (Atari, Bob Whitehead - Sears) (CX2623 - 6-99819, 49-75108, 49-75125) ~', No returned matches
+'Homerun - Horrorrun (32 in 1) (1988) (Atari, Bob Whitehead) (CX26163P) (PAL)', No returned matches
+'Hot Action Pak - Ghostbusters, Tennis, Plaque Attack (1990) (HES - Activision) (542) (PAL)', No returned matches
+'Hot Wave (AKA Ram It) (Double-Game Package) (1983) (Otto Versand) (746422) (PAL)', No returned matches
+'Human Cannonball (128-in-1 Junior Console) (PAL)', No returned matches
+'Human Cannonball (1979) (Atari) (CX2627, CX2627P) (PAL)', No returned matches
+'Human Cannonball (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Human Cannonball - Cannon Man (1979) (Atari - Sears) (CX2627 - 6-99841) ~', No returned matches
+'Hunt & Score (Keyboard Controller) (1978) (Atari, Alan Miller) (CX2642) (PAL)', No returned matches
+'Hunt & Score - Memory Match (Keyboard Controller) (1978) (Atari, Alan Miller - Sears) (CX2642 - 6-99814) ~', No returned matches
+'I Want My Mommy (AKA Open, Sesame!) (KidStuff) (1983) (ZiMAG - Emag - Vidco) (710-111 - GN-010)', No returned matches
+'I.Q. Memory Teaser (AKA IQ 180) (1983) (Suntek) (SS-033) (PAL)', No returned matches
+'IQ 180 (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'IQ 180 (Unknown)', No returned matches
+'Ice Hockey (CCE)', No returned matches
+'Ice Hockey (Canal 3 - Intellivision)', No returned matches
+'Ice Hockey - Eishockey (1981) (Activision, Alan Miller - Ariola) (EAG-012-04I, EAX-012, EAX-012-04B - 711 012-720) (PAL)', No returned matches
+'Ice Hockey - Hockey, Hockey (4 Game in One) (1983) (Bit Corporation) (PGP210) (PAL)', No returned matches
+'Ikari Warriors (1991) (Atari - Imagineering, Dan Kitchen) (CX26177) (PAL)', No returned matches
+'Ice Hockey - Le Hockey Sur Glace (1981) (Activision, Alan Miller) (AX-012, CAX-012, AX-012-04) ~', No returned matches
+'Im Reich der Spinne (AKA Amidar) (1983) (Quelle) (322.773 3) (PAL)', No returned matches
+'Im Schutz der Drachen (AKA Dragon Defender) (1983) (Quelle) (719.252 9) (PAL)', No returned matches
+'Ikari Warriors (1991) (Atari - Imagineering, Dan Kitchen) (CX26177) ~', No returned matches
+'Imagic Selector ROM (1982) (Imagic) [a]', No returned matches
+'Imagic Selector ROM (1982) (Imagic) ~', No returned matches
+'Immies & Aggies (1983) (CCE) (C-838)', No returned matches
+'Immies & Aggies (Unknown)', No returned matches
+'Inca Gold (Unknown) (PAL)', No returned matches
+'Inca Gold (Zellers)', No returned matches
+'Indy 500 (Race Car) (Driving Controller) (1977) (Atari, Carla Meninsky, Ed Riddle) (CX2611, CX2611P) (PAL)', No returned matches
+'Immies & Aggies - Immies and Aggies (1983) (ZiMAG - Emag - Vidco) (715-111 - GN-060) (Prototype) ~', No returned matches
+'Indy 500 - Race (Race Car) (Driving Controller) (1977) (Atari, Carla Meninsky, Ed Riddle - Sears) (CX2611 - 99821, 49-75149) ~', No returned matches
+'Infernal Tower (AKA Towering Inferno) (1983) (Carrere Video - Western Technologies, Jeff Corsiglia, Paul Allen Newell, Tom Sloper - Teldec - Prism) (USC1009) (PAL)', No returned matches
+'Infiltrate (1982) (Apollo - Games by Apollo) (AP-2006) (Prototype)', No returned matches
+'Imagic Selector ROM (1982) (Imagic) (PAL)', No returned matches
+'Infiltrate (1982) (Apollo - Games by Apollo) (AP-2006) ~', No returned matches
+'Infiltrate - Nid d'espions (1982) (Apollo - Games by Apollo - RCA Video Jeux) (AP-2006) (PAL)', No returned matches
+'Innerspace (1983) (VentureVision, Dan Oliver) (Prototype)', No returned matches
+'International Soccer (1982) (M Network - APh Technological Consulting, Kevin Miller) (MT5687) ~', No returned matches
+'International Soccer (1988) (Telegames) (5687 A279) (PAL)', No returned matches
+'International Soccer (Unknown) (PAL)', No returned matches
+'Labyrint (AKA Phantom Tank) (1983) (Goliath - Hot Shot) (83-411) (PAL)', No returned matches
+'Ixion (1984) (SEGA, Jeff Lorenz) (Prototype) ~', No returned matches
+'Labyrinth (AKA Maze Craze) (1983) (Quelle) (805.784 6) (PAL)', No returned matches
+'Labyrinth (Escape from the Mindmaster Beta) (1982) (5) (AR-4200) (Arcadia Corporation, Dennis Caswell) [a]', No returned matches
+'Labyrinth (Escape from the Mindmaster Beta) (1982) (5) (AR-4200) (Arcadia Corporation, Dennis Caswell)', No returned matches
+'Landung in der Normandie (AKA Commando Raid) (1983) (Quelle) (876.482 1) (PAL)', No returned matches
+'Landungskommando (AKA Strategy X) (1983) (Quelle) (176.433 1) (PAL)', No returned matches
+'Lady in Wading (1982) (PlayAround - J.H.M.) (204)', No returned matches
+'Laser Base (AKA The End of the World) (Perry Rhodan-Serie) (1983) (ITT Family Games) (554-33 367) (PAL) [a]', No returned matches
+'Laser Blast (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Laser Base (AKA The End of the World) (Perry Rhodan-Serie) (1983) (ITT Family Games) (554-33 367) (PAL)', No returned matches
+'International Soccer (Unknown)', No returned matches
+'Laser Blast (CCE)', No returned matches
+'Laser Blast (Hack) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Laser Blast (Lazer) (08-08-1980) (Activision, David Crane) (AG-008) (Prototype)', No returned matches
+'Laser Blast (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Laser Blast (Lazer) (1981) (Activision, David Crane) (AG-008) ~', No returned matches
+'Laser Blast - Duell im Weltall (Lazer) (1981) (Activision, David Crane - Ariola) (EAG-008, PAG-008, EAG-008-04I - 711 008-720) (PAL)', No returned matches
+'Laser Gate (AKA Innerspace) (1983) (CCE) (C-860)', No returned matches
+'Laser Gates (AKA Innerspace) (1983) (Imagic, Dan Oliver) (720118-2A, 13208, EIX-007-04I) (PAL)', No returned matches
+'Laser Gates (AKA Innerspace) (1983) (Imagic, Dan Oliver) (720118-1A, 03208) ~', No returned matches
+'Laser Gate (AKA Innerspace) (Future Video Games) (PAL)', No returned matches
+'Laser Volley (AKA Innerspace) (Zellers)', No returned matches
+'Lasercade (1983) (20th Century Fox Video Games - Videa, Lee Actor) (Prototype) ~', No returned matches
+'Laser-Loop (AKA Base Attack) (1983) (Dynamics) (PAL)', No returned matches
+'Last Starfighter, The (Universe) (Solaris Beta) (1984) (Atari, Douglas 'Solaris' Neubauer, Mimi Nyden) (CX26134) (Prototype)', No returned matches
+'Lilly Adventure (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Lilly Adventure (1983) (Home Vision - Gem International Corporation - VDI) (VCS83117) (PAL) ~', No returned matches
+'Lochjaw (1982) (Apollo - Games by Apollo, Steve Stringfellow) (AP-2005) ~', No returned matches
+'Lock 'n' Chase (1988) (Telegames) (PAL)', No returned matches
+'Lock 'n' Chase (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Lock 'n' Chase (Unknown) (PAL)', No returned matches
+'London Blitz (1983) (Avalon Hill, Jean Baer, Bill 'Rebecca Ann' Heineman, William O. Sheppard) (5002002) ~', No returned matches
+'Looping (1983) (Coleco - Individeo, Ed Temple) (2654) (Prototype) ~', No returned matches
+'Lock 'n' Chase (1982) (M Network - INTV - APh Technological Consulting, Bruce Pedersen) (MT5663) ~', No returned matches
+'Lord of the Rings, The - Journey to Rivendell (The Lord of the Rings I) (1983) (Parker Brothers, Mark Lesser) (PB5950) (Prototype) [a]', No returned matches
+'Lord of the Rings, The - Journey to Rivendell (The Lord of the Rings I) (1983) (Parker Brothers, Mark Lesser) (PB5950) (Prototype) ~', No returned matches
+'Los Angeles 1984 Games (AKA Track and Field) (Track & Field Controller) (1984) (Atari - GCC, Jaques Hugon, Seth Lipkin) (CX26125) (Prototype) (PAL)', No returned matches
+'Lost Luggage (Airport Mayhem) (1982) (Apollo - Games by Apollo, Larry Minor, Ernie Runyon, Ed Salvo) (AP-2004) [no opening scene] ~', No returned matches
+'Lost Luggage (Airport Mayhem) (1982) (Apollo - Games by Apollo, Larry Minor, Ernie Runyon, Ed Salvo) (AP-2004) ~', No returned matches
+'Lost Luggage - La valise pige (Airport Mayhem) (1982) (Apollo - Games by Apollo, Larry Minor, Ernie Runyon, Ed Salvo - RCA Video Jeux) (AP-2004) (PAL)', No returned matches
+'M.A.D. (1983) (Carrere Video - Western Technologies, John Hall - Teldec - Prism) (USC1012) (PAL)', No returned matches
+'M.A.S.H (1983) (20th Century Fox Video Games, Frank Cohen, Douglas 'Dallas North' Neubauer) (11011) ~', No returned matches
+'M.A.S.H (1983) (20th Century Fox Video Games, Frank Cohen, Douglas 'Dallas North' Neubauer) (11111) (PAL)', No returned matches
+'M.A.S.H (208 in 1) (Unknown) (PAL)', No returned matches
+'M.A.S.H (Hack) (Unknown) (PAL)', No returned matches
+'MASH (AKA M.A.S.H) (1983) (CCE) (C-859) [a]', No returned matches
+'M.A.D. (M.A.D. - U.S. vs. U.S.S.R., Missile Intercept, Mutually Assured Destruction) (1983) (U.S. Games Corporation - Western Technologies, John Hall) (VC1012) ~', No returned matches
+'MagiCard (Keyboard Controller) (1981) (Computer Magic - CommaVid, John Bronstein) (CM-001) ~', No returned matches
+'Malagai (1983) (Answer Software Corporation - TY Associates, Mike Wentz) (ASC1001) ~', No returned matches
+'Mangia' (1983) (Spectravideo) (SA-212) (PAL)', No returned matches
+'Mafia (AKA Gangster Alley) (1983) (Rainbow Vision - Suntek) (SS-010) (PAL)', No returned matches
+'Marauder (1982) (Tigervision, Rorke Weigandt - Teldec) (7-005) (PAL)', No returned matches
+'MASH (AKA M.A.S.H) (1983) (CCE) (C-859)', No returned matches
+'Marauder (1982) (Tigervision, Rorke Weigandt) (7-005) ~', No returned matches
+'Marauder (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Mangia' (1983) (Spectravideo) (SA-212) ~', No returned matches
+'Marine Wars (1983) (Konami) (RC 102-X 02) ~', No returned matches
+'Marine Wars (1983) (Gakken) (011) (PAL)', No returned matches
+'Mario Bros. (1983) (Atari, Dan Hitchens, Mimi Nyden) (CX2697) ~', No returned matches
+'Marineflieger - River Raid II (AKA Seahawk) (1983) (Quelle - Otto Versand) (176.764 9 - 781644) (PAL)', No returned matches
+'Mariana (AKA Seaquest) (1983) (Rainbow Vision - Suntek) (SS-017) (PAL)', No returned matches
+'Mario Bros. (1983) (Atari, Dan Hitchens, Mimi Nyden) (CX2697, CX2697P) (PAL)', No returned matches
+'Mario's Bros. (AKA Mario Bros.) (1983) (CCE) (C-1004)', No returned matches
+'Marspatrouille (AKA Gas Hog) (1983) (Quelle) (292.542 8) (PAL)', No returned matches
+'Master Builder (1983) (Spectravideo) (SA-210) ~', No returned matches
+'Master Builder - Super Baumeister (1983) (Spectravideo - Quelle) (SA-210 - 413.582 8) (PAL)', No returned matches
+'Mario Bros. (Zirok)', No returned matches
+'Math Gran Prix (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Math Gran Prix (Math Game) (1982) (Atari, Suki Lee - Sears) (CX2658 - 49-75128) (Prototype)', No returned matches
+'Masters of the Universe - The Power of He-Man (1983) (M Network - INTV, Connie Goldman, Joe King, Patricia Lewis Du Long, Gerald Moore, Mike Sanders, Jossef Wagner) (MT4319) ~', No returned matches
+'Math Gran Prix (Math Game) (1982) (Atari, Suki Lee) (CX2658) (PAL)', No returned matches
+'Math Gran Prix (208 in 1) (Unknown) (PAL)', No returned matches
+'Maze Craze (Unknown)', No returned matches
+'Maze Craze - A Game of Cops 'n Robbers (The Maze) (1980) (Atari, Richard Maurer) (CX2635, CX2635P) (PAL)', No returned matches
+'Maze Craze - A Game of Cops 'n Robbers - Maze Mania - A Game of Cops 'n Robbers (The Maze) (1980) (Atari, Richard Maurer - Sears) (CX2635 - 49-75157) ~', No returned matches
+'McDonald's - Golden Arches Adventure (Big Mac) (06-06-1983) (Parker Brothers, Dave Engman, Isabel Garret) (Prototype) ~', No returned matches
+'Mega Force (1982) (20th Century Fox Video Games, Douglas 'Dallas North' Neubauer) (11005) ~', No returned matches
+'Mega Force (1982) (20th Century Fox Video Games, Douglas 'Dallas North' Neubauer) (11105) (PAL) [a]', No returned matches
+'Math Gran Prix (Math Game) (1982) (Atari, Suki Lee - Sears) (CX2658 - 49-75128) ~', No returned matches
+'Mega Force (1982) (20th Century Fox Video Games, Douglas 'Dallas North' Neubauer) (11105) (PAL)', No returned matches
+'Mega Funpak - Gorf, P. Patrol, Pacman, Skeet Shoot (HES) (PAL)', No returned matches
+'MegaBoy (Dynacom) ~', No returned matches
+'MegaMania (208 in 1) (Unknown) (PAL)', No returned matches
+'MegaMania - A Space Nightmare (1982) (Activision, Steve Cartwright) (AX-017, AX-017-04) ~', No returned matches
+'MegaMania (Unknown) (PAL)', No returned matches
+'MegaMania - A Space Nightmare - Ein Alptraum im Weltall (1982) (Activision, Steve Cartwright - Ariola) (EAX-017, EAX-017-04I - 711 017-720) (PAL)', No returned matches
+'Megamania (1983) (Digitel)', No returned matches
+'Megamania (Dactari - Milmar)', No returned matches
+'Mein Weg - My Way (AKA Challenge) (1983) (Quelle - Otto Versand) (686.561 2 - 781627) (PAL)', No returned matches
+'Megamania (1983) (CCE) (C-829)', No returned matches
+'Meltdown (Atom Smasher) (1983) (20th Century Fox Video Games - Videa, David Ross) (11029) (Prototype) ~', No returned matches
+'Meteor Defense (AKA Astrowar) (1983) (ITT Family Games) (554-33 391) (PAL)', No returned matches
+'Meteoroids (Suicide Mission Beta) (1982) (Arcadia Corporation, Steve Hales, Stephen H. Landrum) (4) (AR-4102) (Prototype)', No returned matches
+'Mickey (AKA Sorcerer's Apprentice) (Digivision)', No returned matches
+'Midnight Magic (Pinball Wizard) (1986) (Atari, Glenn Axworthy) (CX26129) (PAL)', No returned matches
+'Midnight Magic (Pinball Wizard) (1986) (Atari, Glenn Axworthy) (CX26129) ~', No returned matches
+'Millipede (01-04-1984) (Atari, Jerome Domurat, Andrew Fuchs, Dave Staugas, Robert Vieira) (CX26118) (Prototype)', No returned matches
+'Mighty Mouse (AKA Gopher) (Funvision - Fund. International Co.)', No returned matches
+'Millipede (1984) (Atari - GCC) (CX26118) (Prototype) (PAL)', No returned matches
+'Millipede (1984) (Atari, Jerome Domurat, Andrew Fuchs, Dave Staugas, Robert Vieira) (CX26118) (Prototype)', No returned matches
+'Millipede (1984) (Atari, Jerome Domurat, Andrew Fuchs, Dave Staugas, Robert Vieira) (CX26118) ~', No returned matches
+'Mind Maze (Mind Race) (Mindlink Controller) (10-10-1983) (Atari, Peter C. Niday, Gary Shannon, Howard Scott Warshaw) (Prototype) ~', No returned matches
+'Megamania (1982) (Dynacom)', No returned matches
+'Miner 2049er - Starring Bounty Bob (1983) (Tigervision - Teldec) (7-008 - 3.60006 VG) (PAL)', No returned matches
+'Millipede (1984) (Atari, Jerome Domurat, Andrew Fuchs, Dave Staugas, Robert Vieira) (CX26118, CX26118P) (PAL)', No returned matches
+'Miner 2049er - Starring Bounty Bob (1983) (Tigervision) (7-008) [fixed] ~', No returned matches
+'Miner 2049er - Starring Bounty Bob (1983) (Tigervision) (7-008) ~', No returned matches
+'Miner 2049er Volume II (1983) (Tigervision - Teldec) (7-011 - 3.60015 VG) (PAL)', No returned matches
+'Mines of Minos (1982) (CommaVid, Irwin Gaines) (CM-005) ~', No returned matches
+'Miner 2049er - Starring Bounty Bob (1983) (Tigervision) (7-008) (Prototype)', No returned matches
+'Mines of Minos (Unknown) (PAL)', No returned matches
+'Mines of Minos - Im Labyrinth des Roboters (1982) (CommaVid, Irwin Gaines - Ariola) (CM-005 - 712 005-720) (PAL)', No returned matches
+'Miniature Golf (1979) (Atari, Tom Reuterdahl) (CX2626, CX2626P) (PAL)', No returned matches
+'Miniature Golf - Arcade Golf (1979) (Atari, Tom Reuterdahl - Sears) (CX2626 - 6-99829, 49-75116) ~', No returned matches
+'Miniaturer Golf (AKA Miniature Golf) (32 in 1) (1988) (Atari, Tom Reuterdahl) (CX26163P) (PAL)', No returned matches
+'Miss Pack Man (AKA Ms. Pac-Man) (Video Game Program) (PAL)', No returned matches
+'Miss Piggy's Wedding (06-24-1983) (Atari, Suki Lee) (CX26113) (Prototype) ~', No returned matches
+'Miss Piggy's Wedding (1983) (Atari, Suki Lee) (CX26113) (Prototype) (4K) [a]', No returned matches
+'Miss Piggy's Wedding (1983) (Atari, Suki Lee) (CX26113) (Prototype) (4K)', No returned matches
+'Missile Command (1981) (Atari, Rob Fulop - Sears) (CX2638 - 49-75166) [no initials] ~', No returned matches
+'Missile Command (1981) (Atari, Rob Fulop - Sears) (CX2638 - 49-75166) ~', No returned matches
+'Missile Command (1981) (Atari, Rob Fulop) (CX2638) (PAL)', No returned matches
+'Missile Command (1983) (CCE) (C-828)', No returned matches
+'Missile Command (Hack) (208 in 1) (Unknown) (PAL)', No returned matches
+'Missile Command (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Miner 2049er Volume II (1983) (Tigervision) (7-011) ~', No returned matches
+'Missile Command (Unknown) (PAL)', No returned matches
+'Missile Control (1983) (Video Gems) (VG-01) (PAL) ~', No returned matches
+'Missile War (AKA Astrowar) (1983) (Goliath - Hot Shot) (83-312) (PAL)', No returned matches
+'Mission 3,000 A.D. (1983) (Bit Corporation) (PG207)', No returned matches
+'Missile Command (1981) (Atari, Rob Fulop - Sears) (CX2638 - 49-75166) (Prototype)', No returned matches
+'Mission 3,000 A.D. (208 in 1) (Unknown) (PAL)', No returned matches
+'Mission 3,000 A.D. (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Mission 3000 A.D. - MissÆo 3000 A.D. (AKA Mission 3,000 AD) (1983) (CCE) (C-806)', No returned matches
+'Mission Survive (1983) (Video Gems) (VG-04) (PAL) [a]', No returned matches
+'Mission 3,000 A.D. - Mission 3000 (1983) (Bit Corporation) (PG207) (PAL) ~', No returned matches
+'Mission Survive (1983) (Video Gems) (VG-04) (PAL) ~', No returned matches
+'Misterious Thief, A (AKA A Mysterious Thief) (1983) (CCE) (C-839)', No returned matches
+'Misterious Thief, A (AKA A Mysterious Thief) (1983) (CCE) (C-839) [a]', No returned matches
+'Mission 3,000 A.D. - Mission 3000 (1983) (Bit Corporation) (PG207) (PAL) [demonstration cartridge]', No returned matches
+'Mogul Maniac (Joyboard) (1983) (Amiga - Video Soft) (3120) ~', No returned matches
+'Monster aus dem All (AKA Sky Alien) (1983) (Video Game - Ariola) (SP-206) (PAL)', No returned matches
+'Montezuma's Revenge - Featuring Panama Joe (1984) (Parker Brothers - JWDA, Henry Will IV) (PB5760) ~', No returned matches
+'Moon Patrol (05-12-1983) (Atari - GCC, Mark Ackerman, Noellie Alito) (CX2692) (Prototype)', No returned matches
+'Moon Patrol (06-15-1983) (Atari - GCC, Mark Ackerman, Noellie Alito) (CX2692) (Prototype)', No returned matches
+'Mole Hunter (AKA Topy) (1983) (Suntek) (SS-023) (PAL)', No returned matches
+'Monster Cise (Kid's Controller) (1984) (Atari - CCW) (CX26131) (Prototype) ~', No returned matches
+'Moon Patrol (07-31-1983) (Atari - GCC, Mark Ackerman, Noellie Alito) (CX2692) (Prototype)', No returned matches
+'Moon Patrol (07-26-1983) (Atari - GCC, Mark Ackerman, Noellie Alito) (CX2692) (Prototype)', No returned matches
+'Moon Patrol (1983) (Atari - GCC, Mark Ackerman, Noellie Alito) (CX2692, CX2692P) (PAL)', No returned matches
+'Moon Patrol (1983) (Atari - GCC, Mark Ackerman, Noellie Alito) (CX2692) ~', No returned matches
+'Moon Patrol (1983) (CCE) (C-1006)', No returned matches
+'Moon Patrol (07-04-1983) (Atari - GCC, Mark Ackerman, Noellie Alito) (CX2692) (Prototype)', No returned matches
+'Moonsweeper (1983) (Imagic, Bob Smith) (720114-1A, 03207, IZ-001-04) ~', No returned matches
+'Moonsweeper (1983) (Imagic, Bob Smith) (720114-2A, 13207, EIZ-001-04I) (PAL)', No returned matches
+'Moon Patrol (Tron)', No returned matches
+'Moonsweeper (1988) (Activision) (AIZ-001)', No returned matches
+'Morse Code Tutor (1979) (Atari, Brad Stewart) ~', No returned matches
+'Moon Patrol (Canal 3 - Intellivision) (C 3004)', No returned matches
+'Moto Laser (AKA Mega Force) (Star Game) (043)', No returned matches
+'MotoRodeo (Motor Olympics, Motor Rodeo) (1991) (Atari - Axlon, Steve DeFrisco) (CX26171) (PAL)', No returned matches
+'Motocross (1983) (Suntek) (SS-022) (PAL) ~', No returned matches
+'Motocross (AKA Motocross Racer) (Joystik)', No returned matches
+'Motocross Racer (1983) (Xonox - K-Tel Software - Product Guild, Anthony R. Henderson) (99008, 6240) ~', No returned matches
+'Mountain King (1983) (CBS Electronics - E.F. Dreyer - VSS, Ed Salvo) (4L 2738 0000) ~', No returned matches
+'Mouse Trap (1982) (Coleco - JWDA, Sylvia Day, Todd Marshall, Robin McDaniel, Henry Will IV) (2459) ~', No returned matches
+'MotoRodeo (Motor Olympics, Motor Rodeo) (1991) (Atari - Axlon, Steve DeFrisco) (CX26171) ~', No returned matches
+'Mouse Trap (Mouse Attack) (1987) (Atari) (CX26146)', No returned matches
+'Motocross - Motorcross - Motocross (1983) (Quelle - Otto Versand) (719.383 2 - 649635, 781393, 781784, 986404) (PAL)', No returned matches
+'Mouse Trap (1983) (CBS Electronics - JWDA, Sylvia Day, Todd Marshall, Robin McDaniel, Henry Will IV) (4L1818, 4L1819, 4L1820, 4L1821) (PAL)', No returned matches
+'Mr. Do! (1983) (CBS Electronics, Ed English) (4L4478) (PAL)', No returned matches
+'Mountain Man (AKA Ski Hunt) (1983) (ITT Family Games) (554-37 737) (PAL)', No returned matches
+'Mr. Do! (1983) (Coleco, Ed English) (2656) ~', No returned matches
+'Mr. Do!'s Castle (1984) (Parker Brothers) (PB5820) (Prototype)', No returned matches
+'Mr. Do!'s Castle (03-12-84) (Parker Brothers) (PB5820) (Prototype) (4K)', No returned matches
+'Mr. Do!'s Castle (1984) (Parker Brothers) (PB5820) ~', No returned matches
+'Mr. Postman (1983) (Bit Corporation) (PG209)', No returned matches
+'Mr. Postman (Unknown)', No returned matches
+'Mr. Postman - Der Postmann (1983) (Bit Corporation) (PG209) (PAL) ~', No returned matches
+'Mr. Postman - O Carteiro (1983) (CCE) (C-801)', No returned matches
+'Ms. Pac-Man (09-20-1983) (Atari - GCC, Mark Ackerman, Glenn Parker) (CX2675) (Prototype)', No returned matches
+'Ms. Pac-Man (1982) (Atari - GCC, Mark Ackerman, Glenn Parker) (CX2675) (Prototype)', No returned matches
+'Ms. Pac-Man (1983) (Atari - GCC, Mark Ackerman, Glenn Parker) (CX2675, CX2675P) (PAL)', No returned matches
+'Ms. Pac-Man (1983) (Atari - GCC, Mark Ackerman, Glenn Parker) (CX2675) ~', No returned matches
+'Ms. Pac-Man (CCE)', No returned matches
+'Music Demo (JWDA, Todd Marshall) ~', No returned matches
+'My Golf (1990) (HES - Imagineering, David Lubar) (535) (PAL) ~', No returned matches
+'My Golf (1990) (HES - Imagineering, David Lubar) (535) (PAL) [fixed] ~', No returned matches
+'Mr. Postman (Digitel)', No returned matches
+'Mysterious Thief, A (1983) (ZiMAG - Emag - Vidco) (GN-070) (Prototype) [a]', No returned matches
+'My Golf (CCE) (PAL)', No returned matches
+'Mysterious Thief, A (1983) (ZiMAG - Emag - Vidco) (GN-070) (Prototype) ~', No returned matches
+'Jacky Jump (AKA Bobby Is Going Home) (1983) (Home Vision - Gem International Corporation - VDI) (PAL)', No returned matches
+'Jagd auf Diamanten-Frisco (AKA Frisco) (1983) (Quelle) (875.413 7) (PAL)', No returned matches
+'Music Machine, The (Paddle) (1983) (Christian Software Development - HomeComputer Software, Dan Schafer, Glenn Stohel, Jon Tedesco - Sparrow) (GCG 100T, GCG 1001T) ~', No returned matches
+'James Bond 007 (James Bond Agent 007) (1984) (Parker Brothers - On-Time Software, Joe Gaucher, Louis Marbel) (PB5110) ~', No returned matches
+'Jaw Breaker (1983) (CCE) (C-824)', No returned matches
+'Jawbreaker (1982) (Tigervision, John Harris - Teldec) (7-002) (PAL)', No returned matches
+'Jawbreaker (1982) (Tigervision, John Harris) (7-002) ~', No returned matches
+'Jawbreaker (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Jawbreaker (Unknown) (PAL) [a]', No returned matches
+'Jawbreaker (Unknown) (PAL)', No returned matches
+'Journey Escape (1983) (Data Age, J. Ray Dettling) (112-006) ~', No returned matches
+'Journey Escape - Rock 'n' Roll Escape (1983) (Gameworld, J. Ray Dettling) (133-006) (PAL)', No returned matches
+'Joust (07-05-1983) (Atari - GCC, Mike Feinstein, Kevin Osborn) (CX2691) (Prototype)', No returned matches
+'Joust (08-09-1983) (Atari - GCC, Mike Feinstein, Kevin Osborn) (CX2691) (Prototype)', No returned matches
+'Joust (1983) (Atari - GCC, Mike Feinstein, Kevin Osborn) (CX2691) ~', No returned matches
+'Joust (1983) (Atari - GCC, Mike Feinstein, Kevin Osborn) (CX2691, CX2691P) (PAL)', No returned matches
+'Jr. Pac-Man (1986) (Atari - GCC, Ava-Robin Cohen) (CX26123) ~', No returned matches
+'Jr. Pac-Man (1986) (Atari - GCC, Ava-Robin Cohen) (CX26123, CX26123P) (PAL)', No returned matches
+'Jumping Jack (AKA Bobby Is Going Home) (1983) (Dynamics) (DY-293005) (PAL)', No returned matches
+'Jungle Fever (1982) (PlayAround - J.H.M.) (203)', No returned matches
+'Jungle Hunt (02-03-1983) (Atari - GCC, John Allred, Mike Feinstein) (CX2688) (Prototype)', No returned matches
+'Jungle Hunt (02-25-1983) (Atari - GCC, John Allred, Mike Feinstein) (CX2688) (Prototype)', No returned matches
+'Jungle Hunt (1983) (Atari - GCC, John Allred, Mike Feinstein) (CX2688, CX2688P) (PAL)', No returned matches
+'Jungle Hunt (1983) (CCE) (C-1007) [a]', No returned matches
+'Jungle Hunt (1983) (CCE) (C-1007)', No returned matches
+'Jungle Hunt (1983) (Atari - GCC, John Allred, Mike Feinstein) (CX2688) ~', No returned matches
+'BASIC Programming (Keyboard Controller) (1979) (Atari, Warren Robinett) (CX2620) ~', No returned matches
+'BMX Air Master (1989) (Atari) (CX26190)', No returned matches
+'BASIC Programming (Keyboard Controller) (1979) (Atari, Warren Robinett) (CX2620, CX2620P) (PAL)', No returned matches
+'BMX Air Master (1989) (TNT Games - Sculptured Software, Adam Clayton) (26192) (PAL)', No returned matches
+'BMX Air Master (1989) (TNT Games - Sculptured Software, Adam Clayton) (26192) ~', No returned matches
+'BMX Air Master (1989) (Atari) (CX26190) (PAL)', No returned matches
+'Bachelor Party (Paddle) (1982) (PlayAround - J.H.M.) (205)', No returned matches
+'Bachelorette Party (AKA Bachelor Party) (Paddle) (1982) (PlayAround - J.H.M.) (202)', No returned matches
+'Backgammon (Paddle) (1979) (Atari, Craig Nelson) (CX2617, CX2617P) (PAL)', No returned matches
+'Bank Heist (208 in 1) (Unknown) (PAL)', No returned matches
+'Bank Heist (Action Hi-Tech - Hi-Score) (PAL)', No returned matches
+'Bank Heist (Bonnie & Clyde, Cops 'n' Robbers, Hold-Up, Roaring 20's) (1983) (20th Century Fox Video Games, Bill Aspromonte) (11012) ~', No returned matches
+'Bank Heist (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Backgammon (Paddle) (1979) (Atari, Craig Nelson - Sears) (CX2617 - 49-75183) ~', No returned matches
+'Barnstorming (1982) (Activision, Steve Cartwright) (AX-013) ~', No returned matches
+'Bachelor Party (Paddle) (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1002) ~', No returned matches
+'Barnstorming - Die tollkeuhnen Flieger (1982) (Activision, Steve Cartwright - Ariola) (EAX-013, PAX-013 - 711 013-720) (PAL)', No returned matches
+'Barnstorming (CCE)', No returned matches
+'Base Attack (Hack) (Unknown)', No returned matches
+'Barnstorming (Unknown) (PAL)', No returned matches
+'Baseball (AKA Super Challenge Baseball) (1988) (Telegames) (5665 A016) (PAL)', No returned matches
+'Baseball (AKA Super Challenge Baseball) (1988) (Telegames) (5665 A016)', No returned matches
+'Basic Math (Math Pack) (1977) (Atari, Gary Palmer) (CX2661) (PAL)', No returned matches
+'Base Attack (1983) (Home Vision - Gem International Corporation - VDI) (VCS83113) (PAL) ~', No returned matches
+'Basketball (1978) (Atari, Alan Miller - Sears) (CX2624 - 6-99826, 49-75113) ~', No returned matches
+'Basketball (208 in 1) (Unknown) (PAL)', No returned matches
+'Basketball (32 in 1) (1988) (Atari, Alan Miller) (CX26163P) (PAL)', No returned matches
+'Basketball (1978) (Atari, Alan Miller) (CX2624, CX2624P) (PAL)', No returned matches
+'Basic Math (208 in 1) (Unknown) (PAL)', No returned matches
+'Basketball (Hack) (208 in 1) (Unknown) (PAL)', No returned matches
+'Battlezone (05-12-1983) (Atari - GCC, Mike Feinstein, Brad Rice) (CX2681) (Prototype)', No returned matches
+'Battlezone (1983) (Atari - GCC, Mike Feinstein, Brad Rice) (CX2681) ~', No returned matches
+'Battlezone (05-02-1983) (Atari - GCC, Mike Feinstein, Brad Rice) (CX2681) (Prototype)', No returned matches
+'Basketball (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Battlezone (1983) (Atari - GCC, Mike Feinstein, Brad Rice) (CX2681, CX2681P) (PAL)', No returned matches
+'Basic Math - Math (Math Pack) (1977) (Atari, Gary Palmer - Sears) (CX2661 - 99808, 6-99808) ~', No returned matches
+'Beany Bopper (1983) (CCE) (C-835)', No returned matches
+'Beamrider (1984) (Activision - Cheshire Engineering, David Rolfe, Larry Zwick) (EAZ-037-04, EAZ-037-04I) (PAL)', No returned matches
+'Beamrider (1984) (Activision - Cheshire Engineering, David Rolfe, Larry Zwick) (AZ-037-04) ~', No returned matches
+'Beany Bopper (1982) (20th Century Fox Video Games - Sirius Software, Grady Ward) (11002) ~', No returned matches
+'Beat 'Em & Eat 'Em (Paddle) (1982) (PlayAround - J.H.M.) (204)', No returned matches
+'Beat 'Em & Eat 'Em (Paddle) (1982) (Mystique - American Multiple Industries, Joel H. Martin) (PAL)', No returned matches
+'Beat 'Em & Eat 'Em (Paddle) (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1003) ~', No returned matches
+'Beat 'Em & Eat 'Em (Paddle) (1983) (Dynacom)', No returned matches
+'Bermuda (AKA River Raid) (Unknown) (PAL)', No returned matches
+'Berenstain Bears (Kid Vid Voice Module) (1983) (Coleco) (2658) ~', No returned matches
+'Bermuda Triangle (1983) (Data Age, J. Ray Dettling) (112-007) ~', No returned matches
+'Bermuda (AKA River Raid) (1983) (Quelle) (322.913 5) (PAL)', No returned matches
+'Bear Game Demo (1983) (SEGA, Fred Mack) ~', No returned matches
+'Berzerk (1982) (Atari, Dan Hitchens - Sears) (CX2650 - 49-75168) ~', No returned matches
+'Berzerk (1982) (Atari, Dan Hitchens) (CX2650) (PAL)', No returned matches
+'Bermuda Triangle (1983) (Gameworld, J. Ray Dettling) (133-007) (PAL)', No returned matches
+'Berzerk (CCE)', No returned matches
+'Bermuda, The (AKA River Raid) (1983) (Rainbow Vision - Suntek) (SS-009) (PAL)', No returned matches
+'Berzerk (Unknown) (PAL)', No returned matches
+'Berzerk (Unknown) (PAL) [a]', No returned matches
+'Bi! Bi! (AKA Skindiver) (1983) (Rainbow Vision - Suntek) (SS-013) (PAL)', No returned matches
+'Bermuda, The (AKA River Raid) (1983) (Rainbow Vision - Suntek) (SS-009) (PAL) [a]', No returned matches
+'Bi! Bi! (AKA Skindiver) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co) (PAL)', No returned matches
+'Big Bird's Egg Catch (Grover's Egg Catch) (Kid's Controller) (12-08-1982) (Atari - CCW, Christopher H. Omarzu) (CX26104) (Prototype)', No returned matches
+'Big Bird's Egg Catch (Grover's Egg Catch) (Kid's Controller) (1983) (Atari - CCW, Christopher H. Omarzu) (CX26104) (PAL)', No returned matches
+'Big Bird's Egg Catch (Grover's Egg Catch) (Kid's Controller) (1983) (Atari - CCW, Christopher H. Omarzu) (CX26104) ~', No returned matches
+'Big Bird's Egg Catch (Grover's Egg Catch) (Kid's Controller) (05-17-1983) (Atari - CCW, Christopher H. Omarzu) (CX26104) (Prototype)', No returned matches
+'Big Bird's Egg Catch (Grover's Egg Catch) (Kid's Controller) (05-02-1983) (Atari - CCW, Christopher H. Omarzu) (CX26104) (Prototype)', No returned matches
+'Billard (AKA Trick Shot) (1983) (Quelle) (626.610 0) (PAL)', No returned matches
+'Bingo (AKA Dice Puzzle) (1983) (CCE) (C-868) (PAL)', No returned matches
+'Birthday Mania (Paddle) (1984) (Personal Games Company, Robert Anthony Tokar) ~', No returned matches
+'Black Hole (AKA Cosmic Ark) (Double-Game Package) (1983) (Otto Versand) (311388) (PAL)', No returned matches
+'Blackjack (32 in 1) (Paddle) (1988) (Atari, Bob Whitehead) (CX26163P) (PAL)', No returned matches
+'Bionic Breakthrough (Headband - Super Breakout) (Mindlink Controller) (1984) (Atari, Paul Donaldson) (Prototype) ~', No returned matches
+'Blackjack (Gambling) (Paddle) (1977) (Atari, Bob Whitehead) (CX2651) (PAL)', No returned matches
+'Bionic Breakthrough (Headband - Super Breakout) (Mindlink Controller) (06-22-1984) (Atari, Paul Donaldson) (Prototype)', No returned matches
+'Blackjack (Paddle) (Unknown) (PAL)', No returned matches
+'Bloody Human Freeway (Human Freeway) (Freeway Beta) (1981) (Activision, David Crane) (AG-009) (Prototype)', No returned matches
+'Blueprint (1983) (CBS Electronics, Tom DiDomenico) (4L 2486 5000) ~', No returned matches
+'Blackjack - Black Jack (Gambling) (Paddle) (1977) (Atari, Bob Whitehead - Sears) (CX2651 - 99805, 49-75602) ~', No returned matches
+'Blueprint (1983) (CBS Electronics, Tom DiDomenico) (4L 2486 5000) (Prototype)', No returned matches
+'Blueprint (1983) (CBS Electronics, Tom DiDomenico) (4L2477, 4L2482, 4L2485, 4L4171) (PAL)', No returned matches
+'Bob Is Going Home (AKA Bobby Is Going Home) (JVP)', No returned matches
+'Bobby Is Going Home (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Bobby Is Going Home (Rentacom)', No returned matches
+'Bobby Is Going Home - Bobby Vai Para Casa (1983) (CCE) (C-803) (PAL)', No returned matches
+'Bobby Is Going Home (1983) (Bit Corporation) (PG206)', No returned matches
+'Bobby Is Going Home - Bobby Vai Para Casa (1983) (CCE) (C-803)', No returned matches
+'Bobby Is Going Home - Bobby geht Heim (1983) (Bit Corporation) (PG206) (PAL) [demonstration cartridge]', No returned matches
+'Bobby geht nach Hause (AKA Bobby Is Going Home) (1983) (Quelle) (476.774 5) (PAL)', No returned matches
+'Bobby Is Going Home - Bobby geht Heim (1983) (Bit Corporation) (PG206) (PAL) ~', No returned matches
+'Bogey Blaster (AKA Air Raiders) (1988) (Telegames) (5861 A030) (PAL)', No returned matches
+'Bogey Blaster (AKA Air Raiders) (1988) (Telegames) (5861 A030)', No returned matches
+'Boggle (08-07-1978) (Atari, David Crane) (Prototype) ~', No returned matches
+'Boing! (Bubbles, Soap Suds, The Emphysema Game) (1983) (First Star Software, Alex Leavens, Shirley Ann Russell) (PAL)', No returned matches
+'Boing! (Bubbles, Soap Suds, The Emphysema Game) (1983) (First Star Software, Alex Leavens, Shirley Ann Russell) ~', No returned matches
+'Boom Bang (AKA Crackpots) (1983) (CCE) (C-849)', No returned matches
+'Boom Bang (AKA Crackpots) (1983) (Rainbow Vision - Suntek) (SS-016) (PAL)', No returned matches
+'Boom Bang (AKA Crackpots) (HES) (PAL)', No returned matches
+'Boom Bang (AKA Crackpots) (Unknown)', No returned matches
+'Bowling (1979) (Atari, Larry Kaplan) (CX2628, CX2628P) (PAL)', No returned matches
+'Boom Bang (AKA Crackpots) (Unknown) (PAL)', No returned matches
+'Bowling (208 in 1) (Unknown) (PAL)', No returned matches
+'Bowling (32 in 1) (1988) (Atari, Larry Kaplan) (CX26163P) (PAL)', No returned matches
+'Bowling (Dactar - Milmar)', No returned matches
+'Boxen (AKA Boxing) (Videospielkassette - Ariola) (PGP234) (PAL)', No returned matches
+'Bowling (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Boxing (1983) (CCE) (C-861)', No returned matches
+'Boxing (Dactari - Milmar)', No returned matches
+'Boxing (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Boxing (Unknown) (PAL)', No returned matches
+'Boxing - La Boxe (1980) (Activision, Bob Whitehead) (AG-002, CAG-002, AG-002-04) ~', No returned matches
+'Boxing - Box-Champion (1980) (Activision, Bob Whitehead - Ariola) (EAG-002, EAG-002-04I, PAG-002 - 711 002-715) (PAL)', No returned matches
+'Bouncin' Baby Bunnies (Baby Boom Boom, Bouncing Baby Monkeys) (1983) (Telesys, Alex Leavens) (Prototype) ~', No returned matches
+'Brain Games (Keyboard Controller) (1978) (Atari, Larry Kaplan - Sears) (CX2664 - 6-99818) ~', No returned matches
+'Brain Games (Keyboard Controller) (1978) (Atari, Larry Kaplan) (CX2664, CX2664P) (PAL)', No returned matches
+'Breakout - Breakaway IV (Paddle) (1978) (Atari, Brad Stewart - Sears) (CX2622 - 6-99813, 49-75107) ~', No returned matches
+'Breakout (Paddle) (1978) (Atari, Brad Stewart) (CX2622, CX2622P) (PAL)', No returned matches
+'Break-Down (AKA Wall Break) (1983) (Dynamics) (DY-192004) (PAL)', No returned matches
+'Bowling (1979) (Atari, Larry Kaplan - Sears) (CX2628 - 6-99842, 49-75117) ~', No returned matches
+'Bridge (1980) (Activision, Larry Kaplan - Ariola) (EAX-006, PAX-006 - 771 006-720) (PAL)', No returned matches
+'Bridge (1980) (Activision, Larry Kaplan) (AX-006) ~', No returned matches
+'Bridge (208 in 1) (Unknown) (PAL)', No returned matches
+'Buck Rogers - Planet of Zoom (1983) (SEGA - Teldec) (005-10) (PAL)', No returned matches
+'Buck Rogers - Planet of Zoom (1983) (SEGA) (005-01) ~', No returned matches
+'Bugs (Paddle) (1982) (Data Age) (DA1005) ~', No returned matches
+'Bugs (Paddle) (1983) (Gameworld) (133-005) (PAL)', No returned matches
+'Bugs Bunny (08-04-1983) (Atari, Alan J. Murphy, Robert C. Polaro) (CX26100) (Prototype) ~', No returned matches
+'Bugs Bunny (1983) (Atari, Alan J. Murphy, Robert C. Polaro) (CX26100) (Prototype)', No returned matches
+'Bump 'n' Jump (1983) (M Network - INTV, David Akers, Joe King, Patricia Lewis Du Long, Jeff Ratcliff) (MT7045) ~', No returned matches
+'Bump 'n' Jump (1988) (Telegames) (7045 A015) (PAL)', No returned matches
+'Bumper Bash (Paddle) (1983) (Spectravideo, David Lubar) (SA-218) ~', No returned matches
+'Bumper Bash (Paddle) (1983) (Spectravideo, David Lubar) (SA-218, SA-218C) (PAL)', No returned matches
+'Bumper Bash (Unknown) (PAL)', No returned matches
+'BurgerTime (1983) (M Network - INTV, Patricia Lewis Du Long, Ron Surratt) (MT4518) ~', No returned matches
+'Burning Desire (1982) (Mystique - American Multiple Industries) (1003) (PAL) ~', No returned matches
+'Bridge (1980) (Activision, Larry Kaplan) (AX-006) [fixed] ~', No returned matches
+'Busy Police (AKA Keystone Kapers) (Zellers)', No returned matches
+'Pac Kong (AKA Inca Gold) (1983) (Goliath - Hot Shot) (83-414) (PAL)', No returned matches
+'Pac Kong (AKA Inca Gold) (Funvision - Fund. International Co.) (PAL)', No returned matches
+'Pac Kong (AKA Inca Gold) (Unknown)', No returned matches
+'Pac Man (1983) (CCE) (C-812)', No returned matches
+'Pac Man (1983) (CCE) (C-812) [a]', No returned matches
+'Pac Man (1983) (Digitel)', No returned matches
+'Pac-Kong (AKA Inca Gold) (1983) (Quelle) (219.292 0) (PAL)', No returned matches
+'Pac-Kong (AKA Inca Gold) (1983) (Rainbow Vision - Suntek) (SS-003) (PAL)', No returned matches
+'Pac-Man (1982) (Atari, Tod Frye - Sears) (CX2646 - 49-75185) ~', No returned matches
+'Pac-Man (1982) (Atari, Tod Frye) (CX2646) (PAL)', No returned matches
+'Busy Police (AKA Keystone Kapers) (Funvision - Fund. International Co.)', No returned matches
+'Pac-Man (Hack) (Unknown) (PAL)', No returned matches
+'Panda (Quest) (AKA Panda Chase) (1983) (Suntek) (SS-035) (PAL)', No returned matches
+'Panda Chase (Penda Chase) (1983) (Home Vision - Gem International Corporation - VDI) (VCS83105) (PAL) ~', No returned matches
+'Panda Chase (Unknown) (PAL)', No returned matches
+'Parachute (1983) (Home Vision - Gem International Corporation - VDI) (VCS83123) (PAL) ~', No returned matches
+'Burning Desire (1982) (PlayAround - J.H.M.) (202)', No returned matches
+'Party Mix (Preview) (1983) (Starpath Corporation, Dennis Caswell) (10) (AR-4302) (PAL)', No returned matches
+'Party Mix - Bop a Buggy (1 of 3) (Paddle) (1983) (Starpath Corporation, Dennis Caswell) (10) (AR-4302)', No returned matches
+'Party Mix - Bop a Buggy, Tug of War, Wizard's Keep, Down on the Line, Handcar (Paddle) (1983) (Starpath Corporation, Dennis Caswell) (10) (AR-4302) (PAL)', No returned matches
+'Party Mix (Preview) (1983) (Starpath Corporation, Dennis Caswell) (10) (AR-4302)', No returned matches
+'Party Mix - Down on the Line, Handcar (3 of 3) (Paddle) (1983) (Starpath Corporation, Dennis Caswell) (10) (AR-4302) (PAL)', No returned matches
+'Party Mix - Bop a Buggy, Tug of War, Wizard's Keep, Down on the Line, Handcar (Paddle) (1983) (Starpath Corporation, Dennis Caswell) (10) (AR-4302) ~', No returned matches
+'Party Mix - Down on the Line, Handcar (3 of 3) (Paddle) (1983) (Starpath Corporation, Dennis Caswell) (10) (AR-4302)', No returned matches
+'Party Mix - Tug of War, Wizard's Keep (2 of 3) (Paddle) (1983) (Starpath Corporation, Dennis Caswell) (10) (AR-4302) (PAL)', No returned matches
+'Party Mix - Tug of War, Wizard's Keep (2 of 3) (Paddle) (1983) (Starpath Corporation, Dennis Caswell) (10) (AR-4302)', No returned matches
+'Peek-A-Boo (Dr. Salk) (Kid's Controller) (1984) (Atari, Dr. Lee Salk) (CX26135) (Prototype) ~', No returned matches
+'Pega LadrÆo (AKA Keystone Kapers) (Dismac)', No returned matches
+'Party Mix - Bop a Buggy (1 of 3) (Paddle) (1983) (Starpath Corporation, Dennis Caswell) (10) (AR-4302) (PAL)', No returned matches
+'Pel's Soccer - Pel's Championship Soccer (AKA Championship Soccer) (1981) (Atari, Steve Wright) (CX2616) (PAL)', No returned matches
+'Pengo (1983) (Atari, Andrew Fuchs, Courtney Granner, Jeffrey Gusman, Mark R. Hahn) (CX2690) (Prototype)', No returned matches
+'Pengo (1984) (Atari, Andrew Fuchs, Courtney Granner, Jeffrey Gusman, Mark R. Hahn) (CX2690) (PAL)', No returned matches
+'Pepsi Invaders - Coke Wins (Coca-Cola, Coke & Pepsi) (1983) (Atari, Richard Maurer, Christopher H. Omarzu - Coca Cola)', No returned matches
+'Pengo (1984) (Atari, Andrew Fuchs, Courtney Granner, Jeffrey Gusman, Mark R. Hahn) (CX2690) ~', No returned matches
+'Pete Rose Baseball (1988) (Absolute Entertainment, Alex DeMeo) (AG-045-04, AK-045-04) ~', No returned matches
+'Persian Gulf War (AKA River Raid) (Funvision - Fund. International Co.)', No returned matches
+'Pete Rose Baseball (HES - Absolute Entertainment) (PAL)', No returned matches
+'Peter Penguin (AKA Frisco) (Pumuckl-Serie) (1983) (ITT Family Games) (554-37 338) (PAL)', No returned matches
+'Phantom Tank (1982) (Bit Corporation) (PG203)', No returned matches
+'Phantom Tank (1982) (Puzzy - Bit Corporation) (PG203) (PAL)', No returned matches
+'Phantom Tank (1983) (Goliath) (3) (PAL)', No returned matches
+'Phantom Tank (Unknown) (PAL)', No returned matches
+'Pel's Soccer - Pel's Championship Soccer (AKA Championship Soccer) (1981) (Atari, Steve Wright) (CX2616)', No returned matches
+'Phantom Tank - Phantom-Panzer (1982) (Bit Corporation) (PG203) (PAL) ~', No returned matches
+'Phantom Tank - Tanque Fantasma (1983) (CCE) (C-808) (PAL)', No returned matches
+'Phantompanzer II (AKA Thunderground) (1983) (Quelle) (343.273 9) (PAL)', No returned matches
+'Pharaoh's Curse (1983) (TechnoVision - Video Technology) (TVS1003) (PAL) ~', No returned matches
+'Phanton Tank (AKA Phantom Tank) (Digivision)', No returned matches
+'Pharaoh's Curse (Unknown) (PAL)', No returned matches
+'Pharaoh's Curse (Unknown)', No returned matches
+'Phaser Patrol (1982) (Arcadia Corporation, Dennis Caswell) (1) (AR-4000, AR-4100) (Prototype) [a]', No returned matches
+'Phaser Patrol (1982) (Arcadia Corporation, Dennis Caswell) (1) (AR-4000, AR-4100) (Prototype)', No returned matches
+'Phaser Patrol (1982) (Arcadia Corporation, Dennis Caswell) (1) (AR-4000, AR-4100) ~', No returned matches
+'Phaser Patrol (1982) (Starpath Corporation, Dennis Caswell) (1) (AR-4000, AR-4100) (PAL)', No returned matches
+'Philly Flasher (AKA Beat 'Em & Eat 'Em) (Paddle) (1982) (PlayAround - J.H.M.) (201)', No returned matches
+'Phantom UFO (AKA Spider Fighter) (4 Game in One) (1983) (Bit Corporation) (PGP212) (PAL)', No returned matches
+'Phoenix (1983) (Atari - GCC, Mike Feinstein, John Mracek) (CX2673, CX2673P) (PAL)', No returned matches
+'Phoenix (Unknown)', No returned matches
+'Phoenix (1983) (Atari - GCC, Mike Feinstein, John Mracek) (CX2673) ~', No returned matches
+'Pick 'n' Pile (1990) (Salu - Ubi Soft, Dennis M. Kiss) (460673) (PAL) ~', No returned matches
+'Picnic (Catch the Fly) (Paddle) (1983) (U.S. Games Corporation - Western Technologies, Jeff Corsiglia, David Johnson, Tom Sloper) (VC2004) ~', No returned matches
+'Phoenix (Zirok)', No returned matches
+'Picnic (Paddle) (1983) (Carrere Video - Western Technologies, Jeff Corsiglia, David Johnson, Tom Sloper - Teldec - Prism) (USC2004) (PAL)', No returned matches
+'Pigs in Space - Starring Miss Piggy (1983) (Atari, Bill Aspromonte, John Russell, Michael Sierchio, Robert Zdybel) (CX26114) (PAL)', No returned matches
+'Pigs in Space - Starring Miss Piggy (1983) (Atari, Bill Aspromonte, John Russell, Michael Sierchio, Robert Zdybel) (CX26114) (Prototype)', No returned matches
+'Pick Up (1983) (20th Century Fox Video Games, Mark Klein) (11034) (Prototype) ~', No returned matches
+'Phoenix (1983) (CCE) (C-1012)', No returned matches
+'Pimball (AKA Video Pinball) (1983) (CCE) (C-856)', No returned matches
+'Pinball (AKA Video Pinball) (Zellers)', No returned matches
+'Piece o' Cake (Bakery) (Paddle) (1983) (U.S. Games Corporation - Western Technologies) (VC2005) ~', No returned matches
+'Pitfall (AKA Pitfall!) (1984) (Supergame) (32)', No returned matches
+'Pigs in Space - Starring Miss Piggy (1983) (Atari, Bill Aspromonte, John Russell, Michael Sierchio, Robert Zdybel) (CX26114) ~', No returned matches
+'Pitfall (AKA Pitfall!) (Genus)', No returned matches
+'Pitfall II - Lost Caverns (1984) (Activision, Steve Cartwright, David Crane - Ariola) (EAB-035-04 - 711 035-721) (PAL)', No returned matches
+'Pitfall (1983) (CCE) (C-813)', No returned matches
+'Pitfall II - Lost Caverns (1984) (Activision, Steve Cartwright, David Crane) (AB-035-04) ~', No returned matches
+'Pitfall! - Pitfall Harry's Jungle Adventure (Jungle Runner) (03-18-1983) (Activision, David Crane) (AX-018, AX-018-04) (Prototype)', No returned matches
+'Pitfall II - Lost Caverns (1984) (Activision, Steve Cartwright, David Crane) (AB-035-04) [a]', No returned matches
+'Pitfall! - Abenteuer im Urwald (Jungle Runner) (1982) (Activision, David Crane - Ariola) (EAX-018, EAX-018-04B, EAX-018-04I - 711 018-725) (PAL)', No returned matches
+'Pitfall (AKA Pitfall!) (Star Game) (012)', No returned matches
+'Pitfall! - Pitfall Harry's Jungle Adventure (Unknown) (PAL)', No returned matches
+'Pitfall! - Pitfall Harry's Jungle Adventure (Jungle Runner) (1982) (Activision, David Crane) (AX-018, AX-018-04) (Prototype)', No returned matches
+'Pizza Chef (1983) (CCE) (C-837)', No returned matches
+'Pitfall! - Pitfall Harry's Jungle Adventure (Jungle Runner) (1982) (Activision, David Crane) (AX-018, AX-018-04) ~', No returned matches
+'Planet Patrol (1982) (Play Video) (PAL)', No returned matches
+'Planet Patrol (1983) (CCE) (C-830) [a]', No returned matches
+'Pizza Chef - Pizza Time (1983) (ZiMAG - Emag - Vidco) (713-111 - GN-050) (Prototype) ~', No returned matches
+'Planet Patrol (1983) (CCE) (C-830)', No returned matches
+'Planet Patrol (1982) (Spectravision - Spectravideo) (SA-202) ~', No returned matches
+'Planet Patrol - Planeten Patrouilie (1982) (Spectravision - Spectravideo - Quelle) (SA-202 - 412.851 8) (PAL) [different spaceship]', No returned matches
+'Pitfall! - Pitfall Harry's Jungle Adventure (Jungle Runner) (1981) (Activision, David Crane) (AX-018, AX-018-04) (Prototype)', No returned matches
+'Planet Patrol (Unknown) (PAL)', No returned matches
+'Planet of the Apes (1983) (20th Century Fox Video Games, John W.S. Marvin) (Prototype) ~', No returned matches
+'Plaque Attack (1983) (Activision, Steve Cartwright) (AX-027) ~', No returned matches
+'Planet Patrol - Planeten Patrouilie (1982) (Spectravision - Spectravideo - Quelle) (SA-202 - 412.851 8) (PAL)', No returned matches
+'Plaque Attack (CCE)', No returned matches
+'Plaque Attack (Digivision)', No returned matches
+'Plaque Attack - Schutzt Eure Zaehne (1983) (Activision, Steve Cartwright - Ariola) (EAX-027 - 711 027-722) (PAL)', No returned matches
+'PlayAround Demo (1982) (PlayAround - J.H.M.)', No returned matches
+'Plaque Attack (1983) (Dynacom)', No returned matches
+'Pleiades (1983) (UA Limited) (Prototype) ~', No returned matches
+'Plug Attack (AKA Plaque Attack) (Funvision - Fund. International Co.)', No returned matches
+'Plaque Attack (Unknown) (PAL)', No returned matches
+'Polaris (1983) (Tigervision, Robert H. O'Neil - Teldec) (7-007 - 3.60005 VG) (PAL)', No returned matches
+'Polaris (1983) (Tigervision, Robert H. O'Neil) (7-007) (Prototype)', No returned matches
+'Pole Position (1983) (CCE) (C-1002)', No returned matches
+'Pole Position (RealSports Driving) (05-15-1983) (Atari - GCC, John Allred, Douglas B. Macrae, Betty Ryan Tylko) (CX2694) (Prototype)', No returned matches
+'Pole Position (RealSports Driving) (05-22-1983) (Atari - GCC, John Allred, Douglas B. Macrae, Betty Ryan Tylko) (CX2694) (Prototype)', No returned matches
+'Pole Position (RealSports Driving) (1983) (Atari - GCC, John Allred, Douglas B. Macrae, Betty Ryan Tylko) (CX2694) [a]', No returned matches
+'Polaris (02-17-1983) (Tigervision, Robert H. O'Neil) (7-007) (Prototype) (4K)', No returned matches
+'Pole Position (RealSports Driving) (1983) (Atari - GCC, John Allred, Douglas B. Macrae, Betty Ryan Tylko) (CX2694) ~', No returned matches
+'Pole Position (RealSports Driving) (1983) (Atari - GCC, John Allred, Douglas B. Macrae, Betty Ryan Tylko) (CX2694, CX2694P) (PAL)', No returned matches
+'Polo (1978) (Atari, Carol Shaw - Ralph Lauren) (Prototype) ~', No returned matches
+'Polaris (1983) (Tigervision, Robert H. O'Neil) (7-007) ~', No returned matches
+'Pompeii (Labyrinth, Lavarinth) (1983) (Apollo) (AP-2011) (Prototype) ~', No returned matches
+'Pooyan (1983) (Gakken) (001) (PAL)', No returned matches
+'Pooyan (1983) (Konami) (RC 100-X 02) ~', No returned matches
+'Pooyan (Hack) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Pole Position (Tron)', No returned matches
+'Pooyan (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Pooyan (Unknown) (PAL)', No returned matches
+'Popeye (1983) (Parker Brothers - Roklan, Joe Gaucher) (931519) (PAL)', No returned matches
+'Popeye (1983) (Parker Brothers - Roklan, Joe Gaucher) (PB5370) (Prototype) (4K)', No returned matches
+'Popeye (1983) (Parker Brothers - Roklan, Joe Gaucher) (PB5370) ~', No returned matches
+'Porky's (1983) (20th Century Fox - Lazer Micro Systems - Dunhill Electronics, B. Winston Hendrickson, Randall Hyde, Mark V. Rhoads, John Simonds) (11013) ~', No returned matches
+'Power Lords (1983) (Probe 2000 - NAP) (3149VC) (Prototype) ~', No returned matches
+'Power Play Arcade Video Game Album IV - Atlantis, Cosmic Ark, Dragonfire (1984) (Amiga) (1125) (Prototype)', No returned matches
+'Power Play Arcade Video Game Album, The - Ghost Attack, Genesis, Havoc (1983) (Amiga) (1110) (Prototype)', No returned matches
+'Power Play Arcade Video Game Album V - Mogul Maniac, Surf's Up, Off Your Rocker, S.A.C. Alert (1984) (Amiga) (1130) (Prototype)', No returned matches
+'Pressure Cooker (1983) (Activision, Garry Kitchen - Ariola) (EAZ-032 - 771 032-712) (PAL)', No returned matches
+'Pressure Cooker (CCE)', No returned matches
+'Pressure Cooker (1983) (Activision, Garry Kitchen) (AZ-032) ~', No returned matches
+'Private Eye (1984) (Activision, Bob Whitehead) (EAZ-034-04, EAZ-034-04I) (PAL)', No returned matches
+'Private Eye (1984) (Activision, Bob Whitehead) (AG-034-04) ~', No returned matches
+'Private Eye (CCE)', No returned matches
+'Pumuckl I (AKA Panda Chase) (1983) (ITT Family Games) (PAL)', No returned matches
+'Pursuit of the Pink Panther (Pink Panther - The Video Game, Adventures of the Pink Panther) (1983) (Probe 2000 - NAP, Roger Booth, Todd Marshall, Robin McDaniel, Jim Wickstead) (3152VC) (Prototype) ~', No returned matches
+'Pygmy (AKA Lock 'n' Chase) (Double-Game Package) (1983) (Otto Versand) (311377) (PAL)', No returned matches
+'Pyramid War (AKA Chopper Command) (1983) (Rainbow Vision - Suntek) (SS-004) (PAL) [a2]', No returned matches
+'Pyramid War (AKA Chopper Command) (1983) (Rainbow Vision - Suntek) (SS-004) (PAL) [a1]', No returned matches
+'Pyramid War (AKA Chopper Command) (1983) (Rainbow Vision - Suntek) (SS-004) (PAL)', No returned matches
+'Dancing Plate (Unknown) (PAL)', No returned matches
+'Dancing Plate - Dancing Plates - Tanzende Teller (1982) (Bit Corporation) (PG205) (PAL) ~', No returned matches
+'Dancing Plate (1982) (Bit Corporation) (PG205)', No returned matches
+'Dancing Plate (1982) (Puzzy - Bit Corporation) (PG205) (PAL)', No returned matches
+'Dark Cavern (1982) (M Network - APh Technological Consulting, Hal Finney) (MT5667) ~', No returned matches
+'Dark Chambers (Dungeon, Dungeon Masters) (1989) (Atari - Sculptured Software, Adam Clayton) (CX26151, CX26151P) (PAL)', No returned matches
+'Dark Chambers (Dungeon, Dungeon Masters) (1989) (Atari - Sculptured Software, Adam Clayton) (CX26151) ~', No returned matches
+'Deadly Discs (AKA TRON - Deadly Discs) (1988) (Telegames) (PAL)', No returned matches
+'Deadly Duck (1982) (20th Century Fox Video Games - Sirius Software, Ed Hodapp) (11004) ~', No returned matches
+'Dark Chambers (Dungeon, Dungeon Masters) (1988) (Atari - Sculptured Software, Adam Clayton) (CX26151, CX26151P) (Prototype) (PAL)', No returned matches
+'Death Trap (1983) (Avalon Hill, Jean Baer, Jim Jacob) (5001002) ~', No returned matches
+'Decathlon (AKA Activision Decathlon, The) (HES - Activision) (PAL) (16K)', No returned matches
+'Defender (10-30-1981) (Atari, Robert C. Polaro, Alan J. Murphy - Sears) (CX2609 - 49-75186) (Prototype)', No returned matches
+'Defender (1982) (Atari, Robert C. Polaro, Alan J. Murphy) (CX2609, CX2609P) (PAL)', No returned matches
+'Defender (1982) (Atari, Robert C. Polaro, Alan J. Murphy - Sears) (CX2609 - 49-75186) ~', No returned matches
+'Defender (CCE)', No returned matches
+'Defender (Digivision)', No returned matches
+'Defender (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Defender II (AKA Stargate) (1987) (Atari, Bill Aspromonte, Andrew Fuchs) (CX26120) (PAL)', No returned matches
+'Defender (Dactari - Milmar)', No returned matches
+'Defender (Hack) (Unknown)', No returned matches
+'Demolition Herby (1983) (Telesys, Don Ruffcorn) (1006) (PAL)', No returned matches
+'Demolition Herby (1983) (Telesys, Don Ruffcorn) (1006) ~', No returned matches
+'Demolition Herby (Unknown) (PAL)', No returned matches
+'Demon Attack (Canal 3 - Intellivision) (C 3016)', No returned matches
+'Demon Attack (1983) (CCE) (C-823)', No returned matches
+'Demon Attack (Death from Above) (1982) (Imagic, Rob Fulop) (720000-200, 720101-1B, 720101-1C, IA3200, IA3200C, IX-006-04) [fixed] ~', No returned matches
+'Demon Attack (Death from Above) (1982) (Imagic, Rob Fulop) (720000-200, 720101-1B, 720101-1C, IA3200, IA3200C, IX-006-04) ~', No returned matches
+'Defender (Unknown) (PAL)', No returned matches
+'Demon Attack (Death from Above) (1982) (Imagic, Rob Fulop) (720101-2B, IA3200P, EIX-006-04I) (PAL)', No returned matches
+'Demon Attack (Robby)', No returned matches
+'Demon Attack (Supergame)', No returned matches
+'Demon Attack (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Defender II (AKA Stargate) (1987) (Atari, Bill Aspromonte, Andrew Fuchs) (CX26120)', No returned matches
+'Demons to Diamonds (Hot Rox) (Paddle) (1982) (Atari, Alan J. Murphy, Nick 'Sandy Maiwald' Turner - Sears) (CX2615 - 49-75140) ~', No returned matches
+'Demon Attack (Unknown) (PAL)', No returned matches
+'Demons to Diamonds (Hot Rox) (Paddle) (1982) (Atari, Alan J. Murphy, Nick 'Sandy Maiwald' Turner) (CX2615) (PAL)', No returned matches
+'Der Geheimkurier (AKA Mr. Postman) (1983) (Quelle) (802.744 3) (PAL)', No returned matches
+'Depth Charge (1983) (Amiga - Video Soft) (Prototype) ~', No returned matches
+'Der Vielfrass (AKA Fast Food) (1983) (Quelle) (176.543 7) (PAL)', No returned matches
+'Demons to Diamonds (Paddle) (CCE)', No returned matches
+'Der hungrige Panda - Panda (Quest) (AKA Panda Chase) (1983) (Quelle - Otto Versand) (731.662 3 - 550425) (PAL)', No returned matches
+'Der moderne Ritter - Mr. T (AKA Fast Eddie) (1983) (Quelle - Otto Versand) (700.223 1 - 781627) (PAL)', No returned matches
+'Der kleine Baer (AKA Frostbite) (1983) (Quelle) (685.640 5) (PAL)', No returned matches
+'Desert Falcon (Nile Flyer, Sphinx) (05-27-1987) (Atari - Bobco, Robert C. Polaro) (CX26140, CX26140P) (Prototype) (PAL)', No returned matches
+'Desert Falcon (Nile Flyer, Sphinx) (1987) (Atari - Bobco, Robert C. Polaro) (CX26140, CX26140P) (PAL)', No returned matches
+'Diagnostic Test Cartridge 2.0 (1980) (Atari) (50008) (Prototype) ~', No returned matches
+'Der flinke Architekt (AKA Master Builder) (1983) (Quelle) (343.373 7) (PAL)', No returned matches
+'Desert Falcon (Nile Flyer, Sphinx) (1987) (Atari - Bobco, Robert C. Polaro) (CX26140) ~', No returned matches
+'Diagnostic Test Cartridge 2.6P (1982) (Atari) (TE016643) (PAL) (4K)', No returned matches
+'Diagnostic Test Cartridge 2.6 (1982) (Atari) (MA017600) ~', No returned matches
+'Dice Puzzle (1983) (Sancho - Tang's Electronic Co.) (TEC005) (PAL) ~', No returned matches
+'Diagnostic Test Cartridge 4.2 (06-01-1982) (Atari) ~', No returned matches
+'Die Ente und der Wolf (AKA Pooyan) (1983) (Quelle) (688.383 9) (PAL)', No returned matches
+'Dice Puzzle (1983) (Panda) (106)', No returned matches
+'Die Ratte und die Karotten (AKA Gopher) (1983) (Quelle) (687.463 0) (PAL)', No returned matches
+'Die hungrigen Froesche (AKA Frogs and Flies) (1983) (Quelle) (043.151 0, 874.382 5) (PAL)', No returned matches
+'Dig Dug (1983) (Atari - GCC, Douglas B. Macrae) (CX2677) ~', No returned matches
+'Die Unterwasser Bestien - Mariana (AKA Seaquest) (1983) (Quelle - Otto Versand) (463.734 4 - 550293) (PAL)', No returned matches
+'Dig Dug (1983) (Atari - GCC, Douglas B. Macrae) (CX2677, CX2677P) (PAL)', No returned matches
+'Dishaster (AKA Dancing Plate) (1983) (ZiMAG - Emag - Vidco) (711-111 - GN-020)', No returned matches
+'Dodge 'Em (Head On) (1980) (Atari, Carla Meninsky) (CX2637, CX2637P) (PAL) [fixed]', No returned matches
+'Dodge 'Em (Unknown) (PAL)', No returned matches
+'Die Springteufel (AKA Infiltrate) (1983) (Quelle) (176.654 2) (PAL)', No returned matches
+'Dodge 'Em - Dodger Cars (Head On) (1980) (Atari, Carla Meninsky - Sears) (CX2637 - 49-75158) [fixed] ~', No returned matches
+'Dodge 'Em - Dodger Cars (Head On) (1980) (Atari, Carla Meninsky - Sears) (CX2637 - 49-75158) ~', No returned matches
+'Donald Duck's Speedboat (Donald Duck's Regatta) (04-12-1983) (Atari, Peter C. Niday) (CX26108) (Prototype) ~', No returned matches
+'Donald Duck's Speedboat (Donald Duck's Regatta) (04-18-1983) (Atari, Peter C. Niday) (CX26108) (Prototype) (PAL)', No returned matches
+'Donkey Kong (1982) (Coleco - Woodside Design Associates - Imaginative Systems Software, Garry Kitchen) (2451) ~', No returned matches
+'Dolphin (CCE)', No returned matches
+'Donkey Kong (1983) (CBS Electronics - Woodside Design Associates - Imaginative Systems Software, Garry Kitchen) (4L1700, 4L1701, 4L1702, 4L1802, 4L2274) (PAL)', No returned matches
+'Donkey Kong (1987) (Atari) (CX26143)', No returned matches
+'Donkey Kong (1983) (Pet Boat) (PAL)', No returned matches
+'Donkey Kong (208 in 1) (Unknown) (PAL)', No returned matches
+'Donkey Kong (AKA Inca Gold) (Star Game) (001)', No returned matches
+'Dolphin (1983) (Activision, Matthew L. Hubbard, Bob Whitehead) (AX-024) ~', No returned matches
+'Donkey Kong (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Donkey Kong Jr. (AKA Donkey Kong Junior) (Tron)', No returned matches
+'Donkey Kong Jr (AKA Donkey Kong Junior) (1983) (CCE) (C-1003)', No returned matches
+'Donkey Kong Junior (1983) (CBS Electronics - Woodside Design Associates, Harley H. Puthuff Jr.) (4L1802) (PAL)', No returned matches
+'Donkey Kong Junior (1983) (Coleco - Woodside Design Associates, Harley H. Puthuff Jr.) (2653) ~', No returned matches
+'Double Dragon (1989) (Activision - Imagineering, Donald Hahn, Dan Kitchen) (AK-050-04) ~', No returned matches
+'Donkey Kong Junior (1987) (Atari) (CX26144)', No returned matches
+'Double Dragon (CCE) (PAL)', No returned matches
+'Double Dunk (Super Basketball) (1989) (Atari, Matthew L. Hubbard) (CX26159) (PAL)', No returned matches
+'Double Dunk (Super Basketball) (1989) (Atari, Matthew L. Hubbard) (CX26159) ~', No returned matches
+'Dragon Defender (1983) (Suntek) (SS-021) (PAL) ~', No returned matches
+'Dragon Defender (Video Game Cartridge - Ariola) (TP-605) (PAL)', No returned matches
+'Dragon Treasure (AKA Dragonfire) (Funvision - Fund. International Co.)', No returned matches
+'Dragon Treasure (AKA Dragonfire) (Zellers)', No returned matches
+'Dragonfire (Cheese) (1982) (Imagic, Bob Smith) (720020-2A, IA3611P) (PAL)', No returned matches
+'Dragonfire (Cheese) (1982) (Imagic, Bob Smith) (720020-1A, IA3611, IA3611C) ~', No returned matches
+'Dragonfire (Unknown) (PAL)', No returned matches
+'Dragonstomper (Excalibur) (1 of 3) (1982) (Starpath Corporation, Stephen H. Landrum) (6) (AR-4400) (PAL)', No returned matches
+'Dragonstomper (Excalibur) (1 of 3) (1982) (Starpath Corporation, Stephen H. Landrum) (6) (AR-4400)', No returned matches
+'Dragonstomper (Excalibur) (1982) (Starpath Corporation, Stephen H. Landrum) (6) (AR-4400) ~', No returned matches
+'Dragonstomper (Excalibur) (1982) (Starpath Corporation, Stephen H. Landrum) (6) (AR-4400) (PAL)', No returned matches
+'Dragonstomper (Excalibur) (2 of 3) (1982) (Starpath Corporation, Stephen H. Landrum) (6) (AR-4400) (PAL)', No returned matches
+'Dragonstomper (Excalibur) (2 of 3) (1982) (Starpath Corporation, Stephen H. Landrum) (6) (AR-4400)', No returned matches
+'Dragonstomper (Excalibur) (3 of 3) (1982) (Starpath Corporation, Stephen H. Landrum) (6) (AR-4400) (PAL)', No returned matches
+'Dragonstomper (Excalibur) (Preview) (1982) (Starpath Corporation, Stephen H. Landrum) (6) (AR-4400) (PAL)', No returned matches
+'Dragonstomper (Excalibur) (3 of 3) (1982) (Starpath Corporation, Stephen H. Landrum) (6) (AR-4400)', No returned matches
+'Dodge 'Em (Head On) (1980) (Atari, Carla Meninsky) (CX2637, CX2637P) (PAL)', No returned matches
+'Dragster (Drag Strip) (1980) (Activision, David Crane) (AG-001) ~', No returned matches
+'Dragster (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Dragster - Dragster Rennen (Drag Strip) (1980) (Activision, David Crane - Ariola) (EAG-001, PAG-001, EAG-001-04B, EAG-001-04I - 711 001-715) (PAL)', No returned matches
+'Dream Flight (AKA Nightmare) (1983) (Goliath - Hot Shot) (83-215) (PAL)', No returned matches
+'Dschungel Boy (AKA Pitfall!) (1983) (Quelle) (262.894 9) (PAL)', No returned matches
+'Dukes of Hazzard (1983) (Atari, Mark R. Hahn) (CX2678) ~', No returned matches
+'Dukes of Hazzard (AKA Stunt Cycle) (Paddle) (1980) (Atari, Robert C. Polaro) (Prototype)', No returned matches
+'Dragonstomper (Excalibur) (Preview) (1982) (Starpath Corporation, Stephen H. Landrum) (6) (AR-4400)', No returned matches
+'Double Dragon (1989) (Activision - Imagineering, Donald Hahn, Dan Kitchen) (EAK-050-04) (PAL)', No returned matches
+'Dumbo's Flying Circus (Dumbo Flies Home) (05-05-1983) (Atari, Jerome Domurat, Peter C. Niday) (CX26115) (Prototype) ~', No returned matches
+'Dumbo's Flying Circus (Dumbo Flies Home) (1983) (Atari, Jerome Domurat, Peter C. Niday) (CX26115) (Prototype) (PAL)', No returned matches
+'Dune (07-10-1984) (Atari, Bruce Poehlman, Gary Stark) (Prototype) ~', No returned matches
+'Dungeon (Dark Chambers Beta) (11-22-1985) (Atari - Sculptured Software, Adam Clayton) (CX26151, CX26151P) (Prototype)', No returned matches
+'Dumbo's Flying Circus (Dumbo Flies Home) (07-11-1983) (Atari, Jerome Domurat, Peter C. Niday) (CX26115) (Prototype) (PAL)', No returned matches
+'Z-Tack (AKA Base Attack) (1983) (Bomb - Onbase) (CA283) (PAL)', No returned matches
+'Z-Tack (AKA Base Attack) (1983) (Bomb - Onbase) (CA283)', No returned matches
+'Zaxxon (1983) (CBS Electronics) (4L1784, 4L1786, 4L1787, 4L2277) (PAL)', No returned matches
+'Zaxxon (1983) (Coleco) (2454) ~', No returned matches
+'Zoo Fun (AKA Panda Chase) (1983) (Suntek) (SS-027) (PAL)', No returned matches
+'Zoo Keeper Sounds (1984) (Atari, Christopher H. Omarzu, Robert Vieira) (CX26121) (Prototype) ~', No returned matches
+'S.A.C. Alert (Joyboard) (1983) (Amiga - Video Soft) (3135) (Prototype) (PAL)', No returned matches
+'Dumbo's Flying Circus (Dumbo Flies Home) (04-04-1983) (Atari, Jerome Domurat, Peter C. Niday) (CX26115) (Prototype)', No returned matches
+'Saboteur (Sabotage) (06-09-1983) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26119) (Prototype)', No returned matches
+'Saboteur (Sabotage) (06-15-1983) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26119) (Prototype)', No returned matches
+'S.A.C. Alert (Joyboard) (1983) (Amiga - Video Soft) (3135) (Prototype) ~', No returned matches
+'Saboteur (Sabotage) (09-02-1983) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26119) (Prototype)', No returned matches
+'Save Mary! (Saving Mary) (04-03-1989) (Atari - Axlon, Tod Frye) (CX26178) (Prototype)', No returned matches
+'Save Mary! (Saving Mary) (10-24-1991) (Atari - Axlon, Tod Frye) (CX26178) (Prototype) (PAL)', No returned matches
+'Save Mary! (Saving Mary) (11-21-1989) (Atari - Axlon, Tod Frye) (CX26178) (Prototype) ~', No returned matches
+'Save Our Ship (1983) (TechnoVision - Video Technology) (TVS1002) (PAL) ~', No returned matches
+'Save Our Ship (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Save Our Ship (Unknown)', No returned matches
+'Save the Whales (02-07-1983) (20th Century Fox Video Games - Beck-Tech, Steve Beck) (11035) (Prototype)', No returned matches
+'Schiessbude (AKA Carnival) (1983) (Quelle) (701.134 9) (PAL)', No returned matches
+'Save the Whales (1983) (20th Century Fox Video Games - Beck-Tech, Steve Beck) (11035) (Prototype) ~', No returned matches
+'Saboteur (Sabotage) (05-20-1983) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26119) (Prototype)', No returned matches
+'Schussel, der Polizistenschreck (AKA Walker) (1983) (Quelle) (731.273 9) (PAL)', No returned matches
+'Scuba Diver (AKA Skindiver) (1983) (Panda) (104)', No returned matches
+'Saboteur (Sabotage) (12-20-1983) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26119) (Prototype) ~', No returned matches
+'Sea Battle (High Seas) (1983) (Intellivision Productions - M Network - APh Technological Consulting, Bruce Pedersen, Larry Zwick) (MT5860) ~', No returned matches
+'Scuba Diver (AKA Skindiver) (Zellers)', No returned matches
+'Sea Hawk (AKA Seahawk) (1983) (Panda) (108)', No returned matches
+'Sea Hawk (AKA Seahawk) (1987) (Froggo) (FG1008)', No returned matches
+'Sea Hawk (AKA Seahawk) (CCE)', No returned matches
+'Sea Hawk (AKA Seahawk) (Zellers)', No returned matches
+'Sea Monster (1982) (Bit Corporation) (PG201)', No returned matches
+'Sea Hunt (AKA Skindiver) (CCE)', No returned matches
+'Sea Monster (1982) (Puzzy - Bit Corporation) (PG201) (PAL)', No returned matches
+'Sea Monster (Unknown) (PAL)', No returned matches
+'Sea Monster - O Monstro Marinho (1983) (CCE) (C-805)', No returned matches
+'Schnapp die Apfeldiebe (AKA Plaque Attack) (1983) (Quelle) (429.663 8) (PAL)', No returned matches
+'Seahawk (1982) (John Sands Electronics) (JS145A) (PAL)', No returned matches
+'Sea Monster (1983) (Goliath) (8) (PAL)', No returned matches
+'Seahawk (1982) (Sancho - Tang's Electronic Co.) (TEC002) (PAL) ~', No returned matches
+'Sea Monster - See-Monster (1982) (Bit Corporation) (PG201) (PAL) ~', No returned matches
+'Seamonster - Monstre des Mers (1982) (Puzzy - Bit Corporation) (PG201)', No returned matches
+'Seaquest (1983) (CCE) (C-815) [a]', No returned matches
+'Seaquest (1983) (CCE) (C-815)', No returned matches
+'Seaquest (1983) (Activision, Steve Cartwright) (AX-022) ~', No returned matches
+'Seaquest (Digivision)', No returned matches
+'Seaquest (Dinatronic)', No returned matches
+'Seaquest (Unknown) (PAL)', No returned matches
+'Seaquest - Rettung aus der Tiefe (1983) (Activision, Steve Cartwright - Ariola) (EAX-022, EAX-022-04I - 711 022-720) (PAL)', No returned matches
+'Seawolf 3 (Submarine Commander Beta) (03-23-1981) (Sears Tele-Games, Marilyn Churchill, Matthew L. Hubbard) (CX2647 - 49-75142) (Prototype) (PAL)', No returned matches
+'Secret Agent (Paddle) (1983) (Data Age) (Prototype) ~', No returned matches
+'Sea Hunt (AKA Skindiver) (1987) (Froggo) (FG1009)', No returned matches
+'Secret Quest (1989) (Atari - Axlon, Steve DeFrisco) (CX26170, CX26170P) (PAL)', No returned matches
+'See Saw (AKA Circus Atari) (Double-Game Package) (1983) (Otto Versand) (649635) (PAL)', No returned matches
+'Seaquest (1983) (Dynacom)', No returned matches
+'Secret Quest (1989) (Atari - Axlon, Steve DeFrisco) (CX26170) ~', No returned matches
+'Shark Attack (AKA Lochjaw) (1982) (Apollo - Games by Apollo, Steve Stringfellow) (AP-2005) (PAL)', No returned matches
+'Shark Attack (AKA Lochjaw) (1982) (Apollo - Games by Apollo, Steve Stringfellow) (AP-2005)', No returned matches
+'Shootin' Gallery (1983) (Imagic, Dennis Koble) (720021-1A, IA3410) ~', No returned matches
+'Shooting Arcade (Light Gun) (01-16-1990) (Atari - Axlon, Tod Frye - Heuristica, Agustin Ortiz) (CX26169) (Prototype) (PAL)', No returned matches
+'Shooting Arcade (Light Gun) (03-07-1989) (Atari - Axlon, Tod Frye - Heuristica, Agustin Ortiz) (CX26169) (Prototype) [a1]', No returned matches
+'Shooting Arcade (Light Gun) (03-07-1989) (Atari - Axlon, Tod Frye - Heuristica, Agustin Ortiz) (CX26169) (Prototype) [a2]', No returned matches
+'Shooting Arcade (Light Gun) (03-07-1989) (Atari - Axlon, Tod Frye - Heuristica, Agustin Ortiz) (CX26169) (Prototype) [a4]', No returned matches
+'Shooting Arcade (Light Gun) (03-07-1989) (Atari - Axlon, Tod Frye - Heuristica, Agustin Ortiz) (CX26169) (Prototype) [a5]', No returned matches
+'Shooting Arcade (Light Gun) (03-07-1989) (Atari - Axlon, Tod Frye - Heuristica, Agustin Ortiz) (CX26169) (Prototype) [a3]', No returned matches
+'Shooting Arcade (Light Gun) (03-07-1989) (Atari - Axlon, Tod Frye - Heuristica, Agustin Ortiz) (CX26169) (Prototype)', No returned matches
+'Shooting Arcade (Light Gun) (09-19-1989) (Atari - Axlon, Tod Frye - Heuristica, Agustin Ortiz) (CX26169) (Prototype) ~', No returned matches
+'Sinistar (01-04-1984) (Atari, Lou Harp) (CX26122) (Prototype)', No returned matches
+'Shuttle Orbiter (1983) (Avalon Hill, Jean Baer, Bill Hood) (5004002) ~', No returned matches
+'Sentinel (Light Gun) (1991) (Atari - Imagineering, David Lubar) (CX26183) ~', No returned matches
+'Sinistar (01-23-1984) (Atari, Lou Harp) (CX26122) (Prototype)', No returned matches
+'Sinistar (02-13-1984) (Atari, Lou Harp) (CX26122) (Prototype) ~', No returned matches
+'Sir Lancelot (1983) (Xonox - K-Tel Software - Product Guild, Anthony R. Henderson) (99006, 6220) (PAL)', No returned matches
+'Skate Boardin' (1987) (Absolute Entertainment, David Crane) (AG-042-02, AG-042-04) ~', No returned matches
+'Skate Boardin' (1987) (Absolute Entertainment, David Crane) (EAZ-042-04B, EAZ-042-04I) (PAL)', No returned matches
+'Skeet Shoot (1981) (Apollo - Games by Apollo, Ed Salvo) (AP-1001) (PAL) (4K)', No returned matches
+'Skeet Shoot (1981) (Apollo - Games by Apollo, Ed Salvo) (AP-1001) ~', No returned matches
+'Ski Run (1983) (Suntek) (SS-024) (PAL) ~', No returned matches
+'Sinistar (01-XX-1984) (Atari, Lou Harp) (CX26122) (Prototype)', No returned matches
+'Ski Hunt (Skiing Hunt) (1983) (Home Vision, R.J.P.G. - Gem International Corporation - VDI) (VCS83106) (PAL) ~', No returned matches
+'Ski Run (Video Game Cartridge - Ariola) (TP-607) (PAL)', No returned matches
+'Skiing (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Sir Lancelot (1983) (Xonox - K-Tel Software - Product Guild, Anthony R. Henderson) (99006, 6220) ~', No returned matches
+'Skiing (Dactari - Milmar)', No returned matches
+'Skiing (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Skiing (208 in 1) (Unknown) (PAL)', No returned matches
+'Ski Run (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Sky Alien (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Skindiver (1983) (Sancho - Tang's Electronic Co.) (TEC003) (PAL) ~', No returned matches
+'Sky Alien (Sky Aliem) (1983) (Home Vision - Gem International Corporation - VDI) (VCS83112) (PAL) ~', No returned matches
+'Sky Diver (1979) (Atari, Jim Huether) (CX2629, CX2629P) (PAL)', No returned matches
+'Sky Diver (32 in 1) (1988) (Atari, Jim Huether) (CX26163P) (PAL)', No returned matches
+'Sky Diver (Hack) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Skiing - Ski Weltcup (1980) (Activision, Bob Whitehead - Ariola) (EAG-005, PAG-005, EAG-005-04B - 711 005-715) (PAL)', No returned matches
+'Sky Diver - Dare Diver (1979) (Atari, Jim Huether - Sears) (CX2629 - 6-99843, 49-75118) ~', No returned matches
+'Sky Jinks (1982) (Activision, Bob Whitehead) (AG-019) ~', No returned matches
+'Sky Jinks (CCE)', No returned matches
+'Sky Jinks (Hack) (Unknown) (PAL)', No returned matches
+'Sky Jinks - Wettflug gegen die Zeit (1982) (Activision, Bob Whitehead - Ariola) (EAG-019, EAG-019-04I - 711 019-715) (PAL)', No returned matches
+'Sky Patrol (Aerial Ace) (1982) (Imagic, Brad Stewart) (720106-1A, IA3409) (Prototype) ~', No returned matches
+'Sky Skipper (1983) (Parker Brothers) (931510) (PAL)', No returned matches
+'Sky Scraper (AKA Base Attack) (1983) (Goliath - Hot Shot) (83-415) (PAL)', No returned matches
+'Sky Diver (Hack) (Unknown) (PAL)', No returned matches
+'Skydiver (AKA Parachute) (1983) (Suntek) (SS-030) (PAL)', No returned matches
+'Slot Machine (1979) (Atari, David Crane) (CX2653P) (PAL)', No returned matches
+'Slot Machine (32 in 1) (1988) (Atari, David Crane) (CX26163P) (PAL)', No returned matches
+'Sky Skipper (1983) (Parker Brothers) (PB5350) ~', No returned matches
+'Slot Racers (1978) (Atari, Warren Robinett) (CX2606, CX2606P) (PAL)', No returned matches
+'Slot Racers (32 in 1) (1988) (Atari, Warren Robinett) (CX26163P) (PAL)', No returned matches
+'Slot Racers - Maze (1978) (Atari, Warren Robinett - Sears) (CX2606 - 6-99825, 49-75112) ~', No returned matches
+'Slot Machine - Slots (1979) (Atari, David Crane - Sears) (CX2653 - 6-99823, 49-75111) ~', No returned matches
+'Skiing - Le Ski (1980) (Activision, Bob Whitehead) (AG-005, CAG-005, AG-005-04) ~', No returned matches
+'Smurf - Rescue in Gargamel's Castle (Smurf, Smurf Action) (1983) (Coleco - JWDA, Todd Marshall, Robin McDaniel, Henry Will IV) (2465) (Prototype)', No returned matches
+'Smurf - Rescue in Gargamel's Castle (Smurf, Smurf Action) (1983) (Coleco - JWDA, Todd Marshall, Robin McDaniel, Henry Will IV) (2465) ~', No returned matches
+'Smash Hit Pak - Frogger, Boxing, Seaquest, Skiing, Stampede (HES) (498) (PAL)', No returned matches
+'Smurf - Schtroumpfs - Pitufo (1983) (CBS Electronics - JWDA, Todd Marshall, Robin McDaniel, Henry Will IV) (4L1767, 4L1768, 4L1769, 4L1770) (PAL)', No returned matches
+'Snail Against Squirrel - Schnecke gegen Eichhoernchen (1983) (Bit Corporation) (PG208) (PAL) ~', No returned matches
+'Smurfs Save the Day (Kid Vid Voice Module) (1983) (Coleco, Rob Harris) (2511) ~', No returned matches
+'Sneak 'n Peek (Hide 'n Seek) (1982) (U.S. Games Corporation - Vidtec - JWDA, Garry Kitchen, Paul Willson) (VC1002) ~', No returned matches
+'Sneak 'n Peek - Der Unsichtbare (1983) (Carrere Video - JWDA, Garry Kitchen, Paul Willson - Teldec - Prism) (USC1002) (PAL)', No returned matches
+'Sneak'n Peak (AKA Sneak 'n Peek) (1983) (CCE) (C-848)', No returned matches
+'Snoopy (AKA Snoopy and the Red Baron) (1983) (Century) (PAL)', No returned matches
+'Snoopy and the Red Baron (05-27-1983) (Atari, Sam Comstock, Richard Dobbis, Nick 'Sandy Maiwald' Turner) (CX26111) (Prototype)', No returned matches
+'Snail Against Squirrel (Unknown) (PAL)', No returned matches
+'Snoopy and the Red Baron (1983) (Atari, Sam Comstock, Richard Dobbis, Nick 'Sandy Maiwald' Turner) (CX26111) (PAL)', No returned matches
+'Snoopy and the Red Baron (1983) (Atari, Sam Comstock, Richard Dobbis, Nick 'Sandy Maiwald' Turner) (CX26111) ~', No returned matches
+'Sneak 'n Peek (Unknown) (PAL)', No returned matches
+'Snoopy and the Red Baron (CCE)', No returned matches
+'Snoopy and the Red Baron (Canal 3 - Intellivision) (C 3007)', No returned matches
+'Snoopy (AKA Snoopy and the Red Baron) (Digivision)', No returned matches
+'Snow White (02-09-1983) (Atari, Greg Easter, Mimi Nyden) (CX26107) (Prototype) ~', No returned matches
+'Soccer (AKA International Soccer) (1988) (Telegames) (5687 A279)', No returned matches
+'Snow White (11-09-1982) (Atari, Greg Easter, Mimi Nyden) (CX26107) (Prototype)', No returned matches
+'Solar Fox (1983) (CBS Electronics, Bob Curtiss) (4L1852, 4L1853, 4L1854, 4L1855) (PAL)', No returned matches
+'Solar Fox (1983) (CBS Electronics, Bob Curtiss) (4L 2487 5000) ~', No returned matches
+'Solar Storm (Paddle) (1983) (Imagic, Wilfredo Aguilar, Michael Becker, Dennis Koble) (720113-2A, 13206) (PAL)', No returned matches
+'Solar Fox (1983) (CBS Electronics, Bob Curtiss) (4L 2487 5000) (Prototype) (4K)', No returned matches
+'Solaris (The Last Starfighter, Star Raiders II, Universe) (1986) (Atari, Douglas Neubauer, Mimi Nyden) (CX26136) (PAL)', No returned matches
+'Solar Storm (Paddle) (1983) (Imagic, Wilfredo Aguilar, Michael Becker, Dennis Koble) (720113-1A, 03206) ~', No returned matches
+'Solaris (The Last Starfighter, Star Raiders II, Universe) (1986) (Atari, Douglas Neubauer, Mimi Nyden) (CX26136) ~', No returned matches
+'Sorcerer's Apprentice (1983) (Atari, Jerome Domurat, Peter C. Niday, Robert Vieira) (CX26109) (PAL)', No returned matches
+'Sorcerer's Apprentice (1983) (Atari, Jerome Domurat, Peter C. Niday, Robert Vieira) (CX26109) (Prototype)', No returned matches
+'Sorcerer's Apprentice (1983) (Atari, Jerome Domurat, Peter C. Niday, Robert Vieira) (CX26109) ~', No returned matches
+'Space Adventure (AKA Flash Gordon) (Zellers)', No returned matches
+'Space Attack (1982) (M Network - INTV - APh Technological Consulting, Hal Finney, Bruce Pedersen) (MT5659) ~', No returned matches
+'Space Attack (1988) (Telegames) (PAL)', No returned matches
+'Space Canyon (AKA Space Cavern) (1983) (Panda) (100)', No returned matches
+'Space Cavern (1982) (Apollo - Games by Apollo, Dan Oliver) (AP-2002) ~', No returned matches
+'Space Cavern - Les guerriers de l'espace (1982) (Apollo - Games by Apollo, Dan Oliver - RCA Video Jeux) (AP-2002) (PAL)', No returned matches
+'Space Eagle (AKA Exocet) (1983) (Goliath - Hot Shot) (83-213) (PAL)', No returned matches
+'Sorcerer's Apprentice (1983) (Atari, Jerome Domurat, Peter C. Niday, Robert Vieira) (CX26109) (Prototype) [a]', No returned matches
+'Space Invaders (1980) (Atari, Richard Maurer - Sears) (CX2632 - 49-75153) ~', No returned matches
+'Sorcerer (1983) (Mythicon, Bill Bryner, Bruce de Graaf) (MA1001) ~', No returned matches
+'Space Invaders (1980) (Atari, Richard Maurer) (CX2632, CX2632P) (PAL) [different speed and colors]', No returned matches
+'Space Invaders (1983) (CCE) (C-820)', No returned matches
+'Space Invaders (1980) (Atari, Richard Maurer) (CX2632, CX2632P) (PAL)', No returned matches
+'Space Invaders (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Space Jockey (1982) (U.S. Games Corporation - Vidtec - JWDA, Garry Kitchen) (VC1001) ~', No returned matches
+'Space Jockey (1983) (Carrere Video - JWDA, Garry Kitchen - Teldec - Prism) (USC1001) (PAL)', No returned matches
+'Space Invaders (1980) (Atari, Richard Maurer) (CX2632, CX2632P) (PAL) [fixed]', No returned matches
+'Space Raid (AKA Challenge of.... Nexar, The) (King Tripod Enterprise Co.) (SS - 007) (PAL)', No returned matches
+'Space Monster (AKA Condor Attack) (1982) (Funvision - Fund. International Co.) (F2001) (PAL)', No returned matches
+'Space Raid (AKA MegaMania) (1983) (Rainbow Vision - Suntek) (SS-007) (PAL) [a]', No returned matches
+'Space Jockey (208 in 1) (Unknown) (PAL)', No returned matches
+'Space Robot (1983) (Goliath) (1) (PAL)', No returned matches
+'Space Raid (AKA MegaMania) (1983) (Rainbow Vision - Suntek) (SS-007) (PAL)', No returned matches
+'Space Robot (Dimax - Sinmax) (SM8001) (PAL)', No returned matches
+'Space Robot (Unknown) (PAL)', No returned matches
+'Space Robot (Dimax - Sinmax) (SM8001)', No returned matches
+'Space Raid (AKA MegaMania) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Space Jockey (Unknown) (PAL)', No returned matches
+'Space Shuttle - A Journey Into Space (1983) (Activision - Woodside Design Associates, Steve 'Jessica Stevens' Kitchen) (AZ-033, AZ-033-04) ~', No returned matches
+'Space Shuttle - A Journey Into Space (1983) (Activision - Woodside Design Associates, Steve 'Jessica Stevens' Kitchen) (AZ-033, AZ-033-04) [FE bankswitching] ~', No returned matches
+'Space Shuttle - A Journey Into Space (1983) (Activision - Woodside Design Associates, Steve 'Jessica Stevens' Kitchen) (EAZ-033) (SECAM)', No returned matches
+'Space Shuttle - A Journey Into Space - Eine Reise ins All (1983) (Activision - Woodside Design Associates, Steve 'Jessica Stevens' Kitchen - Ariola) (EAZ-033 - 711 033-725) (PAL)', No returned matches
+'Space Tunnel (1982) (Bit Corporation) (PG202)', No returned matches
+'Space Tunnel (1983) (Goliath) (7) (PAL)', No returned matches
+'Space Tunnel - Le Tunnel de L'Estace (1982) (Puzzy - Bit Corporation) (PG202)', No returned matches
+'Space Tunnel - O T£nel Espacial (1983) (CCE) (C-807)', No returned matches
+'Space Tunnel - Weltraum-Tunnel (1982) (Bit Corporation) (PG202) (PAL) ~', No returned matches
+'Space Tunnel (1982) (Puzzy - Bit Corporation) (PG202) (PAL)', No returned matches
+'Space Robot (Unknown)', No returned matches
+'Space War (208 in 1) (Unknown) (PAL)', No returned matches
+'Space War - Space Combat (1978) (Atari, Ian Shepard - Sears) (CX2604 - 6-99812, 49-75106) ~', No returned matches
+'Space War - Space Star (32 in 1) (1988) (Atari, Ian Shepard) (CX26163P) (PAL)', No returned matches
+'SpaceMaster X-7 (1983) (20th Century Fox Video Games - Sirius Software, David Lubar) (11022) ~', No returned matches
+'SpaceMaster X-7 (208 in 1) (Unknown) (PAL)', No returned matches
+'Space War (1978) (Atari, Ian Shepard) (CX2604, CX2604P) (PAL)', No returned matches
+'Space War (AKA Condor Attack) (1982) (Funvision - Fund. International Co.) (PAL)', No returned matches
+'Spacechase (1982) (Apollo - Games by Apollo, Ed Salvo, Byron Parks) (AP-2001) (PAL)', No returned matches
+'SpaceMaster X-7 (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Spectracube Invasion (AKA Immies & Aggies) (1983) (Suntek) (SS-025) (PAL)', No returned matches
+'Spider Fighter (1983) (Activision, Larry Miller) (AX-021) ~', No returned matches
+'Spacechase (1982) (Apollo - Games by Apollo, Ed Salvo, Byron Parks) (AP-2001) ~', No returned matches
+'Spider Fighter (1983) (Dynacom)', No returned matches
+'Spider Fighter (Canal 3 - Intellivision)', No returned matches
+'Spider Fighter (Unknown) (PAL)', No returned matches
+'Spider Fighter (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Spider Fighter (1983) (CCE) (C-853)', No returned matches
+'Spider Fighter (Digivision)', No returned matches
+'Spider Fighter - Monster greifen an (1983) (Activision, Larry Miller - Ariola) (EAX-021, EAX-021-04I - 711 021-720) (PAL)', No returned matches
+'Spider Kong (AKA Inca Gold) (1983) (Goliath) (6) (PAL) [a]', No returned matches
+'Spider Maze (AKA Inca Gold) (1982) (K-Tel Vision) (PAL)', No returned matches
+'Spider Maze (AKA Inca Gold) (1982) (K-Tel Vision)', No returned matches
+'Spider Monster - Inca Gold (1982) (Funvision - Fund. International Co.) (PAL) ~', No returned matches
+'Spider Kong (AKA Inca Gold) (1983) (Goliath) (6) (PAL)', No returned matches
+'Spider-Man (1982) (Parker Brothers, David Lamkins, Laura Nikolich) (PB5900) ~', No returned matches
+'Spiderman (AKA Spider-Man) (1983) (Quelle) (495.663 7) (PAL)', No returned matches
+'Spiderdroid (AKA Amidar) (1987) (Froggo) (FG1002)', No returned matches
+'Spider Kong (AKA Inca Gold) (208 in 1) (Unknown) (PAL)', No returned matches
+'Spike's Peak (1983) (Xonox - K-Tel Software - Beck-Tech, Steve Beck) (6210, 7210, 06003. 99001) (PAL)', No returned matches
+'Spike's Peak (1983) (Xonox - K-Tel Software - Beck-Tech, Steve Beck) (6210, 7210, 06003. 99001) ~', No returned matches
+'Spinning Fireball (Unknown) (PAL)', No returned matches
+'Spinning Fireball - Fire Spinner - Fireball Spinner (1983) (ZiMAG - Emag - Vidco) (GN-080) (Prototype) [a]', No returned matches
+'Spitfire Attack (Flight Commander) (1983) (Milton Bradley Company) (4363) ~', No returned matches
+'Sports Action Pak - Enduro, Ice Hockey, Fishing Derby, Dragster (1988) (HES - Activision) (PAL)', No returned matches
+'Springer (1983) (Tigervision - Software Electronics Corporation) (7-006) ~', No returned matches
+'Springer (1983) (Tigervision - Software Electronics Corporation - Teldec) (7-006 - 3.60008 VG) (PAL)', No returned matches
+'Spinning Fireball - Fire Spinner - Fireball Spinner (1983) (ZiMAG - Emag - Vidco) (GN-080) (Prototype) ~', No returned matches
+'Sprint Master (Sprint 88, Sprint 2600) (1988) (Atari - Bobco, Robert C. Polaro) (CX26155P) (PAL)', No returned matches
+'Spy Hunter (Dual Control Module) (1984) (SEGA, Jeff Lorenz) (011-01, 011-02) ~', No returned matches
+'Spy Vs. Spy (AKA Chopper Command) (4 Game in One) (1983) (Bit Corporation) (PGP213) (PAL)', No returned matches
+'Squeeze Box (1983) (U.S. Games Corporation - JWDA, Todd Marshall, Robin McDaniel, Henry Will IV) (VC2002) ~', No returned matches
+'Spider-Man (1982) (Parker Brothers, David Lamkins, Laura Nikolich) (931503) (PAL)', No returned matches
+'Sprint Master (Sprint 88, Sprint 2600) (1988) (Atari - Bobco, Robert C. Polaro) (CX26155) ~', No returned matches
+'Squirrel - O Esquilo (AKA Snail Against Squirrel) (1983) (CCE) (C-809)', No returned matches
+'Squoosh (Vat's Incredible!, The Grape Escape) (1983) (Apollo) (AP-2012) (Prototype) ~', No returned matches
+'Sssnake (1982) (Data Age) (DA1003) ~', No returned matches
+'Stampede (1981) (Activision, Bob Whitehead) (AG-011) ~', No returned matches
+'Sssnake (1983) (Gameworld) (133-003) (PAL)', No returned matches
+'Stampede (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Stampede (Canal 3 - Intellivision)', No returned matches
+'Stampede (Hack) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Squoosh (Vat's Incredible!, The Grape Escape) (1983) (Apollo) (AP-2012) (Prototype) [a]', No returned matches
+'Stampede (Unknown) (PAL)', No returned matches
+'Stampede - Lasso-Helden (1981) (Activision, Bob Whitehead - Ariola) (EAG-011, PAG-011 - 711 011-715) (PAL)', No returned matches
+'Star Fox (1983) (Mythicon, Bill Bryner, Bruce de Graaf) (MA1003) ~', No returned matches
+'Star Raiders (1981) (Atari, Carla Meninsky - Sears) (CX2660 - 49-75187) (Prototype) (4K)', No returned matches
+'Star Raiders (Video Touch Pad) (1982) (Atari, Carla Meninsky - Sears) (CX2660 - 49-75187) ~', No returned matches
+'Star Raiders (Video Touch Pad) (1982) (Atari, Carla Meninsky) (CX2660) (PAL)', No returned matches
+'Star Ship - Outer Space (Star Trek, Space, Space Mission) (1977) (Atari, Bob Whitehead - Sears) (CX2603 - 99803, 49-75601) ~', No returned matches
+'Star Strike (1988) (Telegames) (PAL)', No returned matches
+'Star Trek - Strategic Operations Simulator (1983) (SEGA, Jeff Lorenz - Teldec) (004-01) (PAL)', No returned matches
+'Star Trek - Strategic Operations Simulator (1983) (SEGA, Jeff Lorenz) (004-01) ~', No returned matches
+'Star Voyager (1982) (Imagic, Bob Smith) (720000-201, 720102-1B, IA3201) ~', No returned matches
+'Star Strike (1983) (M Network - INTV, David Akers, Patricia Lewis Du Long) (MT4313) ~', No returned matches
+'Stampede (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Star Voyager (1983) (CCE) (C-818) [a]', No returned matches
+'Star Voyager (1983) (CCE) (C-818)', No returned matches
+'Star Wars - Jedi Arena (Paddle) (1983) (Parker Brothers, Rex Bradford) (931507) (PAL)', No returned matches
+'Star Wars - Jedi Arena (Paddle) (1983) (Parker Brothers, Rex Bradford) (PB5000) (Prototype)', No returned matches
+'Star Wars - Jedi Arena (Paddle) (1983) (Parker Brothers, Rex Bradford) (PB5000) ~', No returned matches
+'Star Wars - Return of the Jedi - Death Star Battle (Revenge of the Jedi - Game II) (1983) (Parker Brothers - JWDA, Todd Marshall, Robin McDaniel, Ray Miller) (931513) (PAL)', No returned matches
+'Star Voyager (1982) (Imagic, Bob Smith) (720102-2B, IA3201P, EIX-011-04I) (PAL)', No returned matches
+'Star Wars - Return of the Jedi - Ewok Adventure (Revenge of the Jedi - Game I) (1983) (Parker Brothers, Larry Gelberg) (PB5065) (Prototype) ~', No returned matches
+'Star Wars - Return of the Jedi - Death Star Battle (Revenge of the Jedi - Game II) (1983) (Parker Brothers - JWDA, Todd Marshall, Robin McDaniel, Ray Miller) (PB5060) ~', No returned matches
+'Star Wars - The Arcade Game (04-05-1984) (Parker Brothers, Wilfredo Aguilar, Michael Becker, Neil McKenzie, Bob Smith, Brad Stewart) (PB5540) (Prototype)', No returned matches
+'Star Wars - The Arcade Game (01-03-1984) (Parker Brothers, Wilfredo Aguilar, Michael Becker, Neil McKenzie, Bob Smith, Brad Stewart) (PB5540) (Prototype) (4K)', No returned matches
+'Star Wars - The Arcade Game (12-15-1983) (Parker Brothers, Wilfredo Aguilar, Michael Becker, Neil McKenzie, Bob Smith, Brad Stewart) (PB5540) (Prototype) (4K)', No returned matches
+'Star Wars - The Arcade Game (12-23-1983) (Parker Brothers, Wilfredo Aguilar, Michael Becker, Neil McKenzie, Bob Smith, Brad Stewart) (PB5540) (Prototype) (4K)', No returned matches
+'Star Wars - The Arcade Game (12-05-1983) (Parker Brothers, Wilfredo Aguilar, Michael Becker, Neil McKenzie, Bob Smith, Brad Stewart) (PB5540) (Prototype) (4K)', No returned matches
+'Star Wars - The Arcade Game (1984) (Parker Brothers, Wilfredo Aguilar, Michael Becker, Neil McKenzie, Bob Smith, Brad Stewart) (PB5540) (PAL)', No returned matches
+'Star Wars - The Arcade Game (1984) (Parker Brothers, Wilfredo Aguilar, Michael Becker, Neil McKenzie, Bob Smith, Brad Stewart) (PB5540) (Prototype)', No returned matches
+'Star Wars - The Arcade Game (1984) (Parker Brothers, Wilfredo Aguilar, Michael Becker, Neil McKenzie, Bob Smith, Brad Stewart) (PB5540) ~', No returned matches
+'Star Wars - The Empire Strikes Back (1982) (Parker Brothers, Rex Bradford, Sam Kjellman) (931501) (PAL)', No returned matches
+'Star Wars - The Empire Strikes Back (1982) (Parker Brothers, Rex Bradford, Sam Kjellman) (PB5050) ~', No returned matches
+'StarMaster (1982) (Activision, Alan Miller) (AX-016) ~', No returned matches
+'StarMaster (Unknown) (PAL)', No returned matches
+'Star Wars - Return of the Jedi - Ewok Adventure (Revenge of the Jedi - Game I) (1983) (Parker Brothers, Larry Gelberg) (PB5065) (Prototype) (PAL)', No returned matches
+'StarMaster - Kommando Galaxis (1982) (Activision, Alan Miller - Ariola) (EAX-016, PAX-016 - 711 016-725) (PAL)', No returned matches
+'Stargate (1984) (Atari, Bill Aspromonte, Andrew Fuchs) (CX26120) ~', No returned matches
+'Stargate (1984) (Atari, Bill Aspromonte, Andrew Fuchs) (CX26120) (PAL)', No returned matches
+'Steeplechase (1983) (Video Gems) (VG-03) (PAL) ~', No returned matches
+'Steeplechase (Paddle) (1981) (Sears Tele-Games, Jim Huether) (CX2614 - 49-75126) ~', No returned matches
+'Stargunner (1983) (Telesys, Alex Leavens) (1005) ~', No returned matches
+'Stellar Track (Stella Trek) (1981) (Sears Tele-Games, Robert Zdybel) (CX2619 - 49-75159) ~', No returned matches
+'Stone Age (1983) (CCE) (C-840) ~', No returned matches
+'Stopp die Gangster (AKA Gangster Alley) (1983) (Quelle) (377.943 6) (PAL)', No returned matches
+'StarMaster - Kommando Galaxis (1982) (Activision, Alan Miller - Ariola) (EAX-016, PAX-016 - 711 016-725) (PAL) [fixed]', No returned matches
+'Strahlen der Teufelsvoegel (AKA Atlantis) (1983) (Quelle) (463.860 7) (PAL)', No returned matches
+'Strategy X (1983) (Konami) (RC 101-X 02) ~', No returned matches
+'Strawberry Shortcake - Musical Match-Ups (1983) (Parker Brothers, Dawn Stockbridge) (PB5910) (PAL)', No returned matches
+'Strawberry Shortcake - Musical Match-Ups (1983) (Parker Brothers, Dawn Stockbridge) (PB5910) ~', No returned matches
+'Street Racer (Wheels) (Paddle) (1977) (Atari, Larry Kaplan) (CX2612, CX2612P) (PAL)', No returned matches
+'Street Racer - Speedway II (Wheels) (Paddle) (1977) (Atari, Larry Kaplan - Sears) (CX2612 - 99804, 49-75103) ~', No returned matches
+'Strategy X (1983) (Gakken) (010) (PAL)', No returned matches
+'Stronghold (1983) (CommaVid, Joseph Biel) (CM-009) ~', No returned matches
+'Stunt Man (AKA Nightmare) (1983) (Panda) (105)', No returned matches
+'Sub-Scan (Unknown) (PAL)', No returned matches
+'Sub-Scan (Subterfuge) (1983) (SEGA) (002-01) ~', No returned matches
+'Submarine Commander (Seawolf 3) (1982) (Sears Tele-Games, Marilyn Churchill, Matthew L. Hubbard) (CX2647 - 49-75142) ~', No returned matches
+'Subterranea (Tarantula) (1983) (Imagic, Mark Klein) (720112-1A, 03213) ~', No returned matches
+'Subterranea (Tarantula) (1983) (Imagic, Mark Klein) (EIZ-003-04I) (PAL)', No returned matches
+'Suicide Mission (Meteoroids) (1982) (Arcadia Corporation, Steve Hales, Stephen H. Landrum) (4) (AR-4102) ~', No returned matches
+'Steeplechase (Paddle) (04-15-1980) (Sears Tele-Games, Jim Huether) (CX2614 - 49-75126) (Prototype)', No returned matches
+'Suicide Mission (Meteoroids) (Preview) (1982) (Arcadia Corporation, Steve Hales, Stephen H. Landrum) (4) (AR-4102)', No returned matches
+'Stunt Cycle (Paddle) (07-21-1980) (Atari, Robert C. Polaro) (CX26157) (Prototype) ~', No returned matches
+'Suicide Mission (Meteoroids) (1982) (Arcadia Corporation, Steve Hales, Stephen H. Landrum) (4) (AR-4102) (Prototype)', No returned matches
+'Suicide Mission (Meteoroids) (Preview) (1982) (Starpath Corporation, Steve Hales, Stephen H. Landrum) (4) (AR-4102) (PAL)', No returned matches
+'Summer Games (1987) (Epyx, Steven A. Baker, Tod Frye, Peter Engelbrite) (80561-00250) ~', No returned matches
+'Summer Games (1987) (Epyx, Steven A. Baker, Tod Frye, Peter Engelbrite) (80561-00250) (PAL)', No returned matches
+'Super Baseball (1988) (Atari, Mimi Nyden, Joseph Tung) (CX26152) (PAL)', No returned matches
+'Super Baseball (1988) (Atari, Mimi Nyden, Joseph Tung) (CX26152)', No returned matches
+'Super Baseball (AKA RealSports Baseball) (CCE)', No returned matches
+'Super Box (AKA RealSports Boxing) (CCE)', No returned matches
+'Super Breakout (Paddle) (1982 - 1981) (Atari, Carol Shaw, Nick 'Sandy Maiwald' Turner - Sears) (CX2608 - 49-75165) ~', No returned matches
+'Super Breakout (Paddle) (1982 - 1981) (Atari, Carol Shaw, Nick 'Sandy Maiwald' Turner - Sears) (CX2608 - 49-75165) [a]', No returned matches
+'Super Breakout (Paddle) (1982 - 1981) (Atari, Carol Shaw, Nick 'Sandy Maiwald' Turner) (CX2608) (PAL)', No returned matches
+'Super Challenge Baseball (208 in 1) (Unknown) (PAL)', No returned matches
+'Suicide Mission (Meteoroids) (1982) (Starpath Corporation, Steve Hales, Stephen H. Landrum) (4) (AR-4102) (PAL)', No returned matches
+'Super Challenge Baseball (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Super Challenge Baseball - Baseball (Big League Baseball) (1982) (M Network - INTV - APh Technological Consulting, David Rolfe) (MT5665) ~', No returned matches
+'Super Challenge Baseball (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Super Challenge Football - Football (Pro Football) (1982) (M Network - INTV - APh Technological Consulting, Ken Smith) (MT5658) ~', No returned matches
+'Super Action Pak - Pitfall, Barnstorming, Grand Prix, Laser Blast (1988) (HES - Activision) (223) (PAL)', No returned matches
+'Super Cobra (1983) (Parker Brothers - Roklan, Paul Crowley, Bob Curtiss) (PB5320) ~', No returned matches
+'Super Cobra (1983) (Parker Brothers - Roklan, Paul Crowley, Bob Curtiss) (931505) (PAL)', No returned matches
+'Super Cobra (1983) (Parker Brothers, Mike Brodie) (PB5320) (Prototype)', No returned matches
+'Super Ferrari (AKA Enduro) (1983) (Rainbow Vision - Suntek) (SS-011) (PAL)', No returned matches
+'Super Futebol (AKA RealSports Soccer) (CCE)', No returned matches
+'Super Futebol (AKA RealSports Football) (CCE)', No returned matches
+'Super Football (1988) (Atari, Douglas Neubauer) (CX26154, CX26154P) (PAL)', No returned matches
+'Super Soccer (AKA RealSports Soccer) (Digivision)', No returned matches
+'Super Kung-Fu (1983) (Xonox - K-Tel Software - VSS, Robert Weatherby) (6230, 6250) (PAL)', No returned matches
+'Super Tenis (AKA RealSports Tennis) (VGS)', No returned matches
+'Super Tennis (AKA RealSports Tennis) (Tron)', No returned matches
+'Super Tennis (AKA RealSports Tennis) (1983) (CCE) (C-1005)', No returned matches
+'Super Voleyball (AKA RealSports Volleyball) (CCE)', No returned matches
+'Super Football (1988) (Atari, Douglas Neubauer) (CX26154) ~', No returned matches
+'Super-Cowboy beim Rodeo (AKA Stampede) (1983) (Quelle) (874.254 6) (PAL)', No returned matches
+'Super-Ferrari (AKA Enduro) (1983) (Quelle) (402.272 9) (PAL)', No returned matches
+'Super-Ferrari (AKA Enduro) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Supercharger BIOS (1982) (Arcadia Corporation) (PAL)', No returned matches
+'Super-Ferrari (AKA Enduro) (Unknown)', No returned matches
+'Superman (1979) (Atari, John Dunn - Sears) (CX2631 - 49-75152) [fixed] ~', No returned matches
+'Supercharger BIOS (1982) (Arcadia Corporation) ~', No returned matches
+'Superman (1979) (Atari, John Dunn - Sears) (CX2631 - 49-75152) ~', No returned matches
+'Superman (1979) (Atari, John Dunn) (CX2631, CX2631P) (PAL)', No returned matches
+'Superman (1983) (CCE) (C-857)', No returned matches
+'Superman (Unknown) (PAL)', No returned matches
+'Surf's Up (Joyboard) (1983) (Amiga - Video Soft) (3125) (Prototype) [a1]', No returned matches
+'Super Hit Pak - River Raid, Sky Jinks, Grand Prix, Fishing Derby, Checkers (HES - Activision) (PAL)', No returned matches
+'Surf's Up (Joyboard) (1983) (Amiga - Video Soft) (3125) (Prototype) [a2]', No returned matches
+'Superman (Unknown) (PAL) [a]', No returned matches
+'Surfer's Paradise - But Danger Below! (1983) (Video Gems) (VG-02) (PAL) ~', No returned matches
+'Surf's Up (Joyboard) (1983) (Amiga - Video Soft) (3125) (Prototype) ~', No returned matches
+'Surround (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Surround - Chase (Blockade) (1977) (Atari, Alan Miller - Sears) (CX2641 - 99807, 49-75105) ~', No returned matches
+'Survival Island (Jungle Raid) (1 of 3) (1983) (Starpath Corporation, Steve Mundry, Scott Nelson) (12) (AR-4401) (PAL)', No returned matches
+'Survival Island (Jungle Raid) (1 of 3) (1983) (Starpath Corporation, Steve Mundry, Scott Nelson) (12) (AR-4401)', No returned matches
+'Survival Island (Jungle Raid) (1983) (Starpath Corporation, Steve Mundry, Scott Nelson) (12) (AR-4401) (PAL)', No returned matches
+'Survival Island (Jungle Raid) (1983) (Starpath Corporation, Steve Mundry, Scott Nelson) (12) (AR-4401) ~', No returned matches
+'Survival Island (Jungle Raid) (2 of 3) (1983) (Starpath Corporation, Steve Mundry, Scott Nelson) (12) (AR-4401) (PAL)', No returned matches
+'Survival Island (Jungle Raid) (2 of 3) (1983) (Starpath Corporation, Steve Mundry, Scott Nelson) (12) (AR-4401)', No returned matches
+'Survival Island (Jungle Raid) (3 of 3) (1983) (Starpath Corporation, Steve Mundry, Scott Nelson) (12) (AR-4401) (PAL)', No returned matches
+'Survival Island (Jungle Raid) (3 of 3) (1983) (Starpath Corporation, Steve Mundry, Scott Nelson) (12) (AR-4401)', No returned matches
+'Survival Run (1983) (Data Age) (Prototype) ~', No returned matches
+'Survival Run (Cosmic Commander) (1983) (Milton Bradley Company - Renaissance Technology, Ty Roberts) (4362) ~', No returned matches
+'Sweat! - The Decathlon Game (1 of 3) (Paddle) (1983) (Starpath Corporation, Scott Nelson) (13) (Prototype) ~', No returned matches
+'Surround (1977) (Blockade) (Atari, Alan Miller) (CX2641, CX2641P) (PAL)', No returned matches
+'Surround (32 in 1) (1988) (Atari, Alan Miller) (CX26163P) (PAL)', No returned matches
+'Sweat! - The Decathlon Game (2 of 3) (Paddle) (1983) (Starpath Corporation, Scott Nelson) (13) (Prototype)', No returned matches
+'Sweat! - The Decathlon Game (3 of 3) (Paddle) (1983) (Starpath Corporation, Scott Nelson) (13) (Prototype)', No returned matches
+'Sword of Saros (1983) (Starpath Corporation, Stephen H. Landrum, Jon Leupp) (11) (AR-4201) (PAL)', No returned matches
+'Sword of Saros (1983) (Starpath Corporation, Stephen H. Landrum, Jon Leupp) (11) (AR-4201) ~', No returned matches
+'SwordQuest - EarthWorld (Adventure I, SwordQuest I - EarthWorld) (1982) (Atari, Dan Hitchens, Mimi Nyden) (CX2656) (PAL)', No returned matches
+'SwordQuest - EarthWorld (Adventure I, SwordQuest I - EarthWorld) (1982) (Atari, Dan Hitchens, Mimi Nyden) (CX2656) (Prototype)', No returned matches
+'SwordQuest - FireWorld (Adventure II, SwordQuest II - FireWorld) (1983) (Atari, Tod Frye, Mimi Nyden) (CX2657) (PAL)', No returned matches
+'SwordQuest - FireWorld (Adventure II, SwordQuest II - FireWorld) (1983) (Atari, Tod Frye, Mimi Nyden) (CX2657) ~', No returned matches
+'SwordQuest - WaterWorld (1983) (Atari, Tod Frye) (CX2671) ~', No returned matches
+'Wabbit (1982) (Apollo, Ban Tran) (AP-2010) ~', No returned matches
+'Wachroboter jagt Jupy (AKA Keystone Kapers) (1983) (Quelle) (715.853 5) (PAL)', No returned matches
+'Walker (1983) (Suntek) (SS-032) (PAL) [a]', No returned matches
+'Walker (1983) (Suntek) (SS-032) (PAL) ~', No returned matches
+'Wall Ball (1983) (Avalon Hill, Duncan Scott) (5003002) ~', No returned matches
+'Wall Break (1983) (Home Vision - Gem International Corporation - VDI) (VCS83114) (PAL) ~', No returned matches
+'SwordQuest - EarthWorld (Adventure I, SwordQuest I - EarthWorld) (1982) (Atari, Dan Hitchens, Mimi Nyden) (CX2656) ~', No returned matches
+'Wall Break (Unknown)', No returned matches
+'Swordfight (Sword, Swordfighting) (1983) (Intellivision Productions - M Network, Patricia Lewis Du Long, Stephen Tatsumi) ~', No returned matches
+'Wall Defender (AKA Wall Break) (HES) (PAL)', No returned matches
+'Wall-Defender (AKA Wall Break) (1983) (Bomb - Onbase) (CA285) (PAL)', No returned matches
+'War 2000 (AKA Astrowar) (1983) (Home Vision - Gem International Corporation - VDI) (VCS83102) (PAL)', No returned matches
+'Warlords (Kings in the Corner) (Paddle) (1981) (Atari, Carla Meninsky) (CX2610) (PAL)', No returned matches
+'Wall-Defender (AKA Wall Break) (1983) (Bomb - Onbase) (CA285)', No returned matches
+'Warplock (Paddle) (1982) (Data Age) (DA1002) ~', No returned matches
+'Warplock (Paddle) (1983) (Gameworld) (133-002) (PAL)', No returned matches
+'Warlords (Kings in the Corner) (Paddle) (1981) (Atari, Carla Meninsky - Sears) (CX2610 - 49-75127) ~', No returned matches
+'Weltraumtunnel (AKA Innerspace) (1983) (Quelle) (292.651 7) (PAL)', No returned matches
+'Wilma Wanderer (AKA Lilly Adventure) (1983) (ITT Family Games) (PAL)', No returned matches
+'Wing War (Flap!) (1983) (Imagic, Michael Greene) (EIZ-002-04I) (PAL) ~', No returned matches
+'Westward Ho (AKA Custer's Revenge) (1982) (PlayAround - J.H.M.) (206) (PAL)', No returned matches
+'Wings (06-03-1983) (CBS Electronics, Stuart Ross) (Prototype) ~', No returned matches
+'Wings (10-10-1983) (CBS Electronics, Stuart Ross) (Prototype) (PAL)', No returned matches
+'Winter Games (1987) (Epyx, Steven A. Baker, Tod Frye, Peter Engelbrite) (80561-00251) (PAL)', No returned matches
+'Winter Games (1987) (Epyx, Steven A. Baker, Tod Frye, Peter Engelbrite) (80561-00251) ~', No returned matches
+'Winterjagd (AKA Ski Hunt) (1983) (Quelle) (343.073 3) (PAL)', No returned matches
+'Wizard (1980) (Atari, Chris Crawford) (Prototype) [a]', No returned matches
+'Wizard (1980) (Atari, Chris Crawford) (Prototype) ~', No returned matches
+'Wizard of Wor (1982) (CBS Electronics - Roklan, Joe Hellesen, Joe Wagner) (4L1720, 4L1721, 4L1722, 4L2276) (PAL)', No returned matches
+'Wizard of Wor (1982) (CBS Electronics - Roklan, Joe Hellesen, Joe Wagner) (M8774, M8794) (Prototype)', No returned matches
+'Wizard of Wor (1982) (CBS Electronics - Roklan, Joe Hellesen, Joe Wagner) (M8774, M8794) ~', No returned matches
+'Word Zapper (208 in 1) (Unknown) (PAL)', No returned matches
+'Word Zapper (Unknown) (PAL)', No returned matches
+'Word Zapper (Unknown)', No returned matches
+'Word Zapper (Word Grabber) (1982) (U.S. Games Corporation - Vidtec - JWDA, Todd Marshall, Henry Will IV) (VC1003) ~', No returned matches
+'Words-Attack (1983) (Sancho - Tang's Electronic Co.) (Prototype) (PAL) ~', No returned matches
+'World End (1983) (Home Vision - Gem International Corporation - VDI) (VCS83109) (PAL) ~', No returned matches
+'Worm War I (1982) (20th Century Fox Video Games - Sirius Software, David Lubar) (11001) ~', No returned matches
+'Worm War I (208 in 1) (Unknown) (PAL)', No returned matches
+'Worm War I (1983) (CCE) (C-843)', No returned matches
+'Wuestenschlacht (AKA Chopper Command) (1983) (Quelle) (262.794 1) (PAL)', No returned matches
+'A-Team, The (AKA Saboteur) (03-30-1984) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26133) (Prototype)', No returned matches
+'A-Team, The (AKA Saboteur) (05-08-1984) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26133) (Prototype)', No returned matches
+'Action Man - Action Force (AKA G.I. Joe - Cobra Strike) (Paddle) (1983) (Parker Brothers, John Emerson) (931511) (PAL)', No returned matches
+'Actionauts (Microbots) (1984-2008) (Imagic - Advanced Program Technology, Rob Fulop) ~', No returned matches
+'Acid Drop (1992) (Salu, Dennis M. Kiss) (460758) (PAL) ~', No returned matches
+'Activision Decathlon, The (1983) (Activision, David Crane) (AG-930-04, AZ-030) ~', No returned matches
+'Activision Decathlon, The (1983) (Activision, David Crane) (AG-930-04, AZ-030) [fixed] ~', No returned matches
+'Activision Decathlon, The (1983) (Activision, David Crane) (EAZ-030) (SECAM)', No returned matches
+'Adventure (1980) (Atari, Warren Robinett) (CX2613, CX2613P) (PAL)', No returned matches
+'Adventure (1980) (Atari, Warren Robinett - Sears) (CX2613 - 49-75154) ~', No returned matches
+'Activision Decathlon, The - Zehnkampf (1983) (Activision, David Crane - Ariola) (EAZ-030, EAZ-030-04B, EAZ-030-04I - 711 030-725) (PAL)', No returned matches
+'Worm War I (Unknown) (PAL)', No returned matches
+'Adventures of TRON (TRON Joystick) (1983) (M Network - INTV - APh Technological Consulting, Hal Finney, Glenn Hightower, Peter Kaminski) (MT4317) ~', No returned matches
+'Adventures on GX-12 (AKA Adventures of TRON) (1988) (Telegames) (4317 A009) (PAL)', No returned matches
+'Air Raiders (Air Battle) (1983) (M Network - INTV - APh Technological Consulting, Larry Zwick) (MT5861) ~', No returned matches
+'Air Raiders (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Air Raiders (Unknown) (PAL)', No returned matches
+'Air-Sea Battle (32 in 1) (1988) (Atari, Larry Kaplan) (CX26163P) (PAL)', No returned matches
+'Air-Sea Battle (Hack) (Unknown) (4K)', No returned matches
+'Air-Sea Battle - Air Sea Battle (Anti-Aircraft) (1977) (Atari, Larry Kaplan) (CX2602, CX2602P) (PAL)', No returned matches
+'Air-Sea Battle - Air Sea Battle - Target Fun (Anti-Aircraft) (1977) (Atari, Larry Kaplan - Sears) (CX2602 - 99802, 6-99802, 49-75102) ~', No returned matches
+'Airlock (1982) (Data Age) (DA1004) (Prototype)', No returned matches
+'Airlock (1982) (Data Age) (DA1004) ~', No returned matches
+'Airlock (1983) (Gameworld) (133-004) (PAL)', No returned matches
+'Alices Abenteuer - Lilly Adventure (1983) (Quelle - Otto Versand) (732.273 8 - 600273, 781644) (PAL)', No returned matches
+'Air Raid (Men-A-Vision) (PAL) ~', No returned matches
+'Alien's Return (AKA Go Go Home) (1983) (ITT Family Games) (554-33 391) (PAL)', No returned matches
+'Alligator People (1983) (20th Century Fox Video Games, John Russell) (Prototype) ~', No returned matches
+'Alpha Beam with Ernie (Alpha Beam) (Kid's Controller) (06-03-1983) (Atari - CCW, Michael Callahan, Preston Stuart) (CX26103) (Prototype) (PAL)', No returned matches
+'Alpha Beam with Ernie (Alpha Beam) (Kid's Controller) (12-22-1982) (Atari - CCW, Michael Callahan, Preston Stuart) (CX26103) (Prototype)', No returned matches
+'Alpha Beam with Ernie (Alpha Beam) (Kid's Controller) (1983) (Atari - CCW, Michael Callahan, Preston Stuart) (CX26103) (PAL)', No returned matches
+'Alpha Beam with Ernie (Alpha Beam) (Kid's Controller) (1983) (Atari - CCW, Michael Callahan, Preston Stuart) (CX26103) ~', No returned matches
+'Amidar (1982) (Parker Brothers, Ed Temple) (931504) (PAL)', No returned matches
+'Alien (1982) (20th Century Fox Video Games, Douglas 'Dallas North' Neubauer) (11006) ~', No returned matches
+'Amidar (1982) (Parker Brothers, Ed Temple) (PB5310) ~', No returned matches
+'Amidar (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'AndroMan on the Moon (1984) (Androbot - Western Technologies, Michael Case, Lenny Carlson) (Prototype) ~', No returned matches
+'Angriff der Luftflotten - Paris Attack (AKA M.A.D.) (1983) (Quelle - Otto Versand) (495.463 2 - 746381) (PAL)', No returned matches
+'Alien (CCE)', No returned matches
+'Angeln I (AKA Fishing Derby) (Videospielkassette - Ariola) (PGP237) (PAL)', No returned matches
+'Apples and Dolls (AKA Open, Sesame!) (CCE)', No returned matches
+'Aquatak (AKA Skindiver) (1983) (John Sands Electronics) (JS145C) (PAL)', No returned matches
+'Aquaventure (CCE)', No returned matches
+'Aquaventure (Sea Sentinel) (08-12-1983) (Atari, Tod Frye, Gary Shannon) (Prototype) ~', No returned matches
+'Arkyology (1983) (Sparrow - Enter-Tech, Rick Harris, George Hefner, Paul Walters, Barbara Ultis) (Prototype) ~', No returned matches
+'Ant Party (AKA Cosmic Swarm) (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Armor Ambush (Tank Battle) (1982) (M Network - INTV - APh Technological Consulting, Hal Finney) (MT5661) ~', No returned matches
+'Artillery Duel (1983) (Xonox - K-Tel Software - Action Graphics, Michael Schwartz, David Thiel) (6230, 7210, 06004, 99004) (PAL)', No returned matches
+'Artillery Duel (1983) (Xonox - K-Tel Software - Action Graphics, Michael Schwartz, David Thiel) (6230, 7210, 06004, 99004) ~', No returned matches
+'Ases do Ar (AKA Sky Jinks) (Dismac)', No returned matches
+'Armor Ambush (1988) (Telegames) (PAL)', No returned matches
+'Asterix (AKA Taz) (07-27-1983) (Atari, Jerome Domurat, Steve Woita) (CX2696) (Prototype)', No returned matches
+'Asterix (AKA Taz) (1984) (Atari, Jerome Domurat, Steve Woita) (CX2696) (PAL)', No returned matches
+'Assault (AKA Sky Alien) (1983) (Bomb - Onbase) (CA281)', No returned matches
+'Asteroid Fire (1983) (Home Vision - Gem International Corporation - VDI) (VCS83111) (PAL) ~', No returned matches
+'Asterix (AKA Taz) (1984) (Atari, Jerome Domurat, Steve Woita) (CX2696)', No returned matches
+'Asteroid Belt (AKA Asteroid Fire) (1983) (Suntek) (SS-029) (PAL)', No returned matches
+'Asteroids (1981) (Atari, Brad Stewart - Sears) (CX2649 - 49-75163) [no copyright] ~', No returned matches
+'Asteroids (1981) (Atari, Brad Stewart - Sears) (CX2649 - 49-75163) ~', No returned matches
+'Asteroids (1981) (Atari, Brad Stewart) (CX2649, CX2649P) (PAL) [no copyright]', No returned matches
+'Assault (AKA Sky Alien) (1983) (Bomb - Onbase) (CA281) (PAL)', No returned matches
+'Asteroids (1981) (Atari, Brad Stewart) (CX2649, CX2649P) (PAL)', No returned matches
+'Astro Attack (AKA Time Warp) (1983) (Goliath - Hot Shot) (83-214) (PAL)', No returned matches
+'Astroblast (Paddle) (1982) (M Network - INTV - APh Technological Consulting, Hal Finney) (MT5666) [fixed] ~', No returned matches
+'Astroblast (Paddle) (1982) (M Network - INTV - APh Technological Consulting, Hal Finney) (MT5666) ~', No returned matches
+'Astroblast (Paddle) (1988) (Telegames) (PAL)', No returned matches
+'Astrowar (Astrobattle) (Dimax - Sinmax) (SM8002) (PAL) ~', No returned matches
+'Astrowar (1983) (Goliath) (2) (PAL)', No returned matches
+'Astrowar (Unknown)', No returned matches
+'Atari VCS Point-of-Purchase ROM (1982) (Atari) ~', No returned matches
+'Atari Video Cube (Atari Cube, Video Cube) (1983) (Atari - GCC) (CX2670) ~', No returned matches
+'Atlantis (1983) (CCE) (C-832) [a]', No returned matches
+'Atlantis (1983) (CCE) (C-832)', No returned matches
+'Atlantis (1983) (Digitel)', No returned matches
+'Atlantis (1983) (Dynacom)', No returned matches
+'Atlantis (Dactari - Milmar)', No returned matches
+'Atlantis (Hack) (208 in 1) (Unknown) (PAL)', No returned matches
+'Atlantis (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Atlantis (Hack) (Unknown) (PAL)', No returned matches
+'Atlantis (Lost City of Atlantis) (1982) (Imagic, Dennis Koble) (720103-2A, IA3203P, EIX-010-04I) (PAL)', No returned matches
+'Atlantis II (1982) (Imagic, Dennis Koble) (720103-1A, IA3203)', No returned matches
+'Atom Smasher (1984) (Video Soft) (Prototype) [stack pointer fix] ~', No returned matches
+'Atom Smasher (1984) (Video Soft) (Prototype)', No returned matches
+'Kabobber (07-25-1983) (Activision - Boston Design Center, Rex Bradford) (Prototype) ~', No returned matches
+'Aufruhr im Zoo (AKA Panda Chase) (1983) (Quelle) (719.694 2) (PAL)', No returned matches
+'Kaboom! (Paddle) (1981) (Activision, Larry Kaplan, David Crane) (AG-010, AG-010-04) ~', No returned matches
+'Atlantis (Lost City of Atlantis) (1982) (Imagic, Dennis Koble) (720103-1A, 720103-1B, IA3203, IX-010-04) ~', No returned matches
+'Autorennen (AKA Grand Prix) (Videospielkassette - Ariola) (PGP232) (PAL)', No returned matches
+'Kamikaze Saucers (1983) (Syncro, Daniel Wolf) (Prototype) ~', No returned matches
+'Kampf im Asteroiden-Guertel - Astrowar (1983) (Quelle - Otto Versand) (719.302 2 - 311388) (PAL)', No returned matches
+'Kampf dem Steinfresser - Boom Bang (AKA Crackpots) (1983) (Quelle - Otto Versand) (463.574 4 - 781393, 986153) (PAL)', No returned matches
+'Kaboom! (Paddle) (CCE)', No returned matches
+'Kampf um die Schatzinsel (AKA Treasure Discovery) (1983) (Quelle) (719.163 8) (PAL)', No returned matches
+'Kangaroo (01-19-1983) (Atari - GCC, Kevin Osborn) (CX2689) (Prototype)', No returned matches
+'Kangaroo (1983) (Atari - GCC, Kevin Osborn) (CX2689) ~', No returned matches
+'Karate (1982) (Funvision - Fund. International Co.) (PAL)', No returned matches
+'Kanguru (AKA Kangaroo) (1983) (Zirok)', No returned matches
+'Kangaroo (1983) (Atari - GCC, Kevin Osborn) (CX2689, CX2689P) (PAL)', No returned matches
+'Karate (1982) (Ultravision, Joseph Amelio) (1044) ~', No returned matches
+'Karate (1987) (Froggo) (FG1001)', No returned matches
+'Katastrophen-Einsatz (AKA M.A.S.H.) (1983) (Quelle) (876.013 4) (PAL)', No returned matches
+'Kaystone Kapers (AKA Keystone Kapers) (1983) (Digitel)', No returned matches
+'Keystone (AKA Keystone Kapers) (Tiger Vision - Eram)', No returned matches
+'Keystone Kapers (1983) (Activision, Garry Kitchen) (AX-025, AX-025-04) ~', No returned matches
+'Keystone Kapers (1983) (Activision, Garry Kitchen) (EAX-025) (SECAM)', No returned matches
+'Keystone Kapers (Canal 3 - Intellivision) (C 3014)', No returned matches
+'Keystone Kapers (Digivision)', No returned matches
+'Keystone Kapers (Robby)', No returned matches
+'Keystone Kapers (Shock Vision)', No returned matches
+'Kaboom! - Schneller als der Knall (Paddle) (1981) (Activision, Larry Kaplan, David Crane - Ariola) (EAG-010, PAG-010 - 711 010-720) (PAL)', No returned matches
+'Keystone Kapers (Unknown) (PAL)', No returned matches
+'Keystone Kapers (Unknown)', No returned matches
+'Keystone Kapers - Raueber und Gendarm (1983) (Activision, Garry Kitchen - Ariola) (EAX-025, EAX-025-04I - 711 025-725) (PAL)', No returned matches
+'Keystone Kappers (AKA Keystone Kapers) (1983) (CCE) (C-816) [a]', No returned matches
+'Keystone Kappers (AKA Keystone Kapers) (1983) (CCE) (C-816)', No returned matches
+'Kick-Man (01-08-82) (CBS Electronics, Richard K. Balaska Jr., Bob Curtiss, Alex Leavens, Alex Nevelson) (Prototype) ~', No returned matches
+'Karate (Unknown) (PAL)', No returned matches
+'Killer Satellites (1983) (Starpath Corporation, Kevin Norman) (7) (AR-4103) (PAL)', No returned matches
+'Killer Satellites (1983) (Starpath Corporation, Kevin Norman) (7) (AR-4103) (Prototype)', No returned matches
+'Killer Satellites (1983) (Starpath Corporation, Kevin Norman) (7) (AR-4103) ~', No returned matches
+'King Arthur (AKA Dragonfire) (Double-Game Package) (1983) (Otto Versand) (600273) (PAL)', No returned matches
+'King Kong (1982) (Tigervision - Software Electronics Corporation, Karl T. Olinger - Teldec) (7-001 - 3.60001 VE) (PAL)', No returned matches
+'King Kong (1982) (Tigervision - Software Electronics Corporation, Karl T. Olinger) (7-001) ~', No returned matches
+'Klax (06-14-1990) (Atari - Axlon, Steve DeFrisco) (CX26192) (Prototype)', No returned matches
+'Klax (08-18-1990) (Atari - Axlon, Steve DeFrisco) (CX26192) (Prototype)', No returned matches
+'King Kong (1982) (Tigervision - Software Electronics Corporation, Karl T. Olinger - Teldec) (7-001 - 3.60001 VE) (PAL) [a]', No returned matches
+'Klax (1991) (Atari - Axlon, Steve DeFrisco) (CX26192) (PAL) ~', No returned matches
+'Knight on the Town (1982) (PlayAround - J.H.M.) (203)', No returned matches
+'Keystone Keypers (AKA Keystone Kapers) (1983) (Zirok)', No returned matches
+'Krieg der Sterne (AKA Atlantis) (Videospielkassette - Ariola) (PGP233) (PAL)', No returned matches
+'Knight on the Town (1982) (PlayAround - J.H.M.) (203) (PAL)', No returned matches
+'Kool-Aid Man (Kool Aid Pitcher Man) (1983) (M Network, Stephen Tatsumi, Jane Terjung - Kool Aid) (MT4648) ~', No returned matches
+'Krull (05-27-1983) (Atari, Jerome Domurat, Dave Staugas) (CX2682) (Prototype)', No returned matches
+'Krull (1983) (Atari, Jerome Domurat, Dave Staugas) (CX2682) ~', No returned matches
+'Kung Fu (AKA Karate) (4 Game in One) (1983) (Bit Corporation) (PGP229) (PAL)', No returned matches
+'Kung Fu Superkicks - Pursuit of the Ninja (AKA Chuck Norris Superkicks) (1988) (Telegames) (6082 A145) (PAL)', No returned matches
+'Krull (CCE)', No returned matches
+'Kung Fu Superkicks - Pursuit of the Ninja (AKA Chuck Norris Superkicks) (1988) (Telegames) (6082 A145)', No returned matches
+'Kung-Fu Master (1987) (Activision - Imagineering, Dan Kitchen, Garry Kitchen) (AG-039-04) ~', No returned matches
+'Kung Fu Master (CCE)', No returned matches
+'Kung-Fu Master (1987) (Activision - Imagineering, Dan Kitchen, Garry Kitchen) (EAX-039-04B, EAX-039-04I) (PAL)', No returned matches
+'Kwibble (Quick Step! Beta) (1983) (Imagic, Dave Johnson) (720119-1A, 03211) (Prototype)', No returned matches
+'Kyphus (1982) (Apollo, Tim Martin) (AP-2007) (Prototype) ~', No returned matches
+'Cabbage Patch Kids - Adventures in the Park (05-24-1984) (Coleco - Individeo, Ed Temple) (Prototype)', No returned matches
+'Cabbage Patch Kids - Adventures in the Park (06-14-1984) (Coleco - Individeo, Ed Temple) (Prototype)', No returned matches
+'Cabbage Patch Kids - Adventures in the Park (06-XX-1984) (Coleco - Individeo, Ed Temple) (Prototype)', No returned matches
+'Cabbage Patch Kids - Adventures in the Park (07-03-1984) (Coleco - Individeo, Ed Temple) (Prototype)', No returned matches
+'Cabbage Patch Kids - Adventures in the Park (07-27-1984) (Coleco - Individeo, Ed Temple) (Prototype)', No returned matches
+'Cabbage Patch Kids - Adventures in the Park (08-21-1984) (Coleco - Individeo, Ed Temple) (Prototype)', No returned matches
+'Cabbage Patch Kids - Adventures in the Park (09-04-1984) (Coleco - Individeo, Ed Temple) (Prototype)', No returned matches
+'Cabbage Patch Kids - Adventures in the Park (09-07-1984) (Coleco - Individeo, Ed Temple) (Prototype)', No returned matches
+'Cabbage Patch Kids - Adventures in the Park (09-13-1984) (Coleco - Individeo, Ed Temple) (Prototype) [a]', No returned matches
+'Cabbage Patch Kids - Adventures in the Park (09-13-1984) (Coleco - Individeo, Ed Temple) (Prototype) ~', No returned matches
+'Cakewalk (Bakery) (1983) (CommaVid, Irwin Gaines) (CM-008) ~', No returned matches
+'Cakewalk - Alarm in der Backstube (Bakery) (1983) (CommaVid, Irwin Gaines - Ariola) (CM-008 - 712 008-720) (PAL)', No returned matches
+'California Games (1987) (Epyx, Steven A. Baker, Peter Engelbrite) (80561-00286) (PAL)', No returned matches
+'California Games (1987) (Epyx, Steven A. Baker, Peter Engelbrite) (80561-00286) ~', No returned matches
+'Canyon Bomber (208 in 1) (Unknown) (PAL)', No returned matches
+'Canyon Bomber (Paddle) (1979) (Atari, David Crane - Sears) (CX2607 - 6-99828, 49-75115) ~', No returned matches
+'Care Bears (1983) (Parker Brothers, Laura Nikolich) (Prototype) ~', No returned matches
+'Capture (AKA Wall Break) (1983) (Goliath - Hot Shot) (83-314) (PAL)', No returned matches
+'Carnival (1983) (CBS Electronics - Woodside Design Associates, Steve 'Jessica Stevens' Kitchen) (4L1717, 4L1718, 4L1719, 4L2277) (PAL)', No returned matches
+'Casino (Paddle) (1979) (Atari, Bob Whitehead) (CX2652, CX2652P) (PAL)', No returned matches
+'Carnival (Hack) (208 in 1) (Unknown) (PAL)', No returned matches
+'Casino - Poker Plus (Paddle) (1979) (Atari, Bob Whitehead - Sears) (CX2652 - 6-99816, 49-75151) ~', No returned matches
+'Cat Trax (1983) (UA Limited) (1) [a]', No returned matches
+'Catch Time (AKA Plaque Attack) (1983) (Rainbow Vision - Suntek) (SS-015) (PAL)', No returned matches
+'Cat Trax (1983) (UA Limited) (1) ~', No returned matches
+'Catch Time (AKA Plaque Attack) (Video Game Cartridge - Ariola) (TP-602) (PAL)', No returned matches
+'Cathouse Blues (1982) (PlayAround - J.H.M.) (201)', No returned matches
+'Centipede (1982) (Atari - GCC) (CX2676) (Prototype) (PAL)', No returned matches
+'Centipede (1983) (Atari - GCC) (CX2676) (PAL)', No returned matches
+'Centipede (1983) (Atari - GCC) (CX2676) (Prototype)', No returned matches
+'Centipede (1983) (Atari - GCC) (CX2676) ~', No returned matches
+'Challenge (HES) (PAL)', No returned matches
+'Challenge (208 in 1) (Unknown) (PAL)', No returned matches
+'Catch Time (AKA Plaque Attack) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Challenge (Unknown)', No returned matches
+'Carnival (1982) (Coleco - Woodside Design Associates, Steve 'Jessica Stevens' Kitchen) (2468) ~', No returned matches
+'Challenge (Zellers)', No returned matches
+'Challenge of.... Nexar, The (1982) (Spectravision - Spectravideo - Sirius Software, David Lubar) (SA-206) (PAL)', No returned matches
+'Challenge of.... Nexar, The (1982) (Spectravision - Spectravideo - Sirius Software, David Lubar) (SA-206) ~', No returned matches
+'Challenge of.... Nexar, The (Hack) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Challenge of.... Nexar, The (Unknown) (PAL)', No returned matches
+'Championship Soccer (1980) (Atari, Steve Wright) (CX2616P) (PAL)', No returned matches
+'Championship Soccer - Soccer (1980) (Atari, Steve Wright - Sears) (CX2616 - 49-75155) ~', No returned matches
+'Chase the Chuck Wagon (1983) (Spectravideo - TMQ Software - Video Games Industries Corporation, Michael Schwartz - Ralston Purina) ~', No returned matches
+'Checkers (1980) (Activision, Alan Miller) (AG-003) ~', No returned matches
+'Checkers (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Checkers (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Cheese (Dragonfire Beta) (05-21-1982) (Imagic, Bob Smith) (720020-1A, IA3611) (Prototype)', No returned matches
+'China Syndrome (1982) (Spectravision - Spectravideo) (SA-205) ~', No returned matches
+'China Syndrome (1982) (Spectravision - Spectravideo) (SA-205) (PAL)', No returned matches
+'Chopper Command (1982) (Activision, Bob Whitehead) (AX-015, AX-015-04) ~', No returned matches
+'Chopper Command (1983) (CCE) (C-827)', No returned matches
+'Chopper Command (1983) (Digitel)', No returned matches
+'Chopper Command (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Chopper Command (Hack) (208 in 1) (Unknown) (PAL)', No returned matches
+'Chopper Command (Hack) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Chopper Command (1983) (CCE) (C-827) [a]', No returned matches
+'Chopper Command (SuperVision) (405, 427, 806, 808, 813, 816) (PAL)', No returned matches
+'Chopper Command - Captain Helicopter (1982) (Activision, Bob Whitehead - Ariola) (EAX-015, EAX-015-04I - 711 015-725) (PAL)', No returned matches
+'Chuck Norris Superkicks (1983) (Xonox - K-Tel Software - VSS, Robert Weatherby) (6230, 06002, 06003, 99003) ~', No returned matches
+'Circus (AKA Circus Atari) (Zellers)', No returned matches
+'Circus Atari (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Circus Atari (Paddle) (1980) (Atari, Mike Lorenzen) (CX2630, CX2630P) (PAL)', No returned matches
+'Circus Atari (Unknown) (PAL)', No returned matches
+'Circus Atari (Unknown)', No returned matches
+'Coco Nuts (1982) (Telesys, Jim Rupp, Jack Woodman) (1001) ~', No returned matches
+'Codebreaker (Numbers) (Keyboard Controller) (1978) (Atari) (CX2643) (PAL)', No returned matches
+'Codebreaker - Code Breaker (Numbers) (Keyboard Controller) (1978) (Atari - Sears) (CX2643 - 6-99815) ~', No returned matches
+'Color Bar Generator (1984) (Video Soft, Jerry Lawson, Dan McElroy) (VS1008) ~', No returned matches
+'Circus Atari - Circus (Paddle) (1980) (Atari, Mike Lorenzen - Sears) (CX2630 - 49-75122) ~', No returned matches
+'Colors (1980) (Atari) (Prototype) (PAL) ~', No returned matches
+'Comando Suicida (AKA Chopper Command) (Dismac)', No returned matches
+'Combat (32 in 1) (1988) (Atari, Joe Decuir, Larry Kaplan, Steve Mayer, Larry Wagner) (CX26163P) (PAL)', No returned matches
+'Combat (Tank) (1977) (Atari, Joe Decuir, Larry Kaplan, Steve Mayer, Larry Wagner) (CX2601, CX2601P) (PAL)', No returned matches
+'Combat - Tank-Plus (Tank) (1977) (Atari, Joe Decuir, Larry Kaplan, Steve Mayer, Larry Wagner - Sears) (CX2601 - 99801, 6-99801, 49-75101, 49-75124) ~', No returned matches
+'Checkers (208 in 1) (Unknown) (PAL)', No returned matches
+'Commando (1988) (Activision - Imagineering, Mike Reidel) (AK-043-04) [different logo] ~', No returned matches
+'Commando (1988) (Activision - Imagineering, Mike Reidel) (AK-043-04) ~', No returned matches
+'Commando (1988) (Activision - Imagineering, Mike Reidel) (EAK-043-04I) (PAL)', No returned matches
+'Commando Raid (1983) (Carrere Video - JWDA, Todd Marshall, Wes Trager, Henry Will IV - Teldec - Prism) (USC1004) (PAL)', No returned matches
+'Commando Raid (1982) (U.S. Games Corporation - JWDA, Todd Marshall, Wes Trager, Henry Will IV) (VC1004) ~', No returned matches
+'Commando Raid (208 in 1) (Unknown) (PAL)', No returned matches
+'Commando Raid (Unknown) (PAL)', No returned matches
+'Communist Mutants from Space (Galactic Egg) (1982) (Starpath Corporation, Stephen H. Landrum) (2) (AR-4101) (PAL)', No returned matches
+'Communist Mutants from Space (Galactic Egg) (Preview) (1982) (Starpath Corporation, Stephen H. Landrum) (2) (AR-4101) (PAL)', No returned matches
+'Communist Mutants from Space (Galactic Egg) (1982) (Arcadia Corporation, Stephen H. Landrum) (2) (AR-4101) ~', No returned matches
+'CompuMate (1983) (Spectravideo - Universum) (SV-010) (PAL)', No returned matches
+'Combat Two (Super Combat) (1982) (Atari - GCC) (CX2663) (Prototype) ~', No returned matches
+'Communist Mutants from Space (Galactic Egg) (Preview) (1982) (Arcadia Corporation, Stephen H. Landrum) (2) (AR-4101)', No returned matches
+'CompuMate (1983) (Spectravideo) (SV-010) ~', No returned matches
+'Computer Chess (07-07-1978) (Atari, Larry Wagner, Bob Whitehead) (Prototype)', No returned matches
+'Condor Attack (1982) (Ultravision) (1043) ~', No returned matches
+'Condor Attack (1982) (Ultravision) (1043) (PAL)', No returned matches
+'Condor Attack (1983) (CCE) (C-851)', No returned matches
+'Condor Attack (1983) (Goliath) (4) (PAL)', No returned matches
+'Condor Attack (Unknown) (PAL)', No returned matches
+'Condor Attack (Action Hi-Tech - Hi-Score) (PAL)', No returned matches
+'Confrontation (1983) (Answer Software Corporation - TY Associates, Kim Ellis) (ASC2001) (Prototype) ~', No returned matches
+'Congo Bongo (1983) (SEGA - Beck-Tech, Steve Beck, Phat Ho - Teldec) (006-01 - 3.60105 VG) (PAL)', No returned matches
+'Congo Bongo (1983) (SEGA - Beck-Tech, Steve Beck, Phat Ho) (006-01) [a]', No returned matches
+'Congo Bongo (1983) (SEGA - Beck-Tech, Steve Beck, Phat Ho) (006-01) ~', No returned matches
+'Cookie Monster Munch (Cokie Monster's Maze, Cookie Monster's Garden) (Kid's Controller) (1983) (Atari - CCW, Gary Stark) (CX26102) (PAL) [a]', No returned matches
+'Cookie Monster Munch (Cokie Monster's Maze, Cookie Monster's Garden) (Kid's Controller) (1983) (Atari - CCW, Gary Stark) (CX26102) (PAL)', No returned matches
+'Cookie Monster Munch (Cokie Monster's Maze, Cookie Monster's Garden) (Kid's Controller) (1983) (Atari - CCW, Gary Stark) (CX26102) ~', No returned matches
+'Cosmic Ark (1983) (CCE) (C-831)', No returned matches
+'Cosmic Ark (1983) (CCE) (C-831) [a]', No returned matches
+'Cosmic Ark (Canal 3 - Intellivision)', No returned matches
+'Corrida da Matem tica (AKA Math Gran Prix) (CCE)', No returned matches
+'Cosmic Ark (Reaction) (1982) (Imagic, Rob Fulop) (720104-1A, 720104-1B, IA3204) [selectable starfield] ~', No returned matches
+'Cosmic Ark (Reaction) (1982) (Imagic, Rob Fulop) (720104-1A, 720104-1B, IA3204) ~', No returned matches
+'Cosmic Ark (Reaction) (1982) (Imagic, Rob Fulop) (720104-2A, IA3204P, EIX-008-04I) (PAL)', No returned matches
+'Cosmic Avenger (AKA StarMaster) (4 Game in One) (1983) (Bit Corporation) (PGP214) (PAL)', No returned matches
+'Cosmic Ark (Reaction) (1982) (Imagic, Rob Fulop) (720104-2A, IA3204P, EIX-008-04I) (PAL) [selectable starfield]', No returned matches
+'Cosmic Commuter (1984) (Activision, John Van Ryzin) (AG-038-04) ~', No returned matches
+'Cosmic Commuter (CCE)', No returned matches
+'Cosmic Creeps (Space Maze, Spaze Maze) (1982) (Telesys, Don 'Donyo' Ruffcorn) (1002) (PAL)', No returned matches
+'Cosmic Corridor (AKA Space Tunnel) (1983) (ZiMAG - Emag - Vidco) (708-111 - GN-040)', No returned matches
+'Cosmic Creeps (Space Maze, Spaze Maze) (1982) (Telesys, Don 'Donyo' Ruffcorn) (1002) ~', No returned matches
+'Cosmic Swarm (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Cosmic Creeps (Unknown) (PAL)', No returned matches
+'Cosmic Swarm (Termite) (1982) (CommaVid, John Bronstein) (CM-003) (Prototype)', No returned matches
+'Cosmic Swarm - Angriff der Termiten (Termite) (1982) (CommaVid, John Bronstein - Ariola) (CM-003 - 712 003-720) (PAL)', No returned matches
+'Cosmic Town (AKA Base Attack) (Perry Rhodan-Serie) (1983) (ITT Family Games) (554-33 375) (PAL)', No returned matches
+'Cosmic War (AKA Space Tunnel) (1983) (Home Vision - Gem International Corporation - VDI) (VCS83136) (PAL)', No returned matches
+'Crack'ed (11-28-1988) (Atari - Zip Technology, Randy Bowker, Bruce Williams) (CX26142) (Prototype) ~', No returned matches
+'Crackpots (1983) (Activision, Dan Kitchen) (AX-029) ~', No returned matches
+'Crackpots (1983) (CCE) (C-862)', No returned matches
+'Crackpots (1983) (CCE) (C-862) [a]', No returned matches
+'Crackpots (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Cosmic Swarm (Termite) (1982) (CommaVid, John Bronstein) (CM-003) ~', No returned matches
+'Crackpots (Digivision)', No returned matches
+'Crash Dive (Voyage to the Bottom of the Sea) (1983) (20th Century Fox Video Games, Bill Aspromonte) (11031) ~', No returned matches
+'Crash Dive (Voyage to the Bottom of the Sea) (1983) (20th Century Fox Video Games, Bill Aspromonte) (11131) (PAL)', No returned matches
+'Cosmic Ark (Unknown) (PAL)', No returned matches
+'Crazy Climber (1983) (Atari - Roklan, Joe Gaucher, Alex Leavens) (CX2683) (Prototype) [a2]', No returned matches
+'Crazy Climber (1983) (Atari - Roklan, Joe Gaucher, Alex Leavens) (CX2683) (Prototype) [a3]', No returned matches
+'Crackpots (Unknown) (PAL)', No returned matches
+'Crazy Climber (1983) (Atari - Roklan, Joe Gaucher, Alex Leavens) (CX2683) ~', No returned matches
+'Crazy Climber (1983) (Atari - Roklan, Joe Gaucher, Alex Leavens) (CX2683) (Prototype)', No returned matches
+'Criminal Persuit (AKA A Mysterious Thief) (1983) (Suntek) (SS-036) (PAL)', No returned matches
+'Crazy Climber (1983) (Atari - Roklan, Joe Gaucher, Alex Leavens) (CX2683) (Prototype) [a1]', No returned matches
+'Cross Force (Cross Fire) (1982) (Spectravision - Spectravideo) (SA-203) ~', No returned matches
+'Cross Force (Unknown) (PAL)', No returned matches
+'Cross Force (Unknown) (PAL) [a]', No returned matches
+'Cross Force - Kreuzfeuer (Cross Fire) (1982) (Spectravision - Spectravideo - Quelle) (SA-203 - 413.223 9) (PAL)', No returned matches
+'Cruise Missile (AKA Exocet) (1987) (Froggo) (FG1007)', No returned matches
+'Crypts of Chaos (1983) (20th Century Fox Video Games, John W.S. Marvin) (11009) ~', No returned matches
+'Crossbow (1988) (Atari - Imagineering, Dan Kitchen) (CX26139) ~', No returned matches
+'Crossbow (1988) (Atari - Imagineering, Dan Kitchen) (CX26139P) (PAL)', No returned matches
+'Crystal Castles (01-04-1984) (Atari, Michael Kosaka, Peter C. Niday, Robert Vieira) (CX26110) (Prototype)', No returned matches
+'Cubicolor (1982) (Imagic, Rob Fulop) (Prototype) ~', No returned matches
+'Crystal Castles (1984) (Atari, Michael Kosaka, Peter C. Niday, Robert Vieira) (CX26110) ~', No returned matches
+'Cubo M gico (AKA Cubicolor) (CCE)', No returned matches
+'Crystal Castles (1984) (Atari, Michael Kosaka, Peter C. Niday, Robert Vieira) (CX26110) (PAL)', No returned matches
+'Custer's Revenge (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1001) ~', No returned matches
+'VCS Draw Demo (Joe Gaucher) ~', No returned matches
+'Custer's Revenge (1982) (Mystique - American Multiple Industries, Joel H. Martin) (PAL)', No returned matches
+'Criminal Pursuit (AKA A Mysterious Thief) (Video Game Cartridge - Ariola) (TP-619) (PAL)', No returned matches
+'Curtiss (AKA Atlantis) (1983) (Rainbow Vision - Suntek) (SS-019) (PAL)', No returned matches
+'Vanguard (1982) (Atari - GCC, Dave Payne) (CX2669) (Prototype)', No returned matches
+'Vanguard (1983) (Atari - GCC, Dave Payne) (CX2669, CX2669P) (PAL)', No returned matches
+'Vanguard (CCE)', No returned matches
+'Venetian Blinds Demo (1981) (Activision, David Crane, Bob Whitehead) ~', No returned matches
+'Vanguard (1983) (Atari - GCC, Dave Payne) (CX2669) ~', No returned matches
+'Vanguard (Rentacom)', No returned matches
+'Venture (1982) (Coleco, Joseph Biel) (2457) (Prototype) (2K)', No returned matches
+'Venture (1982) (Coleco, Joseph Biel) (2457) ~', No returned matches
+'Venture (1983) (CBS Electronics, Joseph Biel) (4L1802, 4L1803, 4L1804, 4L2278) (PAL)', No returned matches
+'Venture (1987) (Atari) (CX26145)', No returned matches
+'Vanguard (VGS)', No returned matches
+'Video Checkers - Checkers - Atari Video Checkers (1980) (Atari, Carol Shaw - Sears) (CX2636 - 49-75156) ~', No returned matches
+'Viagem Espacial (AKA Star Voyager) (Dismac)', No returned matches
+'Video Chess (Computer Chess) (1979) (Atari, Larry Wagner, Bob Whitehead - Sears) (CX2645 - 49-75181) ~', No returned matches
+'Video Chess (Computer Chess) (1979) (Atari, Larry Wagner, Bob Whitehead) (CX2645, CX2645P) (PAL)', No returned matches
+'Video Life (1984) (CommaVid, John Bronstein) (CM-002) [higher sounds] ~', No returned matches
+'Video Jogger (Foot Craz) (1983) (Exus Corporation) ~', No returned matches
+'Video Checkers - Atari Video Checkers (1980) (Atari, Carol Shaw) (CX2636, CX2636P) (PAL)', No returned matches
+'Video Life (1984) (CommaVid, John Bronstein) (CM-002) ~', No returned matches
+'Video Pinball (1981) (Atari, Bob Smith) (CX2648) (PAL)', No returned matches
+'Video Olympics - Pong Sports (Paddle) (1977) (Atari, Joe Decuir - Sears) (CX2621 - 99806, 6-99806, 49-75104) ~', No returned matches
+'Video Pinball (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Video Pinball (Unknown) (PAL)', No returned matches
+'Video Pinball - Arcade Pinball (1981) (Atari, Bob Smith - Sears) (CX2648 - 49-75161) ~', No returned matches
+'Video Olympics (Paddle) (1977) (Atari, Joe Decuir) (CX2621, CX2621P) (PAL)', No returned matches
+'Video Reflex (Foot Craz) (1983) (Exus Corporation) ~', No returned matches
+'Video Reflex (Foot Craz) (1983) (Exus Corporation) [no roman numbers] ~', No returned matches
+'Video Chess (Unknown) (PAL)', No returned matches
+'Volleyball (AKA RealSports Volleyball) (Dactari - Milmar)', No returned matches
+'Volleyball (AKA RealSports Volleyball) (Robby)', No returned matches
+'Volleyball (AKA RealSports Volleyball) (Double-Game Package) (1983) (Otto Versand) (781698) (PAL)', No returned matches
+'Vogel Flieh (AKA Dolphin) (1983) (Quelle) (465.302 8) (PAL)', No returned matches
+'Vulture Attack (AKA Condor Attack) (1982) (K-Tel Vision)', No returned matches
+'Volleyball (AKA RealSports Volleyball) (1983) (Digitel)', No returned matches
+'V¡deo Cube (AKA Atari Video Cube) (CCE)', No returned matches
+'Vulture Attack (AKA Condor Attack) (1982) (K-Tel Vision) (PAL)', No returned matches
+'Obelix (1984) (Atari, Andrew Fuchs, Jeffrey Gusman, Dave Jolly, Suki Lee) (CX26117) ~', No returned matches
+'Obelix (1984) (Atari, Andrew Fuchs, Jeffrey Gusman, Dave Jolly, Suki Lee) (CX26117) (PAL)', No returned matches
+'Ocean City Defender (AKA Atlantis) (Zellers)', No returned matches
+'Ocean City (AKA Atlantis) (Funvision - Fund. International Co.)', No returned matches
+'Off Your Rocker (Joyboard) (1983) (Amiga - Video Soft) (3130) (Prototype) ~', No returned matches
+'Off the Wall (Bizarre Breakout, Peasant King, Zip 'n' Zap) (1989) (Atari - Axlon, John Vifian) (CX26168) ~', No returned matches
+'Octopus (AKA Name This Game) (1983) (Carrere Video - JWDA, Roger Booth, Sylvia Day, Todd Marshall, Robin McDaniel, Wes Trager, Henry Will IV - Teldec - Prism) (USC1007) (PAL)', No returned matches
+'Off the Wall (Bizarre Breakout, Peasant King, Zip 'n' Zap) (1989) (Atari - Axlon, John Vifian) (CX26168) (PAL)', No returned matches
+'Official Frogger, The (1983) (Starpath Corporation, Stephen H. Landrum) (9) (AR-4105) (PAL)', No returned matches
+'Vom Himmel durch die Hoelle (AKA Parachute) (1983) (Quelle) (719.941 7) (PAL)', No returned matches
+'Official Frogger, The (Preview) (1983) (Starpath Corporation, Stephen H. Landrum) (9) (AR-4105)', No returned matches
+'Official Frogger, The (1983) (Starpath Corporation, Stephen H. Landrum) (9) (AR-4105) ~', No returned matches
+'Oink! (CCE)', No returned matches
+'Omega Race (Booster Grip) (1983) (CBS Electronics, Alex Nevelson) (4L 2737 0000) (Prototype)', No returned matches
+'Oink! - Das Schweinchen und der Wolf (1983) (Activision, Mike Lorenzen - Ariola) (EAX-023 - 711 023-720) (PAL)', No returned matches
+'Omega Race (Booster Grip) (1983) (CBS Electronics, Alex Nevelson) (4L 2737 0000) ~', No returned matches
+'Oink! (Unknown) (PAL)', No returned matches
+'Oink! (1983) (Activision, Mike Lorenzen) (AX-023) ~', No returned matches
+'Open Sesame (AKA Open, Sesame!) (4 Game in One) (1983) (Bit Corporation) (PGP204) (PAL)', No returned matches
+'Open Sesame (AKA Open, Sesame!) (1983) (Goliath) (5) (PAL)', No returned matches
+'Open Sesame (AKA Open, Sesame!) (1982) (Puzzy - Bit Corporation) (PG204) (PAL)', No returned matches
+'Open Sesame (AKA Open, Sesame!) (1983) (Goliath) (5) (PAL) [a]', No returned matches
+'Open, Sesame! - Sesam, Oeffne Dich (1982) (Bit Corporation) (PG204) (PAL) ~', No returned matches
+'Oscar's Trash Race (Kid's Controller) (03-30-1983) (Atari - CCW, Christopher H. Omarzu, Preston Stuart, Bruce Williams) (CX26101) (Prototype)', No returned matches
+'Open, Sesame! - Abre-te, Sesamo! (1983) (CCE) (C-804)', No returned matches
+'Open, Sesame! (1982) (Bit Corporation) (PG204)', No returned matches
+'Oscar's Trash Race (Kid's Controller) (10-20-1982) (Atari - CCW, Christopher H. Omarzu, Preston Stuart, Bruce Williams) (CX26101) (Prototype)', No returned matches
+'Oscar's Trash Race (Kid's Controller) (12-03-1982) (Atari - CCW, Christopher H. Omarzu, Preston Stuart, Bruce Williams) (CX26101) (Prototype)', No returned matches
+'Oscar's Trash Race (Kid's Controller) (1984) (Atari - CCW, Christopher H. Omarzu, Preston Stuart, Bruce Williams) (CX26101) ~', No returned matches
+'Othello (1981) (Atari, Ed Logg, Carol Shaw - Sears) (CX2639 - 49-75162) ~', No returned matches
+'Othello (1981) (Atari, Ed Logg, Carol Shaw) (CX2639, CX2639P) (PAL) [no grid markers]', No returned matches
+'Othello (1981) (Atari, Ed Logg, Carol Shaw) (CX2639, CX2639P) (PAL)', No returned matches
+'Othello (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Out of Control (1983) (Avalon Hill, Jean Baer, Bill 'Rebecca Ann' Heineman, Jim Jacob) (5005002) ~', No returned matches
+'Outlaw (1978) (Atari, David Crane) (CX2605, CX2605P) (PAL)', No returned matches
+'Oscar's Trash Race (Kid's Controller) (1984) (Atari - CCW, Christopher H. Omarzu, Preston Stuart, Bruce Williams) (CX26101) (PAL)', No returned matches
+'Outlaw (32 in 1) (1988) (Atari, David Crane) (CX26163P) (PAL)', No returned matches
+'Outlaw - Gunslinger (1978) (Atari, David Crane - Sears) (CX2605 - 6-99822, 49-75109) ~', No returned matches
+'X'Mission (Unknown) (PAL)', No returned matches
+'X-Man (1983) (Universal Gamex Corporation, Miguel Castillo, H.K. Poon) (GX-001) (PAL)', No returned matches
+'Othello (1981) (Atari, Ed Logg, Carol Shaw - Sears) (CX2639 - 49-75162) [no grid markers] ~', No returned matches
+'X-Man (1983) (Universal Gamex Corporation, Miguel Castillo, H.K. Poon) (GX-001) ~', No returned matches
+'Xenophobe (1991) (Atari) (CX26172) (PAL)', No returned matches
+'Overkill (AKA Seahawk) (1983) (Goliath - Hot Shot) (83-114) (PAL)', No returned matches
+'Xevious (01-18-1984) (Atari, Tod Frye) (CX2695) (Prototype) ~', No returned matches
+'Xevious (05-25-1983) (Atari, Tod Frye) (CX2695) (Prototype)', No returned matches
+'F-14 Tomcat (1988) (Absolute Entertainment, Dan Kitchen) (PAL)', No returned matches
+'Xevious (CCE)', No returned matches
+'Xenophobe (1991) (Atari) (CX26172) ~', No returned matches
+'Xevious (08-02-1983) (Atari, Tod Frye) (CX2695) (Prototype)', No returned matches
+'Fantastic Voyage (11-04-1982) (20th Century Fox Video Games - Sirius Software, David Lubar) (11008) (Prototype)', No returned matches
+'Fantastic Voyage (1982) (20th Century Fox Video Games - Sirius Software, David Lubar) (11008) ~', No returned matches
+'Farmer Dan (AKA Gopher) (Zellers)', No returned matches
+'Farmyard Fun (AKA Play Farm) (1983) (Suntek) (SS-034) (PAL)', No returned matches
+'Fast Eddie (1982) (20th Century Fox Video Games - Sirius Software, Mark Turmell) (11003) ~', No returned matches
+'Fast Eddie (1983) (CCE) (C-834)', No returned matches
+'Fast Eddie (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Fast Food (1982) (Telesys, Don Ruffcorn, Jack Woodman) (1003) (PAL)', No returned matches
+'Fast Food (1982) (Telesys, Don Ruffcorn, Jack Woodman) (1003) ~', No returned matches
+'Fast Food (Zirok)', No returned matches
+'Fast Food (Unknown) (PAL)', No returned matches
+'Fatal Run (Ultimate Driving) (1989) (Atari - Sculptured Software, Steve Aguirre) (CX26162) (Prototype)', No returned matches
+'Fatal Run (Ultimate Driving) (1991) (Atari - Sculptured Software, Steve Aguirre) (CX26162) (PAL) ~', No returned matches
+'Fantastic Voyage (208 in 1) (Unknown) (PAL)', No returned matches
+'Fathom (Scuba) (1983) (Imagic, Wilfredo Aguilar, Michael Becker, Rob Fulop) (720111-2A, 13205) (PAL)', No returned matches
+'Fathon (AKA Fathom) (Digivision)', No returned matches
+'Felix Return (AKA Bobby Is Going Home) (1983) (Goliath - Hot Shot) (83-116) (PAL)', No returned matches
+'Festival (AKA Carnival) (4 Game in One) (1983) (Bit Corporation) (PGP230) (PAL)', No returned matches
+'Feuerwehr im Einsatz (AKA Fire Fighter) (1983) (Quelle) (343.173 1) (PAL)', No returned matches
+'Fighter Pilot (AKA Tomcat - The F-14 Fighter Simulator) (1988) (Activision, Dan Kitchen) (EAK-046-04B) (PAL)', No returned matches
+'Final Approach (1982) (Apollo) (AP-2009) ~', No returned matches
+'Fire Bird (AKA Phoenix) (Video Game Program) (PAL)', No returned matches
+'Fire Birds (AKA Sky Alien) (Perry Rhodan-Serie) (1983) (ITT Family Games) (554-33 383) (PAL)', No returned matches
+'Farmyard Fun (AKA Play Farm) (Video Game Cartridge - Ariola) (TP-617)', No returned matches
+'Fire Fighter (Fire Fighters) (1982) (Imagic, Brad Stewart) (720105-2A, IA3400P, EIX-005-04I) (PAL)', No returned matches
+'Fire Fighter (Fire Fighters) (1982) (Imagic, Brad Stewart) (720105-1A, IA3400) ~', No returned matches
+'Fireball (Frantic) (Paddle) (1982) (Arcadia Corporation, Scott Nelson) (3) (AR-4300) (Prototype)', No returned matches
+'Fire Fly (1983) (Mythicon, Bill Bryner, Bruce de Graaf) (MA1002) ~', No returned matches
+'Fireball (Frantic) (Preview) (1982) (Arcadia Corporation, Scott Nelson) (3) (AR-4300)', No returned matches
+'Fireball (Frantic) (Preview) (1982) (Starpath Corporation, Scott Nelson) (3) (AR-4300) (PAL)', No returned matches
+'Fireball (Frantic) (Paddle) (1982) (Starpath Corporation, Scott Nelson) (3) (AR-4300) (PAL)', No returned matches
+'Fathom (Scuba) (1983) (Imagic, Wilfredo Aguilar, Michael Becker, Rob Fulop) (720111-1A, 03205) ~', No returned matches
+'Firefox (Combat II, Fighter Command) (06-01-83) (Atari - Roklan, Bob Curtiss) (Prototype) ~', No returned matches
+'Firefox (Combat II, Fighter Command) (1983) (Atari - Roklan, Bob Curtiss) (Prototype) [a]', No returned matches
+'Firefox (Combat II, Fighter Command) (1983) (Atari - Roklan, Bob Curtiss) (Prototype)', No returned matches
+'Fishing (AKA Fishing Derby) (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Fireball (Frantic) (Paddle) (1982) (Arcadia Corporation, Scott Nelson) (3) (AR-4300) ~', No returned matches
+'Fishing Derby (1980) (Activision, David Crane) (AG-004) ~', No returned matches
+'Fishing Derby (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Fisher Price (AKA Skindiver) (1983) (CCE) (C-863)', No returned matches
+'Fishing Derby (CCE)', No returned matches
+'Fishing Derby (Canal 3 - Intellivision)', No returned matches
+'Fishing Derby (Hack) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Firebug (AKA Spinning Fireball) (1983) (Suntek) (SS-028) (PAL)', No returned matches
+'Fishing Derby (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Flag Capture (208 in 1) (Unknown) (PAL)', No returned matches
+'Fishing Derby (Hack) (Unknown) (PAL)', No returned matches
+'Fishing Derby - Schneller als der Hai (1980) (Activision, David Crane - Ariola) (EAG-004, PAG-004 - 711 004-715) (PAL)', No returned matches
+'Flag Capture (32 in 1) (1988) (Atari, Jim Huether) (CX26163P) (PAL)', No returned matches
+'Flag Capture - Capture (Capture the Flag) (1978) (Atari, Jim Huether - Sears) (CX2644 - 6-99824) ~', No returned matches
+'Flash Gordon (1983) (20th Century Fox Video Games - Sirius Software, David Lubar) (11015) ~', No returned matches
+'Flippern (AKA Video Pinball) (Double-Game Package) (1983) (Otto Versand) (781698) (PAL)', No returned matches
+'Football (1979) (Atari, Bob Whitehead - Sears) (CX2625 - 6-99827, 49-75114) ~', No returned matches
+'Flash Gordon (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Flash Gordon (Unknown) (PAL)', No returned matches
+'Football (208 in 1) (Unknown) (PAL)', No returned matches
+'Football (AKA Super Challenge Football) (1988) (Telegames) (5658 A088) (PAL)', No returned matches
+'Football Demo (1982) (Atari, Michael Sierchio) ~', No returned matches
+'Football (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Forest (1983) (Sancho - Tang's Electronic Co.) (TEC006) (PAL) ~', No returned matches
+'Football (AKA Super Challenge Football) (1988) (Telegames) (5658 A088)', No returned matches
+'Frankenstein's Monster (1983) (Data Age, J. Ray Dettling) (112-008) ~', No returned matches
+'Fox & Goat (AKA Nuts) (Double-Game Package) (1983) (Otto Versand) (311377) (PAL)', No returned matches
+'Freeway (1981) (Activision, David Crane) (AG-009, AG-009-04) ~', No returned matches
+'Frankenstein's Monster (1983) (Gameworld, J. Ray Dettling) (133-008) (PAL)', No returned matches
+'Freeway (Canal 3 - Intellivision)', No returned matches
+'Freeway - Das verrueckte Huhn (1981) (Activision, David Crane - Ariola) (EAG-009, PAG-009 - 711 009-720) (PAL)', No returned matches
+'Freeway Chicken (AKA Freeway) (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Freeway (Zellers)', No returned matches
+'Freeway (Dactari - Milmar)', No returned matches
+'Freeway Rabbit (AKA Freeway) (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Frisco (Unknown)', No returned matches
+'Frog Demo (1983) (CommaVid, Joseph Biel) (PAL) ~', No returned matches
+'Frisco (1983) (Home Vision, R.J.P.G. - Gem International Corporation - VDI) (VCS83104) (PAL) ~', No returned matches
+'Frisco (Hack) (Unknown) (PAL)', No returned matches
+'Frog Pond (08-27-1982) (Atari, Nick 'Sandy Maiwald' Turner) (CX2665) (Prototype) ~', No returned matches
+'Frog Pond (1982) (Atari, Nick 'Sandy Maiwald' Turner) (CX2665) (Prototype) (4K) [a]', No returned matches
+'Frog Pond (1982) (Atari, Nick 'Sandy Maiwald' Turner) (CX2665) (Prototype)', No returned matches
+'Freeway (CCE)', No returned matches
+'Frog Pond (1982) (Atari, Nick 'Sandy Maiwald' Turner) (CX2665) (Prototype) (4K)', No returned matches
+'Frogger (1982) (Parker Brothers, Ed English, David Lamkins) (PB5300) ~', No returned matches
+'Frogger (1982) (Parker Brothers, Ed English, David Lamkins) (931502) (PAL)', No returned matches
+'Frogs and Flies (1988) (Telegames) (PAL)', No returned matches
+'Frogger II - Threeedeep! (1984) (Parker Brothers, Mark Lesser) (PB5590) ~', No returned matches
+'Frogger II - Threeedeep! (1984) (Parker Brothers, Mark Lesser) (PB5590) (PAL)', No returned matches
+'Frontline (AKA Combat) (Zellers)', No returned matches
+'Frostbite (1983) (Activision, Steve Cartwright) (AX-031) ~', No returned matches
+'Frogs and Flies (Hack) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Frogs and Flies - Frogs 'n' Flies (1982) (M Network - INTV - APh Technological Consulting, David Rolfe) (MT5664) ~', No returned matches
+'Front Line (1984) (Coleco - Individeo, Ed Temple) (2665) ~', No returned matches
+'Frostbite (Digivision)', No returned matches
+'Frostbite (CCE)', No returned matches
+'Frostbite (1983) (Video Mania)', No returned matches
+'Frostbite (Hack) (Unknown) (PAL)', No returned matches
+'Fuchs & Schweinchen Schlau (AKA Oink!) (1983) (Quelle) (806.174 9) (PAL)', No returned matches
+'Frostbite (Unknown) (PAL)', No returned matches
+'Frostbite - Expedition ins Eis (1983) (Activision, Steve Cartwright - Ariola) (EAX-031, EAX-031-04B - 711 031-717) (PAL)', No returned matches
+'Fun with Numbers (32 in 1) (1988) (Atari, Gary Palmer) (CX26163P) (PAL)', No returned matches
+'Funky Fish (1983) (UA Limited) (Prototype) ~', No returned matches
+'Fun with Numbers (AKA Basic Math) (1980) (Atari, Gary Palmer) (CX2661)', No returned matches
+'Fussball (AKA International Soccer) (Videospielkassette - Ariola) (PGP235) (PAL)', No returned matches
+'TRON - Deadly Discs (TRON Joystick) (1983) (M Network - INTV - APh Technological Consulting, Jeff Ronne, Brett Stutz) (MT5662) ~', No returned matches
+'Tac-Scan (Canal 3 - Intellivision)', No returned matches
+'Tac-Scan (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Tac-Scan (Unknown) (PAL)', No returned matches
+'Frostbite (1983) (Digitel)', No returned matches
+'Tank City (AKA Thunderground) (Funvision - Fund. International Co.)', No returned matches
+'Tac-Scan (Paddle) (1983) (SEGA, Jeff Lorenz) (001-01) ~', No returned matches
+'Fun with Numbers (AKA Basic Math) (1980) (Atari, Gary Palmer) (CX2661P) (PAL)', No returned matches
+'Tanks But No Tanks (AKA Phantom Tank) (1983) (ZiMAG - Emag - Vidco) (707-111 - GN-030)', No returned matches
+'Tanks War (AKA Phantom Tank) (1983) (Home Vision - Gem International Corporation - VDI) (VCS83135) (PAL)', No returned matches
+'Tapeworm (1982) (Spectravision - Spectravideo) (SA-204) ~', No returned matches
+'Tapeworm (1982) (Spectravision - Spectravideo) (SA-204) (PAL)', No returned matches
+'Tapper (1984) (SEGA - Beck-Tech, Steve Beck) (010-01) ~', No returned matches
+'Tapeworm (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Targ (1983) (CBS Electronics - VSS) (80110) (Prototype)', No returned matches
+'Target Practice (Carnival) (AKA Carnival) (1983) (CCE) (C-833) [a]', No returned matches
+'Tax Avoiders (1986) (American Videogame - Dunhill Electronics, Darrell Wagner, Todd Clark Holm, John Simonds) ~', No returned matches
+'Target Practice (Carnival) (AKA Carnival) (1983) (CCE) (C-833)', No returned matches
+'Taz (Tazz) (06-15-1983) (Atari, Jerome Domurat, Steve Woita) (CX2699) (Prototype) (PAL)', No returned matches
+'Taz (Tazz) (07-13-1983) (Atari, Jerome Domurat, Steve Woita) (CX2699) (Prototype)', No returned matches
+'Taz (Tazz) (07-15-1983) (Atari, Jerome Domurat, Steve Woita) (CX2699) (Prototype)', No returned matches
+'Taz (Tazz) (1983) (Atari, Jerome Domurat, Steve Woita) (CX2699) (Prototype)', No returned matches
+'Taz (Tazz) (1983) (Atari, Jerome Domurat, Steve Woita) (CX2699) (Prototype) [a]', No returned matches
+'Taz (Tazz) (1984) (Atari, Jerome Domurat, Steve Woita) (CX2699) ~', No returned matches
+'Telepathy (Mindlink Controller) (1983) (Atari, Dan Oliver) (Prototype) ~', No returned matches
+'Teddy Apple (AKA Open, Sesame!) (1983) (Home Vision - Gem International Corporation - VDI) (VCS83137) (PAL)', No returned matches
+'Teller-Jonglieren! (AKA Dancing Plate) (1983) (Quelle) (685.996 1) (PAL)', No returned matches
+'Tank Brigade (AKA Phantom Tank) (1983) (Panda) (101)', No returned matches
+'Tennis (1981) (Activision, Alan Miller - Ariola) (EAG-007, EAG-007-04I, PAG-007 - 711 007-720) (PAL)', No returned matches
+'Tempest (01-05-1984) (Atari, Michael Kosaka) (CX2687) (Prototype) ~', No returned matches
+'Task Force (AKA Gangster Alley) (1987) (Froggo) (FG1003)', No returned matches
+'Tennis (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Tennis (1983) (CCE) (C-858) (4K)', No returned matches
+'Tennis (Canal 3 - Intellivision) (4K)', No returned matches
+'Tennis (Dactari - Milmar)', No returned matches
+'Tennis (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Tennis (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Tennis (Pet Boat) (PAL)', No returned matches
+'Tennis (Unknown)', No returned matches
+'Tennis (Star Game) (007)', No returned matches
+'Tennis (Tennis Game) (AKA Tennis) (1983) (Home Vision - Gem International Corporation - VDI) (VCS83107) (PAL) (4K)', No returned matches
+'Tennis (Zirok)', No returned matches
+'Tennis - Le Tennis (1981) (Activision, Alan Miller) (AG-007, CAG-007) ~', No returned matches
+'Texas Chainsaw Massacre, The (1982) (Wizard Video Games, Bob Davis, Robert H. O'Neil) (Prototype) ~', No returned matches
+'Texas Chainsaw Massacre, The (1983) (Wizard Video Games - VSS, Ed Salvo) (008) ~', No returned matches
+'Threshold (1982) (Tigervision, Warren Schwader - Teldec) (7-003) (PAL)', No returned matches
+'Threshold (1982) (Tigervision, Warren Schwader) (7-003) (Prototype)', No returned matches
+'Threshold (1982) (Tigervision, Warren Schwader) (7-003) ~', No returned matches
+'Thunderground (Canal 3 - Intellivision)', No returned matches
+'Thunderground (Unknown) (PAL)', No returned matches
+'Time Machine (AKA Asteroid Fire) (1983) (Goliath - Hot Shot) (83-112) (PAL)', No returned matches
+'Thwocker (04-09-1984) (Activision, Charlie Heath) (Prototype) ~', No returned matches
+'Time Pilot (1983) (Coleco - Woodside Design Associates, Harley H. Puthuff Jr.) (2663) ~', No returned matches
+'Time Pilot (Rentacom)', No returned matches
+'Time Race (AKA Space Jockey) (1983) (Goliath - Hot Shot) (83-212) (PAL)', No returned matches
+'Time Race (AKA Time Warp) (Funvision - Fund. International Co.) (PAL)', No returned matches
+'Time Warp (1982) (Funvision - Fund. International Co.) (PAL) ~', No returned matches
+'Time Warp (1982) (Funvision - Fund. International Co.)', No returned matches
+'Tennis (Hack) (208 in 1) (Unknown) (PAL)', No returned matches
+'Time Race (AKA Space Jockey) (1983) (Rainbow Vision - Suntek - Sunteck Corporation) (SS-001) (PAL)', No returned matches
+'Time Warp (1983) (CCE) (C-845)', No returned matches
+'Time Warp (Unknown) (PAL)', No returned matches
+'Time Warp (Unknown)', No returned matches
+'Time Warp (Zellers)', No returned matches
+'Title Match Pro Wrestling (1987) (Absolute Entertainment, Alex DeMeo) (AG-041-04) ~', No returned matches
+'Title Match Pro Wrestling - Pro Wrestling (1987) (Absolute Entertainment, Alex DeMeo) (EAZ-041-04I) (PAL)', No returned matches
+'Tom Boy (AKA Pitfall!) (Unknown)', No returned matches
+'Tom Boy (AKA Pitfall!) (1983) (Rainbow Vision - Suntek) (SS-005) (PAL)', No returned matches
+'Tom's Eierjagd (AKA Play Farm) (1983) (Quelle) (731.503 9) (PAL)', No returned matches
+'Tomarc the Barbarian (Thundarr the Barbarian) (1983) (99007, 6240) (Xonox - K-Tel Software - Product Guild, Anthony R. Henderson) ~', No returned matches
+'Tomcat - The F-14 Fighter Simulator (1988) (Absolute Entertainment, Dan Kitchen) (AK-046-04) ~', No returned matches
+'Tooth Protectors (1983) (Camelot - DSD, Michael Doherty, Clyde Hager - Johnson & Johnson) ~', No returned matches
+'Topy (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Thunderground (Underground) (1983) (SEGA, Jeff Lorenz) (003-01) ~', No returned matches
+'Towering Inferno (1982) (U.S. Games Corporation - Western Technologies, Jeff Corsiglia, Paul Allen Newell, Tom Sloper) (VC1009) ~', No returned matches
+'Towering Inferno (208 in 1) (Unknown) (PAL)', No returned matches
+'Treasure Hunting (AKA Pitfall!) (Funvision - Fund. International Co.)', No returned matches
+'Track and Field (Los Angeles 1984 Games) (Track & Field Controller) (1984) (Atari - GCC, Jaques Hugon, Seth Lipkin) (CX26125, CX26127) ~', No returned matches
+'Treasure Below (1983) (Video Gems) (VG-05) (PAL) ~', No returned matches
+'Treasure Island (AKA Treasure Discovery) (1983) (Suntek) (SS-026) (PAL)', No returned matches
+'Trick Shot (1982) (Imagic, Dennis Koble) (720000-100, 720100-1B, IA3000, IA3000C) ~', No returned matches
+'Trick Shot (1982) (Imagic, Dennis Koble) (720100-2B, IA3000P) (PAL)', No returned matches
+'Trick Shot (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Tuby Bird (AKA Dolphin) (1983) (Rainbow Vision - Suntek) (SS-020) (PAL)', No returned matches
+'Tuby Bird (AKA Dolphin) (208 in 1) (Unknown) (PAL)', No returned matches
+'Tunnel Runner (Black Box) (1983) (CBS Electronics, Richard K. Balaska Jr., Andy Frank, Stuart Ross) (4L 2520 5000) (Prototype)', No returned matches
+'Tunnel Runner (Black Box) (1983) (CBS Electronics, Richard K. Balaska Jr., Andy Frank, Stuart Ross) (4L 2520 5000) ~', No returned matches
+'Turbo (1982) (Coleco - Product Guild - GMA, Michael Green, Anthony R. Henderson, Gary Littleton) (2455) (Prototype) ~', No returned matches
+'Turmoil (1982) (20th Century Fox Video Games - Sirius Software, Mark Turmell) (11007) ~', No returned matches
+'Top Gun - Air Patrol (AKA Air Raiders) (1983) (Quelle - Otto Versand) (626.502 9 - 746381) (PAL)', No returned matches
+'Turmoil (Unknown) (PAL)', No returned matches
+'Turmoil (Zellers)', No returned matches
+'Tutankham (1983) (Parker Brothers, Dave Engman, Dawn Stockbridge) (931509) (PAL)', No returned matches
+'Turmoill (AKA Turmoil) (1983) (CCE) (C-850)', No returned matches
+'Tutankham (1983) (Parker Brothers, Dave Engman, Dawn Stockbridge) (PB5340) ~', No returned matches
+'Rabbit Transit (08-29-1983) (Atari) (Prototype)', No returned matches
+'Rabbit Transit (Hopalong Catastrophe) (1983) (Starpath Corporation, Brian McGhie) (8) (AR-4104) ~', No returned matches
+'Rabbit Transit (Hopalong Catastrophe) (Preview) (1983) (Starpath Corporation, Brian McGhie) (8) (AR-4104)', No returned matches
+'Rabbit Transit (Hopalong Catastrophe) (1983) (Starpath Corporation, Brian McGhie) (8) (AR-4104) (PAL)', No returned matches
+'Racer (1982) (Atari - Roklan, Joe Gaucher) (Prototype) [a]', No returned matches
+'Racer (1982) (Atari - Roklan, Joe Gaucher) (Prototype) ~', No returned matches
+'Racing Car (1983) (Home Vision, R.J.P.G. - Gem International Corporation - VDI) (VCS83124) (PAL) ~', No returned matches
+'Racquetball (1982) (Apollo - Games by Apollo, Ed Salvo, Byron Parks) (AP-2003) [a]', No returned matches
+'Racquetball (1982) (Apollo - Games by Apollo, Ed Salvo, Byron Parks) (AP-2003) (PAL)', No returned matches
+'Racquetball (1982) (Apollo - Games by Apollo, Ed Salvo, Byron Parks) (AP-2003) ~', No returned matches
+'Racquetball (Unknown) (PAL)', No returned matches
+'Racquetball (Unknown)', No returned matches
+'Rad Action Pak - Kung-Fu Master, Freeway, Frostbite (1990) (HES - Activision) (559) (PAL)', No returned matches
+'Racing Car (Unknown)', No returned matches
+'Radar (AKA Exocet) (1983) (CCE) (C-867)', No returned matches
+'Radar Lock (Dog Fight) (1989) (Atari, Douglas Neubauer) (CX26176) (PAL)', No returned matches
+'Raft Rider (1983) (U.S. Games Corporation - Western Technologies, Dave Hampton) (VC2006) ~', No returned matches
+'Radar Lock (Dog Fight) (1989) (Atari, Douglas Neubauer) (CX26176) ~', No returned matches
+'Raft Rider (208 in 1) (Unknown) (PAL)', No returned matches
+'Radar (AKA Exocet) (Zellers)', No returned matches
+'Raft Rider (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Raiders of the Lost Ark (1982) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX2659) ~', No returned matches
+'Raketen-Angriff (AKA Missile Control) (Videospielkassette - Ariola) (PGP236) (PAL)', No returned matches
+'Ram It (1983) (Telesys, Jim Rupp) (1004) (PAL)', No returned matches
+'Ram It (1983) (Telesys, Jim Rupp) (1004) ~', No returned matches
+'Rampage! (1989) (Activision - Bobco, Robert C. Polaro) (AK-049-04) ~', No returned matches
+'Raiders of the Lost Ark (1982) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX2659) (PAL)', No returned matches
+'Rampage! (1989) (Activision - Bobco, Robert C. Polaro) (EAK-049-04B) (PAL)', No returned matches
+'Raumbasen-Attacke - Base Attack (1983) (Quelle - Otto Versand) (732.074 0 - 781778) (PAL)', No returned matches
+'Reactor (1983) (Parker Brothers, Charlie Heath) (931506) (PAL)', No returned matches
+'Raumpatrouille (AKA X'Mission) (1983) (Quelle) (731.064 2) (PAL)', No returned matches
+'Reactor (1983) (Parker Brothers, Charlie Heath) (PB5330) ~', No returned matches
+'Ram It (Unknown) (PAL)', No returned matches
+'RealSports Baseball (07-09-1982) (Atari, Eric Manghise, Mimi Nyden, Joseph Tung) (CX2640) (Prototype)', No returned matches
+'RealSports Baseball (1982) (Atari, Eric Manghise, Mimi Nyden, Joseph Tung) (CX2640) (Prototype) (4K)', No returned matches
+'RealSports Baseball (1982) (Atari, Eric Manghise, Mimi Nyden, Joseph Tung) (CX2640) (Prototype)', No returned matches
+'RealSports Basketball (01-11-1983) (Atari - Roklan, Joe Gaucher) (CX2679) (Prototype) (PAL) ~', No returned matches
+'RealSports Baseball (1982) (Atari, Eric Manghise, Mimi Nyden, Joseph Tung) (CX2640) ~', No returned matches
+'RealSports Basketball (12-28-1982) (Atari - Roklan, Joe Gaucher) (CX2679) (Prototype) (PAL)', No returned matches
+'RealSports Boxing (1987) (Atari - Imagineering, Alex DeMeo) (CX26135) ~', No returned matches
+'RealSports Boxing (1987) (Atari - Imagineering, Alex DeMeo) (CX26135, CX26135P) (PAL)', No returned matches
+'RealSports Football (Football II) (1982) (Atari, Alan J. Murphy, Robert Zdybel) (CX2668) (Prototype)', No returned matches
+'RealSports Football (Football II) (1982) (Atari, Alan J. Murphy, Robert Zdybel) (CX2668) ~', No returned matches
+'RealSports Soccer - Football - RealSports Soccer (1983) (Atari, Jerome Domurat, Michael Sierchio) (CX2667) (Prototype)', No returned matches
+'RealSports Soccer - Football - RealSports Soccer (1983) (Atari, Jerome Domurat, Michael Sierchio) (CX2667) [no opening tune] ~', No returned matches
+'RealSports Soccer - Football - RealSports Soccer (1983) (Atari, Jerome Domurat, Michael Sierchio) (CX2667) ~', No returned matches
+'RealSports Soccer - Football - RealSports Soccer (1983) (Atari, Jerome Domurat, Michael Sierchio) (CX2667, CX2667P) (PAL)', No returned matches
+'RealSports Tennis (1982) (Atari - GCC) (CX2680) (Prototype)', No returned matches
+'RealSports Tennis (1983) (Atari - GCC) (CX2680) ~', No returned matches
+'RealSports Tennis (1983) (Atari - GCC) (CX2680, CX2680P) (PAL)', No returned matches
+'RealSports Volleyball (1982) (Atari, Jim Huether, Alan J. Murphy, Robert C. Polaro) (CX2666) (Prototype)', No returned matches
+'RealSports Volleyball (1982) (Atari, Jim Huether, Alan J. Murphy, Robert C. Polaro) (CX2666, CX2666P) (PAL)', No returned matches
+'RealSports Volleyball (1982) (Atari, Jim Huether, Alan J. Murphy, Robert C. Polaro) (CX2666) ~', No returned matches
+'Red Sea Crossing (1983) (Inspirational Video Concepts, Steve Shustack) (321430) ~', No returned matches
+'Rescue Terra I (1982) (VentureVision, Dan Oliver) (VV2001) ~', No returned matches
+'Raiders of the Lost Ark (06-14-82) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX2659) (Prototype)', No returned matches
+'Revenge of the Beefsteak Tomatoes (Revenge of the Cherry Tomatoes) (1983) (20th Century Fox Video Games, John Russell) (11016) ~', No returned matches
+'Reversi (AKA Othello) (32 in 1) (1988) (Atari, Ed Logg, Carol Shaw) (CX26163P) (PAL)', No returned matches
+'Resgate Espacial (AKA Moonsweeper) (CCE)', No returned matches
+'Riddle of the Sphinx (1982) (Imagic, Rob Fulop, Bob Smith) (720106-2A, IA3600P, EIX-009-04I) (PAL)', No returned matches
+'River Patrol (1984) (Tigervision) (7-004) ~', No returned matches
+'Riddle of the Sphinx (1982) (Imagic, Rob Fulop, Bob Smith) (720106-1A, IA3600) ~', No returned matches
+'River Raid (1982) (Activision, Carol Shaw) (EAX-020) (SECAM)', No returned matches
+'River Raid (1983) (CCE) (C-811) [a]', No returned matches
+'River Raid (1982) (Activision, Carol Shaw) (AX-020, AX-020-04) ~', No returned matches
+'River Raid (1984) (Galaga Games) (PAL)', No returned matches
+'River Raid (1983) (Digitel)', No returned matches
+'River Raid (1984) (Galaga Games)', No returned matches
+'River Raid (1984) (Supergame) (71)', No returned matches
+'River Raid (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'River Raid (Digivision)', No returned matches
+'River Raid (Genus)', No returned matches
+'River Raid (Hack) (208 in 1) (Unknown) (PAL) [a]', No returned matches
+'River Raid (Canal 3 - Intellivision)', No returned matches
+'River Raid (1983) (CCE) (C-811)', No returned matches
+'River Raid (Hack) (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'River Raid (Robby) (18)', No returned matches
+'River Raid (Star Game) (003)', No returned matches
+'River Raid (Unknown) (PAL)', No returned matches
+'River Raid (Polyvox)', No returned matches
+'River Raid - Jagdflieger (1982) (Activision, Carol Shaw - Ariola) (EAX-020, EAX-020-04B, EAX-020-04I - 711 020-720) (PAL)', No returned matches
+'River Raid (Hack) (208 in 1) (Unknown) (PAL)', No returned matches
+'River Raid II (AKA River Raid) (1985) (Digitel)', No returned matches
+'River Raid II (AKA River Raid) (Digimax)', No returned matches
+'River Raid II (AKA River Raid) (Supergame)', No returned matches
+'River Raid III (AKA River Raid) (Supergame)', No returned matches
+'River Raid III (AKA River Raid) (1985) (Digitel)', No returned matches
+'Road Runner (06-25-1984) (Atari - Bobco, Robert C. Polaro) (CX2663) (Prototype)', No returned matches
+'River Raid II (1988) (Activision - Imagineering, Dan Kitchen, David Lubar) (AK-048-04) ~', No returned matches
+'Road Runner (1989) (Atari - Bobco, Robert C. Polaro) (CX2663) ~', No returned matches
+'Road Runner (1989) (Atari - Bobco, Robert C. Polaro) (CX2663) (PAL)', No returned matches
+'Robin Hood (1983) (Xonox - K-Tel Software - Computer Magic) (99005, 6220, 6250) (PAL)', No returned matches
+'Road Runner (CCE)', No returned matches
+'Robin Hood (AKA Save Our Ship) (1983) (Quelle) (684.733 9) (PAL)', No returned matches
+'Robin Hood (1983) (Xonox - K-Tel Software - Computer Magic) (99005, 6220, 6250) ~', No returned matches
+'Robot Tank (HES - Activision) (PAL)', No returned matches
+'Robot Fight (AKA Space Robot) (1983) (Home Vision - Gem International Corporation - VDI) (VCS83101) (PAL)', No returned matches
+'Robot Tank (Robotank) (1983) (Activision, Alan Miller) (AZ-028, AG-028-04) ~', No returned matches
+'Robot Tank - Rebellion der Roboter (Robotank) (1983) (Activision, Alan Miller - Ariola) (EAZ-028 - 711 028-725) (PAL)', No returned matches
+'Roc 'n Rope (1984) (CBS Electronics, Ed English) (4L1751) (PAL)', No returned matches
+'River Raid II (1988) (Activision - Imagineering, Dan Kitchen, David Lubar) (EAK-048-04, EAK-048-04B) (PAL)', No returned matches
+'Roc 'n Rope (1984) (Coleco, Ed English) (2667) ~', No returned matches
+'Rocky & Bullwinkle (04-20-1983) (M Network, Steve Crandall, Patricia Lewis Du Long) (MT4646) (Prototype) ~', No returned matches
+'Rodeo Champ (AKA Stampede) (4 Game in One) (1983) (Bit Corporation) (PGP218) (PAL)', No returned matches
+'Room of Doom (1982) (CommaVid, Irwin Gaines) (CM-004) ~', No returned matches
+'Room of Doom (208 in 1) (Unknown) (PAL)', No returned matches
+'Room of Doom - Raum ohne Ausweg (1982) (CommaVid, Irwin Gaines - Ariola) (CM-004 - 712 004-720) (PAL)', No returned matches
+'Rubik's Cube 3-D (1982) (Atari, Peter C. Niday) (Prototype) ~', No returned matches
+'Rush Hour (1983) (Commavid, Ben Burch) (CM-010) (Prototype) [a1]', No returned matches
+'Rush Hour (1983) (Commavid, Ben Burch) (CM-010) (Prototype) [a2]', No returned matches
+'Rush Hour (1983) (Commavid, Ben Burch) (CM-010) (Prototype) ~', No returned matches
+'E.T. - The Extra-Terrestrial (1982) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX2674) ~', No returned matches
+'E.T. - The Extra-Terrestrial (CCE)', No returned matches
+'E.T. - The Extra-Terrestrial (1982) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX2674) (PAL)', No returned matches
+'Earth Dies Screaming, The (The Day the Earth Stood Still) (1983) (20th Century Fox Video Games - Sirius Software, Dan Thompson) (11020) ~', No returned matches
+'Earth Dies Screaming, The (Unknown) (PAL)', No returned matches
+'Eddy Langfinger, der Museumsdieb (AKA A Mysterious Thief) (1983) (Quelle) (732.052 6) (PAL)', No returned matches
+'Rubik's Cube (AKA Atari Video Cube) (1984) (Atari - GCC) (CX2698)', No returned matches
+'Eggomania (Weird Bird) (Paddle) (1982) (U.S. Games Corporation - JWDA, Todd Marshall, Robin McDaniel, Wes Trager, Henry Will IV) (VC2003) ~', No returned matches
+'Eggomania (Canal 3 - Intellivision)', No returned matches
+'Eggomania - Eierregen (Paddle) (1983) (Carrere Video - JWDA, Todd Marshall, Robin McDaniel, Wes Trager, Henry Will IV - Teldec - Prism) (USC2003) (PAL)', No returned matches
+'Eishockey-Fieber (AKA Ice Hockey) (1983) (Quelle) (873.790 0) (PAL)', No returned matches
+'Elevator Action (1983) (Atari, Dan Hitchens) (CX26126) (Prototype) ~', No returned matches
+'Elf Adventure (04-22-83) (Atari, Warren Robinett) (Prototype)', No returned matches
+'Elf Adventure (05-02-83) (Atari, Warren Robinett) (Prototype)', No returned matches
+'Elf Adventure (05-25-83) (Atari, Warren Robinett) (Prototype) ~', No returned matches
+'Elk Attack (1987) (Atari, Mark R. Hahn) (Prototype) ~', No returned matches
+'Encounter at L-5 (Megalon Invasion) (Paddle) (1982) (Data Age) (DA1001) ~', No returned matches
+'Earth Attack (AKA Defender) (Zellers)', No returned matches
+'Encounter at L-5 (Megalon Invasion) (Paddle) (1983) (Gameworld) (133-001) (PAL)', No returned matches
+'End of the World, The (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co)', No returned matches
+'Eli's Ladder (1984) (Simage) ~', No returned matches
+'Enduro (1983) (CCE) (C-810)', No returned matches
+'Enduro (1983) (Digitel)', No returned matches
+'Enduro (1984) (Supergame)', No returned matches
+'Enduro (1983) (Dynacom)', No returned matches
+'Enduro (1983) (Activision, Larry Miller) (AX-026, AX-026-04) ~', No returned matches
+'Enduro (Digivision)', No returned matches
+'Enduro (Robby)', No returned matches
+'Enduro (Tron)', No returned matches
+'Enduro (Canal 3 - Intellivision)', No returned matches
+'Enduro (Unknown)', No returned matches
+'Entity, The (1983) (20th Century Fox Video Games, Mark Klein) (11036) (Prototype) ~', No returned matches
+'Enduro (Dactari - Milmar)', No returned matches
+'Enduro (Unknown) (PAL)', No returned matches
+'Enduro - Transamerika-Rennen (1983) (Activision, Larry Miller - Ariola) (EAX-026, EAX-026-04B, EAX-026-04I - 711 026-725) (PAL)', No returned matches
+'Escape from the Mindmaster (Labyrinth) (1 of 4) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200) (PAL)', No returned matches
+'Entombed (Maze Chase, Pharaoh's Tomb, Zombie) (1983) (U.S. Games Corporation - Western Technologies, Jeff Corsiglia, Paul Allen Newell, Steven B. Sidley, Tom Sloper) (VC2007) ~', No returned matches
+'Escape from the Mindmaster (Labyrinth) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200) (PAL)', No returned matches
+'Escape from the Mindmaster (Labyrinth) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200) ~', No returned matches
+'Escape from the Mindmaster (Labyrinth) (2 of 4) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200) (PAL)', No returned matches
+'Escape from the Mindmaster (Labyrinth) (2 of 4) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200)', No returned matches
+'Escape from the Mindmaster (Labyrinth) (3 of 4) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200) (PAL)', No returned matches
+'Escape from the Mindmaster (Labyrinth) (3 of 4) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200)', No returned matches
+'Escape from the Mindmaster (Labyrinth) (4 of 4) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200) (PAL)', No returned matches
+'Escape from the Mindmaster (Labyrinth) (4 of 4) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200)', No returned matches
+'Escape from the Mindmaster (Labyrinth) (Preview) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200) (PAL)', No returned matches
+'Escape from the Mindmaster (Labyrinth) (1 of 4) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200)', No returned matches
+'Escape from the Mindmaster (Labyrinth) (Preview) (1982) (Starpath Corporation, Dennis Caswell) (5) (AR-4200)', No returned matches
+'Espial (1984) (Tigervision - Teldec) (7-012 - 3.60016 VC) (PAL)', No returned matches
+'Espial (1984) (Tigervision) (7-012) ~', No returned matches
+'Euro Gen (02-01-83) (JWDA, Todd Marshall) (PAL) ~', No returned matches
+'Excalibur (Dragonstomper Beta) (1982) (Arcadia Corporation, Stephen H. Landrum) (6) (AR-4400) (Prototype) [a]', No returned matches
+'Excalibur (Dragonstomper Beta) (1982) (Arcadia Corporation, Stephen H. Landrum) (6) (AR-4400) (Prototype)', No returned matches
+'Excalibur Version 36 (Dragonstomper Beta) (1982) (Arcadia Corporation, Stephen H. Landrum) (6) (AR-4400) (Prototype)', No returned matches
+'Excalibur Version 39 (Dragonstomper Beta) (1982) (Arcadia Corporation, Stephen H. Landrum) (6) (AR-4400) (Prototype)', No returned matches
+'Exocet (1982) (Sancho - Tang's Electronic Co.) (TEC001) (PAL) ~', No returned matches
+'Exoset Missile (AKA Exocet) (1982) (John Sands Electronics) (JS145B) (PAL)', No returned matches
+'Extra Terrestrials (1984) (Skill Screen Games, Herman Quast) ~', No returned matches
+'128 in 1 Game Select ROM (128 in 1) (Unknown) ~', No returned matches
+'2 Pak Special - Cavern Blaster, City War (1992) (HES) (773-867) (PAL)', No returned matches
+'2 Pak Special - Challenge, Surfing (1990) (HES) (771-333) (PAL)', No returned matches
+'Exocet (1983) (Panda) (109)', No returned matches
+'2 Pak Special - Dolphin, Oink (1990) (HES) (771-341) (PAL)', No returned matches
+'2 Pak Special - Dolphin, Pigs n' Wolf (1990) (HES) (771-341) (PAL)', No returned matches
+'2 Pak Special - Hoppy, Alien Force (1992) (HES) (773-875) (PAL)', No returned matches
+'2 Pak Special - Space Voyage, Fire Alert (1992) (HES) (773-883) (PAL)', No returned matches
+'2 Pak Special - Dungeon Master, Creature Strike (1992) (HES) (773-891) (PAL)', No returned matches
+'2 Pak Special - Star Warrior, Frogger (1990) (HES) (771-422) (PAL)', No returned matches
+'2 Pak Special - Moto-Cross, Boom Bang (1990) (HES) (701-157) (PAL)', No returned matches
+'2 Pak Special - Wall Defender, Planet Patrol (1990) (HES) (771-406) (PAL)', No returned matches
+'3-D Ghost Attack (1983) (Amiga - Video Soft, Michael K. Glass, Jerry Lawson) (Prototype) ~', No returned matches
+'3-D Havoc (1983) (Amiga - Video Soft, Frank Ellis, Jerry Lawson) (2110) (Prototype) ~', No returned matches
+'3-D Tic-Tac-Toe (1980) (Atari, Carol Shaw - Sears) (CX2618 - 49-75123) ~', No returned matches
+'3-D Zapper (12-15-82) (U.S. Games Corporation - JWDA, Todd Marshall) (Prototype) ~', No returned matches
+'3-D Tic-Tac-Toe (1980) (Atari, Carol Shaw) (CX2618, CX2618P) (PAL)', No returned matches
+'208 in 1 Game Select ROM (208 in 1) (Unknown) (PAL) ~', No returned matches
+'3-D Zapper (U.S. Games Corporation - JWDA, Todd Marshall) (Prototype)', No returned matches
+'3-D Genesis (1983) (Amiga - Video Soft, Jerry Lawson, Dan McElroy) (Prototype) ~', No returned matches
+'32 in 1 Game ROM (1988) (Atari) (Prototype) (PAL)', No returned matches
+'32 in 1 Console ROM (02-10-1989) (Atari) (Prototype) (PAL)', No returned matches
+'32 in 1 Game Cartridge (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'4 Game in One - Rodeo Champ, Open Sesame, Bobby Is Going Home, Festival (1983) (Bit Corporation) (P460) (PAL)', No returned matches
+'3D Tic-Tac-Toe (32 in 1) (1988) (Atari, Carol Shaw) (CX26163P) (PAL)', No returned matches
+'8 in 1 (Supergames 8 in 1) (01-16-92) (Atari) (CX26193) (Prototype)', No returned matches
+'4 in 1 - Canyon Bomber, Home Run, Night Driver, Sky Diver (02-19-1987) (Atari) (CX26137) (Prototype)', No returned matches
+'UFI und sein gefaehrlicher Einsatz (AKA Go Go Home) (1983) (Quelle) (732.174 8) (PAL)', No returned matches
+'4 Game in One - Ice Hockey, Phantom UFO, Spy Vs. Spy, Cosmic Avenger (1983) (Bit Corporation) (PAL)', No returned matches
+'Universal Chaos (AKA Targ) (1988) (Telegames - VSS) (7062 A305) (PAL)', No returned matches
+'UFO (AKA Space Jockey) (32 in 1) (1988) (Atari) (CX26163P) (PAL)', No returned matches
+'Ungeheuer der Tiefe (AKA Skindiver) (1983) (Quelle) (719.013 5) (PAL)', No returned matches
+'Universal Chaos (AKA Targ) (1988) (Telegames - VSS) (7062 A305) ~', No returned matches
+'Unknown Activision Game (10-22-1982) (Activision) (Prototype)', No returned matches
+'Unknown Activision Game (10-29-1982) (Activision) (Prototype) ~', No returned matches
+'Unknown Datatech Game (2600 Screen Search Console) (Jone Yuan Telephonic Enterprise Co) ~', No returned matches
+'Up 'n Down (1984) (SEGA - Beck-Tech, Steve Beck, Phat Ho) (009-01) ~', No returned matches
+'G.I. Joe - Cobra Strike (Paddle) (1983) (Parker Brothers, John Emerson) (PB5920) ~', No returned matches
+'Galactic (AKA Condor Attack) (1983) (Goliath - Hot Shot) (83-416) (PAL)', No returned matches
+'Galactic (AKA The Challenge of.... Nexar) (1983) (Quelle) (218.202 0) (PAL)', No returned matches
+'Galactic (AKA Condor Attack) (Funvision - Fund. International Co.) (PAL)', No returned matches
+'UFO Patrol (AKA X'Mission) (1983) (Suntek) (SS-031) (PAL)', No returned matches
+'Galactic (AKA The Challenge of.... Nexar) (1983) (Rainbow Vision - Suntek) (SS-002) (PAL)', No returned matches
+'Galatic (AKA Challenge of.... Nexar, The) (208 in 1) (Unknown) (PAL)', No returned matches
+'Galaxian (01-05-1983) (Atari - GCC, Mark Ackerman, Tom Calderwood, Glenn Parker) (CX2684) (Prototype)', No returned matches
+'Galaxian (1983) (Atari - GCC, Mark Ackerman, Tom Calderwood, Glenn Parker) (CX2684) ~', No returned matches
+'Galaxian (02-04-1983) (Atari - GCC, Mark Ackerman, Tom Calderwood, Glenn Parker) (CX2684) (Prototype)', No returned matches
+'Galaxian (1983) (Atari - GCC, Mark Ackerman, Tom Calderwood, Glenn Parker) (CX2684, CX2684P) (PAL)', No returned matches
+'Galaxian (Digivision)', No returned matches
+'Universal Chaos (AKA Targ) (1988) (Telegames - VSS) (7062 A305) (Prototype)', No returned matches
+'Game of Concentration, A (AKA Hunt & Score) (Keyboard Controller) (1980) (Atari, Alan Miller) (CX2642P) (PAL)', No returned matches
+'Game of Concentration, A - Concentration (AKA Hunt & Score) (Keyboard Controller) (1980) (Atari, Alan Miller) (CX2642)', No returned matches
+'GameLine Master Module ROM (1983) (Control Video Corporation) ~', No returned matches
+'Galaxian (CCE)', No returned matches
+'Gamma-Attack (1983) (Gammation, Robert L. Esken Jr.) ~', No returned matches
+'Gangster (AKA Outlaw) (Videospielkassette - Ariola) (PGP238) (PAL)', No returned matches
+'Gangster Alley - Gangster Ruine (1982) (Spectravision - Spectravideo - Quelle) (SA-201 - 412.783 3) (PAL)', No returned matches
+'Garfield (Garfield on the Run) (06-21-1984) (Atari, Mimi Nyden, Steve Woita) (CX26132) (Prototype) ~', No returned matches
+'Gas Hog (1983) (Spectravideo, Mark Turmell) (SA-217) [fixed] ~', No returned matches
+'Gangster Alley (1982) (Spectravision - Spectravideo) (SA-201) ~', No returned matches
+'Gas Hog (1983) (Spectravideo, Mark Turmell) (SA-217) ~', No returned matches
+'Gefaehrliche Maeusejagd (AKA Topy) (1983) (Quelle) (719.551 4) (PAL)', No returned matches
+'Gangster Alley (1982) (Spectravision - Spectravideo) (SA-201) [fixed] ~', No returned matches
+'Gefecht im All (AKA Space Jockey) (1983) (Quelle) (147.443 6) (PAL)', No returned matches
+'Gauntlet (1983) (Answer Software Corporation - TY Associates, Mike Wentz) (ASC1002) ~', No returned matches
+'Ghost Manor (1983) (Xonox - K-Tel Software - Beck-Tech, Steve Beck) (6210, 06002, 06004, 99002) (PAL)', No returned matches
+'General Re-Treat (AKA Custer's Revenge) (1982) (PlayAround - J.H.M.) (206) (PAL)', No returned matches
+'Ghostbusters (1985) (Activision, David Crane, Dan Kitchen) (AZ-108-04) ~', No returned matches
+'Ghost Manor (1983) (Xonox - K-Tel Software - Beck-Tech, Steve Beck) (6210, 06002, 06004, 99002) ~', No returned matches
+'Gas Hog - Piraten Schiff (1983) (Spectravideo, Mark Turmell - Quelle) (SA-217, SA-217C - 413.723 8) (PAL)', No returned matches
+'Ghostbusters II (1992) (Salu - Avantgarde Software, Michael Buetepage) (460741) (PAL) [different tune] ~', No returned matches
+'Ghostbusters II (1992) (Salu - Avantgarde Software, Michael Buetepage) (460741) (PAL) ~', No returned matches
+'Ghostbusters (1985) (Activision, David Crane, Dan Kitchen) (EAG-108-04, EAZ-108-04B) (PAL)', No returned matches
+'Gigolo (1982) (PlayAround - J.H.M.) (205)', No returned matches
+'Glacier Patrol (1988) (Telegames - VSS, Ed Salvo) (5665 A016) (PAL)', No returned matches
+'Glacier Patrol (1988) (Telegames - VSS, Ed Salvo) (5667 A106) ~', No returned matches
+'Glib - Video Word Game (Head of the Class) (1983) (QDI, Mike Montana, Rich Montana - Selchow & Righter) (87) ~', No returned matches
+'Go Go Home (Unknown)', No returned matches
+'Going-Up (1983) (Starpath Corporation) (Prototype) ~', No returned matches
+'Go Go Home Monster (AKA Go Go Home) (1983) (Home Vision - Gem International Corporation - VDI) (PAL)', No returned matches
+'Golf (32 in 1) (1988) (Atari, Tom Rudadahl) (CX26163P) (PAL)', No returned matches
+'Golf (Championship Golf) (1980) (Atari, Tom Rudadahl - Sears) (CX2634 - 49-75121) ~', No returned matches
+'Golf (208 in 1) (Unknown) (PAL)', No returned matches
+'Golf (Championship Golf) (1980) (Atari, Tom Rudadahl) (CX2634, CX2634P) (PAL)', No returned matches
+'Golf (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Golf Diagnostic (1983) (Video Soft, Jerry Lawson, Dan McElroy) (Prototype) ~', No returned matches
+'Gopher (208 in 1) (Unknown) (PAL)', No returned matches
+'Good Luck, Charlie Brown (04-18-1984) (Atari, Christopher H. Omarzu, Courtney Granner) (CX26112) (Prototype) ~', No returned matches
+'Gopher (Gopher Attack) (1982) (U.S. Games Corporation - JWDA, Sylvia Day, Todd Marshall, Robin McDaniel, Henry Will IV) (VC2001) ~', No returned matches
+'Gopher (Unknown) (PAL)', No returned matches
+'Gopher - Vorsicht Whlmaus! (1983) (Carrere Video - JWDA, Sylvia Day, Todd Marshall, Robin McDaniel, Henry Will IV - Teldec - Prism) (USC2001) (PAL)', No returned matches
+'Gorf (1982) (CBS Electronics - Roklan, Joe Gaucher, Alex Leavens) (4L1751, 4L1752, 4L1753, 4L2275) (PAL)', No returned matches
+'Gorf (1982) (CBS Electronics - Roklan, Joe Gaucher, Alex Leavens) (M8776, M8793) (Prototype)', No returned matches
+'Gorf (1982) (CBS Electronics - Roklan, Joe Gaucher, Alex Leavens) (M8776, M8793) ~', No returned matches
+'Grand Prix (1982) (Activision, David Crane - Ariola) (EAX-014, PAX-014, EAX-014-04B, EAX-014-04I - 711 014-720) (PAL)', No returned matches
+'Grand Prix (1982) (Activision, David Crane) (AX-014, AX-014-04) ~', No returned matches
+'Grand Prix (1983) (CCE) (C-826) [a]', No returned matches
+'Grand Prix (1983) (CCE) (C-826)', No returned matches
+'Grand Prix (Robby)', No returned matches
+'Grand Prize (AKA Enduro) (Funvision - Fund. International Co.)', No returned matches
+'Gravitar (1983) (Atari, Dan Hitchens, Mimi Nyden) (CX2685) ~', No returned matches
+'Gravitar (04-12-1983) (Atari, Dan Hitchens, Mimi Nyden) (CX2685) (Prototype)', No returned matches
+'Gravitar (CCE)', No returned matches
+'Great Escape (AKA Asteroid Fire) (1983) (Bomb - Onbase) (CA282) (PAL)', No returned matches
+'Great Escape (AKA Asteroid Fire) (1983) (Bomb - Onbase) (CA282)', No returned matches
+'Gremlins (Gargoyle) (03-12-1984) (Atari, Mimi Nyden, Scott Smith, Robert Vieira) (CX26127) (Prototype)', No returned matches
+'Ground Zero (AKA River Raid) (1983) (Goliath - Hot Shot) (83-113) (PAL)', No returned matches
+'Grover's Music Maker (Monkey Music) (Kid's Controller) (01-18-1983) (Atari - CCW, Stephan R. Keith, Laura Scholl, Preston Stuart) (CX26106) (Prototype) ~', No returned matches
+'Gremlins (Gargoyle) (1984) (Atari, Mimi Nyden, Scott Smith, Robert Vieira) (CX26127) ~', No returned matches
+'Grover's Music Maker (Monkey Music) (Kid's Controller) (12-29-1982) (Atari - CCW, Stephan R. Keith, Laura Scholl, Preston Stuart) (CX26106) (Prototype)', No returned matches
+'Guardian (Cosmic Combat) (Paddle) (1982) (Apollo, Larry Martin) (AP-2008) ~', No returned matches
+'Gyruss (1984) (Parker Brothers - Roklan, Joe Gaucher) (PB5080) (PAL)', No returned matches
+'Gyruss (1984) (Parker Brothers - Roklan, Joe Gaucher) (PB5080) ~', No returned matches
+'NFL Football (AKA Football) (32 in 1) (1988) (Atari, Bob Whitehead) (CX26163P) (PAL)', No returned matches
+'Grand Prix (Unknown) (PAL)', No returned matches
+'Name This Game (Guardians of Treasure) (1983) (U.S. Games Corporation - JWDA, Roger Booth, Sylvia Day, Ron Dubren, Todd Marshall, Robin McDaniel, Wes Trager, Henry Will IV) (VC1007) ~', No returned matches
+'Guardian (Cosmic Combat) (Paddle) (1982) (Apollo, Larry Martin) (AP-2008) (Prototype)', No returned matches
+'Name This Game (Hack) (32 in 1) (Bit Corporation) (R320)', No returned matches
+'Name This Game (1983) (Digitel)', No returned matches
+'Name This Game (Unknown) (PAL)', No returned matches
+'Name This Game (Hack) (208 in 1) (Unknown) (PAL)', No returned matches
+'Night Driver (Paddle) (1980) (Atari, Rob Fulop) (CX2633, CX2633P) (PAL)', No returned matches
+'Netmaker (AKA Amidar) (1983) (Rainbow Vision - Suntek) (SS-006) (PAL)', No returned matches
+'Night Stalker (AKA Dark Cavern) (1988) (Telegames) (PAL)', No returned matches
+'Nightmare (1983) (Sancho - Tang's Electronic Co.) (TEC004) (PAL) ~', No returned matches
+'Nightmare (1983) (Sancho - Tang's Electronic Co.) (TEC004)', No returned matches
+'Night Driver (Paddle) (1980) (Atari, Rob Fulop - Sears) (CX2633 - 49-75119) ~', No returned matches
+'No Escape! (Escape from Argos) (1983) (Imagic, Michael Greene) (720055-1A, IA3312) ~', No returned matches
+'No Escape! (Escape from Argos) (1983) (Imagic, Michael Greene) (720055-2A, IA3312P) (PAL)', No returned matches
+'Nuts (Unknown) (PAL)', No returned matches
+'Nuts (Unknown)', No returned matches
+'Nightmare (CCE)', No returned matches
+'Nuts (1983) (TechnoVision - Video Technology) (TVS1001) (PAL) ~', No returned matches

@@ -1,0 +1,216 @@
+--- The following is a list of skipped games ---
+'yuu maze', No returned matches
+'yuushi no monshou (deep dungeon)', No returned matches
+'youkai yashiki', No returned matches
+'hao kun no fushigina tabi', No returned matches
+'halley wars', No returned matches
+'hikari shinwa - parutena no kagami', No returned matches
+'hikaru genji - roller panic', No returned matches
+'hong kong - famimaga disk vol. 1', No returned matches
+'legend of zelda 2 - link no bouken, the', No returned matches
+'lutter', No returned matches
+'jaaman tanteidan marin gumi (maruhi jigoma sousa file)', No returned matches
+'janken disk jou - famimaga disk vol. 6', No returned matches
+'jikai shounen met mag', No returned matches
+'backgammon', No returned matches
+'bakutoushi patton kun', No returned matches
+'baseball', No returned matches
+'big challenge! dogfight spirit', No returned matches
+'big challenge! go! go! bowling', No returned matches
+'big challenge! gun fighter', No returned matches
+'big challenge! juudou senshuken', No returned matches
+'bio miracle bokutte upa', No returned matches
+'bishoujo control (unl)(2)', No returned matches
+'bishoujo control (unl)', No returned matches
+'bishoujo mahjong club (unl)', No returned matches
+'bishoujo sexy derby (unl)', No returned matches
+'bishoujo sf alien battle (unl)', No returned matches
+'bishoujo shashinkan - studio cut (unl)', No returned matches
+'bomberman', No returned matches
+'breeder', No returned matches
+'yume koujou doki doki panic', No returned matches
+'burger time', No returned matches
+'pachi com', No returned matches
+'pachinko grand prix', No returned matches
+'panic space - famimaga disk vol. 2', No returned matches
+'pat pat golf', No returned matches
+'patlabor - mobile police (kidou keisatsu patlabor)', No returned matches
+'bubble bobble', No returned matches
+'pinball', No returned matches
+'pulsar no hikari - space wars simulation', No returned matches
+'puyo puyo - famimaga disk vol. 5', No returned matches
+'puroresu - famicom wrestling association', No returned matches
+'puzzle boys', No returned matches
+'dandy (zeuon no fukkatsu)', No returned matches
+'date de blackjack (unl)', No returned matches
+'dead zone', No returned matches
+'pro golfer saru - kage no tournament', No returned matches
+'deep dungeon (madou senki)', No returned matches
+'donkey kong jr', No returned matches
+'dirty pair - project eden', No returned matches
+'dig dug ii', No returned matches
+'donkey kong', No returned matches
+'doremikko', No returned matches
+'dr. chaos (jigoku no tobira)', No returned matches
+'dig dug', No returned matches
+'dracula ii - noroi no fuuin', No returned matches
+'druid - kyoufu no tobira', No returned matches
+'zanac', No returned matches
+'zatsugaku olympic part ii (unl)', No returned matches
+'zelda no densetsu - the hyrule fantasy', No returned matches
+'sailor fuku bishoujo zukan vol. 1 (unl)', No returned matches
+'sailor fuku bishoujo zukan vol. 3 (unl)', No returned matches
+'sailor fuku bishoujo zukan vol. 5 (unl)', No returned matches
+'sailor fuku bishoujo zukan vol. 6 (unl)', No returned matches
+'samurai sword', No returned matches
+'santa claus no takarabako', No returned matches
+'sd gundam world - gachapon senshi - scramble wars (sg1)', No returned matches
+'sd gundam world - gachapon senshi - scramble wars (sgw)', No returned matches
+'section-z', No returned matches
+'seiken saikokaribaa (majuu no mori densetsu)', No returned matches
+'silviana (ai ippai no boukensha)', No returned matches
+'smash ping-pong', No returned matches
+'soccer', No returned matches
+'solomon no kagi', No returned matches
+'super lode runner ii', No returned matches
+'super boy allan', No returned matches
+'super lode runner', No returned matches
+'super mario bros 2', No returned matches
+'super mario bros', No returned matches
+'super mario funky disk (hack)', No returned matches
+'wardner no mori', No returned matches
+'winter games', No returned matches
+'wrecking crew', No returned matches
+'adian no tsue', No returned matches
+'suishou no dragon', No returned matches
+'akumajou dracula (hack)', No returned matches
+'akumajou dracula', No returned matches
+'akuu senki raijin', No returned matches
+'all night nippon super mario bros', No returned matches
+'apple town story - little computer people', No returned matches
+'all one - famimaga disk vol. 3', No returned matches
+'arumana no kiseki', No returned matches
+'aspic - majaou no noroi', No returned matches
+'kaettekita mario bros', No returned matches
+'kalin no tsurugi', No returned matches
+'kamen rider black - taiketsu shadow moon', No returned matches
+'karate champ', No returned matches
+'kick and run', No returned matches
+'Ai Senshi Nicol', No returned matches
+'kieta princess', No returned matches
+'kattobi! douji', No returned matches
+'kiki kaikai - dotou hen', No returned matches
+'kineko - kinetic connection - the monitor puzzle vol. ii', No returned matches
+'kick challenger - air foot (yasai no kuni no ashi senshi)', No returned matches
+'kinnikuman - kinnikusei oui soudatsusen', No returned matches
+'knight lore (majou no ookami otoko)', No returned matches
+'knight move', No returned matches
+'kobayashi hitome no hold up (unl)', No returned matches
+'konamic ice hockey', No returned matches
+'konamic tennis', No returned matches
+'koneko monogatari - the adventures of chatran', No returned matches
+'magma project hacker', No returned matches
+'Aki to Tsukasa no Fushigi no Kabe (UNL)', No returned matches
+'kineko - kinetic connection - the monitor puzzle', No returned matches
+'mahjong (chr1)', No returned matches
+'marchen veil', No returned matches
+'mario bobble (hack)', No returned matches
+'matou no houkai - the hero of babel', No returned matches
+'meikyuu jiin dababa', No returned matches
+'metroid', No returned matches
+'michael english dai bouken', No returned matches
+'moero twinbee - cinnamon hakase wo sukue!', No returned matches
+'mahjong (chr2)', No returned matches
+'mahjong kazoku', No returned matches
+'moonball magic', No returned matches
+'monty no doki doki dai dassou', No returned matches
+'mr gold - kinsan in the space (tooyama no kinsan space chou)', No returned matches
+'casino de pink (unl)', No returned matches
+'chitei tairiku orudoora', No returned matches
+'castlevania_simon%b4s_quest(j)', No returned matches
+'city connection (unl)', No returned matches
+'cleopatra no mahou', No returned matches
+'clu clu land - welcome to new cluclu land', No returned matches
+'cocona world', No returned matches
+'moero yakyuuken (unl)', No returned matches
+'vs. excitebike', No returned matches
+'volleyball', No returned matches
+'otocky', No returned matches
+'i am a teacher (super mario no sweater)', No returned matches
+'clox - famimaga disk vol. 4', No returned matches
+'i am a teacher (teami no kiso)', No returned matches
+'omoikkiri tanteidan haado gumi - matenrou no chousenjou', No returned matches
+'ice climber', No returned matches
+'igo (kyuu roban taikyoku)', No returned matches
+'xevious', No returned matches
+'fairytale', No returned matches
+'ice hockey', No returned matches
+'falsion', No returned matches
+'famicom grand prix - f1 race', No returned matches
+'famicom mukashi banashi - shin onigashima', No returned matches
+'famicom mukashi banashi - yuu yuu ki', No returned matches
+'ishidou', No returned matches
+'famicom tantei club (kieta koukeisha)', No returned matches
+'famicom tantei club part ii (ushiro ni tatsu shoujo)', No returned matches
+'family composer', No returned matches
+'family computer - golf japan course', No returned matches
+'final commando - akai yousai', No returned matches
+'family computer - othello', No returned matches
+'family computer - golf u.s. course', No returned matches
+'famicom grand prix ii - 3d hot rally', No returned matches
+'fire bam', No returned matches
+'fire rock', No returned matches
+'tanigawa kouji no shougi shinan ii (tsume shougi)', No returned matches
+'fuuun shourinken', No returned matches
+'tantei jinguuji saburou - kikenna futari', No returned matches
+'tantei jinguuji saburou - shinjuku chuuou kouen satsujin jiken', No returned matches
+'tarot uranai', No returned matches
+'tennis (chr1)', No returned matches
+'tennis (chr2)', No returned matches
+'tennis (chr3)', No returned matches
+'time twist - rekishi no katasume de', No returned matches
+'titanic mystery (ao no senritsu)', No returned matches
+'fuuun shourinken - ankoku no maou', No returned matches
+'topple zip', No returned matches
+'transformer - the head masters', No returned matches
+'twinbee', No returned matches
+'radical bomber!! jirai kun', No returned matches
+'reflect world', No returned matches
+'replicart', No returned matches
+'risa no yousei densetsu - risa tachibana', No returned matches
+'roger rabbit', No returned matches
+'eggerland - souzou heno tabidachi', No returned matches
+'tobidase daisakusen', No returned matches
+'eggerland', No returned matches
+'electrician', No returned matches
+'esper dream', No returned matches
+'exciting baseball', No returned matches
+'relics - ankoku yousai', No returned matches
+'exciting billiard', No returned matches
+'exciting soccer - konami cup', No returned matches
+'19 (neunzehn)', No returned matches
+'exciting basket', No returned matches
+'ultraman - kaijuu teikoku no gyakushuu', No returned matches
+'ultraman 2 - shutsugeki katoku tai', No returned matches
+'ultraman club (chikyuu dakkan sakusen)', No returned matches
+'galaxian', No returned matches
+'game tengoku', No returned matches
+'gall force - eternal story', No returned matches
+'ginga denshou - galaxy odyssey', No returned matches
+'golf', No returned matches
+'golf japan course - nyuushou', No returned matches
+'galaga', No returned matches
+'goonies, the', No returned matches
+'green beret (alt)', No returned matches
+'green beret', No returned matches
+'gyruss', No returned matches
+'nakayama miho no tokimeki high school(2)', No returned matches
+'nakayama miho no tokimeki high school', No returned matches
+'gun.smoke', No returned matches
+'nazo no kabe - block kuzushi', No returned matches
+'nankin no adobenchia', No returned matches
+'nazo no magazine disk - nazoraa land dai 2 gou', No returned matches
+'nazo no magazine disk - nazoraa land dai 3 gou', No returned matches
+'nazo no magazine disk - nazoraa land soukan gou', No returned matches
+'nazo no magazine disk - nazoraa land zoukan gou - quiz ou wo sagase!', No returned matches
+'nazo no murasamejou', No returned matches

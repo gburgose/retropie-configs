@@ -1,0 +1,5763 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/1941j.zip</path>
+    <name>1941: Counter Attack</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/1941.zip</path>
+    <name>1941: Counter Attack</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/1944d.zip</path>
+    <name>1944: The Loop Master</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/1944j.zip</path>
+    <name>1944: The Loop Master</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/1944.zip</path>
+    <name>1944: The Loop Master</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/19xxd.zip</path>
+    <name>19XX: The War Against Destiny</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/19xxb.zip</path>
+    <name>19XX: The War Against Destiny</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/19xxa.zip</path>
+    <name>19XX: The War Against Destiny</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/19xxjr1.zip</path>
+    <name>19XX: The War Against Destiny</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/19xx.zip</path>
+    <name>19XX: The War Against Destiny</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/19xxj.zip</path>
+    <name>19XX: The War Against Destiny</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/19xxh.zip</path>
+    <name>19XX: The War Against Destiny</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/3wonderh.zip</path>
+    <name>3wonderh</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/3wonderu.zip</path>
+    <name>3wonderu</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/cworld2j.zip</path>
+    <name>Adventure Quiz Capcom World 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/avsp.zip</path>
+    <name>Alien vs. Predator</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/avspa.zip</path>
+    <name>Alien vs. Predator</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/avspd.zip</path>
+    <name>Alien vs. Predator</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/avsph.zip</path>
+    <name>Alien vs. Predator</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/avspj.zip</path>
+    <name>Alien vs. Predator</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/avspu.zip</path>
+    <name>Alien vs. Predator</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/area88.zip</path>
+    <name>Area 88</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/armwar.zip</path>
+    <name>Armored Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/armwaru1.zip</path>
+    <name>Armored Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/armwaru.zip</path>
+    <name>Armored Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/armwarr1.zip</path>
+    <name>Armored Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/armwar1d.zip</path>
+    <name>Armored Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/armwara.zip</path>
+    <name>Armored Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/batcirj.zip</path>
+    <name>Battle Circuit</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/batcird.zip</path>
+    <name>Battle Circuit</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/batcira.zip</path>
+    <name>Battle Circuit</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/batcir.zip</path>
+    <name>Battle Circuit</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/dinopic2.zip</path>
+    <name>Cadillacs and Dinosaurs</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/dinou.zip</path>
+    <name>Cadillacs and Dinosaurs</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/dinopic.zip</path>
+    <name>Cadillacs and Dinosaurs</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/dino.zip</path>
+    <name>Cadillacs and Dinosaurs</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/dinoj.zip</path>
+    <name>Cadillacs: Kyouryuu Shin Seiki</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/csclubh.zip</path>
+    <name>Capcom Sports Club</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/csclub1.zip</path>
+    <name>Capcom Sports Club</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/csclub.zip</path>
+    <name>Capcom Sports Club</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/cscluba.zip</path>
+    <name>Capcom Sports Club</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/csclubj.zip</path>
+    <name>Capcom Sports Club</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/captcomm.zip</path>
+    <name>Captain Commando</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/captcomb.zip</path>
+    <name>captcomb</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/captcomj.zip</path>
+    <name>captcomj</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/captcomu.zip</path>
+    <name>captcomu</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/cawingu.zip</path>
+    <name>Carrier Air Wing</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/cawingr1.zip</path>
+    <name>Carrier Air Wing</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/cawing.zip</path>
+    <name>Carrier Air Wing</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/chikij.zip</path>
+    <name>Chiki Chiki Boys</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/csclubjr.zip</path>
+    <name>csclubjr</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/cybots.zip</path>
+    <name>Cyberbots: Fullmetal Madness</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/cybotsu.zip</path>
+    <name>Cyberbots: Fullmetal Madness</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/cybotsj.zip</path>
+    <name>Cyberbots: Fullmetal Madness</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/daimakai.zip</path>
+    <name>Daimakaimura</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/daimakr2.zip</path>
+    <name>daimakr2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/dstlkur1.zip</path>
+    <name>Darkstalkers: The Night Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/dstlku1d.zip</path>
+    <name>Darkstalkers: The Night Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/dstlk.zip</path>
+    <name>Darkstalkers: The Night Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/dstlka.zip</path>
+    <name>Darkstalkers: The Night Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/dstlku.zip</path>
+    <name>Darkstalkers: The Night Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/dimahoud.zip</path>
+    <name>Dimahoo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/dimahoou.zip</path>
+    <name>Dimahoo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/dimahoo.zip</path>
+    <name>Dimahoo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/dinoh.zip</path>
+    <name>dinoh</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsomb.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsomud.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsomu.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsomr3.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsomr2.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsomjr1.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsomr1.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsomj.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsoma.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsomur1.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddsom.zip</path>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddtodu.zip</path>
+    <name>Dungeons &amp; Dragons: Tower of Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddtodj.zip</path>
+    <name>Dungeons &amp; Dragons: Tower of Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddtodd.zip</path>
+    <name>Dungeons &amp; Dragons: Tower of Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddtodjr2.zip</path>
+    <name>Dungeons &amp; Dragons: Tower of Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddtodjr1.zip</path>
+    <name>Dungeons &amp; Dragons: Tower of Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddtodh.zip</path>
+    <name>Dungeons &amp; Dragons: Tower of Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddtoda.zip</path>
+    <name>Dungeons &amp; Dragons: Tower of Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddtodr1.zip</path>
+    <name>Dungeons &amp; Dragons: Tower of Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddtodur1.zip</path>
+    <name>Dungeons &amp; Dragons: Tower of Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ddtod.zip</path>
+    <name>Dungeons &amp; Dragons: Tower of Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/dynwar.zip</path>
+    <name>Dynasty Wars</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/dynwaru.zip</path>
+    <name>dynwaru</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ecofghtr.zip</path>
+    <name>Eco Fighters</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ecofghta.zip</path>
+    <name>ecofghta</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ecofghtu.zip</path>
+    <name>ecofghtu</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ecofgtu1.zip</path>
+    <name>ecofgtu1</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/ffightub.zip</path>
+    <name>Final Fight</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/ffightua.zip</path>
+    <name>Final Fight</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/ffightu.zip</path>
+    <name>Final Fight</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/ffightj2.zip</path>
+    <name>Final Fight</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/ffightj1.zip</path>
+    <name>Final Fight</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/ffightj.zip</path>
+    <name>Final Fight</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/ffight.zip</path>
+    <name>Final Fight</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/forgott1.zip</path>
+    <name>forgott1</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/forgottn.zip</path>
+    <name>Forgotten Worlds</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/ghoulsu.zip</path>
+    <name>Ghouls&apos;n Ghosts</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/ghouls.zip</path>
+    <name>Ghouls&apos;n Ghosts</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/gigawing.zip</path>
+    <name>Giga Wing</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/gigamn2.zip</path>
+    <name>gigamn2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/gmahou.zip</path>
+    <name>Great Mahou Daisakusen</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/gwinga.zip</path>
+    <name>gwinga</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/gwingb.zip</path>
+    <name>gwingb</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/gwingj.zip</path>
+    <name>gwingj</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/gwingjd.zip</path>
+    <name>gwingjd</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/wofhfh.zip</path>
+    <name>Huo Feng Huang</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/hsf2d.zip</path>
+    <name>Hyper Street Fighter II: The Anniversary Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/hsf2.zip</path>
+    <name>Hyper Street Fighter II: The Anniversary Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/hsf2j.zip</path>
+    <name>Hyper Street Fighter II: The Anniversary Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/choko.zip</path>
+    <name>Janpai Puzzle Choukou</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps3/jojoba.zip</path>
+    <name>JoJo no Kimyou na Bouken: Mirai e no Isan</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps3/jojo.zip</path>
+    <name>JoJo&apos;s Venture</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/jyangoku.zip</path>
+    <name>Jyangokushi: Haoh no Saihai</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/kod.zip</path>
+    <name>The King of Dragons</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/kodj.zip</path>
+    <name>The King of Dragons</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/kodu.zip</path>
+    <name>The King of Dragons</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/knightsj.zip</path>
+    <name>Knights of the Round</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/knightsu.zip</path>
+    <name>Knights of the Round</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/knights.zip</path>
+    <name>Knights of the Round</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/knightsh.zip</path>
+    <name>knightsh</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/lostwrld.zip</path>
+    <name>Lost Worlds</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/msword.zip</path>
+    <name>Magic Sword: Heroic Fantasy</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mswordu.zip</path>
+    <name>Magic Sword: Heroic Fantasy</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mswordj.zip</path>
+    <name>Magic Sword: Heroic Fantasy</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mswordr1.zip</path>
+    <name>Magic Sword: Heroic Fantasy</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mmatrixj.zip</path>
+    <name>Mars Matrix: Hyper Solid Shooting</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mmatrixd.zip</path>
+    <name>Mars Matrix: Hyper Solid Shooting</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mmatrix.zip</path>
+    <name>Mars Matrix: Hyper Solid Shooting</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshjr1.zip</path>
+    <name>Marvel Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshu.zip</path>
+    <name>Marvel Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshh.zip</path>
+    <name>Marvel Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshb.zip</path>
+    <name>Marvel Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshj.zip</path>
+    <name>Marvel Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/msha.zip</path>
+    <name>Marvel Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/msh.zip</path>
+    <name>Marvel Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshud.zip</path>
+    <name>Marvel Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsf.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsfa1.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsfb.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsfb1.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsfh.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsfa.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsfj.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsfj2.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsfj1.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsfu1.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mshvsfu.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mvscj.zip</path>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mvsch.zip</path>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mvscjr1.zip</path>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mvscr1.zip</path>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mvscb.zip</path>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mvscar1.zip</path>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mvsca.zip</path>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mvscud.zip</path>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mvsc.zip</path>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mvscu.zip</path>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/megamn2d.zip</path>
+    <name>Mega Man 2: The Power Fighters</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/megaman2.zip</path>
+    <name>Mega Man 2: The Power Fighters</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mmancp2u.zip</path>
+    <name>Mega Man: The Power Battle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/megaman.zip</path>
+    <name>Mega Man: The Power Battle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mtwins.zip</path>
+    <name>Mega Twins</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/megamn2a.zip</path>
+    <name>megamn2a</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mercs.zip</path>
+    <name>Mercs</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mercsu.zip</path>
+    <name>Mercs</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mercsua.zip</path>
+    <name>mercsua</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mpangu.zip</path>
+    <name>Mighty! Pang</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mpangj.zip</path>
+    <name>Mighty! Pang</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/mpang.zip</path>
+    <name>Mighty! Pang</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mbombrdj.zip</path>
+    <name>Muscle Bomber Duo: Heat Up Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mbombrd.zip</path>
+    <name>Muscle Bomber Duo: Ultimate Team Battle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mbomberj.zip</path>
+    <name>Muscle Bomber: The Body Explosion</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/nemoj.zip</path>
+    <name>Nemo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/nemo.zip</path>
+    <name>Nemo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/neogeo.zip</path>
+    <name>Neo-Geo MV-6F</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/neogeo.zip</path>
+    <name>Neo-Geo MV-6F</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/nwarrb.zip</path>
+    <name>Night Warriors: Darkstalkers&apos; Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/nwarr.zip</path>
+    <name>Night Warriors: Darkstalkers&apos; Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/nwarrh.zip</path>
+    <name>Night Warriors: Darkstalkers&apos; Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/nwarrud.zip</path>
+    <name>Night Warriors: Darkstalkers&apos; Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/nwarru.zip</path>
+    <name>Night Warriors: Darkstalkers&apos; Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/pang3.zip</path>
+    <name>Pang! 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/pang3j.zip</path>
+    <name>Pang! 3: Kaitou Tachi no Karei na Gogo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/pnickj.zip</path>
+    <name>Pnickies</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/pfghtj.zip</path>
+    <name>Pocket Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/pgearr1.zip</path>
+    <name>Powered Gear: Strategic Variant Armor Equipment</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/pgear.zip</path>
+    <name>Powered Gear: Strategic Variant Armor Equipment</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/progear.zip</path>
+    <name>Progear</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/progeara.zip</path>
+    <name>Progear</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/progearj.zip</path>
+    <name>Progear no Arashi</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/progerjd.zip</path>
+    <name>progerjd</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/punipic2.zip</path>
+    <name>The Punisher</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/punisher.zip</path>
+    <name>The Punisher</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/punipic3.zip</path>
+    <name>The Punisher</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/punipic.zip</path>
+    <name>The Punisher</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/punishrj.zip</path>
+    <name>punishrj</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/punishru.zip</path>
+    <name>punishru</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/pzloop2.zip</path>
+    <name>Puzz Loop 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/pzloop2j.zip</path>
+    <name>Puzz Loop 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/qadj.zip</path>
+    <name>qadj</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/qtono2.zip</path>
+    <name>qtono2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/qad.zip</path>
+    <name>Quiz &amp; Dragons: Capcom Quiz Game</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/qndream.zip</path>
+    <name>Quiz Nanairo Dreams: Nijiirochou no Kiseki</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/rckman2j.zip</path>
+    <name>rckman2j</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps3/redearth.zip</path>
+    <name>Red Earth</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ringdest.zip</path>
+    <name>Ring of Destruction: Slammasters II</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ringdstd.zip</path>
+    <name>Ring of Destruction: Slammasters II</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/rmancp2j.zip</path>
+    <name>Rockman: The Power Battle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/rockmanj.zip</path>
+    <name>Rockman: The Power Battle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/wofa.zip</path>
+    <name>Sangokushi II</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/slammast.zip</path>
+    <name>Saturday Night Slam Masters</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/mercsj.zip</path>
+    <name>Senjou no Ookami II</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2cej.zip</path>
+    <name>sf2cej</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2t.zip</path>
+    <name>sf2t</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2tj.zip</path>
+    <name>sf2tj</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2toryu.zip</path>
+    <name>sf2toryu</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2turyu.zip</path>
+    <name>sf2turyu</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2turyu1.zip</path>
+    <name>sf2turyu1</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/slammasu.zip</path>
+    <name>slammasu</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2xjd.zip</path>
+    <name>ssf2xjd</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfa2.zip</path>
+    <name>Street Fighter Alpha 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfa2u.zip</path>
+    <name>Street Fighter Alpha 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfa3.zip</path>
+    <name>Street Fighter Alpha 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfa3b.zip</path>
+    <name>Street Fighter Alpha 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfa3u.zip</path>
+    <name>Street Fighter Alpha 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfa3ud.zip</path>
+    <name>Street Fighter Alpha 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfa3ur1.zip</path>
+    <name>Street Fighter Alpha 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfa.zip</path>
+    <name>Street Fighter Alpha: Warriors&apos; Dreams</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sfach.zip</path>
+    <name>Street Fighter Alpha: Warriors&apos; Dreams</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfau.zip</path>
+    <name>Street Fighter Alpha: Warriors&apos; Dreams</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfar3.zip</path>
+    <name>Street Fighter Alpha: Warriors&apos; Dreams</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfar2.zip</path>
+    <name>Street Fighter Alpha: Warriors&apos; Dreams</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfar1.zip</path>
+    <name>Street Fighter Alpha: Warriors&apos; Dreams</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfad.zip</path>
+    <name>Street Fighter Alpha: Warriors&apos; Dreams</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2m7.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2m3.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2m5.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2yyc.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2rb.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2accp2.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2koryu.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2m6.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2m1.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2ceua.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2m2.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2m4.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2v004.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2rb2.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2ce.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2rb3.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2ceuc.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2ceub.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2red.zip</path>
+    <name>Street Fighter II&apos;: Champion Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2hf.zip</path>
+    <name>Street Fighter II&apos;: Hyper Fighting</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2mdt.zip</path>
+    <name>Street Fighter II&apos;: Magic Delta Turbo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2ui.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2uf.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2ue.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2ud.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2ub.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2ja.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2jc.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2uk.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2eb.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2j.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sf2ua.zip</path>
+    <name>Street Fighter II: The World Warrior</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps3/sfiii2.zip</path>
+    <name>Street Fighter III 2nd Impact: Giant Attack</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps3/sfiii3.zip</path>
+    <name>Street Fighter III 3rd Strike: Fight for the Future</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps3/sfiii.zip</path>
+    <name>Street Fighter III: New Generation</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfzbr1.zip</path>
+    <name>Street Fighter Zero</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfzb.zip</path>
+    <name>Street Fighter Zero</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/sfzch.zip</path>
+    <name>Street Fighter Zero</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfzjr2.zip</path>
+    <name>Street Fighter Zero</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfzjr1.zip</path>
+    <name>Street Fighter Zero</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfzj.zip</path>
+    <name>Street Fighter Zero</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfzh.zip</path>
+    <name>Street Fighter Zero</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfza.zip</path>
+    <name>Street Fighter Zero</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2h.zip</path>
+    <name>Street Fighter Zero 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2a.zip</path>
+    <name>Street Fighter Zero 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2ad.zip</path>
+    <name>Street Fighter Zero 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2b.zip</path>
+    <name>Street Fighter Zero 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2br1.zip</path>
+    <name>Street Fighter Zero 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2j.zip</path>
+    <name>Street Fighter Zero 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2n.zip</path>
+    <name>Street Fighter Zero 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2alj.zip</path>
+    <name>Street Fighter Zero 2 Alpha</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2alh.zip</path>
+    <name>Street Fighter Zero 2 Alpha</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2ald.zip</path>
+    <name>Street Fighter Zero 2 Alpha</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2alb.zip</path>
+    <name>Street Fighter Zero 2 Alpha</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz2al.zip</path>
+    <name>Street Fighter Zero 2 Alpha</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz3jr2.zip</path>
+    <name>Street Fighter Zero 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz3ar1.zip</path>
+    <name>Street Fighter Zero 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz3j.zip</path>
+    <name>Street Fighter Zero 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz3jr1.zip</path>
+    <name>Street Fighter Zero 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sfz3a.zip</path>
+    <name>Street Fighter Zero 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/strider.zip</path>
+    <name>Strider</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/striderj.zip</path>
+    <name>Strider Hiryu</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/stridrja.zip</path>
+    <name>stridrja</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/stridrua.zip</path>
+    <name>stridrua</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sgemf.zip</path>
+    <name>Super Gem Fighter Mini Mix</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sgemfd.zip</path>
+    <name>Super Gem Fighter Mini Mix</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sgemfa.zip</path>
+    <name>Super Gem Fighter: Mini Mix</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/sgemfh.zip</path>
+    <name>Super Gem Fighter: Mini Mix</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/smbombr1.zip</path>
+    <name>Super Muscle Bomber: The International Blowout</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/smbomb.zip</path>
+    <name>Super Muscle Bomber: The International Blowout</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/spf2t.zip</path>
+    <name>Super Puzzle Fighter II Turbo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/spf2ta.zip</path>
+    <name>Super Puzzle Fighter II Turbo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/spf2xj.zip</path>
+    <name>Super Puzzle Fighter II X</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/spf2xjd.zip</path>
+    <name>Super Puzzle Fighter II X</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2ta.zip</path>
+    <name>Super Street Fighter II Turbo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2tur1.zip</path>
+    <name>Super Street Fighter II Turbo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2tu.zip</path>
+    <name>Super Street Fighter II Turbo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2t.zip</path>
+    <name>Super Street Fighter II Turbo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2xj.zip</path>
+    <name>Super Street Fighter II X: Grand Master Challenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2u.zip</path>
+    <name>Super Street Fighter II: The New Challengers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2.zip</path>
+    <name>Super Street Fighter II: The New Challengers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2a.zip</path>
+    <name>Super Street Fighter II: The New Challengers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2ar1.zip</path>
+    <name>Super Street Fighter II: The New Challengers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2j.zip</path>
+    <name>Super Street Fighter II: The New Challengers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2jr1.zip</path>
+    <name>Super Street Fighter II: The New Challengers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2ud.zip</path>
+    <name>Super Street Fighter II: The New Challengers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2jr2.zip</path>
+    <name>Super Street Fighter II: The New Challengers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2tb.zip</path>
+    <name>Super Street Fighter II: The Tournament Battle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2tbd.zip</path>
+    <name>Super Street Fighter II: The Tournament Battle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2tbj.zip</path>
+    <name>Super Street Fighter II: The Tournament Battle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/ssf2tbr1.zip</path>
+    <name>Super Street Fighter II: The Tournament Battle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/dynwarj.zip</path>
+    <name>Tenchi wo Kurau</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/wofj.zip</path>
+    <name>Tenchi wo Kurau II: Sekiheki no Tatakai</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/3wonders.zip</path>
+    <name>Three Wonders</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/unsquad.zip</path>
+    <name>U.N. Squadron</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/cawingj.zip</path>
+    <name>U.S. Navy</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/uecology.zip</path>
+    <name>Ultimate Ecology</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vhunt2.zip</path>
+    <name>Vampire Hunter 2: Darkstalkers Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vhunt2r1.zip</path>
+    <name>Vampire Hunter 2: Darkstalkers Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vhuntj.zip</path>
+    <name>Vampire Hunter: Darkstalkers&apos; Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vhuntjr1.zip</path>
+    <name>Vampire Hunter: Darkstalkers&apos; Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vhuntjr2.zip</path>
+    <name>Vampire Hunter: Darkstalkers&apos; Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vsav2.zip</path>
+    <name>Vampire Savior 2: The Lord of Vampire</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vsavj.zip</path>
+    <name>Vampire Savior: The Lord of Vampire</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vsavu.zip</path>
+    <name>Vampire Savior: The Lord of Vampire</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vsav.zip</path>
+    <name>Vampire Savior: The Lord of Vampire</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vsava.zip</path>
+    <name>Vampire Savior: The Lord of Vampire</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vsavd.zip</path>
+    <name>Vampire Savior: The Lord of Vampire</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vsavh.zip</path>
+    <name>Vampire Savior: The Lord of Vampire</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vampjr1.zip</path>
+    <name>Vampire: The Night Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vampja.zip</path>
+    <name>Vampire: The Night Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/vampj.zip</path>
+    <name>Vampire: The Night Warriors</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/varthu.zip</path>
+    <name>Varth: Operation Thunderstorm</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/varthr1.zip</path>
+    <name>Varth: Operation Thunderstorm</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/varthj.zip</path>
+    <name>Varth: Operation Thunderstorm</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/varth.zip</path>
+    <name>Varth: Operation Thunderstorm</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/wofu.zip</path>
+    <name>Warriors of Fate</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/wof.zip</path>
+    <name>Warriors of Fate</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/willowj.zip</path>
+    <name>Willow</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/willow.zip</path>
+    <name>Willow</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/willowje.zip</path>
+    <name>willowje</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/wofh.zip</path>
+    <name>wofh</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps1/wonder3.zip</path>
+    <name>Wonder 3</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfjr2.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfur1.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfr1.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfu.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfu1d.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfb.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfjr1.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfj.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfh.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfar1.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsfa.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmvsf.zip</path>
+    <name>X-Men Vs. Street Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmcotajr.zip</path>
+    <name>X-Men: Children of the Atom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmcota.zip</path>
+    <name>X-Men: Children of the Atom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmcotaj.zip</path>
+    <name>X-Men: Children of the Atom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmcotaa.zip</path>
+    <name>X-Men: Children of the Atom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmcotah.zip</path>
+    <name>X-Men: Children of the Atom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmcotau.zip</path>
+    <name>X-Men: Children of the Atom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmcotaj2.zip</path>
+    <name>X-Men: Children of the Atom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmcotaj1.zip</path>
+    <name>X-Men: Children of the Atom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/fba/cps2/xmcotad.zip</path>
+    <name>xmcotad</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+</gameList>

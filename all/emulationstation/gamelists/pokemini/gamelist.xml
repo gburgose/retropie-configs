@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/[BIOS] Nintendo Pokemon Mini (World).zip</path>
+    <name></name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Lunch Time (USA) (GameCube).zip</path>
+    <name>Lunch Time</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pichu Bros. Mini (Japan).zip</path>
+    <name>Pichu Bros. Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pichu Bros. Mini - Hoppip&apos;s Jump Match (Japan) (Preview).zip</path>
+    <name>Pichu Bros. Mini - Hoppip&apos;s Jump Match</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pichu Bros. Mini - Netsukikyuu (Japan) (Preview).zip</path>
+    <name>Pichu Bros. Mini - Netsukikyuu</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pichu Bros. Mini - Skateboard (Japan) (Preview).zip</path>
+    <name>Pichu Bros. Mini - Skateboard</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Anime Card Daisakusen (Japan).zip</path>
+    <name>Pokemon Anime Card Daisakusen</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini (Japan).zip</path>
+    <name>Pokemon Party Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini (Europe).zip</path>
+    <name>Pokemon Party Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini (USA).zip</path>
+    <name>Pokemon Party Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini - Baseline Judge (Japan) (GameCube).zip</path>
+    <name>Pokemon Party Mini - Baseline Judge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini - Baseline Judge (Europe) (GameCube).zip</path>
+    <name>Pokemon Party Mini - Baseline Judge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini - Baseline Judge (USA) (GameCube).zip</path>
+    <name>Pokemon Party Mini - Baseline Judge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini - Chansey&apos;s Dribble (Europe) (GameCube).zip</path>
+    <name>Pokemon Party Mini - Chansey&apos;s Dribble</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini - Pikachu&apos;s Rocket Start (Europe) (GameCube).zip</path>
+    <name>Pokemon Party Mini - Pikachu&apos;s Rocket Start</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini - Ricochet Dribble (Japan) (GameCube).zip</path>
+    <name>Pokemon Party Mini - Ricochet Dribble</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini - Ricochet Dribble (USA) (GameCube).zip</path>
+    <name>Pokemon Party Mini - Ricochet Dribble</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini - Rocket Start (USA) (GameCube).zip</path>
+    <name>Pokemon Party Mini - Rocket Start</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Party Mini - Slowking&apos;s Judge (Europe) (GameCube).zip</path>
+    <name>Pokemon Party Mini - Slowking&apos;s Judge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Pinball Mini (USA, Europe).zip</path>
+    <name>Pokemon Pinball Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Pinball Mini (Japan) (Preview).zip</path>
+    <name>Pokemon Pinball Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Pinball Mini (Japan).zip</path>
+    <name>Pokemon Pinball Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Pinball Mini (USA) (GameCube Preview).zip</path>
+    <name>Pokemon Pinball Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Puzzle Collection (Germany) (GameCube Preview).zip</path>
+    <name>Pokemon Puzzle Collection</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Puzzle Collection (Japan).zip</path>
+    <name>Pokemon Puzzle Collection</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Puzzle Collection (France) (GameCube Preview).zip</path>
+    <name>Pokemon Puzzle Collection</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Puzzle Collection (USA, Europe).zip</path>
+    <name>Pokemon Puzzle Collection</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Puzzle Collection (USA) (GameCube Preview).zip</path>
+    <name>Pokemon Puzzle Collection</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Puzzle Collection (France).zip</path>
+    <name>Pokemon Puzzle Collection</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Puzzle Collection (Japan) (GameCube).zip</path>
+    <name>Pokemon Puzzle Collection</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Puzzle Collection (Germany).zip</path>
+    <name>Pokemon Puzzle Collection</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Puzzle Collection Vol. 2 (Japan).zip</path>
+    <name>Pokemon Puzzle Collection Vol. 2</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Race Mini (Japan).zip</path>
+    <name>Pokemon Race Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Race Mini (Japan) (Preview).zip</path>
+    <name>Pokemon Race Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Shock Tetris (Japan).zip</path>
+    <name>Pokemon Shock Tetris</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Sodateyasan Mini (Japan).zip</path>
+    <name>Pokemon Sodateyasan Mini</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Tetris (Europe) (En,Ja,Fr).zip</path>
+    <name>Pokemon Tetris</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Zany Cards (France).zip</path>
+    <name>Pokemon Zany Cards</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Zany Cards (Germany).zip</path>
+    <name>Pokemon Zany Cards</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Pokemon Zany Cards (USA, Europe).zip</path>
+    <name>Pokemon Zany Cards</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Snorlax&apos;s Lunch Time (Europe) (GameCube).zip</path>
+    <name>Snorlax&apos;s Lunch Time</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Snorlax&apos;s Lunch Time (Japan) (GameCube).zip</path>
+    <name>Snorlax&apos;s Lunch Time</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Togepi no Daibouken (Japan) (Preview).zip</path>
+    <name>Togepi no Daibouken</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/pokemini/Togepi no Daibouken (Japan).zip</path>
+    <name>Togepi no Daibouken</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+</gameList>

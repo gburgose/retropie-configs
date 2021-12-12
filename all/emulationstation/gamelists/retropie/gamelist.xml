@@ -13,12 +13,6 @@
 		<image>/home/gabriel/RetroPie/retropiemenu/icons/configedit.png</image>
 	</game>
 	<game>
-		<path>./esthemes.rp</path>
-		<name>ES Themes</name>
-		<desc>Install, uninstall, or update EmulationStation themes. Most themes can be previewed at https://retropie.org.uk/docs/Themes/.</desc>
-		<image>/home/gabriel/RetroPie/retropiemenu/icons/esthemes.png</image>
-	</game>
-	<game>
 		<path>./filemanager.rp</path>
 		<name>File Manager</name>
 		<desc>Basic ASCII file manager for Linux allowing you to browse, copy, delete, and move files.</desc>
@@ -37,12 +31,6 @@
 		<image>/home/gabriel/RetroPie/retropiemenu/icons/runcommand.png</image>
 	</game>
 	<game>
-		<path>./showip.rp</path>
-		<name>Show IP</name>
-		<desc>Displays your current IP address, as well as other information provided by the command "ip addr show."</desc>
-		<image>/home/gabriel/RetroPie/retropiemenu/icons/showip.png</image>
-	</game>
-	<game>
 		<path>./retroarch.rp</path>
 		<name>Retroarch</name>
 		<desc>Launches the RetroArch GUI so you can change RetroArch options. Note: Changes will not be saved unless you have enabled the "Save Configuration On Exit" option.</desc>
@@ -51,11 +39,27 @@
 		<lastplayed>20211211T125050</lastplayed>
 	</game>
 	<game>
+		<path>./esthemes.rp</path>
+		<name>ES Themes</name>
+		<desc>Install, uninstall, or update EmulationStation themes. Most themes can be previewed at https://retropie.org.uk/docs/Themes/.</desc>
+		<image>./icons/esthemes.png</image>
+		<playcount>3</playcount>
+		<lastplayed>20211211T181615</lastplayed>
+	</game>
+	<game>
 		<path>./rpsetup.rp</path>
 		<name>RetroPie Setup</name>
 		<desc>Install RetroPie from binary or source, install experimental packages, additional drivers, edit Samba shares, custom scraper, as well as other RetroPie-related configurations.</desc>
 		<image>./icons/rpsetup.png</image>
-		<playcount>2</playcount>
-		<lastplayed>20211211T132706</lastplayed>
+		<playcount>3</playcount>
+		<lastplayed>20211211T183443</lastplayed>
+	</game>
+	<game>
+		<path>./showip.rp</path>
+		<name>Show IP</name>
+		<desc>Displays your current IP address, as well as other information provided by the command "ip addr show."</desc>
+		<image>./icons/showip.png</image>
+		<playcount>1</playcount>
+		<lastplayed>20211211T205952</lastplayed>
 	</game>
 </gameList>

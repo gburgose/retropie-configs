@@ -1,0 +1,5 @@
+--- The following is a list of skipped games ---
+'Legend of Zelda - Spirit Tracks, The (EU)(M5)(EXiMiUS)', No returned matches
+'Mario Kart DS (E)(Spliff)', No returned matches
+'Super Mario 64 DS (E)(Wet 'N' Wild)', No returned matches
+'New Super Mario Bros. (U)(Psyfer)', No returned matches

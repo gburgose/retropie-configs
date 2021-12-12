@@ -1,0 +1,119 @@
+--- The following is a list of skipped games ---
+'Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)', No returned matches
+'Baseball Stars Color (World) (En,Ja)', No returned matches
+'Big Bang Pro Wrestling (Japan) (En,Ja)', No returned matches
+'Biomotor Unitron (USA, Europe)', No returned matches
+'Biomotor Unitron (Japan) (Demo)', No returned matches
+'Biomotor Unitron (Japan)', No returned matches
+'Bust-A-Move Pocket (USA)', No returned matches
+'Bust-A-Move Pocket (USA) (Proto)', No returned matches
+'Cool Boarders Pocket (Japan, Europe) (En,Ja)', No returned matches
+'Cool Cool Jam (Japan)', No returned matches
+'Cool Cool Jam (USA, Europe) (Sample)', No returned matches
+'Crush Roller (World) (En,Ja)', No returned matches
+'Dark Arms - Beast Buster 1999 (World) (En,Ja)', No returned matches
+'Dark Arms - Beast Buster 1999 (World) (En,Ja) (Proto)', No returned matches
+'Delta Warp (Japan) (Demo)', No returned matches
+'Delta Warp (Japan) (En,Ja)', No returned matches
+'Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)', No returned matches
+'Densha de Go! 2 on Neo Geo Pocket (Japan) (Demo)', No returned matches
+'Densha de Go! 2 on Neo Geo Pocket (Japan)', No returned matches
+'Dive Alert - Becky's Version (USA, Europe)', No returned matches
+'Dive Alert - Burn Hen (Japan) (Proto)', No returned matches
+'Dive Alert - Burn Hen (Japan)', No returned matches
+'Dive Alert - Matt's Version (USA, Europe)', No returned matches
+'Dive Alert - Rebecca Hen (Japan)', No returned matches
+'Bikkuriman 2000 - Viva! Pocket Festiva! (Japan)', No returned matches
+'Evolution - Eternal Dungeons (Europe)', No returned matches
+'Dynamite Slugger (Japan, Europe) (En,Ja)', No returned matches
+'Fantastic Night Dreams Cotton (Japan)', No returned matches
+'Fantastic Night Dreams Cotton (Europe)', No returned matches
+'Faselei! (Japan)', No returned matches
+'Faselei! (Europe)', No returned matches
+'Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)', No returned matches
+'Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja) (Demo)', No returned matches
+'Ganbare Neo Poke-kun (Ka) (Japan)', No returned matches
+'Infinity Cure (Japan)', No returned matches
+'Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)', No returned matches
+'King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo)', No returned matches
+'Dokodemo Mahjong (Japan)', No returned matches
+'King of Fighters R-2 Version 2 - Pocket Fighting Series (World) (En,Ja) (Demo)', No returned matches
+'Koi Koi Mahjong (Japan)', No returned matches
+'King of Fighters, The - Battle de Paradise (Japan)', No returned matches
+'Last Blade, The - Beyond the Destiny (Europe)', No returned matches
+'Magical Drop Pocket (Japan) (Demo)', No returned matches
+'Magical Drop Pocket (Japan)', No returned matches
+'King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)', No returned matches
+'Memories Off - Pure (Japan)', No returned matches
+'Metal Slug - 2nd Mission (World) (En,Ja) (Demo)', No returned matches
+'Metal Slug - 2nd Mission (World) (En,Ja)', No returned matches
+'Mizuki Shigeru no Youkai Shashinkan (Japan)', No returned matches
+'Mezase! Kanji Ou (Japan)', No returned matches
+'Neo 21 - Real Casino Series (World)', No returned matches
+'Neo Baccarat - Real Casino Series (World) (Proto)', No returned matches
+'Metal Slug - 1st Mission (World) (En,Ja)', No returned matches
+'Neo Baccarat - Real Casino Series (World)', No returned matches
+'Neo Cherry Master Color - Real Casino Series (World) (En,Ja)', No returned matches
+'Neo Cherry Master Color - Real Casino Series (World) (En,Ja) (Demo)', No returned matches
+'Magical Drop Pocket (USA, Europe)', No returned matches
+'Neo Derby Champ Daiyosou (Japan)', No returned matches
+'Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.11)', No returned matches
+'Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13)', No returned matches
+'Neo Geo Cup '98 Plus (World) (En,Ja)', No returned matches
+'Neo Mystery Bonus - Real Casino Series (World) (En,Ja)', No returned matches
+'Neo Poke Pro Yakyuu (Japan)', No returned matches
+'Neo Turf Masters (World) (En,Ja) (Demo)', No returned matches
+'Neo Turf Masters (World) (En,Ja)', No returned matches
+'Nigeronpa (Japan)', No returned matches
+'Oekaki Puzzle (Japan)', No returned matches
+'Pac-Man (World) (En,Ja)', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.04)', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.02)', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Oohanabi (Japan)', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)', No returned matches
+'Pachinko Hisshou Guide - Pocket Parlor (Japan)', No returned matches
+'Party Mail (Japan) (Proto)', No returned matches
+'Party Mail (Japan)', No returned matches
+'Picture Puzzle (USA, Europe)', No returned matches
+'Pocket Love if (Japan)', No returned matches
+'Pocket Reversi (Europe)', No returned matches
+'Pocket Reversi (Japan)', No returned matches
+'Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)', No returned matches
+'Prize Game - PP-AA01 Pusher Program (Japan)', No returned matches
+'Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo)', No returned matches
+'Puzzle Bobble Mini (Japan, Europe) (v1.09)', No returned matches
+'Puyo Pop (World) (En,Ja) (v1.06)', No returned matches
+'Puzzle Bobble Mini (Japan, Europe) (v1.10)', No returned matches
+'Puzzle Link (Europe)', No returned matches
+'Puzzle Link 2 (USA, Europe)', No returned matches
+'Renketsu Puzzle Tsunagete Pon! Color (Japan)', No returned matches
+'Rockman - Battle & Fighters (Japan) (Demo)', No returned matches
+'Rockman - Battle & Fighters (Japan)', No returned matches
+'SNK Gals' Fighters (Japan)', No returned matches
+'SNK Gals' Fighters (USA, Europe)', No returned matches
+'Puyo Pop (World) (En,Ja) (v1.05)', No returned matches
+'SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)', No returned matches
+'SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)', No returned matches
+'SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)', No returned matches
+'SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)', No returned matches
+'SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)', No returned matches
+'SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)', No returned matches
+'Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)', No returned matches
+'Shanghai Mini (World) (En,Ja) (Proto 1)', No returned matches
+'SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)', No returned matches
+'Shanghai Mini (World) (En,Ja)', No returned matches
+'Shinki Sekai Evolution - Hateshinai Dungeon (Japan)', No returned matches
+'Shougi no Tatsujin Color (Japan)', No returned matches
+'SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)', No returned matches
+'Sonic The Hedgehog - Pocket Adventure (World) (Demo)', No returned matches
+'Soreike!! Hanafuda Doujou (Japan)', No returned matches
+'Super Real Mahjong - Premium Collection (Japan)', No returned matches
+'Tsunagete Pon! 2 (Japan)', No returned matches
+'Wrestling Madness (USA, Europe) (Demo)', No returned matches
+'Sonic The Hedgehog - Pocket Adventure (World)', No returned matches
+'Shanghai Mini (World) (En,Ja) (Proto 2)', No returned matches

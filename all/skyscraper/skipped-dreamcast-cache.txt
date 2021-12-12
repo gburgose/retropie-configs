@@ -1,0 +1,27 @@
+--- The following is a list of skipped games ---
+'Grandia II [Single Disc](US)[DCRES]', No returned matches
+'Crazy Taxi (USA)', No returned matches
+'Fatal Fury - Mark of the Wolves (USA)', No returned matches
+'Crazy Taxi 2 (USA)', No returned matches
+'Headhunter [PAL][Disc 1]', No returned matches
+'Jet Set Radio (Europe) (En,Fr,De,Es)', No returned matches
+'Headhunter [PAL][Disc 2]', No returned matches
+'King of Fighters, The - Evolution (USA) (En,Ja,Es,Pt)', No returned matches
+'Legacy of Kain - Soul Reaver (USA)', No returned matches
+'Marvel vs. Capcom - Clash of Super Heroes (USA)', No returned matches
+'MSR - Metropolis Street Racer (USA) (Rev. A)', No returned matches
+'Resident Evil Code Veronica CD 1 Español (Dreamcast)', No returned matches
+'Resident Evil Code Veronica CD 2 Español (Dreamcast)', No returned matches
+'Rez (PAL)[RDC]', No returned matches
+'Marvel vs. Capcom 2 - House Remix (Hack)', No returned matches
+'Shenmue (Europe)(Disc 3 of 4)[DCCM]', No returned matches
+'Shenmue (Europe)(Disc 2 of 4)[DCCM]', No returned matches
+'Shenmue (Europe)(Disc 4 of 4)[Passport][DCCM]', No returned matches
+'Shenmue (USA) (Disc 2)', No returned matches
+'Shenmue (Europe)(Disc 1 of 4)[DCCM]', No returned matches
+'Soul Calibur (USA)[DCCM]', No returned matches
+'Star Wars - Episode I - Racer (USA)', No returned matches
+'Street Fighter III - 3rd Strike - Fight for the Future (Japan)', No returned matches
+'Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es)', No returned matches
+'Sonic Adventure 2 (Europe) (En,Ja,Fr,De,Es)', No returned matches
+'Street Fighter III - Double Impact (USA)', No returned matches

@@ -1,0 +1,2 @@
+--- The following is a list of skipped games ---
+'neogeo', No returned matches

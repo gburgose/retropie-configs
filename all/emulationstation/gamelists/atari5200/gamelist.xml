@@ -1,0 +1,1488 @@
+<?xml version="1.0"?>
+<gameList>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/atari5200/#</path>
+    <name>5200menu</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/A/Activision Decathlon, The (1984) (Activision).a52</path>
+    <name>The Activision Decathlon</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/A/AE (1984) (Atari) (Prototype).bin</path>
+    <name>AE</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/A/Asteroids (1983) (Atari) (Prototype) [!].bin</path>
+    <name>Asteroids</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/A/Astro Chase (1982) (Parker Bros-First Star Software).bin</path>
+    <name>Astro Chase</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Ballblazer (1984) (Atari-Lucasfilm Games).bin</path>
+    <name>Ballblazer</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Barroom Baseball (1983) (Atari) (Prototype).a52</path>
+    <name>Barroom Baseball</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Battlezone (1983) (Atari) (Prototype).bin</path>
+    <name>Battlezone</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Beamrider (1984) (Activision).a52</path>
+    <name>Beamrider</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Berzerk (1983) (Atari).bin</path>
+    <name>Berzerk</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Black Belt (1982) (Atari) (Prototype).bin</path>
+    <name>Black Belt</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Blaster (Prototype).bin</path>
+    <name>Blaster</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Blueprint (1982) (CBS).a52</path>
+    <name>Blueprint</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Boogie Demo (1982) (Atari) (Prototype).bin</path>
+    <name>Boogie Demo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Bounty Bob Strikes Back (Merged) (Big Five Software) (U).a52</path>
+    <name>Bounty Bob Strikes Back</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/B/Buck Rogers - Planet of Zoom (1983) (Sega).bin</path>
+    <name>Buck Rogers - Planet of Zoom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/C/Centipede (1982) (Atari).bin</path>
+    <name>Centipede</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/C/Choplifter (1984) (Atari).a52</path>
+    <name>Choplifter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/C/Congo Bongo (1983) (Sega).bin</path>
+    <name>Congo Bongo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/C/Countermeasure (1983) (Atari).bin</path>
+    <name>Countermeasure</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/D/Defender (1982) (Atari).a52</path>
+    <name>Defender</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/D/Dig Dug (1983) (Atari).bin</path>
+    <name>Dig Dug</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/D/Dreadnaught Factor, The (1983) (Atari).a52</path>
+    <name>The Dreadnaught Factor</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/F/Final Legacy (1982) (Atari) (Prototype).bin</path>
+    <name>Final Legacy</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/F/Frisky Tom (1982) (Atari) (Prototype).bin</path>
+    <name>Frisky Tom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/F/Frogger (1983) (Parker Bros).a52</path>
+    <name>Frogger</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/F/Frogger 2 - Threedeep! (1984) (Parker Bros).bin</path>
+    <name>Frogger 2 - Threedeep!</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/G/Galaxian (1982) (Atari).a52</path>
+    <name>Galaxian</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/G/Gorf (1982) (CBS).a52</path>
+    <name>Gorf</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/G/Gremlins (1984) (Atari).bin</path>
+    <name>Gremlins</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/G/Gyruss (1982) (Parker Bros).bin</path>
+    <name>Gyruss</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/atari5200/H</path>
+    <name>H.E.R.O.</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/J/James Bond 007 (1983) (Parker Bros).bin</path>
+    <name>James Bond 007</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/J/Joust (1984) (Atari).bin</path>
+    <name>Joust</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/J/Jr Pac-Man (1984) (Atari).a52</path>
+    <name>Jr Pac-Man</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/J/Jungle Hunt (1983) (Atari).bin</path>
+    <name>Jungle Hunt</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/K/K-razy Shoot-Out (1982) (CBS).a52</path>
+    <name>K-razy Shoot-Out</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/K/KABOOM! (1983) (Activision).a52</path>
+    <name>KABOOM!</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/K/Kangaroo (1982) (Atari).bin</path>
+    <name>Kangaroo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/K/Keystone Kapers (1984) (Activision).a52</path>
+    <name>Keystone Kapers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/L/Last Starfighter, The (1984) (Atari).a52</path>
+    <name>The Last Starfighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/L/Looney Tunes Hotel (1983) (Atari) (Prototype).a52</path>
+    <name>Looney Tunes Hotel</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Mario Brothers (1983) (Atari).bin</path>
+    <name>Mario Brothers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Meebzork (1983) (Atari).a52</path>
+    <name>Meebzork</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Megamania (1983) (Activision).a52</path>
+    <name>Megamania</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Meteorites (1983) (Electra Concepts).bin</path>
+    <name>Meteorites</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Microgammon SB (1983) (Atari) (Prototype).a52</path>
+    <name>Microgammon SB</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Millipede (1984) (Atari).a52</path>
+    <name>Millipede</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Miner 2049 (1983) (Big Five Software).a52</path>
+    <name>Miner 2049</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Miniature Golf (1983) (Atari).a52</path>
+    <name>Miniature Golf</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Missile Command (1983) (Atari).a52</path>
+    <name>Missile Command</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Montezuma&apos;s Revenge (1984) (Parker Bros).a52</path>
+    <name>Montezuma&apos;s Revenge</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Moon Patrol (1983) (Atari).bin</path>
+    <name>Moon Patrol</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Mountain King (1984) (Sunrise Software).a52</path>
+    <name>Mountain King</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Mr. Do&apos;s Castle (1984) (Parker Bros).a52</path>
+    <name>Mr. Do&apos;s Castle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/M/Ms. Pac-Man (1982) (Atari).bin</path>
+    <name>Ms. Pac-Man</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/P/Pac-Man (1982) (Atari).bin</path>
+    <name>Pac-Man</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/P/PAM SALT V1.02 (1982) (Atari).a52</path>
+    <name>PAM SALT V1.02</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/P/Pengo (1983) (Atari).bin</path>
+    <name>Pengo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/P/Pete&apos;s Diagnostics (1982) (Atari).a52</path>
+    <name>Pete&apos;s Diagnostics</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/P/Pitfall II - The Lost Caverns (1984) (Activision).a52</path>
+    <name>Pitfall II - The Lost Caverns</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/P/Pitfall! (1982) (Activision).a52</path>
+    <name>Pitfall!</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/P/Pole Position (1983) (Atari).bin</path>
+    <name>Pole Position</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/P/Popeye (1983) (Parker Bros).bin</path>
+    <name>Popeye</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/Q/Q-bert (1983) (Parker Bros).a52</path>
+    <name>Q-bert</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/Q/QIX (1982) (Atari).a52</path>
+    <name>QIX</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/Q/Quest for Quintana Roo (1984) (Sunrise Software).a52</path>
+    <name>Quest for Quintana Roo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/R/Realsports Baseball (1983) (Atari).a52</path>
+    <name>Realsports Baseball</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/R/Realsports Basketball (1983) (Atari).bin</path>
+    <name>Realsports Basketball</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/R/Realsports Football (1982) (Atari).bin</path>
+    <name>Realsports Football</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/R/Realsports Soccer (1982) (Atari).bin</path>
+    <name>Realsports Soccer</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/R/Realsports Tennis (1982) (Atari).bin</path>
+    <name>Realsports Tennis</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/R/Rescue on Fractalus (1984) (Atari-Lucasfilm Games).bin</path>
+    <name>Rescue on Fractalus</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/R/River Raid (1983) (Activision).a52</path>
+    <name>River Raid</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/R/Roadrunner (1982) (Atari).a52</path>
+    <name>Roadrunner</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/R/Robotron 2084 (1983) (Atari).a52</path>
+    <name>Robotron 2084</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Space Dungeon (1983) (Atari).bin</path>
+    <name>Space Dungeon</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Space Invaders (1982) (Atari).a52</path>
+    <name>Space Invaders</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Space Shuttle - A Journey Into Space (1983) (Activision).bin</path>
+    <name>Space Shuttle - A Journey Into Space</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/spitfire.bin</path>
+    <name>spitfire</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Sport Goofy (1983) (Atari) (Prototype).a52</path>
+    <name>Sport Goofy</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Star Raiders (1982) (Atari).bin</path>
+    <name>Star Raiders</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Star Trek - Strategic Operations Simulator (1983) (Sega).a52</path>
+    <name>Star Trek - Strategic Operations Simulator</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Star Wars - ROTJ - Death Star Battle (1983) (Parker Bros).a52</path>
+    <name>Star Wars - ROTJ - Death Star Battle</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Star Wars - The Arcade Game (1983) (Parker Bros).bin</path>
+    <name>Star Wars - The Arcade Game</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Stargate (1984) (Atari).a52</path>
+    <name>Stargate</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Super Breakout (1982) (Atari).a52</path>
+    <name>Super Breakout</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Super Cobra (1983) (Parker Bros).a52</path>
+    <name>Super Cobra</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/S/Super Pac-Man (1982) (Atari) (Prototype).bin</path>
+    <name>Super Pac-Man</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/T/Tempest (1983) (Atari) (Prototype) [!].bin</path>
+    <name>Tempest</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/T/Track and Field (1984) (Atari).a52</path>
+    <name>Track and Field</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/atari5200/V</path>
+    <name>Vanguard</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/atari5200/W</path>
+    <name>Wizard of Wor</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/X/Xari Arena (1983) (Atari) (Prototype).bin</path>
+    <name>Xari Arena</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/X/Xevious (1984) (Atari) (Prototype).bin</path>
+    <name>Xevious</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/atari5200/Y</path>
+    <name>Yellow Submarine Demo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/Z/Zaxxon (1984) (Sega).bin</path>
+    <name>Zaxxon</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/Z/Zenji (1984) (Atari).a52</path>
+    <name>Zenji</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/atari5200/Z/Zone Ranger (1984) (Activision).a52</path>
+    <name>Zone Ranger</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+</gameList>

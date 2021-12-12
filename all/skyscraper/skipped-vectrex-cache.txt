@@ -1,0 +1,30 @@
+--- The following is a list of skipped games ---
+'Armor Attack (1982)', No returned matches
+'Berzerk (1982)', No returned matches
+'Clean Sweep (Mr Boston Version) (1982)', No returned matches
+'Bedlam (1983)', No returned matches
+'Clean Sweep (1982)', No returned matches
+'Cosmic Chasm (1982)', No returned matches
+'Blitz! - Action Football (1982)', No returned matches
+'Heads Up - Action Soccer (1983)', No returned matches
+'Hyperchase (1982)', No returned matches
+'Dark Tower (1983) (Prototype)', No returned matches
+'Mine Storm II (1983)', No returned matches
+'Fortress of Narzod (1982)', No returned matches
+'Polar Rescue (1983)', No returned matches
+'Mine Storm (1982)', No returned matches
+'Pole Position (1982)', No returned matches
+'Narrow Escape (2-D Version by Fred Taft) (1983) [h1]', No returned matches
+'Rip-Off (1982)', No returned matches
+'Space Wars (1982)', No returned matches
+'Spike (1983)', No returned matches
+'Spinball (1983)', No returned matches
+'Scramble (1982)', No returned matches
+'Star Hawk (1982)', No returned matches
+'Star Castle (1983)', No returned matches
+'Star Trek - The Motion Picture (1982)', No returned matches
+'Star Ship (1982)', No returned matches
+'Test Rev. 4 (1982) (PD)', No returned matches
+'Web Warp (1983)', No returned matches
+'Tour De France (1983) (Prototype)', No returned matches
+'Solar Quest (1982)', No returned matches

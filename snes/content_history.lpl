@@ -8,6 +8,78 @@
   "sort_mode": 2,
   "items": [
     {
+      "path": "/home/gabriel/RetroPie/roms/snes/A/ Aladdin/Aladdin (U) [!].smc",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/snes/T/ Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles IV - Turtles in Time.sfc",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/snes/S/Sunset Riders (U).smc",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/snes/S/Street Fighter Alpha 2 (U) [!].smc",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/snes/S/Smart Ball (U).smc",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/snes/D/Demos/Star Wars Dark Forces Slide Show.smc",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/snes/A/ Animaniacs/Animaniacs (E).smc",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/snes/A/ Aero Fighters/AEROFGHT.SMC",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/snes/A/ Aero Fighters/Aero Fighters (U).smc",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
       "path": "/home/gabriel/RetroPie/roms/snes/T/Taz-Mania.sfc",
       "label": "",
       "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",

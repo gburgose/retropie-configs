@@ -1,0 +1,393 @@
+--- The following is a list of skipped games ---
+'Quest 64 [N64] [Roms Nintendo en Español]', No returned matches
+'Harvest Moon 64 (U) [!]', No returned matches
+'Hercules - The Legendary Journeys [N64] [Roms Nintendo en Español]', No returned matches
+'Harvest Moon 64 (U) [!]', No returned matches
+'Hercules - The Legendary Journeys (U) [!]', No returned matches
+'Hot Wheels Turbo Racing (U) [!]', No returned matches
+'Hexen (U) [!]', No returned matches
+'Hey You, Pikachu! (U) [!]', No returned matches
+'LEGO Racers [N64] [Roms Nintendo en Español]', No returned matches
+'Hybrid Heaven (U) [!]', No returned matches
+'LEGO Racers (U) [!]', No returned matches
+'Hydro Thunder (U) [!]', No returned matches
+'Looney Tunes - Duck Dodgers (E) [!]', No returned matches
+'Lylat Wars (E) [!]', No returned matches
+'Lode Runner 3-D (U) [!]', No returned matches
+'Lode Runner 3-D [N64] [Roms Nintendo en Español]', No returned matches
+'Legend of Zelda, The - Majora's Mask (U) [!]', No returned matches
+'Legend of Zelda, The - Majora's Mask (E) [!]', No returned matches
+'Legend of Zelda, The - Majora's Mask (S)', No returned matches
+'Legend of Zelda, The - Ocarina of Time (S)', No returned matches
+'Jeopardy! (U) [!]', No returned matches
+'Jeremy McGrath Supercross 2000 (U) [!]', No returned matches
+'Jet Force Gemini [N64] [Roms Nintendo en Español]', No returned matches
+'Jet Force Gemini (U) [!]', No returned matches
+'Bakuretsu Muteki Bangai-O (J) [!]', No returned matches
+'Banjo-Kazooie (E) (M3) [T-Spa] SkanderX', No returned matches
+'Banjo-Kazooie (U) [!]', No returned matches
+'Legend of Zelda, The - Ocarina of Time (U) (V1.2) [!]', No returned matches
+'Bass Hunter 64 (E) [!]', No returned matches
+'Banjo-Tooie (E) [!]', No returned matches
+'Bassmasters 2000 (U) [!]', No returned matches
+'BattleTanx (U) [!]', No returned matches
+'BattleTanx - Global Assault (U) [!]', No returned matches
+'Beetle Adventure Racing! (U) [!]', No returned matches
+'Batman Beyond - Return of the Joker (U) [!]', No returned matches
+'Beast Wars Transmetal (U) [!]', No returned matches
+'Big Mountain 2000 (U) [!]', No returned matches
+'Bio F.R.E.A.K.S. (U) [!]', No returned matches
+'Body Harvest (U) [!]', No returned matches
+'Blast Corps (U) (V1.1) [!]', No returned matches
+'Blues Brothers 2000 [ESP]', No returned matches
+'Bomberman 64 - The Second Attack! (U) [!]', No returned matches
+'Bomberman 64 (U) [!]', No returned matches
+'Blast Dozer (J) [!]', No returned matches
+'Bomberman Hero (U) [!]', No returned matches
+'Brunswick Circuit Pro Bowling (U) [!]', No returned matches
+'Buck Bumble [ESP]', No returned matches
+'Bust-A-Move '99 (U) [!]', No returned matches
+'Bust-A-Move 2 - Arcade Edition (U) [!]', No returned matches
+'Bust-A-Move 3 DX (E) [!]', No returned matches
+'Paper Mario (E) (M4)', No returned matches
+'Paper Mario (ESP) EnFrDeEs', No returned matches
+'PGA European Tour Golf [N64] [Roms Nintendo en Español]', No returned matches
+'Bust-A-Move 99 (U) (!)', No returned matches
+'Bottom of the 9th (U) [!]', No returned matches
+'Paperboy 64', No returned matches
+'Penny Racers (U) [!]', No returned matches
+'Paperboy (U) [!]', No returned matches
+'Paper Mario (U) [!]', No returned matches
+'Perfect Dark [E]', No returned matches
+'Pilotwings 64 (U) [!]', No returned matches
+'Pilotwings 64 (U) [!]', No returned matches
+'Perfect Dark (U) (V1.1) [!]', No returned matches
+'Perfect Dark (U) (V1.1) [!]', No returned matches
+'Pokemon Puzzle League (U) [!]', No returned matches
+'Pokemon Snap (U) [!]', No returned matches
+'Pokemon Snap [N64] [Roms Nintendo en Español]', No returned matches
+'Pokemon Puzzle League (U) [!]', No returned matches
+'Pokemon Stadium 2 (U) [!]', No returned matches
+'Pokemon Stadium 2 [N64] [Roms Nintendo en Español]', No returned matches
+'Pokemon Snap Station - Kiosk (U) [!]', No returned matches
+'Pokemon Stadium (U) [!]', No returned matches
+'Pokemon Stadium [N64] [Roms Nintendo en Español]', No returned matches
+'Power Rangers - Lightspeed Rescue (U) [!]', No returned matches
+'Powerpuff Girls, The - Chemical X-traction (U) [!]', No returned matches
+'Quake II (U) [!]', No returned matches
+'Pokemon Stadium 1 [E]', No returned matches
+'Quest 64 (U) [!]', No returned matches
+'Quake II (U) [!]', No returned matches
+'Dark Rift (U) [!]', No returned matches
+'Daffy Duck Starring as Duck Dodgers [N64] [Roms Nintendo en Español]', No returned matches
+'Deadly Arts (U) [!]', No returned matches
+'Diddy Kong Racing (U) (M2) (V1.1) [!]', No returned matches
+'Destruction Derby 64 (U) [!]', No returned matches
+'Derby Stallion 64 (J) [!]', No returned matches
+'Disney's Tarzan (U) [!]', No returned matches
+'Donald Duck - Quack Attack [N64] [Roms Nintendo en Español]', No returned matches
+'Donkey Kong 64 (Europe) (Esp)', No returned matches
+'Donald Duck - Quack Attack (E) [!]', No returned matches
+'Disney's Donald Duck - Goin' Quackers (U) [!]', No returned matches
+'Donkey Kong 64 (U) [!]', No returned matches
+'Donkey Kong 64', No returned matches
+'Dr. Mario 64 (U) [!]', No returned matches
+'Doom 64 (U) [!]', No returned matches
+'Duke Nukem 64 (U) [!]', No returned matches
+'Donkey Kong 64 [N64] [Roms Nintendo en Español]', No returned matches
+'Duck Dodgers Starring Daffy Duck (U) [!]', No returned matches
+'Dual Heroes (U) [!]', No returned matches
+'S.C.A.R.S. (U) [!]', No returned matches
+'San Francisco Rush - Extreme Racing (U) (!)', No returned matches
+'San Francisco Rush 2049 (U) [!]', No returned matches
+'San Francisco Rush - Extreme Racing (U) [!]', No returned matches
+'San Francisco Rush 2049 [N64] [Roms Nintendo en Español]', No returned matches
+'San Francisco Rush 2049 (U) [!]', No returned matches
+'Scooby-Doo - Classic Creep Capers (U) [!]', No returned matches
+'Shadow Man (U) (!)', No returned matches
+'Shadowgate 64 - Trials of the Four Towers (U) [!]', No returned matches
+'Shadowgate 64 - Trials of the Four Towers [N64] [Roms Nintendo en Español]', No returned matches
+'Sim City 2000 (J) [!]', No returned matches
+'Shadow Man [N64] [Roms Nintendo en Español]', No returned matches
+'Shadow Man (U) [!]', No returned matches
+'Sin and Punishment - Successor of the Earth [N64] [Roms Nintendo en Español]', No returned matches
+'Snowboard Kids 2 (U) [!]', No returned matches
+'Sonic Wings Assault (J) [!]', No returned matches
+'Sin and Punishment', No returned matches
+'Snowboard Kids (U) [!]', No returned matches
+'South Park (U) [!]', No returned matches
+'South Park (U) (!)', No returned matches
+'South Park [N64] [Roms Nintendo en Español]', No returned matches
+'South Park Rally (U) [!]', No returned matches
+'South Park Rally (U) (!)', No returned matches
+'South Park - Chef's Luv Shack (U) [!]', No returned matches
+'Space Invaders (U) [!]', No returned matches
+'SpaceStation Silicon Valley [N64] [Roms Nintendo en Español]', No returned matches
+'Spacestation Silicon Valley (U) [!]', No returned matches
+'Star Fox 64 (U) [f1]', No returned matches
+'Star Fox 64 [N64] [Roms Nintendo en Español]', No returned matches
+'Star Wars - Rogue Squadron (U) [!]', No returned matches
+'Star Wars Episode I - Battle for Naboo (U) [!]', No returned matches
+'Star Wars - Shadows of the Empire (U) (V1.2) [!]', No returned matches
+'Star Wars - Shadows of the Empire (U) (V1.2) [!]', No returned matches
+'Spider-Man (U) [!]', No returned matches
+'Star Wars Episode I - Racer (U) [!]', No returned matches
+'StarCraft 64 (U) [!]', No returned matches
+'Starfox 64 1.1 (U)', No returned matches
+'Star Wars Episode I - Racer [N64] [Roms Nintendo en Español]', No returned matches
+'Star Wars Episode I - Racer (U) [!]', No returned matches
+'Starshot - Space Circus Fever [N64] [Roms Nintendo en Español]', No returned matches
+'Stunt Racer 64 (U) [!]', No returned matches
+'Super Mario 64 (E)', No returned matches
+'Starshot - Space Circus Fever (U) [!]', No returned matches
+'Super Bowling 64 (U) [!]', No returned matches
+'Super Mario 64', No returned matches
+'Super Mario 64 (U) [!]', No returned matches
+'Super Mario Star Road - Version (ESP)', No returned matches
+'Super Smash Bros. (U) [!]', No returned matches
+'Super Mario 64 [N64] [Roms Nintendo en Español]', No returned matches
+'Super Mario 64 EN ESPAÑOL', No returned matches
+'Superman (U) (M3) [!]', No returned matches
+'Supercross 2000 (U) [!]', No returned matches
+'Super Smash Bros. (E) (M3) [!]', No returned matches
+'WCW-nWo Revenge (U) [!]', No returned matches
+'star_wars_episode_i_-_battle_for_naboo_(u)_[!]', No returned matches
+'War Gods (U) [!]', No returned matches
+'WWF WrestleMania 2000 (U) [!]', No returned matches
+'WWF No Mercy (U) [!]', No returned matches
+'Wave Race 64 (U) (V1.1) [!]', No returned matches
+'Wayne Gretzky's 3D Hockey [ESP]', No returned matches
+'Wetrix (U) [!]', No returned matches
+'Wave Race 64 (U) (V1.1) [!]', No returned matches
+'Wipeout 64 (U) [!]', No returned matches
+'Wetrix [N64] [Roms Nintendo en Español]', No returned matches
+'Wayne Gretzky's 3D Hockey (U) [!]', No returned matches
+'World is Not Enough, The (U) [!]', No returned matches
+'World Cup 98 [ESP]', No returned matches
+'Worms - Armageddon (U) [!]', No returned matches
+'World Driver Championship [ESP]', No returned matches
+'Worms - Armageddon (U) [!]', No returned matches
+'Worms Armageddon [ESP]', No returned matches
+'World Driver Championship (U) [!]', No returned matches
+'wii64', No returned matches
+'AGS-PGAE', No returned matches
+'A Bug's Life (U) [!]', No returned matches
+'AeroGauge (U) [!]', No returned matches
+'All Star Tennis '99 [ESP]', No returned matches
+'Airboarders 64', No returned matches
+'Aerofighter's Assault (U) [!]', No returned matches
+'Aidyn Chronicles - The First Mage (U) [!]', No returned matches
+'All-Star Baseball 2001 (U) [!]', No returned matches
+'All-Star Baseball 99 (U) [!]', No returned matches
+'All-Star Baseball 2000 (U) [!]', No returned matches
+'Armorines - Project S.W.A.R.M. (U) [!]', No returned matches
+'Army Men - Sarge's Heroes 2 (U) [!]', No returned matches
+'Army Men - Air Combat (U) [!]', No returned matches
+'Asteroids Hyper 64 (U) [!]', No returned matches
+'Automobili Lamborghini (U) [!]', No returned matches
+'Ken Griffey Jr.'s Slugfest (U) [!]', No returned matches
+'Army Men - Sarge's Heroes (U) [!]', No returned matches
+'Killer Instinct Gold (U) (V1.2) [!]', No returned matches
+'Knife Edge - Nose Gunner (U) [!]', No returned matches
+'King Hill 64 - Extreme Snowboarding (J) [!]', No returned matches
+'Kirby 64 - The Crystal Shards (E) [!]', No returned matches
+'Knockout Kings 2000 (U) [!]', No returned matches
+'Kobe Bryant's NBA Courtside (U) [!]', No returned matches
+'Kirby 64 - The Crystal Shards (U) [!]', No returned matches
+'Madden Football 64 (U) [!]', No returned matches
+'Mace - The Dark Age (U) [!]', No returned matches
+'Major League Baseball Featuring Ken Griffey Jr. (U) [!]', No returned matches
+'Madden 2000 (U) [!]', No returned matches
+'Mario Golf (U) [!]', No returned matches
+'Mario Kart 64 (U) [!]', No returned matches
+'Mario Kart 64 ', No returned matches
+'Mario Golf (E) [o1]', No returned matches
+'Mario Kart 64', No returned matches
+'Mahjong 64 (J) [!]', No returned matches
+'Mario Kart 64 [N64] [Roms Nintendo en Español]', No returned matches
+'Mario Party (U) [!]', No returned matches
+'Mario Party 2 (U) [!]', No returned matches
+'Mario Party (E) (M3) [T+Spa1.0_PacoChan]', No returned matches
+'Mario Party 2 [E]', No returned matches
+'Mario Party 3 (Europe) (Esp)', No returned matches
+'Mario Party 3 [N64] [Roms Nintendo en Español]', No returned matches
+'Mario Party 3 (U) [!]', No returned matches
+'Mario Party 2 [N64] [Roms Nintendo en Español]', No returned matches
+'Mario no Photopie (J) [!]', No returned matches
+'Mario Tennis (U) [!]', No returned matches
+'Mario Tennis (U) [!]', No returned matches
+'Mega_Man_64_(U)_[!]', No returned matches
+'Mia Hamm Soccer 64 [N64] [Roms Nintendo en Español]', No returned matches
+'Micro Machines 64 Turbo (U) [!]', No returned matches
+'Mario Party [N64] [Roms Nintendo en Español]', No returned matches
+'Mickey's Speedway USA (U) [!]', No returned matches
+'Mission Impossible (U) [!]', No returned matches
+'Micro Machines 64 Turbo [N64] [Roms Nintendo en Español]', No returned matches
+'Mickey's Speedway USA [N64] [Roms Nintendo en Español]', No returned matches
+'Mischief Makers (U) [!]', No returned matches
+'Monster Truck Madness 64 (U) [!]', No returned matches
+'Monopoly (U) [!]', No returned matches
+'Monster Truck Madness 64 [N64] [Roms Nintendo en Espal]', No returned matches
+'Mission Impossible [N64] [Roms Nintendo en Espal]', No returned matches
+'Mortal Kombat 4', No returned matches
+'Mortal Kombat 4 (U) [!]', No returned matches
+'Monaco Grand Prix - Racing Simulation 2 [N64] [Roms Nintendo en Espal]', No returned matches
+'Mortal Kombat Mythologies - Sub-Zero (U) [!]', No returned matches
+'Mortal Kombat Trilogy (Europe)', No returned matches
+'Ms. Pac-Man Maze Madness (U) [!]', No returned matches
+'Mortal Kombat Trilogy (English)', No returned matches
+'Ms. Pac-Man - Maze Madness', No returned matches
+'Mystical Ninja 2 - Starring Goemon (E) [!]', No returned matches
+'mupen64plus', No returned matches
+'Mystical Ninja - Starring Goemon (U) [!]', No returned matches
+'Mystical Ninja Starring Goemon (E) [!]', No returned matches
+'Carmageddon 64 (U) [!]', No returned matches
+'Castlevania (U) (V1.2) [!]', No returned matches
+'Carmageddon 64 [ESP]', No returned matches
+'California Speed (U) [!]', No returned matches
+'Chameleon Twist (U) [!]', No returned matches
+'Castlevania - Legacy of Darkness (U) [!]', No returned matches
+'Chameleon Twist 2', No returned matches
+'Charlie Blast's Territory (U) [!]', No returned matches
+'Chopper Attack (U) [!]', No returned matches
+'Clay Fighter - Sculptor's Cut (U) [!]', No returned matches
+'Clay Fighter 63 1-3 (U) [!]', No returned matches
+'Conker's Bad Fur Day (Europe)', No returned matches
+'Conker's Bad Fur Day (U) [!]', No returned matches
+'Conker's Bad Fur Day [ESP]', No returned matches
+'Command & Conquer (U) [!]', No returned matches
+'Chameleon Twist 2 (U) [!]', No returned matches
+'Cruis'n Exotica (U) [!]', No returned matches
+'Cruis'n World (U) [!]', No returned matches
+'Cruis'n USA (U) (V1.2) [!]', No returned matches
+'Command and Conquer 3D (U) (!)', No returned matches
+'Custom Robo V2 (J) [!]', No returned matches
+'Vigilante 8 - 2nd Offense (U) [!] 2', No returned matches
+'Vigilante 8 - 2nd Offense (U) [!]', No returned matches
+'CyberTiger (U) [!]', No returned matches
+'Virtual Chess 64 [N64] [Roms Nintendo en Español]', No returned matches
+'V-Rally Edition 99 (U) [!]', No returned matches
+'Vigilante 8 (U) [!]', No returned matches
+'O.D.T. [N64] [Roms Nintendo en Español]', No returned matches
+'Off Road Challenge (U) [!]', No returned matches
+'Virtual Pool 64 (U) [!]', No returned matches
+'Olympic Hockey Nagano '98 [N64] [Roms Nintendo en Español]', No returned matches
+'Iggy's Reckin' Balls (U) [!]', No returned matches
+'In-Fisherman Bass Hunter 64 (U) [!]', No returned matches
+'Ogre Battle 64 - Person of Lordly Caliber (U) [!]', No returned matches
+'Indy Racing 2000 (U) [!]', No returned matches
+'International Superstar Soccer '98 (E) [!]', No returned matches
+'Operation WinBack [N64] [Roms Nintendo en Español]', No returned matches
+'International Superstar Soccer '98 (U) [!]', No returned matches
+'International Superstar Soccer 2000 (relatos en esp)', No returned matches
+'Indiana Jones and the Infernal Machine (U) [!]', No returned matches
+'International Superstar Soccer 2000 (U) [!]', No returned matches
+'International Superstar Soccer 64 (U) [!]', No returned matches
+'Xena Warrior Princess - Talisman of Fate (U) [!]', No returned matches
+'International Superstar Soccer 2000 [N64] [Roms Nintendo en Español]', No returned matches
+'Yoshi's Story (U) [!]', No returned matches
+'International Track and Field 2000 (U) [!]', No returned matches
+'F-1 World Grand Prix (U) [!]', No returned matches
+'F-Zero X (E)', No returned matches
+'F-1 World Grand Prix II [N64] [Roms Nintendo en Español]', No returned matches
+'F-1 Pole Position 64 (U) [!]', No returned matches
+'F1_World_Grand_Prix2(E)', No returned matches
+'F-Zero X (U) [!]', No returned matches
+'FIFA 99 (U) [!]', No returned matches
+'FIFA Soccer 64 (U) (M3) [!]', No returned matches
+'Fighter's Destiny (U) [!]', No returned matches
+'FIFA - Road to World Cup 98 [N64] [Roms Nintendo en Español]', No returned matches
+'FIFA 99 [N64] [Roms Nintendo en Español]', No returned matches
+'Fighter's Destiny 2 (U) [!]', No returned matches
+'Flying Dragon (U) [!]', No returned matches
+'Fire Electric Pen (J) [!]', No returned matches
+'Fighting Force 64 (U) [!]', No returned matches
+'Forsaken 64 [N64] [Roms Nintendo en Español]', No returned matches
+'fcube', No returned matches
+'Forsaken 64 (U) [!]', No returned matches
+'Taz Express [N64] [Roms Nintendo en Español]', No returned matches
+'Tamagotchi 64 (J) (!)', No returned matches
+'The New Tetris (U) (!)', No returned matches
+'Tetris 64 (J) [!]', No returned matches
+'Tetrisphere (U) [!]', No returned matches
+'Tom and Jerry in Fists of Furry (U) [!]', No returned matches
+'Fox Sports College Hoops '99 (U) [!]', No returned matches
+'Tigger's Honey Hunt [N64] [ESP]', No returned matches
+'Tom and Jerry in Fists of Furry [ESP]', No returned matches
+'Tom Clancy's Rainbow Six (U) [!]', No returned matches
+'Tony Hawk's Pro Skater 2 (U) [!]', No returned matches
+'Tonic Trouble [ESP]', No returned matches
+'Tony Hawk's Pro Skater (U) [!]', No returned matches
+'Top Gear Rally 2 (U) [!]', No returned matches
+'Tony Hawk's Pro Skater 3 (U)', No returned matches
+'Toy Story 2 (U) [!]', No returned matches
+'Turok - Dinosaur Hunter (U) (V1.2) [!]', No returned matches
+'Top Gear Overdrive (U) [!]', No returned matches
+'Triple Play 2000 (U) [!]', No returned matches
+'Top Gear Hyper-Bike (U) [!]', No returned matches
+'Turok - Rage Wars (U) [!]', No returned matches
+'Turok 3 - Shadow of Oblivion (U) [!]', No returned matches
+'Turok 2 - Seeds of Evil (U) [!]', No returned matches
+'Twisted Edge Extreme Snowboarding (U) [!]', No returned matches
+'Turok 2 - Seeds of Evil (Europe) (Esp)', No returned matches
+'Turok 2 - Seeds of Evil [ESP]', No returned matches
+'Rampage - World Tour (U) [!]', No returned matches
+'Rat Attack (U) [!]', No returned matches
+'Rat Attack! [N64] [Roms Nintendo en Español]', No returned matches
+'Rampage 2 - Universal Tour (U) [!]', No returned matches
+'RR64 - Ridge Racer 64 (U) [!]', No returned matches
+'Rayman 2 - The Great Escape (U) [!]', No returned matches
+'Rayman 2 - The Great Escape (USA) (Esp)', No returned matches
+'Re-Volt  [ESP]', No returned matches
+'Rayman 2 - The Great Escape [ESP]', No returned matches
+'Resident Evil 2 (U) [!]', No returned matches
+'Ready 2 Rumble Boxing Round 2 (U) [!]', No returned matches
+'Ready 2 Rumble Boxing [ESP]', No returned matches
+'Roadsters Trophy [ESP]', No returned matches
+'Roadsters (U) [!]', No returned matches
+'Road Rash 64 (U) [!]', No returned matches
+'Ready 2 Rumble Boxing (U) [!]', No returned matches
+'Rocket - Robot on Wheels (U) [!]', No returned matches
+'Rocket - Robot on Wheels (U) [!] 2', No returned matches
+'Robot Ponkottsu 64 - Caramel of the 7 Seas (J) [!]', No returned matches
+'Rugrats - Scavenger Hunt (U) [!]', No returned matches
+'Rugrats in Paris - The Movie (U) [!]', No returned matches
+'Rugrats in Paris - The Movie (U) [!]', No returned matches
+'Robotron 64 (U) [!]', No returned matches
+'Rush 2 - Extreme Racing [ESP]', No returned matches
+'Rugrats - Treasure Hunt (E) [!]', No returned matches
+'Earthworm Jim 3D [ESP]', No returned matches
+'Earthworm Jim 3D (English)', No returned matches
+'Earthworm Jim 3D (U) [!]', No returned matches
+'Rush 2 - Extreme Racing USA (U) [!]', No returned matches
+'Excitebike 64 (U) [!]', No returned matches
+'Excitebike 64 (U) [!]', No returned matches
+'Extreme-G XG2 (U) [!]', No returned matches
+'Extreme-G (U) [!]', No returned matches
+'Extreme-G [ESP]', No returned matches
+'Extreme-G XG2 [ESP]', No returned matches
+'1080 Snowboarding (E) [!]', No returned matches
+'007 - GoldenEye 007 [N64] [Roms Nintendo en Español]', No returned matches
+'40 Winks [N64] [Roms Nintendo en Español]', No returned matches
+'64 Oozumou 2 (J) [!]', No returned matches
+'1080 Snowboarding (JU) [!]', No returned matches
+'007 - The World is Not Enough [N64] [Roms Nintendo en Español]', No returned matches
+'G.A.S.P! Fighter's NEXTream (E) [!]', No returned matches
+'GT 64 Championship Edition (U) [!]', No returned matches
+'Gauntlet Legends (U) [!]', No returned matches
+'Gex 64 - Enter the Gecko (U) [!]', No returned matches
+'Gex 3 - Deep Cover Gecko (U) [!]', No returned matches
+'Glover (U) [!]', No returned matches
+'Glover 64', No returned matches
+'Gex 3 - Deep Cover Gecko [N64] [Roms Nintendo en Español]', No returned matches
+'Golden Nugget 64 (U) [!]', No returned matches
+'GoldenEye 007 (U) [!]', No returned matches
+'gasp', No returned matches
+'Goemon's Great Adventure (U) [!]', No returned matches
+'GoldenEye 007 Spa SkanderX', No returned matches
+'NASCAR 2000 (U) [!]', No returned matches
+'NBA Live 99 [N64] [Roms Nintendo en Español]', No returned matches
+'NHL 99 (U) [!]', No returned matches
+'Nuclear Strike 64 (U) [!]', No returned matches
+'NFL Blitz 2001 (U) [!]', No returned matches
+'NFL Blitz (U) [!]', No returned matches

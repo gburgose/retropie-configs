@@ -1,6 +1,85 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>/home/gabriel/RetroPie/roms/psx/Broken Sword La leyenda de los Templarios [PAL-E] [SCES-00414].cue</path>
+		<name>Broken Sword La leyenda de los Templarios</name>
+		<thumbnail />
+		<image />
+		<marquee />
+		<video />
+		<rating />
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<lastplayed>20211211T191659</lastplayed>
+		<playcount>1</playcount>
+	</game>
+	<game>
+		<path>/home/gabriel/RetroPie/roms/psx/Capcom vs. SNK - Millennium Fight 2000 Pro [NTSC-U] [SLUS-01476].cue</path>
+		<name>Capcom vs. SNK - Millennium Fight 2000 Pro</name>
+		<thumbnail />
+		<image />
+		<marquee />
+		<video />
+		<rating />
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<lastplayed>20211211T182517</lastplayed>
+		<playcount>4</playcount>
+	</game>
+	<game>
+		<path>/home/gabriel/RetroPie/roms/psx/Dragon Ball - Final Bout [E].cue</path>
+		<name>Dragon Ball - Final Bout</name>
+		<thumbnail />
+		<image />
+		<marquee />
+		<video />
+		<rating />
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>/home/gabriel/RetroPie/roms/psx/Star Wars Rebel Assault II.m3u</path>
+		<name>Star Wars Rebel Assault II</name>
+		<thumbnail />
+		<image />
+		<marquee />
+		<video />
+		<rating />
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>/home/gabriel/RetroPie/roms/psx/Tombi 2 - Contra los cerdiablos [E].cue</path>
+		<name>Tombi 2 - Contra los cerdiablos</name>
+		<thumbnail />
+		<image />
+		<marquee />
+		<video />
+		<rating />
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
 		<path>./Alundra [Psx][Ntsc][Español][Mega][Epsxe].cue</path>
 		<name>Alundra</name>
 		<desc>Between the worlds of light and dark lies the world of dram. A world where the rule of reason loosens its grip. A place where an insidious evil is stealing minds and blackening the hearts of those from the world of light. Grab a weapon and become the dreamwalker Alundra as he struggles to purge the evil Id of an ancient world before it falls to ash.

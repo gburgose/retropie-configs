@@ -1,0 +1,45 @@
+--- The following is a list of skipped games ---
+'Lunch Time (USA) (GameCube)', No returned matches
+'Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)', No returned matches
+'Pichu Bros. Mini (Japan)', No returned matches
+'Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)', No returned matches
+'Pokemon Party Mini (Europe)', No returned matches
+'Pokemon Party Mini (Japan)', No returned matches
+'Pichu Bros. Mini - Skateboard (Japan) (Preview)', No returned matches
+'Pokemon Party Mini (USA)', No returned matches
+'Pokemon Party Mini - Baseline Judge (Europe) (GameCube)', No returned matches
+'Pokemon Party Mini - Baseline Judge (Japan) (GameCube)', No returned matches
+'Pokemon Party Mini - Baseline Judge (USA) (GameCube)', No returned matches
+'Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)', No returned matches
+'Pokemon Party Mini - Pikachu's Rocket Start (Europe) (GameCube)', No returned matches
+'Pokemon Party Mini - Ricochet Dribble (Japan) (GameCube)', No returned matches
+'Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)', No returned matches
+'Pokemon Pinball Mini (Japan) (Preview)', No returned matches
+'Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)', No returned matches
+'Pokemon Party Mini - Rocket Start (USA) (GameCube)', No returned matches
+'Pokemon Pinball Mini (Japan)', No returned matches
+'Pokemon Pinball Mini (USA) (GameCube Preview)', No returned matches
+'Pokemon Pinball Mini (USA, Europe)', No returned matches
+'Pokemon Puzzle Collection (France) (GameCube Preview)', No returned matches
+'Pokemon Puzzle Collection (France)', No returned matches
+'Pokemon Puzzle Collection (Germany) (GameCube Preview)', No returned matches
+'Pokemon Puzzle Collection (Germany)', No returned matches
+'Pokemon Puzzle Collection (Japan) (GameCube)', No returned matches
+'Pokemon Puzzle Collection (USA) (GameCube Preview)', No returned matches
+'Pokemon Puzzle Collection (USA, Europe)', No returned matches
+'Pokemon Puzzle Collection Vol. 2 (Japan)', No returned matches
+'Pokemon Race Mini (Japan) (Preview)', No returned matches
+'Pokemon Anime Card Daisakusen (Japan)', No returned matches
+'Pokemon Puzzle Collection (Japan)', No returned matches
+'Pokemon Race Mini (Japan)', No returned matches
+'Pokemon Sodateyasan Mini (Japan)', No returned matches
+'Pokemon Tetris (Europe) (En,Ja,Fr)', No returned matches
+'Pokemon Zany Cards (France)', No returned matches
+'Pokemon Zany Cards (Germany)', No returned matches
+'Pokemon Zany Cards (USA, Europe)', No returned matches
+'Snorlax's Lunch Time (Europe) (GameCube)', No returned matches
+'Snorlax's Lunch Time (Japan) (GameCube)', No returned matches
+'Togepi no Daibouken (Japan) (Preview)', No returned matches
+'Togepi no Daibouken (Japan)', No returned matches
+'Pokemon Shock Tetris (Japan)', No returned matches
+'[BIOS] Nintendo Pokemon Mini (World)', No returned matches

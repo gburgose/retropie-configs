@@ -1,0 +1,42 @@
+--- The following is a list of skipped games ---
+'BC Racers (32X) (W) [c][!]', No returned matches
+'Blackthorne (32X) (U) [!]', No returned matches
+'Brutal Unleashed - Above the Claw (32X) (U) [!]', No returned matches
+'Darxide (32X) (E) (M4) [!]', No returned matches
+'Doom (32X) (JU) [!]', No returned matches
+'Zaxxon's Motherbase 2000 (32X) (JU) [!]', No returned matches
+'Primal Rage (32X) (W) [!]', No returned matches
+'Pitfall (32X) (U) [!]', No returned matches
+'Shadow Squadron (32X) (UE) [!]', No returned matches
+'Spear Of Destiny', No returned matches
+'Space Harrier (32X) (JU) [!]', No returned matches
+'Sangokushi IV (32X) (J) [!]', No returned matches
+'Star Trek - Starfleet Academy Bridge Simulator (32X) (U) [!]', No returned matches
+'Stellar Assault (Japan)', No returned matches
+'Spider-Man - Web of Fire (32X) (W) [!]', No returned matches
+'Star Wars Arcade (32X) (U) [!]', No returned matches
+'WWF RAW (32X) (W) [!]', No returned matches
+'Soulstar X (USA) (Proto)', No returned matches
+'WWF Wrestlemania Arcade (32X) (W) [!]', No returned matches
+'After Burner Complete (32X) (JU) [!]', No returned matches
+'Knuckles' Chaotix (32X) (JU) [!]', No returned matches
+'Wolfenstein 3D', No returned matches
+'Kolibri (32X) (W) [!]', No returned matches
+'Metal Head (32X) (JU) (M2) [!]', No returned matches
+'Cosmic Carnage (32X) (JU) [!]', No returned matches
+'Motocross Championship (32X) (JU) [!]', No returned matches
+'World Series Baseball '95 (32X) (U) [!]', No returned matches
+'Virtua Hamster (USA) (Proto)', No returned matches
+'Virtua Fighter (32X) (JU) [!]', No returned matches
+'Virtua Racing Deluxe (32X) (U) [!]', No returned matches
+'X-Men (USA) (Proto)', No returned matches
+'Mortal Kombat II (32X) (W) (Jan 1995) [!]', No returned matches
+'FIFA International Soccer 96 (32X) (UE) (M6) [c][!]', No returned matches
+'Toughman Contest (32X) (W) [!]', No returned matches
+'T-MEK (32X) (W) [!]', No returned matches
+'ECCO the Dolphin CinePak Demo (32X) (JU)', No returned matches
+'36 Great Holes Starring Fred Couples (32X) (JU) [!]', No returned matches
+'Tempo (32X) (JU) [!]', No returned matches
+'NFL Quarterback Club (32X) (W) [!]', No returned matches
+'NBA Jam Tournament Edition (32X) (W) [!]', No returned matches
+'RBI Baseball 95 (32X) (U) [!]', No returned matches

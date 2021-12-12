@@ -1,0 +1,1263 @@
+--- The following is a list of skipped games ---
+'Yggdra Union - We'll Never Fight Alone', No returned matches
+'Zidane - Football Generation 2002', No returned matches
+'Zoey 101', No returned matches
+'ZatchBell! - Electric Arena', No returned matches
+'Yoshi's Universal Gravitation', No returned matches
+'Zapper', No returned matches
+'Zone of the Enders - the Fist of Mars', No returned matches
+'Zooo', No returned matches
+'Yu Yu Hakusho - Spirit Detective', No returned matches
+'Yu Yu Hakusho - Tournament Tactics', No returned matches
+'Zoo Cube', No returned matches
+'Zoids - Legacy', No returned matches
+'Yu-Gi-Oh! - Destiny Board Traveler', No returned matches
+'Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005', No returned matches
+'Yu-Gi-Oh! - World Championship 2004', No returned matches
+'Yu-Gi-Oh! - Dungeon Dice Monsters', No returned matches
+'Yu-Gi-Oh! - Worldwide Edition', No returned matches
+'Yu-Gi-Oh! - Reshef of Destruction', No returned matches
+'Yu-Gi-Oh! - the Eternal Duelist Soul', No returned matches
+'Yu-Gi-Oh! - the Sacred Cards', No returned matches
+'Yu-Gi-Oh! - Ultimate Masters 2006', No returned matches
+'Hamtaro - Ham Ham Games', No returned matches
+'Quad Desert Fury', No returned matches
+'Hamtaro - Rainbow Rescue', No returned matches
+'Hamtaro - Ham Ham Heartbreak', No returned matches
+'Yu-Gi-Oh! GX - Duel Academy', No returned matches
+'Happy Feet', No returned matches
+'Harlem Globetrotters - World Tour  2', No returned matches
+'Hardcore Pinball', No returned matches
+'Hardcore Pool', No returned matches
+'Harlem Globetrotters - World Tour', No returned matches
+'Harry Potter - Quidditch World Cup', No returned matches
+'Harry Potter and the Chamber of Secrets', No returned matches
+'Happy Feet  2', No returned matches
+'Harry Potter and the Goblet of Fire', No returned matches
+'Harry Potter and the Order of the Phoenix', No returned matches
+'Harry Potter and the Prisoner of Azkaban', No returned matches
+'Harvest Moon - More Friends of Mineral Town  2', No returned matches
+'Harry Potter and the Sorcerer's Stone', No returned matches
+'Harvest Moon - Friends of Mineral Town', No returned matches
+'Harry Potter Collection', No returned matches
+'Heidi - the Game', No returned matches
+'Hello Kitty - Happy Party Pals # GBA 2', No returned matches
+'Hello Kitty - Happy Party Pals', No returned matches
+'He-Man and the Power of Grayskull', No returned matches
+'Hey Arnold - the Movie', No returned matches
+'Herbie - Fully Loaded', No returned matches
+'High Heat - Major League Baseball 2002', No returned matches
+'Hi Hi Puffy Amiyumi - Kaznapped! # GBA 2', No returned matches
+'High Heat Major League Baseball 2003', No returned matches
+'Hi Hi Puffy Amiyumi - Kaznapped!', No returned matches
+'Harvest Moon - More Friends of Mineral Town', No returned matches
+'High School Musical - Livin the Dream', No returned matches
+'Horsez', No returned matches
+'Home on the Range', No returned matches
+'Hobbit', No returned matches
+'Hot Potato', No returned matches
+'Hot Wheels - All Out', No returned matches
+'Hot Wheels - Velocity X # GBA 2', No returned matches
+'Hot Wheels - Burnin' Rubber', No returned matches
+'Hot Wheels - Stunt Track Challenge', No returned matches
+'Hot Wheels Advance', No returned matches
+'Hot Wheels - World Race', No returned matches
+'Hugo - Agent Roborumble # GBA 2', No returned matches
+'Hot Wheels - Velocity X', No returned matches
+'Hugo - Bukkazoom!', No returned matches
+'Hugo - Agent Roborumble', No returned matches
+'Hugo - the Evil Mirror', No returned matches
+'Lady Sia', No returned matches
+'Horse and Pony - Let's Ride 2', No returned matches
+'Legends of Wrestling 2', No returned matches
+'Les Indestructibles', No returned matches
+'Lara Croft Tomb Raider - Legend', No returned matches
+'Lemony Snicket's a Series of Unfortunate Events', No returned matches
+'Little Einstein', No returned matches
+'Lion King', No returned matches
+'Lost Vikings', No returned matches
+'Looney Tunes - Back in Action', No returned matches
+'Love Hina Advance', No returned matches
+'Little League Baseball 2002', No returned matches
+'Lunar Legend', No returned matches
+'The Legend of Zelda - A Link To The Past Four Swords', No returned matches
+'Lizzie McGuire - On the Go!', No returned matches
+'Lufia - the Ruins of Lore', No returned matches
+'Lizzie McGuire 3 - Home-Coming Havoc', No returned matches
+'The Legend of Zelda - The Minish Cap', No returned matches
+'Lilo and Stitch 2 - Hamsterveil Havoc', No returned matches
+'Lucky Luke - Wanted! [E]', No returned matches
+'Lizzie McGuire 2 - Lizzie Diaries', No returned matches
+'Lucky Luke - Wanted', No returned matches
+'Lilo & Stitch', No returned matches
+'Leyend of Zelda, The - A Link to the Past & Four Swords (E) (M5)', No returned matches
+'Leyend of Zelda, The - A Link to the Past', No returned matches
+'Leyend of Zelda, The - The Minish Cap [E]', No returned matches
+'Leyend of Zelda, The - The Minish Cap', No returned matches
+'Lord of the Rings - the Fellowship of the Ring', No returned matches
+'Lord of the Rings 2 - the Two Towers', No returned matches
+'Lord of the Rings - the Third Age', No returned matches
+'Lizzie McGuire 2 - Lizzie Diaries - Special Edition', No returned matches
+'Lord of the Rings 3 - Return of the King', No returned matches
+'Let's Ride! Dreamer', No returned matches
+'Let's Ride! Sunshine Stables', No returned matches
+'Lets Ride - Friends Forever', No returned matches
+'Land Before Time', No returned matches
+'LEGO - Bionicle - Matoran Adventures', No returned matches
+'LEGO - Bionicle - Maze of Shadows', No returned matches
+'LEGO -  Knights' Kingdom', No returned matches
+'Land Before Time - Into the Mysterious Land', No returned matches
+'LEGO - Drome Racers', No returned matches
+'LEGO - Football Mania', No returned matches
+'LEGO - Bionicle', No returned matches
+'LEGO - Bionicle - the Game', No returned matches
+'LEGO - Racers 2', No returned matches
+'LEGO - Bionicle Heroes', No returned matches
+'LEGO - Star Wars 2 - the Original Trilogy', No returned matches
+'LEGO - Star Wars - the Video Game', No returned matches
+'LEGO Island - Xtreme Stunts', No returned matches
+'Jackie Chan Adventures - Legend of the Dark Hand', No returned matches
+'James Pond - Codename Robocod', No returned matches
+'James Bond 007 - Everything or Nothing', No returned matches
+'James Bond 007 - Nightfire', No returned matches
+'Jazz Jack-Rabbit', No returned matches
+'LEGO Island 2', No returned matches
+'Jet Grind Radio', No returned matches
+'Jimmy Neutron - Attack of the Twonkies', No returned matches
+'Jet Set Radio', No returned matches
+'Jimmy Neutron - Jet Fusion', No returned matches
+'Jimmy Neutron vs. Jimmy Negatron', No returned matches
+'Jimmy Neutron - Boy Genius', No returned matches
+'Jungle Book 2', No returned matches
+'Jonny Moseley - Mad Trix', No returned matches
+'Juka and the Monophonic Menace', No returned matches
+'Jurassic Park 3 - Park Builder', No returned matches
+'Jungle Book', No returned matches
+'Juka and the Monophonic Menace # GBA 2', No returned matches
+'Jurassic Park 3 - the DNA Factor', No returned matches
+'Justice League - Chronicles', No returned matches
+'Justice League - Injustice For All [E]', No returned matches
+'Jurassic park 3 - Dino Attack', No returned matches
+'Jurassic Park 3 - Island Attack', No returned matches
+'Justice League - Injustice for All', No returned matches
+'Justice League Heroes - the Flash', No returned matches
+'Justice League Heroes - The Flash [E]', No returned matches
+'James Bond 007 - Nightfire', No returned matches
+'Babar to the Rescue', No returned matches
+'Back to Stone', No returned matches
+'Backtrack', No returned matches
+'Backyard Hockey', No returned matches
+'Backyard Skateboarding', No returned matches
+'James Bond 007 - Everything or Nothing', No returned matches
+'BMX - Trick Racer', No returned matches
+'Banjo Pilot', No returned matches
+'Baseball Advance', No returned matches
+'Baldur's Gate - Dark Alliance', No returned matches
+'Banjo Kazooie - Grunty's Revenge', No returned matches
+'Barnyard', No returned matches
+'Big Mutha Truckers', No returned matches
+'Berenstain Bears - Spooky Old Tree', No returned matches
+'Bible Game', No returned matches
+'Black Bass Advance', No returned matches
+'Blackthorne', No returned matches
+'Black Belt Challenge', No returned matches
+'Board Game Classics', No returned matches
+'Bookworm', No returned matches
+'Blades of Thunder', No returned matches
+'Blender Bros', No returned matches
+'Bat-Man Begins', No returned matches
+'Boxing Fever', No returned matches
+'Brother Bear', No returned matches
+'Boulder-Dash EX', No returned matches
+'Britney's Dance Beat', No returned matches
+'Buffy - the Vampire Slayer', No returned matches
+'Bubble Pop', No returned matches
+'Broken Sword - the Shadow of the Templars', No returned matches
+'Bruce Lee - Return Of The Legend [E]', No returned matches
+'Butt-Ugly Martians - B.K.M. Battles', No returned matches
+'Bust a Move', No returned matches
+'Bratz - Forever Diamondz', No returned matches
+'Bratz - Babyz', No returned matches
+'Bratz', No returned matches
+'Bratz - the Movie', No returned matches
+'Batman Vengeance', No returned matches
+'Batman - Rise of Sin Tzu', No returned matches
+'Battle-Bots - Design and Destroy', No returned matches
+'Bratz - Rock Angels', No returned matches
+'Batman Begins', No returned matches
+'Battle-Bots - Beyond the Battlebox', No returned matches
+'Best Friends - Dogs & Cats', No returned matches
+'Best Friends - Dogs and Cats', No returned matches
+'Breath of Fire', No returned matches
+'Best Friends - My Horse', No returned matches
+'Battle B-Daman', No returned matches
+'Battle B-Daman - Fire Spirits', No returned matches
+'Backyard Football 2006', No returned matches
+'Backyard Football 2007', No returned matches
+'Barbie - Groovy Games', No returned matches
+'Breath of Fire 2 ', No returned matches
+'Barbie - Horse Adventures - Blue Ribbon Race', No returned matches
+'Barbie - the Princess and the Pauper', No returned matches
+'Barbie Diaries - High School Mystery', No returned matches
+'Barbie and the Magic of Pegasus', No returned matches
+'Barbie - Secret Agent - Royal Jewels Mission', No returned matches
+'Barbie as the Island Princess', No returned matches
+'Barbie in the 12 Dancing Princesses', No returned matches
+'Bomber-Man Max 2 Blue', No returned matches
+'Backyard Football', No returned matches
+'Bomber-Man Tournament', No returned matches
+'Bomber-Man Max 2 Red', No returned matches
+'Beyblade G-Revolution', No returned matches
+'Beyblade V-Force - Ultimate Blader', No returned matches
+'Boktai 2 - Solar Boy Django', No returned matches
+'Bubble Bobble - Old & New', No returned matches
+'Backyard Basketball 2007', No returned matches
+'Bubble Bobble - Old and New', No returned matches
+'Backyard Basketball', No returned matches
+'Backyard Baseball 2007', No returned matches
+'Backyard Baseball', No returned matches
+'Backyard Baseball 2006', No returned matches
+'bit Generations - Boundish', No returned matches
+'Boktai - the Sun is in Your Hands', No returned matches
+'bit Generations - Dial Hex', No returned matches
+'Pac-Man Collection', No returned matches
+'Pac-Man World', No returned matches
+'Pac-Man World 2', No returned matches
+'Pac-Man Pinball Advance', No returned matches
+'Paws & Claws - Pet Resort', No returned matches
+'Payback', No returned matches
+'Penny Racers', No returned matches
+'Peter Pan - the Motion Picture Event', No returned matches
+'Peter Pan - Return to Neverland', No returned matches
+'bit Generations - Dotstream', No returned matches
+'Pets - Hamsters Life 2', No returned matches
+'Phalanx - The Enforce Fighter A-144 [E]', No returned matches
+'Petz Vet.# GBA', No returned matches
+'Phalanx - The Enforce Fighter A-144', No returned matches
+'Phalanx - the Enforce Fighter A-144 2', No returned matches
+'Personal Organizer PDA', No returned matches
+'Phil of the Future', No returned matches
+'Piglet's Big Game', No returned matches
+'Pinball Advance [E]', No returned matches
+'Phantasy Star Collection', No returned matches
+'Pinball Tycoon', No returned matches
+'Pinball Challenge Deluxe', No returned matches
+'Pink Panther - Pinkadelic Pursuit', No returned matches
+'Pinky and the Brain - the Master Plan', No returned matches
+'Pinball Advance 2', No returned matches
+'Pinball of the Dead', No returned matches
+'Pinball Advance', No returned matches
+'Pippa Funnell - Stable Adventure', No returned matches
+'Pippa Funnell 2', No returned matches
+'Pirates Of The Caribbean - Dead Man's Chest [E]', No returned matches
+'Piratas del Caribe - El cofre del hombre muerto [E]', No returned matches
+'Pirates of the Caribbean 2 - Dead Man's Chest', No returned matches
+'Piratas del Caribe - El cofre del hombre muerto', No returned matches
+'Pinobee - Wings of Adventure', No returned matches
+'Pirates of the Caribbean', No returned matches
+'Planet Monsters 2', No returned matches
+'Planet Monsters [E]', No returned matches
+'Pitfall - the Lost Expedition', No returned matches
+'Planet Monsters', No returned matches
+'Planet of the Apes [E]', No returned matches
+'Planet of the Apes 2', No returned matches
+'Pitfall - the Mayan Adventure', No returned matches
+'Pocket Dogs', No returned matches
+'Pocket Professor - Kwik Notes Vol.1', No returned matches
+'Pocky & Rocky with Becky', No returned matches
+'Planet of the Apes', No returned matches
+'Pocket Music', No returned matches
+'Pokemon - Esmeralda', No returned matches
+'Pokemon - Fire Red', No returned matches
+'Pokemon - Pinball RZ', No returned matches
+'Pokemon - Leaf Green', No returned matches
+'Pokemon - Red (S)', No returned matches
+'Pokemon - Green (S)', No returned matches
+'Pokemon - Zafire (S)', No returned matches
+'Pokemon Esmeralda [E]', No returned matches
+'Pokemon Emerald', No returned matches
+'Pokemon - Rubi', No returned matches
+'Pokemon Mundo misterioso - Equipo de rescate rojo', No returned matches
+'Pokemon Pinball - Ruby and Sapphire', No returned matches
+'Pokemon Pinball RZ [E]', No returned matches
+'Pokemon Mystery Dungeon - Red Rescue Team', No returned matches
+'Pokemon Mundo misterioso [E]', No returned matches
+'Pokemon Sapphire', No returned matches
+'Pokemon Rubi [E]', No returned matches
+'Pokemon Ruby', No returned matches
+'Pokémon Rojo fuego [E]', No returned matches
+'Pokémon Zafiro [E]', No returned matches
+'Pokémon Verde hoja [E]', No returned matches
+'Polar Express', No returned matches
+'Polarium Advance', No returned matches
+'Popeye - Rush for Spinach', No returned matches
+'Polly Pocket - Super Splash Island', No returned matches
+'Power Rangers - Ninja Storm', No returned matches
+'Power Rangers - Dino-Thunder', No returned matches
+'Power Rangers - Space Patrol Delta', No returned matches
+'Power Rangers - Time-Force', No returned matches
+'Power Rangers - Wild Force', No returned matches
+'Pop Idol', No returned matches
+'Power-Puff Girls - Mojo Jojo a Go Go', No returned matches
+'Premier Action', No returned matches
+'Premier Manager 2004-2005', No returned matches
+'Power-Puff Girls - Him and Seek', No returned matches
+'Premier Manager 2005 - 2006', No returned matches
+'Prehistorik Man', No returned matches
+'Premier League Manager', No returned matches
+'Pro Tennis WTA Tour', No returned matches
+'Pro Beach Soccer', No returned matches
+'Princess Natasha - Student, Secret Agent, Princess', No returned matches
+'Puppy Luv - Spa and Resort', No returned matches
+'Proud Family', No returned matches
+'Puyo Pop Fever', No returned matches
+'Puzzle Fighter 2', No returned matches
+'Prince of Persia - Sands of Time', No returned matches
+'Puyo Pop', No returned matches
+'Pokemon - Edicion Zafiro', No returned matches
+'Pokemon - Edicion Rubi', No returned matches
+'Pokemon - Edicion Esmeralda', No returned matches
+'Pokemon - Mystery Dungeon - Red Rescue Team', No returned matches
+'Pokemon - Edicion Rojo Fuego', No returned matches
+'Pokemon - Verde Hoja', No returned matches
+'Pokemon - Volume 2', No returned matches
+'Pokemon - Volume 1', No returned matches
+'Pokemon - Gold 100-in-1', No returned matches
+'Daredevil', No returned matches
+'Pokemon - Volume 3', No returned matches
+'Darius R', No returned matches
+'David Beckham Soccer', No returned matches
+'Dark Arena', No returned matches
+'Dead to Rights', No returned matches
+'Darts - Shuffle - Skiball ', No returned matches
+'Deadly Skies', No returned matches
+'Davis Cup', No returned matches
+'Defender of the Crown', No returned matches
+'Deal or No Deal', No returned matches
+'Defender', No returned matches
+'Desert Strike Advance', No returned matches
+'Denki Blocks', No returned matches
+'Digimon Racing', No returned matches
+'Demon Driver - Time to Burn Rubber', No returned matches
+'Pokemon - Volume 4', No returned matches
+'Disney's Party', No returned matches
+'Dodgeball Advance', No returned matches
+'Dinotopia - the Timestone Pirates', No returned matches
+'Disney's Extreme Skate Adventure', No returned matches
+'Dog Trainer', No returned matches
+'Dokapon - Monster Hunter', No returned matches
+'Double Dragon Advance', No returned matches
+'Downforce', No returned matches
+'Dr. Muto', No returned matches
+'Donald Duck Advance', No returned matches
+'Dragon Tales - Dragon Adventures', No returned matches
+'Dragon's Rock', No returned matches
+'Drake & Josh', No returned matches
+'Dr. Sudoku', No returned matches
+'Droopy's Tennis Open', No returned matches
+'Dropzone', No returned matches
+'Dual Blades', No returned matches
+'Drill Dozer', No returned matches
+'Dungeons and Dragons - Eye of the Beholder', No returned matches
+'Dynasty Warriors Advance', No returned matches
+'Donkey Kong - King of Swing', No returned matches
+'Duke Nukem Advanced', No returned matches
+'Dave Mirra - Freestyle BMX 2', No returned matches
+'Dr. Seuss - the Cat in the Hat', No returned matches
+'Dr. Seuss - Green Eggs and Ham', No returned matches
+'Dave Mirra - Freestyle BMX 3', No returned matches
+'Doom (UE)', No returned matches
+'Doom', No returned matches
+'Disney Princess - Royal Adventure  2', No returned matches
+'Disney Princess - Royal Adventure', No returned matches
+'Doom II', No returned matches
+'Donkey Kong Country 3', No returned matches
+'Donkey Kong Country 2', No returned matches
+'Donkey Kong Country', No returned matches
+'Disney Princess', No returned matches
+'Dragonball Z - Advance adventure  [E]', No returned matches
+'Dragonball GT - Transformation', No returned matches
+'DragonBall Z Taiketsu', No returned matches
+'Dragon Ball - Advance adventure', No returned matches
+'Dragonball Z - Buu's Fury', No returned matches
+'Dragonball Z - the Legacy of Goku 2', No returned matches
+'Dragonball Z - Collectable Card Game', No returned matches
+'Dragonball Z - Taiketsu', No returned matches
+'Danny Phantom - Urban Jungle', No returned matches
+'Dragonball Z - the Legacy of Goku', No returned matches
+'Danny Phantom - the Ultimate Enemy', No returned matches
+'Digimon Battle Spirit 2 -  Rising Sun', No returned matches
+'Digimon Battle Spirit', No returned matches
+'Dora the Explorer - Dora's World Adventure  2', No returned matches
+'Dora the Explorer - Super Star Adventures', No returned matches
+'Disney Sports - Basketball', No returned matches
+'Dragonball Z - Supersonic Warriors', No returned matches
+'Dora the Explorer - Dora's World Adventure', No returned matches
+'Dora the Explorer - the Search for Pirate Pig's Treasure', No returned matches
+'Disney Sports - Skateboarding', No returned matches
+'Disney Sports - Football', No returned matches
+'Disney Sports - Soccer', No returned matches
+'Disney Sports - Motocross', No returned matches
+'Demikids - Dark Version', No returned matches
+'Duel Masters - Sempai Legends', No returned matches
+'Driven', No returned matches
+'Duel Masters - Kaijudo Showdown', No returned matches
+'Duel Masters - Shadow of the Code', No returned matches
+'Dogz - Fashion', No returned matches
+'Driver 2 Advance', No returned matches
+'Dogz Fashion  2', No returned matches
+'Dogz  2', No returned matches
+'Dogz 2', No returned matches
+'Demikids - Light Version', No returned matches
+'Dogz Fashion', No returned matches
+'Dexter's Laboratory - Chess Challenge', No returned matches
+'Dexter's Laboratory - Deesaster Strikes', No returned matches
+'SD Gundam Force', No returned matches
+'SSX 3', No returned matches
+'Sabrina the Teenage Witch - Potion Commotion', No returned matches
+'SSX Tricky', No returned matches
+'Samurai Jack - the Amulet of Time', No returned matches
+'Santa Claus Jr.', No returned matches
+'Salt Lake 2002', No returned matches
+'Scooby-Doo - Mystery Mayhem', No returned matches
+'Santa Clause 3 - the Escape Clause', No returned matches
+'Scooby-Doo - the Motion Picture', No returned matches
+'Santa Claus Saves the Earth', No returned matches
+'Scooby-Doo - Unmasked', No returned matches
+'Dogz', No returned matches
+'Scrabble Blast', No returned matches
+'Scooby-Doo 2 - Monsters Unleashed', No returned matches
+'Scorpion King - Sword Of Osiris', No returned matches
+'Scrabble Scramble', No returned matches
+'Scooby-Doo and the Cyber Chase', No returned matches
+'Sea Trader - Rise of Taipan', No returned matches
+'Sega Arcade Gallery', No returned matches
+'Scurge - Hive', No returned matches
+'Sega Rally Championship', No returned matches
+'Sega Smash Pack', No returned matches
+'Sea World - Shamu's Deep Sea Adventure', No returned matches
+'Shaman King - Legacy of the Spirits - Soaring Hawk', No returned matches
+'Shaman King - Master of Spirits 2', No returned matches
+'Serious Sam Advance', No returned matches
+'Shaman King - Legacy of the Spirits - Sprinting Wolf', No returned matches
+'Shark Tale', No returned matches
+'Shaun Palmer's Pro Snowboarder', No returned matches
+'Shifting Gears - Road Trip', No returned matches
+'Sheep', No returned matches
+'Shaman King - Master of Spirits', No returned matches
+'Shining Force - Resurrection of the Dark Dragon', No returned matches
+'Shining Soul 2', No returned matches
+'Shining Soul', No returned matches
+'Shrek - Smash N Crash Racing', No returned matches
+'Shrek - Reekin' Havoc', No returned matches
+'Shrek - Super Slam', No returned matches
+'Shrek - Swamp Kart', No returned matches
+'Shrek - Hassle at the Castle', No returned matches
+'Shrek 2 - Beg for Mercy', No returned matches
+'Shamu's Deep Sea Adventures', No returned matches
+'Shrek 2', No returned matches
+'Sigma Star Saga', No returned matches
+'Silent Scope (U)', No returned matches
+'Shrek the Third', No returned matches
+'Silent Scope (U) 2', No returned matches
+'Silent Scope', No returned matches
+'Sim City 2000', No returned matches
+'Simpsons - Road Rage', No returned matches
+'Sitting Ducks', No returned matches
+'Sims 2', No returned matches
+'Sims - Bustin' Out', No returned matches
+'Sky Dancers - They Magically Fly', No returned matches
+'Snood 2 - On Vacation', No returned matches
+'Smashing Drive', No returned matches
+'Smuggler's Run', No returned matches
+'Snood 2 - Snoods on Vacation', No returned matches
+'Sims 2 - Pets', No returned matches
+'Snood', No returned matches
+'Soccer Kid', No returned matches
+'Sonic Advance 2', No returned matches
+'Sonic Advance', No returned matches
+'Sonic Advance 3', No returned matches
+'Sonic Battle 2', No returned matches
+'Sonic Battle (E) (M6)', No returned matches
+'Sonic Battle', No returned matches
+'Sonic the Hedgehog - Genesis', No returned matches
+'Space Channel 5 - Ulala's Cosmic Attack', No returned matches
+'Space Invaders', No returned matches
+'Sound of Thunder', No returned matches
+'Sonic Pinball Party', No returned matches
+'Speedball 2 - Brutal Deluxe', No returned matches
+'Spider-Man - the Movie', No returned matches
+'Spider-Man - Mysterio's Menace', No returned matches
+'Spider-Man 2', No returned matches
+'Spider-Man Battle for New York', No returned matches
+'Spirit - Stallion of the Cimarron', No returned matches
+'Spider-Man - Battle for New York', No returned matches
+'Spirits and Spells', No returned matches
+'Splinter Cell 2 - Pandora Tomorrow', No returned matches
+'SpongeBob SquarePants & Friends Unite', No returned matches
+'Spider-Man 3', No returned matches
+'SpongeBob SquarePants - Battle for Bikini Bottom', No returned matches
+'Spirit Detective Yu Yu Hakusho', No returned matches
+'Splinter Cell', No returned matches
+'SpongeBob SquarePants - Lights Camera Action', No returned matches
+'SpongeBob SquarePants - Creature from the Krusty Krab', No returned matches
+'SpongeBob SquarePants - Creature from the Krusty Krab (E) (M8)', No returned matches
+'SpongeBob SquarePants - Super-Sponge', No returned matches
+'SpongeBob SquarePants - Revenge of the Flying Dutchman (UE)', No returned matches
+'SpongeBob SquarePants - Lights, Camera, Pants! (E) (M7) [b]', No returned matches
+'SpongeBob and Friends - Attack of the Toybots', No returned matches
+'SpongeBob SquarePants - Revenge of the Flying Dutchman', No returned matches
+'Sports Illustrated for Kids - Baseball', No returned matches
+'SpongeBob's Atlantis SquarePantis', No returned matches
+'Spy Hunter', No returned matches
+'SpongeBob SquarePants - SuperSponge (U)', No returned matches
+'SpongeBob SquarePants - the Movie', No returned matches
+'Spy Kids Challenger', No returned matches
+'Sports Illustrated for Kids - Football', No returned matches
+'Spy Kids 3D - Game Over', No returned matches
+'Spyro - Season of Ice', No returned matches
+'Spy Muppets - License to Croak', No returned matches
+'Spyro 2 - Season of Flame', No returned matches
+'Spyro 3 - Attack of the Rhynocs', No returned matches
+'Spyro Orange - the Cortex Conspiracy', No returned matches
+'Spyro Fusion', No returned matches
+'Spyro - A New Beginning', No returned matches
+'Stadium Games', No returned matches
+'Star Wars -  Attack of the Clones', No returned matches
+'Spyro's Adventures', No returned matches
+'Star Wars - Episode 3 - Revenge of the Sith', No returned matches
+'Star Wars - Jedi Power Battles', No returned matches
+'Spyro - the Eternal Night', No returned matches
+'Star Wars - the New Droid  Army', No returned matches
+'Star Wars Trilogy - Apprentice of the Force', No returned matches
+'Star Wars - Flight of the Falcon', No returned matches
+'Star Wars Episode III - Revenge of the Sith', No returned matches
+'Starsky and Hutch', No returned matches
+'Star X', No returned matches
+'Star Wars Episode III - Revenge of the Sith [E]', No returned matches
+'Steven Gerrard's Total Soccer 2002', No returned matches
+'Strawberry Shortcake - Summertime Adventure', No returned matches
+'Strawberry Shortcake - Ice Cream Island Riding Camp', No returned matches
+'Strawberry Shortcake - Sweet Dreams', No returned matches
+'Steel Empire', No returned matches
+'Street Jam Basketball', No returned matches
+'Street Racing Syndicate', No returned matches
+'Street-Fighter Alpha 3', No returned matches
+'Strike Force Hydra', No returned matches
+'Street-Fighter 2 - Turbo Revival', No returned matches
+'Stunt-Man', No returned matches
+'Suite Life of Zack & Cody - Tipton Caper', No returned matches
+'Stuart Little 2', No returned matches
+'Sum of all Fears', No returned matches
+'Super Army War', No returned matches
+'Super Duper Sumos', No returned matches
+'Summon Night - Swordcraft Story', No returned matches
+'Strawberry Shortcake - Summertime Adventure - Special Edition', No returned matches
+'Superman - Countdown to Apokolips', No returned matches
+'Super Robot Taisen - Original Generation 2', No returned matches
+'Super Robot Taisen - Original Generation', No returned matches
+'Summon Night - Swordcraft Story 2', No returned matches
+'Superman Returns - Fortress of Solitude', No returned matches
+'Sword of Mana', No returned matches
+'Sonic Advance', No returned matches
+'Surf's Up', No returned matches
+'Super Mario Advance 2 - Super Mario World', No returned matches
+'Sonic Advance 2', No returned matches
+'Sonic Advance 3', No returned matches
+'Super Mario Advance 4 - Super Mario Bros. 3', No returned matches
+'Super Mario Advance', No returned matches
+'Super Mario Advance 3 - Yoshi's Island', No returned matches
+'WWF - Road to Wrestlemania', No returned matches
+'Super Mario Advance 2 - Super Mario World (Color Restoration)', No returned matches
+'Wade Hixton's Counter Punch', No returned matches
+'WTA Tour Tennis', No returned matches
+'Whac a Mole', No returned matches
+'Wakeboarding Unleashed', No returned matches
+'Wing Commander Prophecy', No returned matches
+'Wings', No returned matches
+'Wild', No returned matches
+'Winnie the Pooh's Rumbly Tumbly Adventure', No returned matches
+'Woody Woodpecker in Crazy Castle 5', No returned matches
+'Winning Eleven - World Soccer', No returned matches
+'World Championship Poker', No returned matches
+'Winter Sports', No returned matches
+'World Tennis Stars', No returned matches
+'Witch', No returned matches
+'World Poker Tour', No returned matches
+'Word Safari - the Friendship Totems', No returned matches
+'Wild Thornberrys - Chimp Chase', No returned matches
+'Wild Thornberrys - the Movie', No returned matches
+'Worms - World Party 2', No returned matches
+'Wario-Land 4', No returned matches
+'Wario Ware Inc.', No returned matches
+'Wario Ware - Twisted!', No returned matches
+'Worms - World Party', No returned matches
+'Worms Blast', No returned matches
+'Who Wants to Be a Millionaire - Junior Edition', No returned matches
+'Who wants to be a Millionaire - 2nd Edition', No returned matches
+'Who wants to be a Millionaire', No returned matches
+'WWE - Road to Wrestlemania X8', No returned matches
+'WinX Club - Quest for the Codex', No returned matches
+'WWE Survivor Series', No returned matches
+'Ace Combat Advance', No returned matches
+'Wolfenstein 3D 2', No returned matches
+'Wolfenstein 3D', No returned matches
+'Action Man - Robotatak', No returned matches
+'Ace Lightning', No returned matches
+'Activision Anthology', No returned matches
+'Aero the Acrobat - Rascal Rival Revenge', No returned matches
+'Agressive Inline', No returned matches
+'WinX Club', No returned matches
+'Agassi Tennis Generation', No returned matches
+'Aladdin', No returned matches
+'Alex Rider - Stormbreaker', No returned matches
+'Airforce Delta Storm', No returned matches
+'Amazing Virtual Sea Monkeys', No returned matches
+'Alienators - Evolution Continues', No returned matches
+'American Bass Challenge', No returned matches
+'An American Tail - Fievel's Gold Rush', No returned matches
+'American Dragon Jake Long - Rise of the Huntsclan', No returned matches
+'Altered Beast - Guardian of the Realms', No returned matches
+'Animal Snap - Rescue them 2 by 2', No returned matches
+'Another World (Prototype)', No returned matches
+'Animaniacs - Light Camera Action', No returned matches
+'Ant Bully', No returned matches
+'Antz - Extreme Racing', No returned matches
+'Arctic Tale', No returned matches
+'Around the World in 80 Days', No returned matches
+'Atari Anniversary Advance', No returned matches
+'Ariel - the Little Mermaid - Magic in Two Kingdoms', No returned matches
+'Atlantis - the Lost Empire', No returned matches
+'Atomic Betty', No returned matches
+'Astroboy - Omega Factor', No returned matches
+'Army Men Advance', No returned matches
+'American Idols', No returned matches
+'Army Men - Operation Green', No returned matches
+'Army Men Advance 2 - Turf Wars', No returned matches
+'All-Star Baseball 2003 feat. Derek Jeter', No returned matches
+'All-Star Baseball 2004 feat. Derek Jeter', No returned matches
+'Avatar - the Burning Earth', No returned matches
+'Avatar - the Legend of Aang', No returned matches
+'Avatar - the Last Airbender', No returned matches
+'Arthur and the Minimoys', No returned matches
+'Advance Guardian Heroes', No returned matches
+'Advance Wars (E)(Arrogance)', No returned matches
+'Advance Wars 2 - Black Hole Rising (E)(Surplus)', No returned matches
+'Advanced Wars ', No returned matches
+'Advanced Wars 2 - Black Hole Rising', No returned matches
+'Alien Hominid 2', No returned matches
+'Arthur and the Minimoys  2', No returned matches
+'Arthur and the Invisibles', No returned matches
+'Alien Hominid', No returned matches
+'ATV - Thunder Ridge Riders', No returned matches
+'Alien Hominid [E]', No returned matches
+'Asterix and Obelix XXL', No returned matches
+'Asterix and Obelix - Paf them All', No returned matches
+'ATV - Quad Power Racing', No returned matches
+'Kao the Kangaroo', No returned matches
+'Karnaaj Rally', No returned matches
+'Kid's Cards', No returned matches
+'Kao The Kangaroo [E]', No returned matches
+'Kelly Slater's Pro Surfer', No returned matches
+'Kien - Discover the Secret of Kien', No returned matches
+'Kid Paddle', No returned matches
+'Kim Possible 3 - Team Possible', No returned matches
+'Kim Possible 2 - Drakken's Demise', No returned matches
+'Killer 3D Pool', No returned matches
+'Kim Possible', No returned matches
+'King Kong - King of Atlantis', No returned matches
+'King Kong - The 8th Wonder Of The World [E]', No returned matches
+'King Kong', No returned matches
+'Kill-Switch', No returned matches
+'King of Fighters EX - Neo Blood', No returned matches
+'King of Fighters EX 2 - Howling Blood', No returned matches
+'Kingdom Hearts - Chain of Memories 2', No returned matches
+'Kirby & The Amazing Mirror [E]', No returned matches
+'Kingdom Hearts - Chain of Memories', No returned matches
+'Kirby - Nightmare in Dream Land', No returned matches
+'Kirby - The Amazing Mirror', No returned matches
+'Kirby and the Amazing Mirror', No returned matches
+'Klonoa - Empire of Dreams', No returned matches
+'Klonoa 2 - Dream Champ Tournament', No returned matches
+'Kingdom Hearts - Chain of Memories [E]', No returned matches
+'Kirby's Nightmare in Dreamland', No returned matches
+'Klonoa - Empire of Dreams [E]', No returned matches
+'Konami Collector's Series - Arcade Classics [E]', No returned matches
+'Konami Collectors Series - Arcade Advanced', No returned matches
+'Koala Brothers - Outback Adventures', No returned matches
+'Konami's Krazy Racers', No returned matches
+'Kong - the Animated Series', No returned matches
+'Kuru Kuru Kururin', No returned matches
+'Kong - the 8th Wonder of the World', No returned matches
+'Klonoa - Empire of Dreams', No returned matches
+'Klonoa 2 - Dream Champ Tournament', No returned matches
+'Kirby & The Amazing Mirror', No returned matches
+'M&M's Break 'Em', No returned matches
+'MLB SlugFest 2004', No returned matches
+'MX 2K2 Ricky Carmichael', No returned matches
+'M&M's Blast!', No returned matches
+'Madagascar', No returned matches
+'Madden NFL 2002', No returned matches
+'Madden NFL 2003', No returned matches
+'Madden NFL 2004', No returned matches
+'Madagascar - Operation Penguin', No returned matches
+'Kirby - Nightmare in Dreamland', No returned matches
+'Madden NFL 2005', No returned matches
+'Madden NFL 2006', No returned matches
+'Magical Quest 2 starring Mickey & Minnie Mouse', No returned matches
+'Madden NFL 2007', No returned matches
+'Magical Quest starring Mickey & Minnie Mouse', No returned matches
+'March of the Penguins', No returned matches
+'Manic Miner', No returned matches
+'Majesco's Sports Pack', No returned matches
+'Magical Quest 3 starring Mickey & Minnie Mouse', No returned matches
+'Mario & Luigi Superstar Saga', No returned matches
+'Mario & Luigi - Superstar Saga', No returned matches
+'Mario & Luigi Superstar Saga [E]', No returned matches
+'Mario Ball', No returned matches
+'Mario Golf - Advance Tour 2', No returned matches
+'Mario Kart - Super Circuit 2', No returned matches
+'Mario Kart - Super Circuit', No returned matches
+'Mario Kart - Super Circuit [E]', No returned matches
+'Mario Party Advance 2', No returned matches
+'Mario Golf - Advance Tour', No returned matches
+'Mario Party Advance [E]', No returned matches
+'Mario Pinball Land 2', No returned matches
+'Mario Golf - Advance Tour [E]', No returned matches
+'Mario Pinball Land', No returned matches
+'Mario Tennis - Power Tour', No returned matches
+'Mario Tennis Advance - Power Tour', No returned matches
+'Mario Party Advance', No returned matches
+'Mario Tennis Power Tour', No returned matches
+'Mario and Luigi - Superstar Saga', No returned matches
+'Mario Tennis Power Tour [E]', No returned matches
+'Marvel - Ultimate Alliance', No returned matches
+'Mary-Kate and Ashley - Girls Night Out', No returned matches
+'Mary-Kate and Ashley - Sweet 16 - Licensed to Drive', No returned matches
+'Mario vs. Donkey Kong 2', No returned matches
+'Mario vs. Donkey Kong', No returned matches
+'Mat Hoffman's Pro BMX 2', No returned matches
+'Mat Hoffman's Pro BMX', No returned matches
+'Matchbox - Cross Town Heroes', No returned matches
+'Math Patrol - the Kleptoid Threat', No returned matches
+'Maya the Bee - the Great Adventure', No returned matches
+'Max Payne - the Fall of Max Payne', No returned matches
+'Mazes of Fate', No returned matches
+'Mech Platoon', No returned matches
+'Medabots AX - Rokusho Version [E]', No returned matches
+'Medabots AX - Metabee Version [E]', No returned matches
+'Medabots AX - Metabee Version', No returned matches
+'Medabots RPG - Rokusho Version', No returned matches
+'Medabots RPG - Metabee Version', No returned matches
+'Medabots AX - Rokusho Version', No returned matches
+'Medal of Honor - Underground 2', No returned matches
+'Medal of Honor - Underground', No returned matches
+'Medal of Honor - Infiltrator', No returned matches
+'Mega-Man - Zero 2', No returned matches
+'Meet the Robinsons', No returned matches
+'Mega-Man - Battle Chip Challenge', No returned matches
+'Mega-Man - Zero 3', No returned matches
+'Mega-Man - Zero 4', No returned matches
+'Mega-Man Battle Network 2', No returned matches
+'Mega-Man Battle Network 3 - Blue', No returned matches
+'Mega-Man - Zero', No returned matches
+'Mega-Man Battle Network 3 - White', No returned matches
+'Mega-Man Battle Network 5 - Team Colonel', No returned matches
+'Mega-Man Battle Network 4 - Blue Moon', No returned matches
+'Mega-Man Battle Network 4 - Red Sun', No returned matches
+'Mega-Man Battle Network 5 - Team Proto-Man', No returned matches
+'Mega-Man Battle Network 6 - Cybeast Gregar', No returned matches
+'Mega-Man Battle Network', No returned matches
+'Mega-Man and Bass', No returned matches
+'Mega-Man Battle Network 6 - Cybeast Falzar', No returned matches
+'Maya the Bee - Sweet Gold', No returned matches
+'MegaMan Zero 4 [E]', No returned matches
+'MegaMan Zero 3 [E]', No returned matches
+'MegaMan Zero 3', No returned matches
+'Megaman Zero 1 [E]', No returned matches
+'Megaman Zero 2 [E]', No returned matches
+'MegaMan Zero 4', No returned matches
+'Megaman Zero 1', No returned matches
+'Megaman Zero 2', No returned matches
+'Metal Slug Advance (U)(Independent)', No returned matches
+'Men in Black - the Series', No returned matches
+'Meine Tierarztpraxis (My Vet. Practice)', No returned matches
+'Metal Slug Advance [E]', No returned matches
+'Metroid - Fusion', No returned matches
+'Metal Slug Advance', No returned matches
+'Metroid - Fusion 2', No returned matches
+'Metal Slug Advance 2', No returned matches
+'Metroid - Zero Mission 2', No returned matches
+'Metroid - Zero Mission', No returned matches
+'Midway's Greatest Arcade Hits', No returned matches
+'Micro Machines', No returned matches
+'Metroid - Zero Mission [E]', No returned matches
+'Mike Tyson  - Boxing', No returned matches
+'Metroid Fusion [E]', No returned matches
+'Minority Report - Everybody Runs', No returned matches
+'Mission Impossible - Operation Surma [E]', No returned matches
+'Monkey Ball Jr.', No returned matches
+'Monopoly', No returned matches
+'Mission Impossible - Operation Surma', No returned matches
+'Monster Bass Fishing', No returned matches
+'Monster Force', No returned matches
+'Monster House [E]', No returned matches
+'Monster House', No returned matches
+'Monster Jam - Maximum Destruction', No returned matches
+'Monster Rancher Advance 2', No returned matches
+'Monster Truck Madness', No returned matches
+'Monster Rancher Advance', No returned matches
+'Mighty Beanz - Pocket Puzzles', No returned matches
+'Monsters Inc.', No returned matches
+'Monster Trucks', No returned matches
+'Monster Trucks Mayhem', No returned matches
+'Moorhen 3 - Chicken Chase', No returned matches
+'Moto GP', No returned matches
+'Mortal Kombat - Deadly Alliance', No returned matches
+'Motocross Maniacs Advance', No returned matches
+'Mortal Kombat Advance', No returned matches
+'Mr. Driller 2', No returned matches
+'Motoracer Advance [E]', No returned matches
+'Motoracer Advance', No returned matches
+'Mr. Nutz', No returned matches
+'Mortal Kombat - Tournament Edition', No returned matches
+'Mummy', No returned matches
+'Ms. Pac-Man - Maze Madness', No returned matches
+'Mucha Lucha - Mascaritas of the Lost Code', No returned matches
+'Muppet Pinball Mayhem', No returned matches
+'My Little Pony - Crystal Princess - the Runaway Rainbow', No returned matches
+'Muppets - on With the Show', No returned matches
+'My Pet Hotel', No returned matches
+'My Stud Farm', No returned matches
+'My Animal Centre in Africa', No returned matches
+'mother 3', No returned matches
+'Mega Man & Bass', No returned matches
+'Mega Man Zero 3', No returned matches
+'Mega Man Zero 4', No returned matches
+'Mega Man Zero 2', No returned matches
+'Mother 1+2', No returned matches
+'Mega Man Zero', No returned matches
+'Mother 3', No returned matches
+'Mother 1+2 (Sub Esp)', No returned matches
+'Mortal Kombat - Deadly Alliance', No returned matches
+'Metroid - Zero Mission', No returned matches
+'Mortal Kombat Advance', No returned matches
+'Metroid Fusion', No returned matches
+'Cabbage Patch Kids - the Patch Puppy Rescue', No returned matches
+'Caesar's Palace Advance - Millennium Gold Edition', No returned matches
+'CIMA - the Enemy', No returned matches
+'Camp Lazlo - Leaky Lake Games', No returned matches
+'Car Battler Joe', No returned matches
+'Capcom Classics - Mini Mix', No returned matches
+'Mother 3 (Sub Eng)', No returned matches
+'Care Bears - the Care Quest', No returned matches
+'Carrera Power Slide', No returned matches
+'Cars Mater National', No returned matches
+'Cars', No returned matches
+'Castleween', No returned matches
+'Casper', No returned matches
+'Cat-Women', No returned matches
+'Mortal Kombat - Tournament Edition', No returned matches
+'Charlie and the Chocolate Factory', No returned matches
+'Cheetah Girls', No returned matches
+'Chessmaster', No returned matches
+'Chronicles of Narnia - the Lion, the Witch and the Wardrobe', No returned matches
+'Catz', No returned matches
+'Charlotte's Web', No returned matches
+'Chu Chu Rocket!', No returned matches
+'Cocoto Kart Racer', No returned matches
+'Colin McRae Rally 2', No returned matches
+'Cocoto Platform Jumper', No returned matches
+'Cinderella - Magical Dreams', No returned matches
+'Collapse 2', No returned matches
+'Comix Zone', No returned matches
+'Contra Advance - the Alien Wars EX', No returned matches
+'Codename - Kids Next Door - Operation S.O.D.A.', No returned matches
+'Columns Crown', No returned matches
+'Corvette', No returned matches
+'Crash Nitro Kart', No returned matches
+'Crazy Chase', No returned matches
+'Crazy Frog Racer', No returned matches
+'Crazy Taxi Catch a Ride', No returned matches
+'Crash of the Titans', No returned matches
+'Crash & Spyro Super Pack', No returned matches
+'Creatures', No returned matches
+'Crushed Baseball', No returned matches
+'Crusin' Velocity', No returned matches
+'Cabela's Big Game Hunter - 2005 Adventures', No returned matches
+'Cabela's Big Game Hunter', No returned matches
+'Castlevania - Aria of Sorrow 2', No returned matches
+'Castlevania - Aria of Sorrow', No returned matches
+'Crouching Tiger Hidden Dragon', No returned matches
+'Cubix - Robots for Everyone - Clash 'n Bash', No returned matches
+'Castlevania - Circle of the Moon 2', No returned matches
+'Castlevania - Harmony Of Dissonance [E]', No returned matches
+'Castlevania - Harmony Of Dissonance 2', No returned matches
+'Castlevania Aria of Sorrow [E]', No returned matches
+'Castlevania', No returned matches
+'Castlevania - Harmony Of Dissonance', No returned matches
+'Castlevania - Circle Of The Moon', No returned matches
+'Curious George  2', No returned matches
+'Classic NES - Bomberman', No returned matches
+'Classic NES - Donkey Kong', No returned matches
+'Classic NES - Castlevania', No returned matches
+'Classic NES - Excite Bike', No returned matches
+'Classic NES - Metroid', No returned matches
+'Curious George', No returned matches
+'Classic NES - Ice Climber', No returned matches
+'Classic NES - Dr. Mario', No returned matches
+'Classic NES - Super Mario Bros.', No returned matches
+'Cartoon Network - Block Party', No returned matches
+'Classic NES - Xevious', No returned matches
+'Classic NES - Pac-Man', No returned matches
+'Classic NES - the Legend of Zelda', No returned matches
+'Cartoon Network - Speedway', No returned matches
+'Crash Bandicoot - the Huge Adventure', No returned matches
+'Crash Bandicoot - Purple Riptos Rampage', No returned matches
+'Crash Bandicoot - Fusion', No returned matches
+'Crash Bandicoot - the Wrath of Cortex', No returned matches
+'Crash Bandicoot 2 N-Tranced', No returned matches
+'Crash Bandicoot XS', No returned matches
+'Crash Bandicoot Fusion', No returned matches
+'Chicken Shoot', No returned matches
+'Crash Bandicoot Fusion M5', No returned matches
+'CT Special Forces 2 - Back to Hell', No returned matches
+'Chicken Shoot 2', No returned matches
+'CT Special Forces', No returned matches
+'V.I.P.', No returned matches
+'CT Special Forces 3 - Bio-Terror', No returned matches
+'Virtual Kasparov', No returned matches
+'Virtua Tennis', No returned matches
+'VeggieTales - LarryBoy and the Bad Apple', No returned matches
+'Onimusha Tactics', No returned matches
+'Oddworld - Munch's Oddysee', No returned matches
+'Operation Armored Liberty', No returned matches
+'Van Helsing', No returned matches
+'One Piece', No returned matches
+'Outback Adventures', No returned matches
+'Over the Hedge - Hammy Goes Nuts', No returned matches
+'Open Season', No returned matches
+'Original Harlem Globetrotters', No returned matches
+'Over the Hedge', No returned matches
+'I Spy Challenger', No returned matches
+'IK Plus - the Ultimate Martial Arts Simulation', No returned matches
+'Ozzy and Drix', No returned matches
+'IK Plus - the Ultimate Martial Arts Simulation # GBA 2', No returned matches
+'Ice Nine', No returned matches
+'Ice Age', No returned matches
+'Ice Age 2 - the Meltdown', No returned matches
+'Ignition Collection Volume 1', No returned matches
+'Incredible Hulk', No returned matches
+'Incredibles - Rise of the Underminer # GBA 2', No returned matches
+'Incredibles', No returned matches
+'Inspector Gadget Racing', No returned matches
+'Inspector Gadget - Advanced Mission', No returned matches
+'International Karate Advanced', No returned matches
+'Incredibles - Rise of the Underminer', No returned matches
+'International Karate Plus', No returned matches
+'International Superstar Soccer Advance', No returned matches
+'Invader', No returned matches
+'Invincible Iron Man', No returned matches
+'Iridion 3D 2', No returned matches
+'It's Mr. Pants!', No returned matches
+'XS Moto', No returned matches
+'Iridion 3D', No returned matches
+'X-Bladez - Inline Skater', No returned matches
+'X-Men 2 - Wolverine's Revenge', No returned matches
+'X-Men - Reign of Apocalypse', No returned matches
+'X-Men 3 - the Last Stand', No returned matches
+'F1 2002', No returned matches
+'F-14 Tomcat', No returned matches
+'xXx', No returned matches
+'FA 18F Super Hornet', No returned matches
+'F24 Stealth Fighter', No returned matches
+'Family Feud', No returned matches
+'FILA Decathlon', No returned matches
+'Final Fight One', No returned matches
+'Finding Nemo - the Continuing Adventures', No returned matches
+'Fear Factor - Unleashed', No returned matches
+'Fire Eaters - Zero Bandits (Beta)', No returned matches
+'Finding Nemo', No returned matches
+'Fightbox', No returned matches
+'Flintstones - Big Trouble in Bedrock', No returned matches
+'Ford Racing 3', No returned matches
+'Foster's Home for Imaginary Friends', No returned matches
+'Fortress', No returned matches
+'Franklin the Turtle', No returned matches
+'Franklins Great Adventure', No returned matches
+'Freekstyle', No returned matches
+'Fire Emblem - The Sacred Stones 2', No returned matches
+'Freestyle Scooter', No returned matches
+'Flushed Away', No returned matches
+'Fire Emblem - the Sacred Stones 3', No returned matches
+'Fire Emblem- Sword of Seals', No returned matches
+'Fire Emblem', No returned matches
+'Fire Emblem - The Sacred Stones', No returned matches
+'Frogger's Adventure - Temple of the Frog', No returned matches
+'Fantastic 4 - Flame On', No returned matches
+'Frogger's Adventure 2 - the Lost Wand', No returned matches
+'Frogger Advance - the Great Quest', No returned matches
+'Fire Pro Wrestling 2', No returned matches
+'Fantastic 4', No returned matches
+'Frogger's Journey - the Forgotten Relic', No returned matches
+'Fire Pro Wrestling', No returned matches
+'Final Fantasy 4 Advance', No returned matches
+'Final Fantasy 5 Advance', No returned matches
+'Final Fantasy I & II - Dawn of Souls', No returned matches
+'Final Fantasy 6 Advance', No returned matches
+'Final Fantasy - Tactics Advanced', No returned matches
+'Final Fantasy 1 + 2 - Dawn of Souls', No returned matches
+'Final Fantasy IV Advance', No returned matches
+'Final Fantasy IV', No returned matches
+'Final Fantasy I y II [E]', No returned matches
+'Final Fantasy I y II', No returned matches
+'Final Fantasy Tactics [E]', No returned matches
+'Final Fantasy V Advance [E]', No returned matches
+'Final Fantasy Tactics', No returned matches
+'Final Fantasy Tactics Advance', No returned matches
+'Final Fantasy V Advance', No returned matches
+'Final Fantasy VI Advance [E]', No returned matches
+'FIFA 2003', No returned matches
+'Final Fantasy VI Advance', No returned matches
+'FIFA 2004', No returned matches
+'FIFA 2007', No returned matches
+'FIFA 2006', No returned matches
+'FIFA 2005', No returned matches
+'Fairly Odd Parents - Enter the Cleft', No returned matches
+'Fairly Odd Parents - Clash with the Anti-World', No returned matches
+'Fairly Odd Parents - Breakin' da Rules', No returned matches
+'Fairly Odd Parents - Shadow Showdown', No returned matches
+'F-Zero 2 - GP Legend', No returned matches
+'F-Zero - Climax', No returned matches
+'F-Zero - GP Legend', No returned matches
+'F-Zero - Maximum Velocity', No returned matches
+'TOCA World Touring Cars', No returned matches
+'TG Rally', No returned matches
+'Tang Tang', No returned matches
+'Tarzan - Return to the Jungle', No returned matches
+'Tactics Ogre - the Knight of Lodis', No returned matches
+'Tekken Advanced', No returned matches
+'Texas Hold 'Em - Poker', No returned matches
+'Three Stooges', No returned matches
+'Ten Pin Alley 2', No returned matches
+'Tennis Masters Series 2003', No returned matches
+'Terminator 3 - Rise of the Machines', No returned matches
+'Thunder Alley', No returned matches
+'Tiny Toones - Wacky Stackers', No returned matches
+'Tonka - On the Job', No returned matches
+'Tootuff - Gagmachine', No returned matches
+'Tomb-Raider - the Prophecy', No returned matches
+'Thunderbirds - International Rescue', No returned matches
+'Tokyo Xtreme Racer Advance', No returned matches
+'Totally Spies', No returned matches
+'Totally Spies 2 - Undercover', No returned matches
+'Total Soccer Manager', No returned matches
+'Tringo', No returned matches
+'Top Spin 2', No returned matches
+'Trick Star', No returned matches
+'Treasure Planet', No returned matches
+'Trollz - Hair Affair', No returned matches
+'Turbo Turtle Adventure', No returned matches
+'Turok Evolution', No returned matches
+'Tweety and the Magic Gems', No returned matches
+'Ty 3 - Night of the Quinkan', No returned matches
+'Ty the Tasmanian Tiger 2 - Bush Rescue', No returned matches
+'Tiger Woods - PGA Tour Golf', No returned matches
+'Tiny Toon Adventures - Buster's Bad Dream', No returned matches
+'Tiny Toon Adventures - Scary Dreams', No returned matches
+'Tales of Phantasia 2', No returned matches
+'Tron2.0 - Killer App', No returned matches
+'Tiger Woods - PGA Tour 2004', No returned matches
+'Tony Hawk's Downhill Jam', No returned matches
+'Tony Hawk's American Skate Land', No returned matches
+'Tales of Phantasia', No returned matches
+'Tony Hawk's Pro Skater 2', No returned matches
+'Tony Hawk's Underground 2', No returned matches
+'Tony Hawk's Underground', No returned matches
+'Tetris Worlds', No returned matches
+'Tony Hawk's Pro Skater 3', No returned matches
+'Tony Hawk's Pro Skater 4', No returned matches
+'Tetris Worlds 2', No returned matches
+'Top Gun - Combat Zones', No returned matches
+'Top Gun - Firestorm Advance', No returned matches
+'That's so Raven', No returned matches
+'That's so Raven 2 - Super Natural Style', No returned matches
+'The King of Fighters EX2 - Howling Blood', No returned matches
+'Teenage Mutant Ninja Turtles 2 - Battle Nexus', No returned matches
+'Teenage Mutant Ninja Turtles', No returned matches
+'TMNT', No returned matches
+'Tom & Jerry - the Magic Ring', No returned matches
+'Tom & Jerry Tales', No returned matches
+'Tom & Jerry in Infurnal Escape', No returned matches
+'The King Of Fighters EX - Neo Blood', No returned matches
+'Teen Titans', No returned matches
+'Top Gear GT Championship', No returned matches
+'Top Gear Rally', No returned matches
+'Teen Titans 2', No returned matches
+'Tak - the Great JuJu Challenge', No returned matches
+'Tak and the Power of JuJu', No returned matches
+'R-Type III', No returned matches
+'R-Type 3', No returned matches
+'Racing Fever', No returned matches
+'Racing Gears Advance', No returned matches
+'Rapala - Pro Fishing', No returned matches
+'Rainbow Six - Rogue Spear', No returned matches
+'Tak 2 - the Staff of Dreams', No returned matches
+'Rampage - Puzzle Attack', No returned matches
+'Ray-Man - Hoodlums Revenge', No returned matches
+'Rave Master - Special Attack Force', No returned matches
+'Ratatouille', No returned matches
+'Ray-Man - 10th Anniversary', No returned matches
+'Rayman - Raving Rabbids', No returned matches
+'Ray-Man Advance', No returned matches
+'Ray-Man 3 - Hoodlum Havoc GBA', No returned matches
+'Rayman 3', No returned matches
+'Ready 2 Rumble Boxing - Round 2', No returned matches
+'Rayman Advance', No returned matches
+'Rebel Star - Tactical Command', No returned matches
+'Razor - Freestyle Scooter', No returned matches
+'Rescue Heroes - Billy Blazes!', No returned matches
+'Rebelstar - Tactical Command', No returned matches
+'Revenge of Shinobi', No returned matches
+'Reign of Fire', No returned matches
+'Ripping Friends', No returned matches
+'Revenge of the Smurfs', No returned matches
+'River City Ransom EX', No returned matches
+'Road Rash - Jailbreak', No returned matches
+'Robopon 2 - Cross Version', No returned matches
+'Robopon 2 - Ring Version', No returned matches
+'Robot Wars - Advanced Destruction', No returned matches
+'Robot Wars - Extreme Destruction', No returned matches
+'Robotech - the Macross Saga', No returned matches
+'Rayman Raving Rabbids', No returned matches
+'Riviera - the Promised Land', No returned matches
+'Rock N Roll Racing', No returned matches
+'Rock em Sock em Robots', No returned matches
+'Rocket Power - Beach Bandits', No returned matches
+'Rocket Power - Zero Gravity Zone', No returned matches
+'Rocky', No returned matches
+'Robots', No returned matches
+'Rugrats - Go Wild', No returned matches
+'Rugrats - Castle Capers', No returned matches
+'Rugrats - All Grown Up', No returned matches
+'Rocket Power - Dream Scheme', No returned matches
+'Rugrats - I Gotta go Party', No returned matches
+'Rhythm Tengoku', No returned matches
+'rs-kirby', No returned matches
+'El Laboratorio de Dexter', No returned matches
+'Egg-Mania', No returned matches
+'Elf - the Movie', No returned matches
+'E.T. - the Extra Terrestrial', No returned matches
+'Enchanted - Once Upon Andalasia', No returned matches
+'Elf Bowling 1 & 2', No returned matches
+'Rhythm Heaven Silver', No returned matches
+'Eragon  2', No returned matches
+'Eragon', No returned matches
+'European Super League', No returned matches
+'Ever Girl', No returned matches
+'Ed, Edd 'n Eddy - Jawbreakers!', No returned matches
+'Extreme Ghostbusters - Code Ecto1', No returned matches
+'ESPN - Great Outdoor Games - Bass Tournament', No returned matches
+'Ed, Edd n Eddy - the Mis-Edventures', No returned matches
+'ESPN - X-Winter Games - Snowboarding', No returned matches
+'ESPN - Final Round Golf', No returned matches
+'ESPN International Winter Sports', No returned matches
+'Earthworm Jim', No returned matches
+'Earthworm Jim 2', No returned matches
+'ESPN - X-Games - Skateboarding', No returned matches
+'Ecks vs. Sever', No returned matches
+'0473', No returned matches
+'0458', No returned matches
+'Ecks vs. Sever 2', No returned matches
+'3 in 1 - Connect Four + Perfection + Trouble', No returned matches
+'0484', No returned matches
+'2 in 1 - Looney Tunes - Dizzy Driving + Looney Tunes - Acme Antics', No returned matches
+'3 in 1 - Sorry + Aggravation + Scrabble Junior', No returned matches
+'3 in 1 - Darts + Roll a Ball + Shuffle Bowl', No returned matches
+'Ultimate Beach Soccer', No returned matches
+'3 in 1 - Risk + BattleShip + Clue', No returned matches
+'3 in 1 - Paintball Splat + Dodgeball - Dodge This + Big Alley Bowling', No returned matches
+'Ultimate Card Games', No returned matches
+'Ultimate Brain Games 2', No returned matches
+'Ultimate Arcade Games', No returned matches
+'Ultimate Brain Games', No returned matches
+'Ultimate Puzzle Games', No returned matches
+'Unfabulous', No returned matches
+'Ultimate Winter Games', No returned matches
+'Uno - Free Fall', No returned matches
+'Uno 52', No returned matches
+'Urban Yeti', No returned matches
+'Ultimate Spider-Man', No returned matches
+'Urbz - Sims in the City', No returned matches
+'Ultimate Muscle - the Path of the Superhero', No returned matches
+'Gadget Racers', No returned matches
+'Galidor - Defenders of the Outer Dimension', No returned matches
+'GP-1 Racing (Beta)', No returned matches
+'Game & Watch Gallery Advance', No returned matches
+'Games Explosion', No returned matches
+'GT Racers', No returned matches
+'Gauntlet - Dark Legacy', No returned matches
+'Garfield and His Nine Lives', No returned matches
+'Gekido Advance - Kintaro's Revenge', No returned matches
+'Garfield - the Search for Pooky', No returned matches
+'Gem Smashers', No returned matches
+'Gekido [E]', No returned matches
+'Ghouls N Ghosts', No returned matches
+'Glory Days - Essence of a War', No returned matches
+'Ghost Rider', No returned matches
+'Global Star - Sudoku Fever', No returned matches
+'Ghost Rider [E]', No returned matches
+'Godzilla - Domination', No returned matches
+'Golden Sun', No returned matches
+'Golden Nugget Casino', No returned matches
+'Go! Go! Beckham! - Adventure on Soccer Island', No returned matches
+'Gradius Advance (Trained)', No returned matches
+'Greg Hastings' Tournament Paintball Max'd', No returned matches
+'Golden Sun 2 - the Lost Age', No returned matches
+'Grand Theft Auto Advance', No returned matches
+'Gremlins - Stripe vs. Gizmo', No returned matches
+'Gumby vs. the Astrobots', No returned matches
+'Guilty Gear X - Advance Edition', No returned matches
+'Gundam Seed - Battle Assault', No returned matches
+'Grim Adventures of Billy & Mandy', No returned matches
+'Gundam Seed - Battle Assault 2', No returned matches
+'GT Advance - Championship Racing', No returned matches
+'Gunstar Super Heroes', No returned matches
+'NASCAR Heat 2002', No returned matches
+'NBA Jam 2002', No returned matches
+'NFL Blitz 2002', No returned matches
+'GT Advance 2 - Rally Racing', No returned matches
+'NHL Hitz 2003', No returned matches
+'NFL Blitz 2003', No returned matches
+'Namco Museum - 50th Anniversary', No returned matches
+'NHL 2002', No returned matches
+'Namco Museum', No returned matches
+'GT Advance 3 - Pro Concept Racing', No returned matches
+'Nancy Drew - Message in a Haunted Mansion', No returned matches
+'Naruto - Ninja Council 2', No returned matches
+'Naruto - Ninja Council', No returned matches
+'Naruto- Ninja council 2 [E]', No returned matches
+'Naruto- Ninja council 2', No returned matches
+'Need for Speed - Most Wanted [E]', No returned matches
+'Narnia - El leon la bruja y el armario [E]', No returned matches
+'Narnia - El leon la bruja y el armario', No returned matches
+'Need for Speed - Most Wanted', No returned matches
+'Need for Speed - Porsche Unleashed', No returned matches
+'Need for Speed Carbon - Own The City [E]', No returned matches
+'Need for Speed - Underground 2', No returned matches
+'Need for Speed Carbon - Own the City 2', No returned matches
+'Need for Speed Underground 2 [E]', No returned matches
+'Need for Speed - Underground', No returned matches
+'Nicktoons - Attack of the Toybots', No returned matches
+'Need for Speed Carbon - Own The City', No returned matches
+'Nicktoons - Freeze Frame Frenzy', No returned matches
+'Nicktoons - Battle for Volcano Island', No returned matches
+'Nicktoons Racing', No returned matches
+'Nicktoons Unite', No returned matches
+'Nightmare before Christmas - the Pumpkin King', No returned matches
+'Ninja Cop', No returned matches
+'Next Generation Tennis', No returned matches
+'Ninja Five-0', No returned matches
+'No Rules - Get Phat [E]', No returned matches
+'Noddy - a Day in Toyland', No returned matches
+'No Rules - Get Phat', No returned matches

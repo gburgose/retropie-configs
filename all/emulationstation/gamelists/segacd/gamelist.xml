@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/segacd/Fifa International Soccer (U).cue</path>
+    <name>Fifa International Soccer</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+    <lastplayed>20211211T203024</lastplayed>
+    <playcount>2</playcount>
+  </game>
+</gameList>

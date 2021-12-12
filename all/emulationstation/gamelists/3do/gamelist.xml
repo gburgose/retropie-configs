@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Star Wars - Rebel Assault [EU].zip</path>
+		<name>Star Wars: Rebel Assault</name>
+		<desc>You play a Rebel space cadet and have various missions to complete: Flying starships, destroying Walkers, infiltrating an enemy base etc. All viewpoints and gameplay is through the use of motion video backdrops.</desc>
+		<image>~/.emulationstation/downloaded_images/3do/Star Wars - Rebel Assault [EU]-image.jpg</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>LucasArts Entertainment Company LLC</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Action</genre>
+	</game>
+</gameList>

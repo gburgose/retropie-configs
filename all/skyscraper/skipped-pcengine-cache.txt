@@ -1,0 +1,416 @@
+--- The following is a list of skipped games ---
+'1941 - Counter Attack (Japan)', No returned matches
+'21 Emon - Mezase Hotel Ou!! (J)', No returned matches
+'Adventure Island (J)', No returned matches
+'1943 Kai (J)', No returned matches
+'Aero Blasters (J)', No returned matches
+'After Burner II (J)', No returned matches
+'Air Zonk (USA)', No returned matches
+'Aldynes (Japan)', No returned matches
+'Alien Crush (J)', No returned matches
+'Ankoku Densetsu (J)', No returned matches
+'Aoi Blink (J)', No returned matches
+'Alien Crush (USA)', No returned matches
+'Appare Gateball (J)', No returned matches
+'Armed Formation F (J)', No returned matches
+'Artist Tool (J)', No returned matches
+'Ballistix (J)', No returned matches
+'Aero Blasters (USA)', No returned matches
+'Ballistix (USA)', No returned matches
+'Atomic Robo-Kid Special (J)', No returned matches
+'Av Poker (J)', No returned matches
+'Barunba (J)', No returned matches
+'Batman (J)', No returned matches
+'Battle Ace (Japan)', No returned matches
+'Battle Lode Runner (J)', No returned matches
+'Battle Royale (USA)', No returned matches
+'Be Ball (Tai Sang Version) (J)', No returned matches
+'Benkei Gaiden (J)', No returned matches
+'Be Ball (J)', No returned matches
+'Bikkuriman World (J)', No returned matches
+'Blodia (J)', No returned matches
+'Bari Bari Densetsu (J)', No returned matches
+'Bloody Wolf (USA)', No returned matches
+'Body Conquest II (J)', No returned matches
+'Bomberman '93 (Special Version) (J)', No returned matches
+'Bomberman '93 (J)', No returned matches
+'Blazing Lazers (USA)', No returned matches
+'Bomberman '94 (J)', No returned matches
+'Bomberman (J)', No returned matches
+'Bomberman - Users Battle (J)', No returned matches
+'Bonk III - Bonk's Big Adventure (USA)', No returned matches
+'Bonk's Adventure (USA)', No returned matches
+'Bonk's Revenge (USA)', No returned matches
+'Bouken Danshaku Don - The Lost Sunheart (J)', No returned matches
+'Boxyboy (USA)', No returned matches
+'Bravoman (USA)', No returned matches
+'Break In (J)', No returned matches
+'Bomberman '93 (USA)', No returned matches
+'Bubblegum Crash! - Knight Sabers 2034 (J)', No returned matches
+'Bull Fight - Ring no Haja (J)', No returned matches
+'Burning Angels (J)', No returned matches
+'Busou Keiji - Cyber Cross (J)', No returned matches
+'Bomberman (USA)', No returned matches
+'Champion Wrestler (J)', No returned matches
+'Cadash (USA)', No returned matches
+'Champions Forever Boxing (USA)', No returned matches
+'Chew Man Fu (USA)', No returned matches
+'Chibi Maruko Chan - Quiz de Piihyara (J)', No returned matches
+'Chikudenya Toubei - Kubikiri Yakata Yori (J)', No returned matches
+'China Warrior (USA)', No returned matches
+'Circus Lido (J)', No returned matches
+'Chouzetsu Rinjin - Bravoman (J)', No returned matches
+'City Hunter (J)', No returned matches
+'Columns (J)', No returned matches
+'Coryoon - Child of Dragon (J)', No returned matches
+'Cross Wiber - Cyber Combat Police (J)', No returned matches
+'Cratermaze (USA)', No returned matches
+'Cyber Core (USA)', No returned matches
+'Cyber Core (J)', No returned matches
+'Cyber Dodge (J)', No returned matches
+'Cyber Dodgeball (J)', No returned matches
+'Dai Makaimura (Japan)', No returned matches
+'Cyber Knight (J)', No returned matches
+'Dai Senpu (J)', No returned matches
+'Daichi Kun Crisis - Do Natural (J)', No returned matches
+'Darius Alpha (J)', No returned matches
+'Darius Plus (J)', No returned matches
+'Darkwing Duck (USA)', No returned matches
+'Cadash (J)', No returned matches
+'Davis Cup Tennis (USA)', No returned matches
+'Dead Moon (USA)', No returned matches
+'Deep Blue (USA)', No returned matches
+'Detana!! TwinBee (J)', No returned matches
+'Deep Blue - Kaitei Shinwa (J)', No returned matches
+'Devil Crash - Naxat Pinball (J)', No returned matches
+'Devil's Crush - Naxat Pinball (USA)', No returned matches
+'Die Hard (J)', No returned matches
+'Digital Champ (J)', No returned matches
+'Don Doko Don! (J)', No returned matches
+'Doraemon - Nobita no Dorabian Night (J)', No returned matches
+'Double Dungeons - W (J)', No returned matches
+'Double Dungeons - W (USA)', No returned matches
+'Download (J)', No returned matches
+'Dragon Egg! (J)', No returned matches
+'Dragon Spirit (J)', No returned matches
+'Doraemon - Meikyuu Dai Sakusen (J)', No returned matches
+'Dragon Saber - After Story of Dragon Spirit (J)', No returned matches
+'Dragon Spirit (USA)', No returned matches
+'Dragon's Curse (USA)', No returned matches
+'Dead Moon (J)', No returned matches
+'Drop Rock Hora Hora (J)', No returned matches
+'Dungeon Explorer (J)', No returned matches
+'Dungeon Explorer (USA)', No returned matches
+'Energy (J)', No returned matches
+'F-1 Dream (J)', No returned matches
+'F-1 Pilot - You're King of Kings (J)', No returned matches
+'F1 Circus '91 - World Championship (J)', No returned matches
+'F1 Circus '92 - The Speed of Sound (J)', No returned matches
+'F1 Circus (J)', No returned matches
+'F1 Triple Battle (J)', No returned matches
+'Falcon (USA)', No returned matches
+'Drop.Off (USA)', No returned matches
+'Fighting Run (J)', No returned matches
+'Fantasy Zone (USA)', No returned matches
+'Final Blaster (J)', No returned matches
+'Final Lap Twin (USA)', No returned matches
+'Final Lap Twin (J)', No returned matches
+'Final Match Tennis (J)', No returned matches
+'Fantasy Zone (J)', No returned matches
+'Final Soldier (Special Version) (J)', No returned matches
+'Final Soldier (J)', No returned matches
+'Fire Pro Wrestling 2 - 2nd Bout (J)', No returned matches
+'Fire Pro Wrestling 3 - Legend Bout (J)', No returned matches
+'Formation Soccer - Human Cup '90 (J)', No returned matches
+'Fire Pro Wrestling - Combination Tag (J)', No returned matches
+'Fushigi no Yume no Alice (J)', No returned matches
+'Gai Flame (J)', No returned matches
+'Gaia no Monshou (J)', No returned matches
+'Galaga '88 (J)', No returned matches
+'Galaga '90 (USA)', No returned matches
+'Ganbare! Golf Boys (J)', No returned matches
+'Gekisha Boy (J)', No returned matches
+'Genji Tsuushin Agedama (J)', No returned matches
+'Genpei Toumaden (J)', No returned matches
+'Genpei Toumaden Ni no Maki (J)', No returned matches
+'Ghost Manor (USA)', No returned matches
+'Gokuraku! Chuuka Taisen (J)', No returned matches
+'Gomola Speed (J)', No returned matches
+'Gomola Speed (Japan)', No returned matches
+'Formation Soccer - On J. League (J)', No returned matches
+'Gunboat (USA)', No returned matches
+'Gunhed (J)', No returned matches
+'Gunhed - Hudson Gunhed Taikai (J)', No returned matches
+'Hanii in the Sky (J)', No returned matches
+'Hanii on the Road (J)', No returned matches
+'Heavy Unit (J)', No returned matches
+'Hana Taaka Daka! (J)', No returned matches
+'Hatris (J)', No returned matches
+'Hisou Kihei X Serd (J)', No returned matches
+'Hisou Kihei - Xserd (J)', No returned matches
+'Hit the Ice - VHL the Official Video Hockey League (J)', No returned matches
+'Hit the Ice - VHL the Official Video Hockey League (USA)', No returned matches
+'Idol Hanafuda Fan Club (J)', No returned matches
+'Honoo no Toukyuuji Dodge Danpei (J)', No returned matches
+'Image Fight (J)', No returned matches
+'Impossamole (USA)', No returned matches
+'J. League Greatest Eleven (J)', No returned matches
+'J.J. & Jeff (USA)', No returned matches
+'Gradius (J)', No returned matches
+'Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (J)', No returned matches
+'Jackie Chan (J)', No returned matches
+'Jack Nicklaus' Turbo Golf (USA)', No returned matches
+'Jigoku Meguri (J)', No returned matches
+'Jinmu Denshou (J)', No returned matches
+'Juuouki (J)', No returned matches
+'Kaizou Choujin Shubibinman (J)', No returned matches
+'Kaizou Choujin Shubibinman 2 - Aratanaru Teki (J)', No returned matches
+'Jackie Chan's Action Kung Fu (USA)', No returned matches
+'Keith Courage in Alpha Zones (USA)', No returned matches
+'Kattobi! Takuhai Kun (J)', No returned matches
+'KickBall (J)', No returned matches
+'Kiki Kaikai (J)', No returned matches
+'King of Casino (J)', No returned matches
+'King of Casino (USA)', No returned matches
+'Klax (J)', No returned matches
+'Klax (USA)', No returned matches
+'Knight Rider Special (J)', No returned matches
+'Kore ga Pro Yakyuu '90 (J)', No returned matches
+'Kung Fu, The (J)', No returned matches
+'Kyuukyoku Mahjong - Idol Graphics (J)', No returned matches
+'Kato Chan & Ken Chan (J)', No returned matches
+'Kore ga Pro Yakyuu '89 (J)', No returned matches
+'Lady Sword (J)', No returned matches
+'Legend of Hero Tonma (J)', No returned matches
+'Kyuukyoku Tiger (J)', No returned matches
+'Legendary Axe II, The (USA)', No returned matches
+'Kyuukyoku Mahjong II (J)', No returned matches
+'Legendary Axe, The (USA)', No returned matches
+'Lode Runner - Lost Labyrinth (J)', No returned matches
+'Madou Ou Granzort (Japan)', No returned matches
+'Maerchen Maze (J)', No returned matches
+'Legend of Hero Tonma (USA)', No returned matches
+'Magical Chase (J)', No returned matches
+'Mahjong Gakuen - Touma Soushirou Toujou (J)', No returned matches
+'Mahjong Gakuen Mild - Touma Soushirou Toujou (J)', No returned matches
+'Mahjong Gokuu Special (J)', No returned matches
+'Mahjong Shikyaku Retsuden - Mahjong Wars (J)', No returned matches
+'Mahjong Haou Den - Kaiser's Quest (J)', No returned matches
+'Maison Ikkoku (J)', No returned matches
+'Magical Chase (USA)', No returned matches
+'Makai Hakken Den Shada (J)', No returned matches
+'Makai Prince Dorabocchan (J)', No returned matches
+'Makyou Densetsu (J)', No returned matches
+'Mesopotamia (J)', No returned matches
+'Maniac Puroresu - Asu heno Tatakai (J)', No returned matches
+'Metal Stoker (J)', No returned matches
+'Majin Eiyuu Den Wataru (J)', No returned matches
+'Mizubaku Dai Bouken (J)', No returned matches
+'Military Madness (USA)', No returned matches
+'Momotarou Densetsu II (J)', No returned matches
+'Momotarou Katsugeki (J)', No returned matches
+'Momotarou Densetsu Turbo (J)', No returned matches
+'Morita Shougi PC (J)', No returned matches
+'Moto Roader (J)', No returned matches
+'Momotarou Densetsu Gaiden Dai 1 Shuu (J)', No returned matches
+'Moto Roader II (J)', No returned matches
+'Moto Roader (USA)', No returned matches
+'Mr. Heli no Daibouken (J)', No returned matches
+'Monster Puroresu (J)', No returned matches
+'NHK Taiga Drama - Taiheiki (J)', No returned matches
+'Narazumono Sentai Butai - Bloody Wolf (J)', No returned matches
+'Naxat Stadium (J)', No returned matches
+'Naxat Stadium (Tai Sang Version) (J)', No returned matches
+'Nazo no Mascarade (J)', No returned matches
+'Necromancer (J)', No returned matches
+'Necros no Yousai (J)', No returned matches
+'Nectaris (J)', No returned matches
+'Naxat Open (J)', No returned matches
+'Neutopia (J)', No returned matches
+'Neutopia (USA)', No returned matches
+'Neutopia II (J)', No returned matches
+'Neutopia II (USA)', No returned matches
+'Nekketsu Koukou Dodgeball Bu - PC Bangai Hen (J)', No returned matches
+'New Adventure Island (USA)', No returned matches
+'Nekketsu Koukou Dodgeball Bu - Soccer PC Hen (J)', No returned matches
+'Night Creatures (USA)', No returned matches
+'Niko Niko Pun (J)', No returned matches
+'Ninja Ryuuken Den (J)', No returned matches
+'Obocchama Kun (J)', No returned matches
+'Ninja Spirit (USA)', No returned matches
+'Operation Wolf (J)', No returned matches
+'Ninja Warriors, The (J)', No returned matches
+'Order of the Griffon (USA)', No returned matches
+'New Zealand Story, The (J)', No returned matches
+'Ordyne (USA)', No returned matches
+'Ordyne (J)', No returned matches
+'Out Run (J)', No returned matches
+'Override (J)', No returned matches
+'P-47 - The Freedom Fighter (J)', No returned matches
+'PC Denjin - Punkic Cyborgs (J)', No returned matches
+'PC Genjin - Pithecanthropus Computerurus (J)', No returned matches
+'PC Genjin 2 - Pithecanthropus Computerurus (J)', No returned matches
+'Out Live (J)', No returned matches
+'PC Genjin 3 - Pithecanthropus Computerurus (Taikenban) (J)', No returned matches
+'PC Pachi-Slot (J)', No returned matches
+'Pac-Land (J)', No returned matches
+'Pac-Land (USA)', No returned matches
+'Pachio Kun - Juuban Shoubu (J)', No returned matches
+'PC Genjin 3 - Pithecanthropus Computerurus (J)', No returned matches
+'Paranoia (J)', No returned matches
+'Parasol Stars - The Story of Bubble Bobble III (J)', No returned matches
+'Parasol Stars - The Story of Bubble Bobble III (USA)', No returned matches
+'Populous (J)', No returned matches
+'Parodius Da! - Shinwa kara Owarai he (J)', No returned matches
+'Power Eleven (J)', No returned matches
+'Power Gate (J)', No returned matches
+'Panza Kick Boxing (USA)', No returned matches
+'Power Golf (J)', No returned matches
+'Power Golf (USA)', No returned matches
+'Power League '93 (J)', No returned matches
+'Power League (All Star Version) (J)', No returned matches
+'Power League (J)', No returned matches
+'Power Drift (J)', No returned matches
+'Power League IV (J)', No returned matches
+'Power League III (J)', No returned matches
+'Power League V (J)', No returned matches
+'Power League II (J)', No returned matches
+'Power Sports (J)', No returned matches
+'Power Tennis (J)', No returned matches
+'Pro Yakyuu World Stadium '91 (J)', No returned matches
+'Psycho Chaser (J)', No returned matches
+'Pro Yakyuu World Stadium (J)', No returned matches
+'Psychosis (USA)', No returned matches
+'Puzzle Boy (J)', No returned matches
+'Quiz Toukou Shashin (J)', No returned matches
+'Pro Tennis World Court (J)', No returned matches
+'R-Type (Tai Sang Version) (J)', No returned matches
+'R-Type Part-1 (J)', No returned matches
+'R-Type Part-2 (J)', No returned matches
+'Puzznic (J)', No returned matches
+'R-Type Part-2 (Tai Sang Version) (J)', No returned matches
+'Racing Damashii (J)', No returned matches
+'Raiden (J)', No returned matches
+'Rabio Lepus Special (J)', No returned matches
+'Raiden (USA)', No returned matches
+'Rastan Saga II (J)', No returned matches
+'Rock-On (J)', No returned matches
+'Ryukyu (J)', No returned matches
+'R-Type (USA)', No returned matches
+'Saigo no Nindou - Ninja Spirit (J)', No returned matches
+'Salamander (J)', No returned matches
+'Samurai-Ghost (USA)', No returned matches
+'Sekigahara (J)', No returned matches
+'Sengoku Mahjong (J)', No returned matches
+'Shanghai (J)', No returned matches
+'Shinobi (J)', No returned matches
+'Shiryou Sensen (J)', No returned matches
+'Shockman (USA)', No returned matches
+'SideArms - Hyper Dyne (J)', No returned matches
+'Shougi Shodan Icchokusen (J)', No returned matches
+'Shougi Shoshinsha Muyou (J)', No returned matches
+'SideArms - Hyper Dyne (USA)', No returned matches
+'Silent Debuggers (J)', No returned matches
+'Sindibad Chitei no Dai Makyuu (J)', No returned matches
+'Silent Debuggers (USA)', No returned matches
+'Skweek (J)', No returned matches
+'Sinistron (USA)', No returned matches
+'Soldier Blade (USA)', No returned matches
+'Soldier Blade (J)', No returned matches
+'Somer Assault (USA)', No returned matches
+'Soldier Blade Special - Caravan Stage (J)', No returned matches
+'Son Son II (J)', No returned matches
+'Sonic Spike - World Championship Beach Volleyball (USA)', No returned matches
+'Sadakichi 7 Series - Hideyoshi no Ougon (J)', No returned matches
+'Soukoban World (J)', No returned matches
+'Space Harrier (J)', No returned matches
+'Space Harrier (USA)', No returned matches
+'Space Invaders - Fukkatsu no Hi (J)', No returned matches
+'Special Criminal Investigation (J)', No returned matches
+'Spin Pair (J)', No returned matches
+'Spiral Wave (J)', No returned matches
+'Splatterhouse (J)', No returned matches
+'Splatterhouse (USA)', No returned matches
+'Stratego (J)', No returned matches
+'Street Fighter II' - Champion Edition (J)', No returned matches
+'Super Metal Crusher (J)', No returned matches
+'Super Momotarou Dentetsu II (J)', No returned matches
+'Super Momotarou Dentetsu (J)', No returned matches
+'Super Star Soldier (J)', No returned matches
+'Super Star Soldier (USA)', No returned matches
+'Super Volleyball (J)', No returned matches
+'Super Volleyball (USA)', No returned matches
+'Susanoo Densetsu (J)', No returned matches
+'Strip Fighter II (J)', No returned matches
+'TV Sports Basketball (J)', No returned matches
+'TV Sports Basketball (USA)', No returned matches
+'TV Sports Football (J)', No returned matches
+'TV Sports Hockey (USA)', No returned matches
+'Taito Chase H.Q. (J)', No returned matches
+'TV Sports Football (USA)', No returned matches
+'Taito Chase H.Q. (USA)', No returned matches
+'TV Sports Hockey (J)', No returned matches
+'Takeda Shingen (J)', No returned matches
+'Takin' It to the Hoop (USA)', No returned matches
+'TaleSpin (USA)', No returned matches
+'Tatsujin (J)', No returned matches
+'Tennokoe Bank (J)', No returned matches
+'Tenseiryuu - Saint Dragon (J)', No returned matches
+'Takahashi Meijin no Shin Boukenjima (J)', No returned matches
+'Thunder Blade (J)', No returned matches
+'Tiger Road (USA)', No returned matches
+'Tatsunoko Fighter (J)', No returned matches
+'Time Cruise II (J)', No returned matches
+'Time Cruise (USA)', No returned matches
+'Timeball (USA)', No returned matches
+'Titan (J)', No returned matches
+'Toshi Tensou Keikaku - Eternal City (J)', No returned matches
+'Tora heno Michi (J)', No returned matches
+'Tower of Druaga, The (J)', No returned matches
+'Toilet Kids (J)', No returned matches
+'Terra Cresta II - Mandoraa no Gyakushuu (J)', No returned matches
+'Toy Shop Boys (J)', No returned matches
+'Tricky (J)', No returned matches
+'Tricky Kick (USA)', No returned matches
+'Tsuppari Oozumou - Heisei Ban (J)', No returned matches
+'Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (J)', No returned matches
+'Turrican (USA)', No returned matches
+'USA Pro Basketball (J)', No returned matches
+'Veigues - Tactical Gladiator (J)', No returned matches
+'Victory Run (J)', No returned matches
+'Vigilante (J)', No returned matches
+'Victory Run (USA)', No returned matches
+'Vigilante (USA)', No returned matches
+'Violent Soldier (J)', No returned matches
+'Volfied (J)', No returned matches
+'W-Ring - The Double Rings (J)', No returned matches
+'Wai Wai Mahjong - Yukaina Janyuu Tachi (J)', No returned matches
+'Walkuere no Densetsu (J)', No returned matches
+'Wallaby!! - Usagi no Kuni no Kangaroo Race (J)', No returned matches
+'Winning Shot (J)', No returned matches
+'World Beach Volley (J)', No returned matches
+'Wonder Momo (J)', No returned matches
+'World Circuit (J)', No returned matches
+'Veigues - Tactical Gladiator (USA)', No returned matches
+'World Class Baseball (USA)', No returned matches
+'World Court Tennis (USA)', No returned matches
+'World Jockey (J)', No returned matches
+'World Sports Competition (USA)', No returned matches
+'Xevious - Fardraut Densetsu (J)', No returned matches
+'Yo, Bro (USA)', No returned matches
+'Youkai Douchuuki (J)', No returned matches
+'Yuu Yuu Jinsei - Victory Life (J)', No returned matches
+'Zipang (J)', No returned matches
+'Zero 4 Champ (J)', No returned matches
+'Aoi Blink (J) [Eng]', No returned matches
+'Bikkuriman World (Japan) [Eng]', No returned matches
+'Zero 4 Champ (J) (v1.5)', No returned matches
+'Bubblegum Crash! - Knight Sabers 2034 (Japan) [Eng]', No returned matches
+'Gaia no Monshou (Japan) [Eng]', No returned matches
+'Gekisha Boy (J) [Eng]', No returned matches
+'Lode Runner - Lost Labyrinth (Japan) [Eng]', No returned matches
+'Maison Ikkoku (Japan) [Eng]', No returned matches
+'Puzzle Boy (Japan) [Eng]', No returned matches
+'Shanghai (Japan) [Eng]', No returned matches
+'Tower of Druaga, The (Japan) [Eng]', No returned matches
+'Son Son II (J) [Eng]', No returned matches

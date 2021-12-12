@@ -1,0 +1,100 @@
+--- The following is a list of skipped games ---
+'Q-bert (1983) (Parker Bros)', No returned matches
+'QIX (1982) (Atari)', No returned matches
+'Quest for Quintana Roo (1984) (Sunrise Software)', No returned matches
+'Last Starfighter, The (1984) (Atari)', No returned matches
+'H.E.R.O. (1984) (Activision)', No returned matches
+'Looney Tunes Hotel (1983) (Atari) (Prototype)', No returned matches
+'James Bond 007 (1983) (Parker Bros)', No returned matches
+'Joust (1984) (Atari)', No returned matches
+'Jr Pac-Man (1984) (Atari)', No returned matches
+'Jungle Hunt (1983) (Atari)', No returned matches
+'Ballblazer (1984) (Atari-Lucasfilm Games)', No returned matches
+'Barroom Baseball (1983) (Atari) (Prototype)', No returned matches
+'Battlezone (1983) (Atari) (Prototype)', No returned matches
+'Beamrider (1984) (Activision)', No returned matches
+'Berzerk (1983) (Atari)', No returned matches
+'Black Belt (1982) (Atari) (Prototype)', No returned matches
+'Yellow Submarine Demo (1982) (Atari) (Prototype)', No returned matches
+'Blueprint (1982) (CBS)', No returned matches
+'Boogie Demo (1982) (Atari) (Prototype)', No returned matches
+'Bounty Bob Strikes Back (Merged) (Big Five Software) (U)', No returned matches
+'Blaster (Prototype)', No returned matches
+'Buck Rogers - Planet of Zoom (1983) (Sega)', No returned matches
+'Pac-Man (1982) (Atari)', No returned matches
+'Pengo (1983) (Atari)', No returned matches
+'PAM SALT V1.02 (1982) (Atari)', No returned matches
+'Pitfall II - The Lost Caverns (1984) (Activision)', No returned matches
+'Pitfall! (1982) (Activision)', No returned matches
+'Pete's Diagnostics (1982) (Atari)', No returned matches
+'Pole Position (1983) (Atari)', No returned matches
+'Defender (1982) (Atari)', No returned matches
+'Popeye (1983) (Parker Bros)', No returned matches
+'Dreadnaught Factor, The (1983) (Atari)', No returned matches
+'Zenji (1984) (Atari)', No returned matches
+'Zaxxon (1984) (Sega)', No returned matches
+'Space Dungeon (1983) (Atari)', No returned matches
+'Space Invaders (1982) (Atari)', No returned matches
+'Zone Ranger (1984) (Activision)', No returned matches
+'Sport Goofy (1983) (Atari) (Prototype)', No returned matches
+'Space Shuttle - A Journey Into Space (1983) (Activision)', No returned matches
+'Star Trek - Strategic Operations Simulator (1983) (Sega)', No returned matches
+'Star Raiders (1982) (Atari)', No returned matches
+'Star Wars - The Arcade Game (1983) (Parker Bros)', No returned matches
+'Star Wars - ROTJ - Death Star Battle (1983) (Parker Bros)', No returned matches
+'Super Breakout (1982) (Atari)', No returned matches
+'Dig Dug (1983) (Atari)', No returned matches
+'Super Cobra (1983) (Parker Bros)', No returned matches
+'spitfire', No returned matches
+'Super Pac-Man (1982) (Atari) (Prototype)', No returned matches
+'AE (1984) (Atari) (Prototype)', No returned matches
+'Stargate (1984) (Atari)', No returned matches
+'Asteroids (1983) (Atari) (Prototype) [!]', No returned matches
+'Activision Decathlon, The (1984) (Activision)', No returned matches
+'Astro Chase (1982) (Parker Bros-First Star Software)', No returned matches
+'K-razy Shoot-Out (1982) (CBS)', No returned matches
+'Kangaroo (1982) (Atari)', No returned matches
+'Wizard of Wor (1982) (CBS)', No returned matches
+'Keystone Kapers (1984) (Activision)', No returned matches
+'Megamania (1983) (Activision)', No returned matches
+'Meebzork (1983) (Atari)', No returned matches
+'Microgammon SB (1983) (Atari) (Prototype)', No returned matches
+'Millipede (1984) (Atari)', No returned matches
+'KABOOM! (1983) (Activision)', No returned matches
+'Meteorites (1983) (Electra Concepts)', No returned matches
+'Miniature Golf (1983) (Atari)', No returned matches
+'Missile Command (1983) (Atari)', No returned matches
+'Montezuma's Revenge (1984) (Parker Bros)', No returned matches
+'Mountain King (1984) (Sunrise Software)', No returned matches
+'Moon Patrol (1983) (Atari)', No returned matches
+'Mr. Do's Castle (1984) (Parker Bros)', No returned matches
+'Mario Brothers (1983) (Atari)', No returned matches
+'Miner 2049 (1983) (Big Five Software)', No returned matches
+'Choplifter (1984) (Atari)', No returned matches
+'Congo Bongo (1983) (Sega)', No returned matches
+'Ms. Pac-Man (1982) (Atari)', No returned matches
+'Countermeasure (1983) (Atari)', No returned matches
+'Vanguard (1983) (Atari)', No returned matches
+'Xevious (1984) (Atari) (Prototype)', No returned matches
+'Final Legacy (1982) (Atari) (Prototype)', No returned matches
+'Xari Arena (1983) (Atari) (Prototype)', No returned matches
+'Centipede (1982) (Atari)', No returned matches
+'Frogger (1983) (Parker Bros)', No returned matches
+'Frisky Tom (1982) (Atari) (Prototype)', No returned matches
+'Tempest (1983) (Atari) (Prototype) [!]', No returned matches
+'Track and Field (1984) (Atari)', No returned matches
+'Realsports Baseball (1983) (Atari)', No returned matches
+'Realsports Basketball (1983) (Atari)', No returned matches
+'Realsports Football (1982) (Atari)', No returned matches
+'Frogger 2 - Threedeep! (1984) (Parker Bros)', No returned matches
+'Rescue on Fractalus (1984) (Atari-Lucasfilm Games)', No returned matches
+'River Raid (1983) (Activision)', No returned matches
+'Realsports Tennis (1982) (Atari)', No returned matches
+'Robotron 2084 (1983) (Atari)', No returned matches
+'Realsports Soccer (1982) (Atari)', No returned matches
+'Roadrunner (1982) (Atari)', No returned matches
+'5200menu', No returned matches
+'Gremlins (1984) (Atari)', No returned matches
+'Gorf (1982) (CBS)', No returned matches
+'Galaxian (1982) (Atari)', No returned matches
+'Gyruss (1982) (Parker Bros)', No returned matches

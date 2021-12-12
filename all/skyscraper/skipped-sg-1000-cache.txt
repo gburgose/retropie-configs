@@ -1,0 +1,243 @@
+--- The following is a list of skipped games ---
+'[BIOS] Othello Multivision (Japan)', No returned matches
+'Yamato (Japan) (Alt 1)', No returned matches
+'Yamato (Taiwan)', No returned matches
+'Yie Ar Kung-Fu (Taiwan)', No returned matches
+'Yie Ar Kung-Fu II (Taiwan)', No returned matches
+'H.E.R.O. (Taiwan) (Chinese Logo)', No returned matches
+'Yamato (Japan, Europe, Australia, New Zealand)', No returned matches
+'H.E.R.O. (Taiwan) (English Logo)', No returned matches
+'H.E.R.O. (Japan)', No returned matches
+'Hang-On II (Japan, Australia)', No returned matches
+'Hang-On II (Taiwan) (Chinese Logo)', No returned matches
+'Home Mahjong (Japan) (Rev 1)', No returned matches
+'Home BASIC (Japan) (SC-3000) (Program)', No returned matches
+'Hang-On II (Taiwan) (English Logo)', No returned matches
+'Q-bert (Japan) (Othello Multivision)', No returned matches
+'Home Mahjong (Japan)', No returned matches
+'Home Mahjong (Taiwan)', No returned matches
+'Hustle Chumy (Japan)', No returned matches
+'Hustle Chumy (Taiwan)', No returned matches
+'Hyper Sports (Korea) (Unl)', No returned matches
+'Hyper Sports (Taiwan)', No returned matches
+'Hyper Sports 2 (Taiwan)', No returned matches
+'LinkWord (Japan) (Proto) (SC3000) (Program)', No returned matches
+'Hyper Sports (Japan)', No returned matches
+'Lode Runner (Japan, Europe, Australia)', No returned matches
+'Legend of Kage, The (Taiwan)', No returned matches
+'Lode Runner (Taiwan)', No returned matches
+'Lode Runner (Korea) (Unl)', No returned matches
+'BASIC Level II (Japan) (SC-3000) (Program)', No returned matches
+'BASIC Level III (Japan) (SC-3000) (Program)', No returned matches
+'Bank Panic (Japan)', No returned matches
+'BASIC Level III (Europe, Australia) (SC-3000) (Program)', No returned matches
+'Bomb Jack (Japan, Australia)', No returned matches
+'Bomb Jack (Korea) (English Logo) (Unl)', No returned matches
+'Bank Panic (Taiwan)', No returned matches
+'Black Onyx, The (Japan)', No returned matches
+'Bomb Jack (Korea) (Korean Logo) (Unl)', No returned matches
+'Bomb Jack (Taiwan) (English Logo)', No returned matches
+'Bomb Jack (Taiwan) (Chinese Logo)', No returned matches
+'Bomberman Special (Taiwan) (English Logo) (Unl)', No returned matches
+'Borderline (Japan, Europe, Australia, New Zealand)', No returned matches
+'Pacar (Japan, Europe, Australia, New Zealand)', No returned matches
+'Pacar (Japan) (Alt 1)', No returned matches
+'Pacar (Taiwan)', No returned matches
+'Pachinko (Japan)', No returned matches
+'Pachinko II (Taiwan)', No returned matches
+'Ping Pong (Taiwan)', No returned matches
+'Pippols (Taiwan)', No returned matches
+'Bomberman Special (Taiwan) (Chinese Logo) (Unl)', No returned matches
+'Pachinko II (Japan)', No returned matches
+'Pitfall II (Taiwan) (Chinese Logo)', No returned matches
+'Pitfall II (Taiwan) (English Logo)', No returned matches
+'Pop Flamer (Japan, Europe, Australia, New Zealand)', No returned matches
+'Pop Flamer (Taiwan)', No returned matches
+'Poseidon Wars + Space Panic + Rambo (France) (SF-7000)', No returned matches
+'Disk BASIC & Yeno Demo (Japan) (SF-7000) (Program)', No returned matches
+'Disk BASIC (Japan) (Rev 1) (SF-7000) (Program)', No returned matches
+'Disk BASIC (Japan) (SF-7000) (Program)', No returned matches
+'Doki Doki Penguin Land (Taiwan)', No returned matches
+'Doki Doki Penguin Land (Japan)', No returned matches
+'Pitfall II - The Lost Caverns (Japan)', No returned matches
+'Dragon Wang (Japan) (Rev 1)', No returned matches
+'Pitfall II - The Lost Caverns (Japan) (Rev 1)', No returned matches
+'Dragon Wang (Taiwan) (Chinese Logo)', No returned matches
+'Dragon Wang (Japan)', No returned matches
+'Drol (Japan, Australia)', No returned matches
+'Drol (Korea) (Unl)', No returned matches
+'Drol (Taiwan)', No returned matches
+'Zaxxon (Japan, Taiwan)', No returned matches
+'Zaxxon (Taiwan)', No returned matches
+'Zippy Race (Japan, Australia)', No returned matches
+'Zippy Race (Taiwan)', No returned matches
+'Dragon Wang (Taiwan) (English Logo)', No returned matches
+'Zoom 909 (Taiwan)', No returned matches
+'Zoom 909 (Japan, Taiwan)', No returned matches
+'Safari Hunting (Japan, Europe, Australia, New Zealand)', No returned matches
+'Safari Hunting (Taiwan)', No returned matches
+'Safari Race (Japan, Europe, Australia, New Zealand)', No returned matches
+'Safari Race (Taiwan)', No returned matches
+'San-nin Mahjong (Japan) (Alt 1) (Othello Multivision)', No returned matches
+'San-nin Mahjong (Japan) (Othello Multivision)', No returned matches
+'San-nin Mahjong (Taiwan) (Othello Multivision)', No returned matches
+'Sega Flipper (Japan) (Alt 1)', No returned matches
+'SG-1000 M2 Test Cartridge (Japan)', No returned matches
+'Sega Flipper (Taiwan)', No returned matches
+'Sega Logo (Japan) (SF-7000) (Program)', No returned matches
+'Sega-Galaga (Japan)', No returned matches
+'Sega-Galaga (Japan, Australia)', No returned matches
+'Sega-Galaga (Taiwan)', No returned matches
+'Sekaishi Nenpyou (Japan) (SC-3000) (Program)', No returned matches
+'Shinnyushain Tooru-kun (Japan)', No returned matches
+'Serizawa Hachidan no Tsumeshougi (Japan)', No returned matches
+'Shinnyushain Tooru-kun (Taiwan)', No returned matches
+'Sindbad Mystery (Japan, Europe, Australia, New Zealand)', No returned matches
+'Soukoban (Japan, Australia)', No returned matches
+'Sindbad Mystery (Taiwan)', No returned matches
+'Soukoban (Korea) (Unl)', No returned matches
+'Soukoban (Taiwan)', No returned matches
+'Space Armor (Japan) (Othello Multivision)', No returned matches
+'Space Armor (Japan) (Rev 2) (Othello Multivision)', No returned matches
+'Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand)', No returned matches
+'Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision)', No returned matches
+'Space Invaders (Japan)', No returned matches
+'Space Invaders (Taiwan)', No returned matches
+'Space Mountain (Japan) (Othello Multivision)', No returned matches
+'Space Slalom (Japan)', No returned matches
+'Star Force (Japan, Australia)', No returned matches
+'Star Force (Taiwan) (Alt 1)', No returned matches
+'Star Force (Taiwan)', No returned matches
+'Star Jacker (Japan)', No returned matches
+'Star Jacker (Japan, Europe) (Rev 2)', No returned matches
+'Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1)', No returned matches
+'Star Jacker (Taiwan) (Rev 1)', No returned matches
+'Star Soldier (Taiwan)', No returned matches
+'Super Tank (Korea) (Unl)', No returned matches
+'Super Tank (Taiwan)', No returned matches
+'Wonder Boy (Japan) (Rev 1)', No returned matches
+'Wonder Boy (Japan)', No returned matches
+'Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program)', No returned matches
+'Kamikaze (France) (SF-7000)', No returned matches
+'King's Valley (Taiwan)', No returned matches
+'Super Tank (Japan)', No returned matches
+'Magical Kid Wiz (Taiwan)', No returned matches
+'Magical Tree (Taiwan)', No returned matches
+'Mahjong (Japan) (Rev 1)', No returned matches
+'Mahjong (Taiwan) (Rev 1)', No returned matches
+'Mahjong (Japan)', No returned matches
+'Knightmare (Taiwan)', No returned matches
+'Wonder Boy (Taiwan) (Rev 1)', No returned matches
+'Monaco GP (Japan) (Rev 1)', No returned matches
+'Monaco GP (Japan, Europe) (Rev 2)', No returned matches
+'Monaco GP (Taiwan) (Rev 1)', No returned matches
+'Music (Europe, Australia, New Zealand) (SC-3000) (Program)', No returned matches
+'C_So! (Japan)', No returned matches
+'Music (Japan) (SC-3000) (Program)', No returned matches
+'C_So! (Taiwan)', No returned matches
+'Castle, The (Taiwan) (Unl) (Pirate)', No returned matches
+'Cabbage Patch Kids (Taiwan)', No returned matches
+'Monaco GP (Japan, Europe, Australia, New Zealand)', No returned matches
+'Castle, The (Japan)', No returned matches
+'Chack'n Pop (Japan)', No returned matches
+'Challenge Derby (Japan) (Othello Multivision)', No returned matches
+'Challenge Derby (Japan) (Rev 1) (Othello Multivision)', No returned matches
+'Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision)', No returned matches
+'Champion Baseball (Japan)', No returned matches
+'Champion Baseball (Japan, Australia, New Zealand)', No returned matches
+'Champion Baseball (Taiwan)', No returned matches
+'Chack'n Pop (Taiwan)', No returned matches
+'Champion Billiards (Taiwan)', No returned matches
+'Champion Boxing (Japan, New Zealand)', No returned matches
+'Champion Boxing (Japan) (Rev 1)', No returned matches
+'Champion Boxing (Taiwan)', No returned matches
+'Champion Golf (Japan) (Rev 1)', No returned matches
+'Champion Golf (Korea) (Unl)', No returned matches
+'Champion Golf (Japan, Europe, Australia, New Zealand)', No returned matches
+'Champion Ice Hockey (Japan)', No returned matches
+'Champion Ice Hockey (Korea) (Unl)', No returned matches
+'Champion Ice Hockey (Taiwan)', No returned matches
+'Champion Kendou (Taiwan)', No returned matches
+'Champion Billiards (Japan)', No returned matches
+'Champion Pro Wrestling (Japan)', No returned matches
+'Champion Soccer (Japan, Europe)', No returned matches
+'Champion Soccer (Taiwan)', No returned matches
+'Championship Lode Runner (Japan, Australia)', No returned matches
+'Champion Tennis (Japan, Europe, Australia, New Zealand)', No returned matches
+'Championship Lode Runner (Taiwan)', No returned matches
+'Choplifter (Japan, Australia) (Beta)', No returned matches
+'Choplifter (Korea) (Unl)', No returned matches
+'Champion Kendou (Japan)', No returned matches
+'Choplifter (Taiwan) (Chinese Logo)', No returned matches
+'Choplifter (Taiwan) (English Logo)', No returned matches
+'Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program)', No returned matches
+'Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program)', No returned matches
+'Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program)', No returned matches
+'Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)', No returned matches
+'Choplifter (Japan, Australia)', No returned matches
+'Choplifter (Taiwan) (No Logo)', No returned matches
+'Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program)', No returned matches
+'Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)', No returned matches
+'Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program)', No returned matches
+'Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program)', No returned matches
+'Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program)', No returned matches
+'Complete Arcade Pack Collection, The (New Zealand) (SF-7000)', No returned matches
+'Circus Charlie (Korea) (Unl)', No returned matches
+'Circus Charlie (Taiwan)', No returned matches
+'Congo Bongo (Japan)', No returned matches
+'Congo Bongo (Taiwan) (Rev 1)', No returned matches
+'Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1)', No returned matches
+'Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)', No returned matches
+'Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)', No returned matches
+'Orguss (Japan, Europe, Australia, New Zealand, Taiwan)', No returned matches
+'Congo Bongo (Japan) (Rev 1) (Alt 1)', No returned matches
+'Othello (Japan)', No returned matches
+'Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision)', No returned matches
+'Othello (Taiwan)', No returned matches
+'I.Q. (Korea) (Unl)', No returned matches
+'Flicky (Taiwan) (Rev 1)', No returned matches
+'Flicky (Japan, New Zealand)', No returned matches
+'Tank Battalion (Taiwan)', No returned matches
+'Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program)', No returned matches
+'Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program)', No returned matches
+'Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program)', No returned matches
+'Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program)', No returned matches
+'Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program)', No returned matches
+'Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program)', No returned matches
+'Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program)', No returned matches
+'Terebi Oekaki (Japan, Taiwan) (Program)', No returned matches
+'TwinBee (Taiwan)', No returned matches
+'Rally-X (Taiwan) (Chinese Logo)', No returned matches
+'Rally-X (Taiwan) (English Logo)', No returned matches
+'Road Fighter (Taiwan) (English Logo)', No returned matches
+'Road Fighter (Taiwan) (Chinese Logo)', No returned matches
+'Flicky (Japan) (Rev 1)', No returned matches
+'Rock n' Bolt (Taiwan) (Chinese Logo)', No returned matches
+'Rock n' Bolt (Taiwan) (English Logo)', No returned matches
+'Electronic Salesman (Japan) (Proto) (SC-3000) (Program)', No returned matches
+'Elevator Action (Japan)', No returned matches
+'Elevator Action (Taiwan)', No returned matches
+'Exerion (Japan, Europe, Australia, New Zealand)', No returned matches
+'Exerion (Korea) (Unl)', No returned matches
+'Exerion (Taiwan)', No returned matches
+'007 James Bond (Japan) (Othello Multivision)', No returned matches
+'007 James Bond (Japan) (Alt 1) (Othello Multivision)', No returned matches
+'007 James Bond (Taiwan) (Othello Multivision)', No returned matches
+'Uranai Angel Cutie (Japan) (SC-3000) (Program)', No returned matches
+'GP World (Japan)', No returned matches
+'GP World (Taiwan)', No returned matches
+'Girl's Garden (Japan, Australia)', No returned matches
+'GP World (Japan) (Rev 1)', No returned matches
+'Girl's Garden (Taiwan)', No returned matches
+'Rock n' Bolt (Japan)', No returned matches
+'Gulkave (Japan)', No returned matches
+'Guzzler (Japan) (Othello Multivision)', No returned matches
+'Golgo 13 (Japan)', No returned matches
+'Guzzler (Taiwan) (Othello Multivision)', No returned matches
+'N-Sub (Japan) (Alt 1)', No returned matches
+'Gulkave (Korea) (Unl)', No returned matches
+'Nihonshi Nenpyou (Japan) (SC-3000) (Program)', No returned matches
+'Ninja Princess (Japan, Australia)', No returned matches
+'N-Sub (Taiwan)', No returned matches
+'N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)', No returned matches
+'Ninja Princess (Taiwan)', No returned matches

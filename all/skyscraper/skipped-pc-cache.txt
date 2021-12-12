@@ -1,0 +1,13 @@
+--- The following is a list of skipped games ---
+'+Start DOSBox', No returned matches
+'DETECT', No returned matches
+'INSTALL', No returned matches
+'DEMO', No returned matches
+'TIEDEMO', No returned matches
+'TIEMISS', No returned matches
+'32RTM', No returned matches
+'LOADPATS', No returned matches
+'SSF2T', No returned matches
+'MAKESWP', No returned matches
+'INSTALL', No returned matches
+'SF2TURBO', No returned matches

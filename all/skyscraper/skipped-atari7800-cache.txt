@@ -1,0 +1,147 @@
+--- The following is a list of skipped games ---
+'Ace of Aces (1988) (Atari) (PAL)', No returned matches
+'Alien Brigade (1990) (Atari) (PAL) (CC2 Hack)', No returned matches
+'Alien Brigade (1990) (Atari) (PAL)', No returned matches
+'Ballblazer (1987) (Atari-Lucasfilm) (PAL)', No returned matches
+'Basketbrawl (1990) (Atari) (PAL)', No returned matches
+'Centipede (1987) (Atari) (PAL)', No returned matches
+'Choplifter (1987) (Atari) (PAL)', No returned matches
+'Commando (1989) (Atari) (PAL)', No returned matches
+'Barnyard Blaster (1988) (Atari) (PAL) [!]', No returned matches
+'Crack'ed (1988) (Atari) (PAL)', No returned matches
+'Crossbow (1988) (Atari) (PAL)', No returned matches
+'Dark Chambers (1988) (Atari) (PAL)', No returned matches
+'Desert Falcon (1987) (Atari) (PAL)', No returned matches
+'Dig Dug (1987) (Atari) (PAL)', No returned matches
+'Donkey Kong Jr (1988) (Atari) (PAL)', No returned matches
+'Donkey Kong (1988) (Atari) (PAL)', No returned matches
+'Crossbow (1988) (Atari) (PAL) (CC2 Hack)', No returned matches
+'F-18 Hornet (1988) (Absolute) (PAL)', No returned matches
+'Fatal Run (1990) (Atari) (PAL)', No returned matches
+'Fight Night (1988) (Atari) (PAL)', No returned matches
+'Food Fight (1987) (Atari) (PAL)', No returned matches
+'Galaga (1987) (Atari) (PAL)', No returned matches
+'Ikari Warriors (1989) (Atari) (PAL)', No returned matches
+'Impossible Mission (1987) (Atari) (PAL)', No returned matches
+'Double Dragon (1989) (Activision) (PAL)', No returned matches
+'Hat Trick (1987) (Atari) (PAL)', No returned matches
+'Jinks (1989) (Atari) (PAL)', No returned matches
+'Joust (1987) (Atari) (PAL)', No returned matches
+'Kung Fu Master (1989) (Absolute) (PAL)', No returned matches
+'Mario Brothers (1988) (Atari) (PAL)', No returned matches
+'Mat Mania Challenge (1989) (Atari) (PAL)', No returned matches
+'Meltdown (1990) (Atari) (PAL)', No returned matches
+'Karateka (1987) (Atari) (PAL)', No returned matches
+'Mean 18 Golf (1988) (Atari) (PAL)', No returned matches
+'Midnight Mutants (1990) (Atari) (PAL)', No returned matches
+'Motor Psycho (1990) (Atari) (PAL)', No returned matches
+'Ninja Golf (1990) (Atari) (PAL)', No returned matches
+'Pete Rose Baseball (1989) (Absolute) (PAL)', No returned matches
+'One-on-One Basketball (1987) (Atari) (PAL)', No returned matches
+'Ms. Pac-Man (1987) (Atari) (PAL)', No returned matches
+'Pole Position II (1987) (Atari) (PAL)', No returned matches
+'Sentinel (1991) (Atari) (PAL) [!]', No returned matches
+'Scrapyard Dog (1990) (Atari) (PAL)', No returned matches
+'Super Huey UH-IX (1989) (Atari) (PAL)', No returned matches
+'Super Skateboardin' (1989) (Absolute) (PAL)', No returned matches
+'Title Match Pro Wrestling (1989) (Absolute) (PAL)', No returned matches
+'Tomcat - The F-14 (1989) (Absolute) (PAL)', No returned matches
+'Tower Toppler (1988) (Atari) (PAL)', No returned matches
+'Xenophobe (1989) (Atari) (PAL)', No returned matches
+'Xevious (1987) (Atari) (PAL)', No returned matches
+'Pete Rose Baseball (1989) (Absolute) [o1]', No returned matches
+'RealSports Baseball (1988) (Atari) [o1]', No returned matches
+'Planet Smashers (1990) (Atari) (PAL)', No returned matches
+'Super Skateboardin' (1989) (Absolute) [o1]', No returned matches
+'Title Match Pro Wrestling (1989) (Absolute) [o1]', No returned matches
+'Water Ski (1988) (Froggo) [o1]', No returned matches
+'Tower Toppler (1988) (Atari) [o1]', No returned matches
+'3D Asteroids (1987) (Atari) (Prototype) [a1]', No returned matches
+'Tank Command (1988) (Froggo) [o1]', No returned matches
+'3D Asteroids (1987) (Atari) (Prototype)', No returned matches
+'7800Kern Demo (2004) (Christopher Tumber)', No returned matches
+'Ace of Aces (1988) (Atari)', No returned matches
+'Alien Brigade (1990) (Atari) (CC2 Hack)', No returned matches
+'Alien Brigade (1990) (Atari) [!]', No returned matches
+'Asteroids (1987) (Atari)', No returned matches
+'Barnyard Blaster (1988) (Atari) [!]', No returned matches
+'Ballblazer (1987) (Atari-Lucasfilm)', No returned matches
+'Basketbrawl (1990) (Atari)', No returned matches
+'Beef Drop 7800 (Oct 30-Rev 08) (2004) (CC2 Hack)', No returned matches
+'Centipede (1987) (Atari)', No returned matches
+'Commando (1989) (Atari)', No returned matches
+'Crack'ed (1988) (Atari)', No returned matches
+'Crossbow (1988) (Atari) (CC2 Hack)', No returned matches
+'Crossbow (1988) (Atari)', No returned matches
+'Dark Chambers (1988) (Atari)', No returned matches
+'Desert Falcon (1987) (Atari)', No returned matches
+'Desert Falcon (2004) (Atari) (HSC Hack) [a1]', No returned matches
+'Desert Falcon (2004) (Atari) (HSC Hack)', No returned matches
+'Diagnostic Test Cartridge (19xx) (Atari) [!]', No returned matches
+'Dig Dug (1987) (Atari)', No returned matches
+'Donkey Kong (1988) (Atari)', No returned matches
+'Double Dragon (1989) (Activision) [!]', No returned matches
+'F-18 Hornet (1988) (Absolute) [!]', No returned matches
+'Choplifter (1987) (Atari)', No returned matches
+'Fight Night (1988) (Atari)', No returned matches
+'Food Fight (1987) (Atari)', No returned matches
+'Galaga (1987) (Atari)', No returned matches
+'Donkey Kong Jr (1988) (Atari)', No returned matches
+'Fatal Run (1990) (Atari)', No returned matches
+'Gato (198x) (Atari) (Prototype) [a2]', No returned matches
+'Gato (198x) (Atari) (Prototype)', No returned matches
+'Hat Trick (1987) (Atari)', No returned matches
+'Ikari Warriors (1989) (Atari)', No returned matches
+'Impossible Mission (1987) (Atari) [!]', No returned matches
+'Impossible Mission (1987) (Atari) [a1]', No returned matches
+'Impossible Mission (1987) (Atari) [f1]', No returned matches
+'Gato (198x) (Atari) (Prototype) [a1]', No returned matches
+'Jinks (1989) (Atari)', No returned matches
+'Joust (1987) (Atari)', No returned matches
+'Klax (1992) (Atari) (Prototype)', No returned matches
+'Klax (2004) (Impossible Level 1 Hack)', No returned matches
+'Karateka (1987) (Atari)', No returned matches
+'Klax (1992) (Atari) (Prototype) [f1]', No returned matches
+'Klax (1992) (Atari) (Prototype) [a1]', No returned matches
+'Klax (2004) (Impossible Level 3 Hack)', No returned matches
+'Kung Fu Master (1989) (Absolute) [!]', No returned matches
+'Mario Brothers (1988) (Atari)', No returned matches
+'Mat Mania Challenge (1989) (Atari)', No returned matches
+'Mean 18 Golf (1988) (Atari) [!]', No returned matches
+'Meltdown (1990) (Atari)', No returned matches
+'Midnight Mutants (1990) (Atari)', No returned matches
+'Motor Psycho (1990) (Atari)', No returned matches
+'Ms. Pac-Man (1987) (Atari)', No returned matches
+'Ninja Golf (1990) (Atari)', No returned matches
+'One-on-One Basketball (1987) (Atari)', No returned matches
+'Pete Rose Baseball (1989) (Absolute) [!]', No returned matches
+'Pit Fighter (1992) (Atari) (Prototype) [a1]', No returned matches
+'Pit Fighter (1992) (Atari) (Prototype)', No returned matches
+'Pit Fighter (1992) (Atari) (Prototype) [a2]', No returned matches
+'Planet Smashers (1990) (Atari)', No returned matches
+'Pole Position II (1987) (Atari)', No returned matches
+'Klax (2004) (Impossible Level 2 Hack)', No returned matches
+'RealSports Baseball (1988) (Atari)', No returned matches
+'Rampage (1989) (Activision) [!]', No returned matches
+'Rescue on Fractalus (1984) (Atari) (Prototype)', No returned matches
+'Robotron 2084 (1987) (Atari)', No returned matches
+'Scrapyard Dog (1990) (Atari)', No returned matches
+'Sentinel (1988) (Atari) [!]', No returned matches
+'Summer Games (1987) (Atari) [!]', No returned matches
+'Super Huey UH-IX (1989) (Atari)', No returned matches
+'Super Skateboardin' (1989) (Absolute) [!]', No returned matches
+'Symbolic Debugger & Downloader (1988) (Atari) (Crypt Hack)', No returned matches
+'Tank Command (1988) (Froggo) [!]', No returned matches
+'Rescue on Fractalus (1984) (Atari) (Prototype) (CC2 Hack)', No returned matches
+'Touchdown Football (1988) (Atari)', No returned matches
+'Tower Toppler (1988) (Atari) [!]', No returned matches
+'Tomcat - The F-14 (1989) (Absolute) [!]', No returned matches
+'Symbolic Debugger & Downloader (1988) (Atari)', No returned matches
+'Tubes (Nov 3) (2004) (Bruce Tomlin)', No returned matches
+'Tubes (Nov 3-Signed) (2004) (Bruce Tomlin)', No returned matches
+'Water Ski (1988) (Froggo)', No returned matches
+'Winter Games (1987) (Atari) [!]', No returned matches
+'Xenophobe (1989) (Atari) [!]', No returned matches
+'Tubes (2004) (Bruce Tomlin)', No returned matches
+'Xevious (1987) (Atari)', No returned matches
+'Title Match Pro Wrestling (1989) (Absolute) [!]', No returned matches

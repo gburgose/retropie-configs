@@ -1,0 +1,18 @@
+--- The following is a list of skipped games ---
+'Burnout Dominator (Europe) (En,Fr,De,Es,It) (v1.01)', No returned matches
+'3rd Birthday, The (Europe)', No returned matches
+'Call of Duty - Roads to Victory (Europe) (En,Fr,Es,It) (v1.02)', No returned matches
+'Brothers in Arms - D-Day (Europe) (En,Fr,De,Es,It) (v1.01)', No returned matches
+'Daxter (Europe)', No returned matches
+'Def Jam - Fight for NY - The Takeover (Europe)', No returned matches
+'Dante's Inferno (Europe)', No returned matches
+'God of War - Ghost of Sparta (Europe)', No returned matches
+'God of War - Chains of Olympus (Europe) (En,Fr,De,Es,It)', No returned matches
+'Gran Turismo (Europe)', No returned matches
+'Metal Slug XX (USA)', No returned matches
+'Killzone - Liberation (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru)', No returned matches
+'Pro Evolution Soccer 2014 (Europe)', No returned matches
+'Prince of Persia - Rival Swords (Europe) (En,Fr,De,Es,It) (v1.06)', No returned matches
+'Need for Speed - Most Wanted (Europe)', No returned matches
+'Warriors, The (Europe) (v1.02)', No returned matches
+'Pro Evolution Soccer 6 (Europe) (En,Ja,Fr,De,Es,It) (v1.03)', No returned matches

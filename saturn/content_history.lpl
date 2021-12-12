@@ -14,6 +14,14 @@
       "core_name": "Yabause",
       "crc32": "",
       "db_name": ""
+    },
+    {
+      "path": "/home/gabriel/RetroPie/roms/saturn/NIGHTS.mdf",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-yabause/yabause_libretro.so",
+      "core_name": "Yabause",
+      "crc32": "",
+      "db_name": ""
     }
   ]
 }

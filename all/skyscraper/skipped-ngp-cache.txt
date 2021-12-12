@@ -1,0 +1,77 @@
+--- The following is a list of skipped games ---
+'Bakumatsu Rouman Tokubetsu Hen', No returned matches
+'Bikkuriman 2000 - Viva! Pocket Festiva!', No returned matches
+'Baseball Stars Color', No returned matches
+'Big Bang Pro Wrestling', No returned matches
+'Bio Motor Unitron', No returned matches
+'Cool Boarders Pocket', No returned matches
+'Cool Cool Jam (Japan)', No returned matches
+'Crush Roller', No returned matches
+'Dark Arms - Beast Buster', No returned matches
+'Delta Warp', No returned matches
+'Densetsu no Ogre Battle Gaiden - Zenobia no Ouji', No returned matches
+'Dive Alert - Becky's Version', No returned matches
+'Dive Alert - Matt's Version', No returned matches
+'Dokodemo Mahjong', No returned matches
+'Dynamite Slugger', No returned matches
+'Fantastic Night Dreams - Cotton', No returned matches
+'Fatal Fury - First Contact', No returned matches
+'Evolution - Eternal Dungeons', No returned matches
+'Bust-A-Move Pocket', No returned matches
+'Ganbare NeoPoke Kun', No returned matches
+'Infinity Cure (Japan)', No returned matches
+'Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori', No returned matches
+'King of Fighters - Battle de Paradise', No returned matches
+'Faselei!', No returned matches
+'King of Fighters R-2', No returned matches
+'Last Blade', No returned matches
+'Memories Off - Pure', No returned matches
+'Magical Drop Pocket', No returned matches
+'Koi Koi Mahjong', No returned matches
+'Metal Slug - 1st Mission', No returned matches
+'Metal Slug - 2nd Mission', No returned matches
+'Mezase! Kanji Ou', No returned matches
+'Mizuki Shigeru no Youkai Shashinkan', No returned matches
+'Neo 21', No returned matches
+'Neo Baccarat', No returned matches
+'Neo Cherry Master Color', No returned matches
+'Neo Derby Champ Daiyosou', No returned matches
+'Neo Dragon's Wild', No returned matches
+'Neo Geo Cup '98 Plus Color', No returned matches
+'Neo Mystery Bonus', No returned matches
+'Neo Poke Pro Yakyuu', No returned matches
+'Neo Turf Masters', No returned matches
+'Nigeronpa', No returned matches
+'Pac-Man', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Dekahel 2', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Hanabi', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Delsol 2', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Oohanabi', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Porcano 2', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Ward of Lights', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - e-Cup', No returned matches
+'Pachinko Hisshou Guide - Pocket Parlor', No returned matches
+'Picture Puzzle', No returned matches
+'Pocket Love if', No returned matches
+'Pocket Reversi', No returned matches
+'Pocket Tennis Color', No returned matches
+'Pachi-Slot Aruze Oukoku Pocket - Azteca', No returned matches
+'Puyo Pop', No returned matches
+'Puzzle Bobble Mini', No returned matches
+'Puzzle Link II', No returned matches
+'Renketsu Puzzle Tsunagete Pon! Color', No returned matches
+'Rockman Battle & Fighters', No returned matches
+'SNK Gals Fighters', No returned matches
+'SNK vs Capcom - Card Fighters Clash I - Capcom Version', No returned matches
+'Puzzle Link I', No returned matches
+'SNK vs Capcom - Card Fighters Clash I - SNK Version', No returned matches
+'SNK vs Capcom - Match Of The Millennium', No returned matches
+'Samurai Shodown! II', No returned matches
+'SNK vs Capcom - Card Fighters Clash II', No returned matches
+'Shinki Sekai Evolution - Hateshinai Dungeon', No returned matches
+'Shanghai Mini', No returned matches
+'Shougi no Tatsujin Color', No returned matches
+'Soreike!! Hanafuda Doujou', No returned matches
+'Sonic the Hedgehog Pocket Adventure', No returned matches
+'Super Real Mahjong - Premium Collection', No returned matches
+'Tsunagete Pon! 2', No returned matches

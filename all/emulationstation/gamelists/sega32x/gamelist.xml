@@ -1,0 +1,618 @@
+<?xml version="1.0"?>
+<gameList>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/sega32x/#</path>
+    <name>36 Great Holes Starring Fred Couples</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/sega32x/A</path>
+    <name>After Burner Complete</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/B/BC Racers (32X) (W) [c][!].32x</path>
+    <name>BC Racers</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/B/Blackthorne (32X) (U) [!].32x</path>
+    <name>Blackthorne</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/B/Brutal Unleashed - Above the Claw (32X) (U) [!].32x</path>
+    <name>Brutal Unleashed - Above the Claw</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/sega32x/C</path>
+    <name>Cosmic Carnage</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/D/Darxide (32X) (E) (M4) [!].32x</path>
+    <name>Darxide</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/D/Doom (32X) (JU) [!].32x</path>
+    <name>Doom</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/sega32x/E</path>
+    <name>ECCO the Dolphin CinePak Demo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/sega32x/F</path>
+    <name>FIFA International Soccer 96</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/K/Knuckles&apos; Chaotix (32X) (JU) [!].32x</path>
+    <name>Knuckles&apos; Chaotix</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/K/Kolibri (32X) (W) [!].32x</path>
+    <name>Kolibri</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/M/Metal Head (32X) (JU) (M2) [!].32x</path>
+    <name>Metal Head</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/M/Mortal Kombat II (32X) (W) (Jan 1995) [!].32x</path>
+    <name>Mortal Kombat II</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/M/Motocross Championship (32X) (JU) [!].32x</path>
+    <name>Motocross Championship</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/N/NBA Jam Tournament Edition (32X) (W) [!].32x</path>
+    <name>NBA Jam Tournament Edition</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/N/NFL Quarterback Club (32X) (W) [!].32x</path>
+    <name>NFL Quarterback Club</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/P/Pitfall (32X) (U) [!].32x</path>
+    <name>Pitfall</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/P/Primal Rage (32X) (W) [!].32x</path>
+    <name>Primal Rage</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/sega32x/R</path>
+    <name>RBI Baseball 95</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/S/Sangokushi IV (32X) (J) [!].32x</path>
+    <name>Sangokushi IV</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/S/Shadow Squadron (32X) (UE) [!].32x</path>
+    <name>Shadow Squadron</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/S/Soulstar X (USA) (Proto).32x</path>
+    <name>Soulstar X</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/S/Space Harrier (32X) (JU) [!].32x</path>
+    <name>Space Harrier</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/S/Spear Of Destiny.32x</path>
+    <name>Spear Of Destiny</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/S/Spider-Man - Web of Fire (32X) (W) [!].32x</path>
+    <name>Spider-Man - Web of Fire</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/S/Star Trek - Starfleet Academy Bridge Simulator (32X) (U) [!].32x</path>
+    <name>Star Trek - Starfleet Academy Bridge Simulator</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/S/Star Wars Arcade (32X) (U) [!].32x</path>
+    <name>Star Wars Arcade</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/S/Stellar Assault (Japan).32x</path>
+    <name>Stellar Assault</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/T/T-MEK (32X) (W) [!].32x</path>
+    <name>T-MEK</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/T/Tempo (32X) (JU) [!].32x</path>
+    <name>Tempo</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/T/Toughman Contest (32X) (W) [!].32x</path>
+    <name>Toughman Contest</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/V/Virtua Fighter (32X) (JU) [!].32x</path>
+    <name>Virtua Fighter</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/V/Virtua Hamster (USA) (Proto).32x</path>
+    <name>Virtua Hamster</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/V/Virtua Racing Deluxe (32X) (U) [!].32x</path>
+    <name>Virtua Racing Deluxe</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/W/Wolfenstein 3D.32x</path>
+    <name>Wolfenstein 3D</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/W/World Series Baseball &apos;95 (32X) (U) [!].32x</path>
+    <name>World Series Baseball &apos;95</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/W/WWF RAW (32X) (W) [!].32x</path>
+    <name>WWF RAW</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/gabriel/RetroPie/roms/sega32x/W/WWF Wrestlemania Arcade (32X) (W) [!].32x</path>
+    <name>WWF Wrestlemania Arcade</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/sega32x/X</path>
+    <name>X-Men</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+  <folder>
+    <path>/home/gabriel/RetroPie/roms/sega32x/Z</path>
+    <name>Zaxxon&apos;s Motherbase 2000</name>
+    <thumbnail />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </folder>
+</gameList>
