@@ -1,5 +1,8 @@
 # ignore all logs
 *.log
 
+# retropie es config
 all/emulationstation/es_settings.cfg
 all/emulationstation/es_log.txt
+all/emulationstation/es_log.txt.bak
+all/emulationstation/es_settings.cfg.save

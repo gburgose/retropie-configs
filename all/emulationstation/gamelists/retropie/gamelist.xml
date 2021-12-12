@@ -39,14 +39,6 @@
 		<lastplayed>20211211T125050</lastplayed>
 	</game>
 	<game>
-		<path>./esthemes.rp</path>
-		<name>ES Themes</name>
-		<desc>Install, uninstall, or update EmulationStation themes. Most themes can be previewed at https://retropie.org.uk/docs/Themes/.</desc>
-		<image>./icons/esthemes.png</image>
-		<playcount>3</playcount>
-		<lastplayed>20211211T181615</lastplayed>
-	</game>
-	<game>
 		<path>./rpsetup.rp</path>
 		<name>RetroPie Setup</name>
 		<desc>Install RetroPie from binary or source, install experimental packages, additional drivers, edit Samba shares, custom scraper, as well as other RetroPie-related configurations.</desc>
@@ -61,5 +53,13 @@
 		<image>./icons/showip.png</image>
 		<playcount>1</playcount>
 		<lastplayed>20211211T205952</lastplayed>
+	</game>
+	<game>
+		<path>./esthemes.rp</path>
+		<name>ES Themes</name>
+		<desc>Install, uninstall, or update EmulationStation themes. Most themes can be previewed at https://retropie.org.uk/docs/Themes/.</desc>
+		<image>./icons/esthemes.png</image>
+		<playcount>4</playcount>
+		<lastplayed>20211212T144955</lastplayed>
 	</game>
 </gameList>

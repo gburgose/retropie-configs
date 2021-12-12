@@ -26777,4 +26777,10 @@ Choose from the eight fighters or create your own legend. Train to hone your fig
 		<publisher>Kaneko Co., Ltd.</publisher>
 		<genre>Platform</genre>
 	</game>
+	<game>
+		<path>./A/* Aladdin/Aladdin (E).smc</path>
+		<name>Aladdin (E)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211212T143818</lastplayed>
+	</game>
 </gameList>

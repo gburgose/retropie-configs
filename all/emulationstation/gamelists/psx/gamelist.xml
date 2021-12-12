@@ -431,16 +431,6 @@ The graphics have been enhanced and the physics model changed to reflect a true 
 		<players>2</players>
 	</game>
 	<game>
-		<path>./R-type.cue</path>
-		<name>R-Type Delta</name>
-		<desc>R-Type Delta is a horizontally scrolling shooter video game. Released only on the PlayStation, this is the fourth game in the R-Type series (hence Delta, the fourth letter of the Greek alphabet), and also the first game offering different fighters, with different Force and Wave Cannon combinations for the player to choose from. Set in 2164, Delta is also the first game in the R-Type series rendered in full 3D graphics.</desc>
-		<image>~/.emulationstation/downloaded_images/psx/R-type-image.jpg</image>
-		<releasedate>19990731T000000</releasedate>
-		<developer>Irem Corp.</developer>
-		<publisher>ASCII Entertainment Software, Inc.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Rayman 2 the Great Escape (U) [SLUS-01235].cue</path>
 		<name>Rayman 2: The Great Escape</name>
 		<desc>Rayman 2: The Great Escape is the sequel to Rayman, a 2D side-scrolling platform game. Unlike the previous game, Rayman 2 is entirely in free-roaming 3D environments, similar to Super Mario 64. Rayman has many unique abilities that can help him get around the world. In addition to being able to shoot his fists, he can use his hair to hover like a helicopter, and even glide on air currents in certain places. He can climb certain walls and ceilings and can even use his fists to swing from special purple Lums which are shaped like rings. Rayman also has many unique items at his disposal, such as powder kegs which can be carried or fly like jets, strange warheads with legs that he can ride and steer like bucking mules, and gigantic plums that can be thrown into the water to create new paths.</desc>
@@ -600,5 +590,17 @@ It was the first game to blend a tag team style of combat with the Street Fighte
 		<publisher>Capcom</publisher>
 		<genre>Fighting</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./R-type.cue</path>
+		<name>R-Type Delta</name>
+		<desc>R-Type Delta is a horizontally scrolling shooter video game. Released only on the PlayStation, this is the fourth game in the R-Type series (hence Delta, the fourth letter of the Greek alphabet), and also the first game offering different fighters, with different Force and Wave Cannon combinations for the player to choose from. Set in 2164, Delta is also the first game in the R-Type series rendered in full 3D graphics.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/R-type-image.jpg</image>
+		<releasedate>19990731T000000</releasedate>
+		<developer>Irem Corp.</developer>
+		<publisher>ASCII Entertainment Software, Inc.</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211212T145120</lastplayed>
 	</game>
 </gameList>
